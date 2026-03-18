@@ -9,7 +9,6 @@ from sentence_transformers import SentenceTransformer
 class CourseAssistant:
     def __init__(self, gemini_api_key, metadata_file="data/processed/chunks_metadata.json", index_file="data/vector_db/course_index.index"):
         genai.configure(api_key=gemini_api_key)
-        # Sử dụng model ổn định thay vì model 'latest'
         self.llm = genai.GenerativeModel('gemini-flash-latest')
         self.embed_model = SentenceTransformer('all-MiniLM-L6-v2')
         
