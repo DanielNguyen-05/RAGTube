@@ -60,5 +60,5 @@ def create_audit_agent(faiss_path: str):
     system_message = SystemMessage(content=AUDIT_AGENT_SYSTEM_PROMPT)
     
     # Tạo Agent LangGraph
-    agent_executor = create_react_agent(llm, tools, state_modifier=system_message)
+    agent_executor = create_react_agent(llm, tools, messages_modifier=system_message)
     return agent_executor

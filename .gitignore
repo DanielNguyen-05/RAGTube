@@ -9,3 +9,4 @@ __pycache__/
 *.db
 *.bak
 __init__.py
+data/
