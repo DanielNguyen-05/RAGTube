@@ -1,0 +1,1711 @@
+{
+  "document": "IFRS_15.pdf",
+  "source_chunk_file": "C:\\github\\AI-Audit-Assistant\\data\\processed\\chunks\\IFRS_15_chunks.json",
+  "sample_count": 210,
+  "samples": [
+    {
+      "question": "When was IAS 18 Revenue originally issued by the International Accounting Standards Committee?",
+      "contexts": [
+        "IAS 18 Revenue, originally issued by the International Accounting Standards Committee in December 1993.",
+        "The International Accounting Standards Board adopted IAS 11 Construction Contracts and IAS 18 Revenue in April 2001.",
+        "IAS 18 replaced a previous version: Revenue Recognition (issued in December 1982)."
+      ],
+      "ground_truth": "December 1993"
+    },
+    {
+      "question": "What was the purpose of IFRIC 13 issued by the Board in June 2007?",
+      "contexts": [
+        "The Interpretation was developed by the IFRS Interpretations Committee to address the accounting by the entity that grants award credits to its customers.",
+        "In June 2007 the Board issued IFRIC 13 Customer Loyalty Programmes."
+      ],
+      "ground_truth": "To address the accounting by the entity that grants award credits to its customers."
+    },
+    {
+      "question": "What is the mandatory effective date of IFRS 15 Revenue from Contracts with Customers?",
+      "contexts": [
+        "In May 2014 the Board issued IFRS 15 Revenue from Contracts with Customers.",
+        "In September 2015 the Board issued Effective Date of IFRS 15 which deferred the mandatory effective date of IFRS 15 to 1 January 2018."
+      ],
+      "ground_truth": "1 January 2018"
+    },
+    {
+      "question": "What standard permits an entity to choose between applying IFRS 17 or IFRS 15 to specified fixed-fee service contracts?",
+      "contexts": [
+        "In May 2017, the Board issued IFRS 17 Insurance Contracts which permits an entity to choose whether to apply IFRS 17 or IFRS 15 to specified fixed-fee service contracts that meet the definition of an insurance contract.",
+        "Other Standards have made minor consequential amendments to IFRS 15, including IFRS 16 Leases and Amendments to References to the Conceptual Framework in IFRS Standards."
+      ],
+      "ground_truth": "IFRS 17 Insurance Contracts"
+    },
+    {
+      "question": "What are the main components of IFRS 15 regarding revenue from contracts with customers?",
+      "contexts": [
+        "IFRS 15 is an international financial reporting standard for revenue from contracts with customers.",
+        "The standard covers recognition, measurement, and contract costs."
+      ],
+      "ground_truth": "Recognition, measurement, and contract costs"
+    },
+    {
+      "question": "When was IFRS 15 Revenue from Contracts with Customers first issued?",
+      "contexts": [
+        "IFRS 15 ISSUED IN MAY 2014",
+        "Clarifications to IFRS 15 Revenue from Contracts with Customers issued in April 2016"
+      ],
+      "ground_truth": "May 2014"
+    },
+    {
+      "question": "What can be found in Part B of this edition?",
+      "contexts": [
+        "FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION",
+        "ILLUSTRATIVE EXAMPLES APPENDIX"
+      ],
+      "ground_truth": "Illustrative examples"
+    },
+    {
+      "question": "What is the scope of IFRS 15 in terms of paragraphs and appendices?",
+      "contexts": [
+        "IFRS 15 is set out in paragraphs 1-129 and Appendices A-D.",
+        "All the paragraphs have equal authority."
+      ],
+      "ground_truth": "Paragraphs 1-129 and Appendices A-D"
+    },
+    {
+      "question": "What is the core principle of IFRS 15 for recognizing revenue?",
+      "contexts": [
+        "The core principle of this Standard is that an entity shall recognise revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.",
+        "The objective of this Standard is to establish the principles that an entity shall apply to report useful information to users of financial statements about the nature, amount, timing and uncertainty of revenue and cash flows arising from a contract with a customer."
+      ],
+      "ground_truth": "To depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services."
+    },
+    {
+      "question": "Under what conditions can an entity apply this Standard to a portfolio of contracts rather than individual contracts?",
+      "contexts": [
+        "An entity may apply this Standard to a portfolio of contracts with similar characteristics if the entity reasonably expects that the effects on the financial statements would not differ materially from applying this Standard to the individual contracts within that portfolio.",
+        "This Standard specifies the accounting for an individual contract with a customer."
+      ],
+      "ground_truth": "If the effects on the financial statements would not differ materially"
+    },
+    {
+      "question": "What types of contracts are excluded from the scope of this Standard?",
+      "contexts": [
+        "An entity shall apply this Standard to all contracts with customers, except the following: lease contracts, contracts within the scope of IFRS 17 Insurance Contracts, and financial instruments within the scope of other specific IFRS standards.",
+        "Exceptions include lease contracts within the scope of IFRS 16 Leases and contracts within the scope of IFRS 17 Insurance Contracts, with a specific consideration for insurance contracts providing services for a fixed fee."
+      ],
+      "ground_truth": "Lease contracts, insurance contracts, and financial instruments within specific IFRS standards"
+    },
+    {
+      "question": "What type of counterparty would not be considered a customer under IFRS 15?",
+      "contexts": [
+        "A customer is a party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.",
+        "A counterparty to the contract would not be a customer if, for example, the counterparty has contracted with the entity to participate"
+      ],
+      "ground_truth": "A party that has contracted to participate"
+    },
+    {
+      "question": "How should an entity handle a contract that is partially within the scope of this Standard and partially within the scope of other Standards?",
+      "contexts": [
+        "A contract with a customer may be partially within the scope of this Standard and partially within the scope of other Standards listed in paragraph 5.",
+        "If the other Standards specify how to separate and/or initially measure one or more parts of the contract, then an entity shall first apply the separation and/or measurement requirements in those Standards."
+      ],
+      "ground_truth": "The entity shall first apply the separation and/or measurement requirements in the other Standards and exclude the amount of the part of the contract initially measured in accordance with other Standards from the transaction price."
+    },
+    {
+      "question": "What should an entity do if other Standards do not specify how to separate and/or initially measure parts of a contract?",
+      "contexts": [
+        "apply paragraphs 73-86 to allocate the amount of the transaction price that remains to each performance obligation within the scope of this Standard",
+        "if the other Standards do not specify how to separate and/or initially measure one or more parts of the contract, then the entity shall apply this Standard"
+      ],
+      "ground_truth": "Apply this Standard to separate and/or initially measure the part or parts of the contract"
+    },
+    {
+      "question": "What conditions must be met for an entity to account for a contract with a customer under this Standard?",
+      "contexts": [
+        "An entity shall account for a contract with a customer that is within the scope of this Standard only when all of the following criteria are met:",
+        "the parties to the contract have approved the contract and are committed to perform their respective obligations"
+      ],
+      "ground_truth": "The parties must have approved the contract and be committed to perform their obligations."
+    },
+    {
+      "question": "What factors must be considered when evaluating if the collectability of consideration is probable?",
+      "contexts": [
+        "In evaluating whether collectability of an amount of consideration is probable, an entity shall consider only the customer's ability and intention to pay that amount of consideration when it is due.",
+        "The amount of consideration to which the entity will be entitled may be less"
+      ],
+      "ground_truth": "The customer's ability and intention to pay"
+    },
+    {
+      "question": "What forms can a contract take according to its enforceability?",
+      "contexts": [
+        "Contracts can be written, oral or implied by an entity's customary business practices.",
+        "Enforceability of the rights and obligations in a contract is a matter of law."
+      ],
+      "ground_truth": "Written, oral, or implied"
+    },
+    {
+      "question": "What conditions must be met for a contract to be considered wholly unperformed?",
+      "contexts": [
+        "A contract is wholly unperformed if both of the following criteria are met: (a) the entity has not yet transferred any promised goods or services to the customer; and (b) the entity has not yet received, and is not yet entitled to receive, any consideration in exchange for promised goods or services.",
+        "An entity shall apply this Standard to the duration of the contract in which the parties to the contract have present enforceable rights and obligations."
+      ],
+      "ground_truth": "The entity has not transferred goods or services and has not received or is not entitled to receive consideration."
+    },
+    {
+      "question": "Under what circumstances should an entity reassess the criteria for a contract with a customer according to IFRS 15?",
+      "contexts": [
+        "An entity shall not reassess the criteria in paragraph 9 at contract inception unless there is an indication of a significant change in facts and circumstances.",
+        "A significant change, such as a customer's ability to pay the consideration deteriorating, requires reassessment of whether it is probable that the entity will collect the consideration."
+      ],
+      "ground_truth": "A significant change in facts and circumstances"
+    },
+    {
+      "question": "When can an entity recognize consideration received as revenue?",
+      "contexts": [
+        "The entity can recognize consideration as revenue when it has no remaining obligations to transfer goods or services and all or substantially all of the consideration is non-refundable.",
+        "Recognition of revenue also occurs when the contract is terminated and the consideration received is non-refundable."
+      ],
+      "ground_truth": "When the entity has no remaining obligations or the contract is terminated with non-refundable consideration."
+    },
+    {
+      "question": "How should an entity measure a liability for a future transfer of goods or services?",
+      "contexts": [
+        "The liability shall be measured at the amount of consideration received from the customer.",
+        "Recognised represents the entity's obligation to either transfer goods or services in the future or refund the consideration received."
+      ],
+      "ground_truth": "At the amount of consideration received from the customer"
+    },
+    {
+      "question": "How can a contract modification be approved?",
+      "contexts": [
+        "A contract modification could be approved in writing, by oral agreement or implied by customary business practices.",
+        "A contract modification exists when the parties to a contract approve a modification that either creates new or changes existing enforceable rights and obligations of the parties to the contract."
+      ],
+      "ground_truth": "In writing, by oral agreement, or implied by customary business practices."
+    },
+    {
+      "question": "What should an entity do when the parties to a contract have approved a change in scope but not the corresponding price change?",
+      "contexts": [
+        "modification may exist even though the parties to the contract have a dispute about the scope or price (or both) of the modification",
+        "If the parties to a contract have approved a change in the scope of the contract but have not yet determined the corresponding change in price, an entity shall estimate the change to the transaction price arising from the modification"
+      ],
+      "ground_truth": "Estimate the change to the transaction price arising from the modification"
+    },
+    {
+      "question": "Under what conditions is a contract modification accounted for as a separate contract?",
+      "contexts": [
+        "A contract modification is accounted for as a separate contract if the scope of the contract increases due to the addition of distinct promised goods or services.",
+        "The price of the contract must also increase by an amount that reflects the stand-alone selling prices of the additional goods or services, with any appropriate adjustments."
+      ],
+      "ground_truth": "The scope increases with distinct goods or services and the price increases to reflect stand-alone selling prices with adjustments."
+    },
+    {
+      "question": "How should an entity account for a contract modification if the remaining goods or services are distinct from those already transferred?",
+      "contexts": [
+        "An entity shall account for the contract modification as if it were a termination of the existing contract and the creation of a new contract, if the remaining goods or services are distinct from the goods or services transferred on or before the date of the contract",
+        "A contract modification is not always accounted for as a separate contract in accordance with paragraph 20"
+      ],
+      "ground_truth": "As a termination of the existing contract and the creation of a new contract"
+    },
+    {
+      "question": "How should an entity account for a contract modification under IFRS 15 when the remaining goods or services are not distinct?",
+      "contexts": [
+        "The amount of consideration to be allocated to the remaining performance obligations is the sum of consideration promised by the customer and consideration promised as part of the contract modification.",
+        "An entity shall account for the contract modification as if it were a part of the existing contract if the remaining goods or services are not distinct."
+      ],
+      "ground_truth": "As part of the existing contract"
+    },
+    {
+      "question": "How does an entity account for the effects of a contract modification on unsatisfied performance obligations?",
+      "contexts": [
+        "The effect that the contract modification has on the transaction price, and on the entity's measure of progress towards complete satisfaction of the performance obligation, is recognised as an adjustment to revenue at the date of the contract modification.",
+        "If the remaining goods or services are a combination of items, then the entity shall account for the effects of the modification on the unsatisfied performance obligations in the modified contract in a manner that is consistent with the objectives of this paragraph."
+      ],
+      "ground_truth": "On a cumulative catch-up basis, in a manner consistent with the objectives of the paragraph."
+    },
+    {
+      "question": "What criteria must be met for a series of distinct goods or services to have the same pattern of transfer to the customer?",
+      "contexts": [
+        "A series of distinct goods or services has the same pattern of transfer to the customer if both of the following criteria are met: (a) each distinct good or service in the series that the entity promises to transfer to the customer would meet the criteria in paragraph 35 to be a performance obligation satisfied over time; and (b) in accordance with paragraphs 39–40, the same method would be used to measure the entity's progress towards complete satisfaction of the performance obligation to transfer each distinct good or service in the series to the customer.",
+        "Each promise to transfer to the customer either: (a) a good or service (or a bundle of goods or services) that is distinct; or (b) a series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer."
+      ],
+      "ground_truth": "Two criteria: each good or service meets the criteria to be a performance obligation satisfied over time, and the same method is used to measure progress towards complete satisfaction for each good or service."
+    },
+    {
+      "question": "What can create a valid expectation for a customer regarding the transfer of a good or service beyond explicit contract terms?",
+      "contexts": [
+        "A contract with a customer may also include promises that are implied by an entity's customary business practices, published policies or specific statements.",
+        "Performance obligations identified in a contract with a customer may not be limited to the goods or services that are explicitly stated in that contract."
+      ],
+      "ground_truth": "Customary business practices, published policies, or specific statements"
+    },
+    {
+      "question": "What types of activities are not considered a performance obligation in a contract?",
+      "contexts": [
+        "The performance of those tasks does not transfer a service to the customer as the tasks are performed.",
+        "Therefore, those setup activities are not a performance obligation.",
+        "For example, a services provider may need to perform various administrative tasks to set up a contract."
+      ],
+      "ground_truth": "Setup activities"
+    },
+    {
+      "question": "What types of activities are considered performance obligations in a contract?",
+      "contexts": [
+        "A performance obligation is a contractually agreed-upon task for a customer.",
+        "This can include providing a service, making goods or services available, or granting rights to goods or services."
+      ],
+      "ground_truth": "Contractually agreed-upon tasks, services, or granting rights to goods or services."
+    },
+    {
+      "question": "What two criteria must be met for a promised good or service to be considered distinct under IFRS 15?",
+      "contexts": [
+        "A good or service that is promised to a customer is distinct if both of the following criteria are met: (a) the customer can benefit from the good or service either on its own or together with other resources that are readily available to the customer; and (b) the entity's promise to transfer the good or service to the customer is separately identifiable from other promises in the contract.",
+        "The criteria for a good or service to be distinct include the customer's ability to benefit from it and the promise being separately identifiable within the contract."
+      ],
+      "ground_truth": "The customer can benefit from it on its own or with other readily available resources, and the promise to transfer it is separately identifiable from other promises in the contract."
+    },
+    {
+      "question": "How can a customer benefit from a good or service according to the given criteria?",
+      "contexts": [
+        "A customer may be able to benefit from a good or service on its own or in conjunction with other readily available resources.",
+        "A readily available resource is a good or service that is sold separately or a resource that the customer has already obtained from the entity or other transactions."
+      ],
+      "ground_truth": "On its own or with other readily available resources"
+    },
+    {
+      "question": "How can it be determined if a good or service can be used by a customer on its own?",
+      "contexts": [
+        "The fact that the entity regularly sells a good or service separately would indicate that a customer can benefit from the good or service on its own or with other readily available resources.",
+        "In assessing whether an entity's promises to transfer goods or services to the customer are separately identifiable, the objective is to determine whether the nature of the promise is to transfer each of those goods or services individually."
+      ],
+      "ground_truth": "If the entity regularly sells it separately."
+    },
+    {
+      "question": "What is an example of when goods or services are not separately identifiable?",
+      "contexts": [
+        "The entity provides a significant service of integrating the goods or services with other goods or services promised in the contract into a bundle.",
+        "This bundle represents the combined output or outputs for which the customer has contracted.",
+        "The entity uses the goods or services as inputs to produce or deliver the combined output or outputs."
+      ],
+      "ground_truth": "When the entity integrates them into a bundle of goods or services as inputs to produce the combined output."
+    },
+    {
+      "question": "What happens if a promised good or service is not distinct according to the contract?",
+      "contexts": [
+        "one or more of the goods or services significantly modifies or customises, or are significantly modified or customised by, one or more of the other goods or services promised in the contract",
+        "the goods or services are highly interdependent or highly interrelated",
+        "If a promised good or service is not distinct, an entity shall combine that good or service with other promised goods or services until it identifies a bundle of goods or services"
+      ],
+      "ground_truth": "The entity shall combine it with other promised goods or services until a bundle is identified"
+    },
+    {
+      "question": "When should an entity recognize revenue from a performance obligation?",
+      "contexts": [
+        "An entity shall recognise revenue when (or as) the entity satisfies a performance obligation by transferring a promised good or service to a customer.",
+        "An asset is transferred when (or as) the customer obtains control of that asset."
+      ],
+      "ground_truth": "When the entity satisfies a performance obligation by transferring a promised good or service to a customer."
+    },
+    {
+      "question": "What is meant by control of an asset in the context of performance obligations?",
+      "contexts": [
+        "Control of an asset refers to the ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset.",
+        "Goods and services are assets, even if only momentarily, when they are received and used."
+      ],
+      "ground_truth": "The ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset."
+    },
+    {
+      "question": "What are some ways potential cash flows can be obtained from an asset?",
+      "contexts": [
+        "Potential cash flows can be obtained directly or indirectly in many ways, such as by using the asset to produce goods or provide services.",
+        "An asset can also be used to enhance the value of other assets, settle liabilities, or reduce expenses."
+      ],
+      "ground_truth": "Using the asset to produce goods or services, enhancing the value of other assets, settling liabilities, reducing expenses, selling or exchanging, pledging to secure a loan, or holding the asset."
+    },
+    {
+      "question": "Under what conditions can an entity recognize revenue over time according to IFRS 15?",
+      "contexts": [
+        "An entity transfers control of a good or service over time and recognises revenue over time if certain criteria are met.",
+        "The criteria include the customer receiving and consuming benefits as the entity performs, the entity's performance creating an asset controlled by the customer, or the entity having an enforceable right to payment without creating an asset with alternative use."
+      ],
+      "ground_truth": "The entity meets one of the specified criteria in IFRS 15, such as the customer simultaneously receiving and consuming benefits, the entity creating an asset the customer controls, or the entity having an enforceable right to payment without an alternative use asset."
+    },
+    {
+      "question": "When is the assessment of whether an asset has an alternative use to an entity made?",
+      "contexts": [
+        "The assessment of whether an asset has an alternative use to the entity is made at contract inception.",
+        "After contract inception, an entity shall not update the assessment of the alternative use of an asset unless the parties to the contract approve a contract modification that substantively changes the performance obligation."
+      ],
+      "ground_truth": "At contract inception"
+    },
+    {
+      "question": "What condition must an entity's right to payment satisfy if a contract is terminated by the customer or another party for reasons other than the entity's failure to perform?",
+      "contexts": [
+        "The entity must be entitled to an amount that at least compensates the entity for performance completed to date if the contract is terminated by the customer or another party for reasons other than the entity's failure to perform as promised.",
+        "The right to payment for performance completed to date does not need to be for a fixed amount."
+      ],
+      "ground_truth": "At least compensate the entity for performance completed to date"
+    },
+    {
+      "question": "How does an entity determine when a customer obtains control of a promised asset?",
+      "contexts": [
+        "An entity satisfies a performance obligation at a point in time if it is not satisfied over time.",
+        "To determine the point in time at which a customer obtains control of a promised asset, the entity considers the requirements for control and indicators of the transfer of control."
+      ],
+      "ground_truth": "By considering the requirements for control and indicators of the transfer of control."
+    },
+    {
+      "question": "What indicates that a customer has obtained control of an asset?",
+      "contexts": [
+        "The entity has a present right to payment for the asset",
+        "The customer has legal title to the asset"
+      ],
+      "ground_truth": "Transfer of legal title or a present right to payment"
+    },
+    {
+      "question": "What indicates a customer's ability to direct the use of and obtain benefits from an asset?",
+      "contexts": [
+        "The customer's physical possession of an asset may indicate that the customer has the ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset or to restrict the access of other entities to those benefits.",
+        "Physical possession may not coincide with control of an asset."
+      ],
+      "ground_truth": "Physical possession of the asset"
+    },
+    {
+      "question": "What indicates that a customer has obtained the ability to direct the use of and obtain substantially all of the remaining benefits from an asset?",
+      "contexts": [
+        "The transfer of the significant risks and rewards of ownership of an asset to the customer may indicate that the customer has obtained the ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset.",
+        "The customer has the significant risks and rewards of ownership of the asset"
+      ],
+      "ground_truth": "The transfer of the significant risks and rewards of ownership of an asset to the customer"
+    },
+    {
+      "question": "What indicates that a customer has obtained control of a transferred asset?",
+      "contexts": [
+        "The customer's acceptance of an asset may indicate that it has obtained the ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset.",
+        "An entity shall exclude any risks that give rise to a separate performance obligation in addition to the performance obligation to transfer the asset."
+      ],
+      "ground_truth": "The customer's acceptance of the asset"
+    },
+    {
+      "question": "How should an entity recognize revenue for a performance obligation satisfied over time according to IFRS 15?",
+      "contexts": [
+        "An entity shall recognise revenue over time by measuring the progress towards complete satisfaction of that performance obligation.",
+        "The objective when measuring progress is to depict an entity's performance in transferring control of goods or services promised to a customer."
+      ],
+      "ground_truth": "By measuring the progress towards complete satisfaction of the performance obligation"
+    },
+    {
+      "question": "What factors should an entity consider when determining the appropriate method for measuring progress towards satisfying a performance obligation?",
+      "contexts": [
+        "Methods for measuring progress include output methods and input methods.",
+        "An entity shall consider the nature of the good or service that the entity promised to transfer to the customer."
+      ],
+      "ground_truth": "The nature of the good or service"
+    },
+    {
+      "question": "When can an entity recognize revenue for a performance obligation satisfied over time?",
+      "contexts": [
+        "An entity shall recognise revenue for a performance obligation satisfied over time only if the entity can reasonably measure its progress towards complete satisfaction of the performance obligation.",
+        "Any goods or services for which the entity does transfer control to a customer when satisfying that performance obligation."
+      ],
+      "ground_truth": "When it can reasonably measure its progress towards complete satisfaction"
+    },
+    {
+      "question": "When can an entity recognize revenue only to the extent of the costs incurred for a performance obligation?",
+      "contexts": [
+        "An entity may not be able to reasonably measure the outcome of a performance obligation, especially in the early stages of a contract.",
+        "In such circumstances, the entity shall recognise revenue only to the extent of the costs incurred until it can reasonably measure the outcome."
+      ],
+      "ground_truth": "When it cannot reasonably measure the outcome of the performance obligation, but expects to recover the costs incurred."
+    },
+    {
+      "question": "What is included in the transaction price when determining revenue?",
+      "contexts": [
+        "The transaction price is the amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.",
+        "The consideration promised in a contract with a customer may include fixed amounts, variable amounts."
+      ],
+      "ground_truth": "Fixed and variable amounts, excluding amounts collected on behalf of third parties"
+    },
+    {
+      "question": "What factors should an entity consider when determining the transaction price?",
+      "contexts": [
+        "The nature, timing and amount of consideration promised by a customer affect the estimate of the transaction price.",
+        "An entity shall consider the effects of variable consideration, constraining estimates of variable consideration, significant financing components, non-cash consideration, and consideration payable to a customer."
+      ],
+      "ground_truth": "Variable consideration, constraining estimates of variable consideration, significant financing components, non-cash consideration, and consideration payable to a customer"
+    },
+    {
+      "question": "What factors can cause the consideration in a contract to be variable?",
+      "contexts": [
+        "An amount of consideration can vary because of discounts, rebates, refunds, credits, price concessions, incentives, performance bonuses, penalties or other similar items.",
+        "The promised consideration can also vary if an entity's entitlement to the consideration is contingent on the occurrence or non-occurrence of a future event."
+      ],
+      "ground_truth": "Factors such as discounts, rebates, refunds, credits, price concessions, incentives, performance bonuses, penalties, and contingencies on future events"
+    },
+    {
+      "question": "What are the circumstances under which the promised consideration in a contract is considered variable?",
+      "contexts": [
+        "The promised consideration is variable if the customer has a valid expectation of a price concession due to the entity's customary business practices or published policies.",
+        "Other facts and circumstances can also indicate the entity's intention to accept less than the stated contract price, making the consideration variable."
+      ],
+      "ground_truth": "The customer's expectation of a price concession or other indicative facts and circumstances."
+    },
+    {
+      "question": "What are the two methods an entity can use to estimate the amount of variable consideration?",
+      "contexts": [
+        "An entity shall estimate an amount of variable consideration by using either of the following methods, depending on which method the entity expects to better predict the amount of consideration to which it will be entitled",
+        "The expected value is the sum of probability-weighted amounts in a range of possible consideration amounts",
+        "The most likely amount is the single most likely amount in a range of possible consideration amounts"
+      ],
+      "ground_truth": "The expected value and the most likely amount"
+    },
+    {
+      "question": "What information should an entity consider when estimating variable consideration in a contract?",
+      "contexts": [
+        "An entity shall consider all the information (historical, current and forecast) that is reasonably available to the entity",
+        "The information used to estimate variable consideration is typically similar to that used by management during the bid-and-proposal process and in establishing prices"
+      ],
+      "ground_truth": "Historical, current, and forecast information"
+    },
+    {
+      "question": "How is a refund liability measured according to the given financial standards?",
+      "contexts": [
+        "A refund liability is measured at the amount of consideration received (or receivable) for which the entity does not expect to be entitled.",
+        "The refund liability shall be updated at the end of each reporting period for changes."
+      ],
+      "ground_truth": "At the amount of consideration received for which the entity does not expect to be entitled"
+    },
+    {
+      "question": "Under what conditions can an entity include estimated variable consideration in the transaction price?",
+      "contexts": [
+        "An entity shall include in the transaction price some or all of an amount of variable consideration estimated in accordance with paragraph 53 only to the extent that it is highly probable that a significant reversal in the amount of cumulative revenue recognised will not occur when the uncertainty associated with the variable consideration is subsequently resolved.",
+        "In assessing whether it is highly probable that a significant reversal in the amount of cumulative revenue recognised will not occur once the uncertainty related to the variable consideration is subsequently resolved, an entity"
+      ],
+      "ground_truth": "When it is highly probable that a significant reversal in the amount of cumulative revenue recognised will not occur."
+    },
+    {
+      "question": "What factors could increase the likelihood or magnitude of a revenue reversal?",
+      "contexts": [
+        "Factors that could increase the likelihood or the magnitude of a revenue reversal include, but are not limited to, any of the following: volatility in a market, the judgement or actions of third parties, weather conditions and a high risk of obsolescence of the promised good or service.",
+        "The amount of consideration is highly susceptible to factors outside the entity's influence, such as volatility in a market."
+      ],
+      "ground_truth": "Volatility in a market, judgement or actions of third parties, weather conditions, and a high risk of obsolescence"
+    },
+    {
+      "question": "What action should an entity take with regards to variable consideration at the end of each reporting period?",
+      "contexts": [
+        "An entity shall update the estimated transaction price to represent faithfully the circumstances present at the end of the reporting period and the changes in circumstances during the reporting period.",
+        "The entity shall account for changes in the transaction price in accordance with paragraphs 87–90."
+      ],
+      "ground_truth": "Update the estimated transaction price"
+    },
+    {
+      "question": "What is considered when determining if a contract has a significant financing component under IFRS 15?",
+      "contexts": [
+        "The timing of payments agreed to by the parties provides the customer or the entity with a significant benefit of financing the transfer of goods or services.",
+        "A significant financing component may exist regardless of whether the promise of financing is explicitly stated or implied by the payment terms."
+      ],
+      "ground_truth": "The timing of payments and the benefit of financing"
+    },
+    {
+      "question": "What factors should an entity consider when assessing whether a contract contains a significant financing component?",
+      "contexts": [
+        "An entity shall consider all relevant facts and circumstances in assessing whether a contract contains a financing component and whether that financing component is significant to the contract.",
+        "The assessment includes considering the difference between the amount of promised consideration and the cash selling price of the promised goods or services."
+      ],
+      "ground_truth": "The difference between promised consideration and cash selling price, and the expected length of time between transfer of goods and payment."
+    },
+    {
+      "question": "What factors indicate a contract with a customer does not have a significant financing component?",
+      "contexts": [
+        "A contract with a customer would not have a significant financing component if the customer paid for the goods or services in advance and the timing of the transfer of those goods or services is at the discretion of the customer.",
+        "Another factor is if a substantial amount of the consideration is paid in advance."
+      ],
+      "ground_truth": "Customer payment in advance with transfer timing at their discretion, or a substantial amount of consideration paid in advance."
+    },
+    {
+      "question": "What condition must be met for the difference between promised consideration and cash selling price to be considered proportional?",
+      "contexts": [
+        "the difference between the promised consideration and the cash selling price of the good or service arises for reasons other than the provision of finance to either the customer or the entity",
+        "the difference between those amounts is proportional to the reason for the difference"
+      ],
+      "ground_truth": "the difference arises for reasons other than the provision of finance"
+    },
+    {
+      "question": "How should an entity adjust the promised amount of consideration for a significant financing component in a contract?",
+      "contexts": [
+        "An entity need not adjust the promised amount of consideration for the effects of a significant financing component if the payment is expected within one year or less.",
+        "To adjust for a significant financing component, an entity should use the discount rate reflected in a separate financing transaction between the entity and its customer at contract inception."
+      ],
+      "ground_truth": "Use the discount rate that would be reflected in a separate financing transaction between the entity and its customer at contract inception."
+    },
+    {
+      "question": "How should an entity present the effects of financing in the statement of comprehensive income?",
+      "contexts": [
+        "An entity shall present the effects of financing (interest revenue or interest expense) separately from revenue from contracts with customers in the statement of comprehensive income.",
+        "The discount rate for changes in interest rates or other circumstances should not be updated after contract inception."
+      ],
+      "ground_truth": "Separately from revenue from contracts with customers"
+    },
+    {
+      "question": "How is non-cash consideration measured when its fair value cannot be reasonably estimated?",
+      "contexts": [
+        "To determine the transaction price for contracts in which a customer promises consideration in a form other than cash, an entity shall measure the non-cash consideration (or promise of non-cash consideration) at fair value.",
+        "If an entity cannot reasonably estimate the fair value of the non-cash consideration, the entity shall measure the consideration indirectly by reference to the stand-alone selling price of the goods or services promised to the customer (or class of customer) in exchange for the consideration."
+      ],
+      "ground_truth": "By reference to the stand-alone selling price of the goods or services promised to the customer."
+    },
+    {
+      "question": "How should an entity account for goods or services contributed by a customer to facilitate the entity's fulfilment of a contract?",
+      "contexts": [
+        "If a customer contributes goods or services to facilitate an entity's fulfilment of the contract, the entity shall assess whether it obtains control of those contributed goods or services.",
+        "If the entity obtains control of the contributed goods or services, it shall account for them as non-cash consideration received from the customer."
+      ],
+      "ground_truth": "As non-cash consideration received from the customer."
+    },
+    {
+      "question": "How should an entity account for consideration payable to a customer under IFRS 15?",
+      "contexts": [
+        "Consideration payable to a customer includes cash amounts that an entity pays, or expects to pay, to the customer.",
+        "An entity shall account for consideration payable to a customer as a reduction of the transaction price and, therefore, of revenue unless the payment to the customer is in exchange for a distinct good or service."
+      ],
+      "ground_truth": "As a reduction of the transaction price and revenue, unless in exchange for a distinct good or service."
+    },
+    {
+      "question": "How should an entity account for consideration payable to a customer that exceeds the fair value of a distinct good or service received?",
+      "contexts": [
+        "If consideration payable to a customer is a payment for a distinct good or service from the customer, then an entity shall account for the purchase of the good or service in the same way that it accounts for other purchases from suppliers.",
+        "If the amount of consideration payable to the customer exceeds the fair value of the distinct good or service that the entity receives from the customer, then the entity shall account for such an excess as a reduction of the transaction price."
+      ],
+      "ground_truth": "As a reduction of the transaction price"
+    },
+    {
+      "question": "When should an entity recognize the reduction of revenue due to consideration payable to a customer?",
+      "contexts": [
+        "An entity shall recognise the reduction of revenue when (or as) the later of either of the following events occurs: the entity recognises revenue for the transfer of the related goods or services to the customer, and the entity pays or promises to pay the consideration.",
+        "The promise to pay consideration might be implied by the entity's customary business practices."
+      ],
+      "ground_truth": "When the later of revenue recognition for the related goods or services or the promise to pay occurs"
+    },
+    {
+      "question": "How should an entity allocate the transaction price to each performance obligation in a contract?",
+      "contexts": [
+        "An entity shall allocate the transaction price to each performance obligation identified in the contract on a relative stand-alone selling price basis.",
+        "The allocation objective is to depict the amount of consideration to which the entity expects to be entitled in exchange for transferring the promised goods or services to the customer."
+      ],
+      "ground_truth": "On a relative stand-alone selling price basis"
+    },
+    {
+      "question": "How should an entity allocate the transaction price to each performance obligation based on stand-alone selling prices?",
+      "contexts": [
+        "To allocate the transaction price to each performance obligation on a relative stand-alone selling price basis, an entity shall determine the stand-alone selling price at contract inception of the distinct good or service underlying each performance obligation in the contract and allocate the transaction price in proportion to those stand-alone selling prices.",
+        "The stand-alone selling price is the price at which an entity would sell a promised good or service separately to a customer."
+      ],
+      "ground_truth": "In proportion to the stand-alone selling prices of the distinct goods or services."
+    },
+    {
+      "question": "What is considered the best evidence of a stand-alone selling price for a good or service?",
+      "contexts": [
+        "The best evidence of a stand-alone selling price is the observable price of a good or service when the entity sells that good or service separately in similar circumstances and to similar customers.",
+        "A contractually stated price or a list price for a good or service may be the stand-alone selling price of that good or service."
+      ],
+      "ground_truth": "The observable price of a good or service when sold separately in similar circumstances and to similar customers."
+    },
+    {
+      "question": "What methods can an entity use to estimate the stand-alone selling price of a good or service?",
+      "contexts": [
+        "Suitable methods for estimating the stand-alone selling price of a good or service include, but are not limited to, the following: (a) Adjusted market assessment approach",
+        "an entity could evaluate the market in which it sells goods or services and estimate the price that a customer in that market would be willing to pay for those goods or services"
+      ],
+      "ground_truth": "Adjusted market assessment approach"
+    },
+    {
+      "question": "Under what circumstances can an entity use the residual approach to estimate the stand-alone selling price of a good or service?",
+      "contexts": [
+        "An entity may estimate the stand-alone selling price by reference to the total transaction price less the sum of the observable stand-alone selling prices of other goods or services promised in the contract.",
+        "However, an entity may use a residual approach to estimate the stand-alone selling price of a good or service only if one of the following criteria is met:"
+      ],
+      "ground_truth": "Only if one of the specified criteria is met."
+    },
+    {
+      "question": "When might an entity need to use a combination of methods to estimate stand-alone selling prices?",
+      "contexts": [
+        "The entity sells the same good or service to different customers for a broad range of amounts, making the selling price highly variable.",
+        "The entity has not yet established a price for a good or service and it has not previously been sold on a stand-alone basis, resulting in an uncertain selling price."
+      ],
+      "ground_truth": "When two or more goods or services have highly variable or uncertain stand-alone selling prices."
+    },
+    {
+      "question": "How does an entity estimate stand-alone selling prices when they are highly variable or uncertain?",
+      "contexts": [
+        "For promised goods or services with highly variable or uncertain stand-alone selling prices, an entity estimates the stand-alone selling price and then uses another method to estimate individual prices relative to the aggregate.",
+        "The entity uses a combination of methods to estimate stand-alone selling prices for each promised good or service in a contract."
+      ],
+      "ground_truth": "By using a combination of methods and the residual approach."
+    },
+    {
+      "question": "How should an entity allocate a discount in a contract when the sum of stand-alone selling prices exceeds the promised consideration?",
+      "contexts": [
+        "a bundle of goods or services if the sum of the stand-alone selling prices of those promised goods or services in the contract exceeds the promised consideration in a contract",
+        "the entity shall allocate a discount proportionately to all performance obligations in a contract"
+      ],
+      "ground_truth": "proportionately to all performance obligations"
+    },
+    {
+      "question": "What conditions must be met for an entity to identify performance obligations in a contract?",
+      "contexts": [
+        "The entity must regularly sell each distinct good or service in the contract on a stand-alone basis.",
+        "The entity must also regularly sell a bundle of some of those distinct goods or services at a discount to the stand-alone selling prices.",
+        "The discount in the bundle must be substantially the same as the discount in the contract."
+      ],
+      "ground_truth": "The entity must meet criteria (a), (b), and (c) as specified."
+    },
+    {
+      "question": "How should an entity allocate a discount in a contract according to IFRS 15?",
+      "contexts": [
+        "If a discount is allocated entirely to one or more performance obligations in the contract in accordance with paragraph 82, an entity shall allocate the discount before using the residual approach to estimate the stand-alone selling price of a good or service.",
+        "Variable consideration that is promised in a contract may be attributable to the entire contract or to a specific part of the contract."
+      ],
+      "ground_truth": "Entirely to one or more performance obligations in the contract."
+    },
+    {
+      "question": "How should an entity allocate a variable amount related to a performance obligation?",
+      "contexts": [
+        "An entity shall allocate a variable amount entirely to a performance obligation or to a distinct good or service that forms part of a single performance obligation in accordance with paragraph 22(b).",
+        "The allocation is conditional on the terms of the variable payment relating specifically to the entity's efforts to satisfy the performance obligation or transfer the distinct good or service."
+      ],
+      "ground_truth": "Entirely to a performance obligation or a distinct good or service, if specific criteria are met."
+    },
+    {
+      "question": "What happens to the transaction price after the contract inception?",
+      "contexts": [
+        "After contract inception, the transaction price can change for various reasons, including the resolution of uncertain events or other changes in circumstances that change the amount of consideration to which an entity expects to be entitled in exchange for the promised goods or services.",
+        "Changes in the transaction price occur due to the resolution of uncertain events or changes in circumstances."
+      ],
+      "ground_truth": "It can change due to resolution of uncertain events or changes in circumstances."
+    },
+    {
+      "question": "How should an entity allocate subsequent changes in the transaction price to performance obligations in a contract?",
+      "contexts": [
+        "An entity shall allocate to the performance obligations in the contract any subsequent changes in the transaction price on the same basis as at contract inception.",
+        "An entity shall not reallocate the transaction price to reflect changes in stand-alone selling prices after contract inception."
+      ],
+      "ground_truth": "On the same basis as at contract inception"
+    },
+    {
+      "question": "How should an entity allocate a change in transaction price after a contract modification if the change is due to variable consideration promised before the modification?",
+      "contexts": [
+        "An entity shall account for a change in the transaction price that arises as a result of a contract modification in accordance with paragraphs 18-21.",
+        "For a change in the transaction price that occurs after a contract modification, an entity shall apply paragraphs 87-89 to allocate the change in the transaction price."
+      ],
+      "ground_truth": "To the performance obligations identified in the contract before the modification, if the change is attributable to variable consideration promised before the modification."
+    },
+    {
+      "question": "How should an entity allocate the change in transaction price in a modified contract?",
+      "contexts": [
+        "An entity shall allocate the change in the transaction price to the performance obligations in the modified contract.",
+        "This allocation applies to the performance obligations that were unsatisfied or partially unsatisfied immediately after the modification."
+      ],
+      "ground_truth": "To the performance obligations in the modified contract"
+    },
+    {
+      "question": "What type of costs are recognised as an expense when incurred, unless explicitly chargeable to the customer?",
+      "contexts": [
+        "The incremental costs of obtaining a contract are those costs that an entity incurs to obtain a contract with a customer that it would not have incurred if the contract had not been obtained.",
+        "Costs to obtain a contract that would have been incurred regardless of whether the contract was obtained shall be recognised as an expense when incurred, unless those costs are explicitly chargeable to the customer regardless of whether the contract is obtained."
+      ],
+      "ground_truth": "Costs to obtain a contract that would have been incurred regardless of whether the contract was obtained"
+    },
+    {
+      "question": "Under what conditions can an entity recognize the costs of fulfilling a contract as an asset?",
+      "contexts": [
+        "An entity shall recognise an asset from the costs incurred to fulfil a contract only if those costs meet specific criteria.",
+        "The costs must relate directly to a contract or to an anticipated contract that the entity can specifically identify."
+      ],
+      "ground_truth": "The costs must meet specific criteria and relate directly to a contract or anticipated contract."
+    },
+    {
+      "question": "What types of costs are considered to relate directly to a contract or a specific anticipated contract?",
+      "contexts": [
+        "Costs that relate directly to a contract (or a specific anticipated contract) include any of the following: (a) direct labour; (b) direct materials;",
+        "Examples of direct labour include salaries and wages of employees who provide the promised services directly to the customer.",
+        "Examples of direct materials include those used in providing the promised services to the customer."
+      ],
+      "ground_truth": "Direct labour and direct materials"
+    },
+    {
+      "question": "What types of costs should an entity recognize as expenses when incurred according to the contract?",
+      "contexts": [
+        "An entity shall recognise the following costs as expenses when incurred:",
+        "costs that are explicitly chargeable to the customer under the contract",
+        "general and administrative costs (unless those costs are explicitly chargeable to the customer under the contract)"
+      ],
+      "ground_truth": "General and administrative costs, and costs explicitly chargeable to the customer"
+    },
+    {
+      "question": "What types of costs are considered when fulfilling a contract under IFRS 15?",
+      "contexts": [
+        "IFRS 15 considers costs of wasted materials, labour or other resources to fulfil the contract that were not reflected in the price of the contract",
+        "Costs that relate to satisfied performance obligations in the contract are also considered under IFRS 15",
+        "Additionally, IFRS 15 includes costs for which an entity cannot distinguish whether they relate to unsatisfied or satisfied performance obligations"
+      ],
+      "ground_truth": "Costs of wasted materials, labour, costs related to satisfied performance obligations, and indistinguishable costs"
+    },
+    {
+      "question": "How should an entity account for a significant change in the expected timing of transfer of goods or services related to a recognised asset?",
+      "contexts": [
+        "An entity shall update the amortisation to reflect a significant change in the entity's expected timing of transfer to the customer of the goods or services to which the asset relates.",
+        "Such a change shall be accounted for as a change in accounting estimate in accordance with IAS 8."
+      ],
+      "ground_truth": "As a change in accounting estimate in accordance with IAS 8"
+    },
+    {
+      "question": "How should an entity adjust the transaction price when determining the amount of consideration it expects to receive?",
+      "contexts": [
+        "An entity shall use the principles for determining the transaction price and adjust that amount to reflect the effects of the customer's credit risk.",
+        "The adjustment is made when applying paragraph 101 to determine the expected consideration."
+      ],
+      "ground_truth": "To reflect the effects of the customer's credit risk"
+    },
+    {
+      "question": "How should an entity account for impairment loss of assets related to a contract?",
+      "contexts": [
+        "The entity shall recognise any impairment loss for assets related to the contract that are recognised in accordance with another Standard.",
+        "After applying the impairment test, the resulting carrying amount of the asset is included in the carrying amount of the cash-generating unit for the purpose of applying IAS 36 Impairment of Assets."
+      ],
+      "ground_truth": "Recognise the impairment loss in accordance with another Standard and include the resulting carrying amount in the cash-generating unit for IAS 36 application."
+    },
+    {
+      "question": "How should an entity present a contract in the statement of financial position after either party has performed?",
+      "contexts": [
+        "When either party to a contract has performed, an entity shall present the contract in the statement of financial position as a contract asset or a contract liability, depending on the relationship between the entity's performance and the customer's payment.",
+        "An entity shall present any unconditional rights to consideration separately as a receivable."
+      ],
+      "ground_truth": "As a contract asset or a contract liability"
+    },
+    {
+      "question": "How should an entity present a contract when it has received consideration before transferring goods or services to a customer?",
+      "contexts": [
+        "An entity has a right to an amount of consideration that is unconditional, before the entity transfers a good or service to the customer, the entity shall present the contract as a contract liability.",
+        "A contract liability is an entity's obligation to transfer goods or services to a customer for which the entity has received consideration from the customer."
+      ],
+      "ground_truth": "As a contract liability"
+    },
+    {
+      "question": "How should an entity measure and disclose an impairment of a contract asset?",
+      "contexts": [
+        "An entity shall assess a contract asset for impairment in accordance with IFRS 9.",
+        "An impairment of a contract asset shall be measured, presented and disclosed on the same basis as a financial asset that is within the scope of IFRS 9."
+      ],
+      "ground_truth": "On the same basis as a financial asset within the scope of IFRS 9"
+    },
+    {
+      "question": "How should differences between the measurement of a receivable under IFRS 9 and the recognized revenue be presented?",
+      "contexts": [
+        "Any difference between the measurement of the receivable in accordance with IFRS 9 and the corresponding amount of revenue recognised shall be presented as an expense.",
+        "This difference may be presented, for example, as an impairment loss."
+      ],
+      "ground_truth": "As an expense, for example as an impairment loss."
+    },
+    {
+      "question": "What information should an entity disclose about its contracts with customers according to IFRS 15?",
+      "contexts": [
+        "The objective of the disclosure requirements is for an entity to disclose sufficient information to enable users of financial statements to understand the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers.",
+        "An entity shall disclose qualitative and quantitative information about its contracts with customers."
+      ],
+      "ground_truth": "Qualitative and quantitative information"
+    },
+    {
+      "question": "What should an entity do to ensure useful information is not obscured in disclosures?",
+      "contexts": [
+        "An entity shall aggregate or disaggregate disclosures so that useful information is not obscured by either the inclusion of a large amount of insignificant detail or the aggregation of items that have substantially different characteristics.",
+        "An entity need not disclose information in accordance with this Standard if it has provided the information in accordance with another Standard."
+      ],
+      "ground_truth": "Aggregate or disaggregate disclosures"
+    },
+    {
+      "question": "How should an entity disclose impairment losses from contracts with customers?",
+      "contexts": [
+        "any impairment losses recognised on any receivables or contract assets arising from an entity's contracts with customers, which the entity shall disclose separately from impairment losses from other contracts",
+        "An entity shall disaggregate revenue recognised from contracts with customers into categories that depict how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors"
+      ],
+      "ground_truth": "Separately from impairment losses from other contracts"
+    },
+    {
+      "question": "What information must an entity disclose regarding contract balances from contracts with customers?",
+      "contexts": [
+        "An entity shall disclose the opening and closing balances of receivables, contract assets and contract liabilities from contracts with customers.",
+        "The entity must also disclose revenue recognised in the reporting period that was included in the contract liability balance at the beginning of the period."
+      ],
+      "ground_truth": "Opening and closing balances, and specific revenue recognitions"
+    },
+    {
+      "question": "What information should an entity provide when explaining significant changes in contract asset and contract liability balances?",
+      "contexts": [
+        "An entity shall provide an explanation of the significant changes in the contract asset and the contract liability balances during the reporting period.",
+        "The explanation shall include qualitative and quantitative information."
+      ],
+      "ground_truth": "Qualitative and quantitative information"
+    },
+    {
+      "question": "What types of adjustments affect contract assets or liabilities under IFRS?",
+      "contexts": [
+        "Cumulative catch-up adjustments to revenue affect the corresponding contract asset or contract liability.",
+        "These adjustments include changes in the measure of progress or estimates of the transaction price.",
+        "Contract modifications also lead to such adjustments."
+      ],
+      "ground_truth": "Changes in measure of progress, estimates of transaction price, and contract modifications"
+    },
+    {
+      "question": "What information must an entity disclose about its performance obligations in contracts with customers?",
+      "contexts": [
+        "An entity shall disclose information about its performance obligations in contracts with customers, including a description of when the entity typically satisfies its performance obligations.",
+        "The disclosure includes the significant payment terms and the nature of the goods or services that the entity has promised."
+      ],
+      "ground_truth": "The entity must disclose when it typically satisfies performance obligations, significant payment terms, and the nature of the goods or services promised."
+    },
+    {
+      "question": "What information must an entity disclose about its remaining performance obligations?",
+      "contexts": [
+        "An entity shall disclose the following information about its remaining performance obligations: the aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period;",
+        "the entity shall also disclose an explanation of when it expects to recognise as revenue the amount disclosed"
+      ],
+      "ground_truth": "The aggregate amount of the transaction price allocated to unsatisfied performance obligations and an explanation of when revenue is expected to be recognised."
+    },
+    {
+      "question": "Under what conditions can an entity avoid disclosing information for a performance obligation?",
+      "contexts": [
+        "An entity need not disclose the information if the performance obligation is part of a contract with an original expected duration of one year or less.",
+        "An entity also does not have to disclose the information if it recognises revenue from the satisfaction of the performance obligation in accordance with paragraph B16."
+      ],
+      "ground_truth": "Original expected duration of one year or less, or revenue recognition in accordance with paragraph B16."
+    },
+    {
+      "question": "What type of information should an entity disclose when applying the practical expedient in paragraph 121?",
+      "contexts": [
+        "An entity shall explain qualitatively whether it is applying the practical expedient in paragraph 121 and whether any consideration from contracts with customers is not included in the transaction price.",
+        "For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained."
+      ],
+      "ground_truth": "Whether any consideration from contracts with customers is not included in the transaction price"
+    },
+    {
+      "question": "What information must an entity disclose for performance obligations satisfied over time?",
+      "contexts": [
+        "For performance obligations that an entity satisfies over time, an entity shall disclose both of the following: (a) the methods used to recognise revenue; and (b) an explanation of why the methods used provide a faithful depiction of the transfer of goods or services.",
+        "Determining the timing of satisfaction of performance obligations requires judgements."
+      ],
+      "ground_truth": "The methods used to recognise revenue and an explanation of why those methods are used."
+    },
+    {
+      "question": "What information must an entity disclose regarding transaction price determination?",
+      "contexts": [
+        "An entity shall disclose information about the methods, inputs and assumptions used for determining the transaction price.",
+        "Determining the transaction price includes estimating variable consideration and adjusting the consideration for the effects of the time value of money."
+      ],
+      "ground_truth": "Methods, inputs, and assumptions used"
+    },
+    {
+      "question": "What information must an entity disclose regarding costs incurred to obtain or fulfil a contract with a customer under IFRS 15?",
+      "contexts": [
+        "An entity shall describe the judgements made in determining the amount of the costs incurred to obtain or fulfil a contract with a customer.",
+        "The entity must also disclose the method it uses to determine the amortisation for each reporting period."
+      ],
+      "ground_truth": "Judgements made in determining costs and the method for amortisation"
+    },
+    {
+      "question": "What information must be disclosed when an entity elects to use a practical expedient related to contracts with customers?",
+      "contexts": [
+        "An entity shall disclose that it has elected to use the practical expedient in either paragraph 63 or paragraph 94.",
+        "The practical expedient in paragraph 63 is about the existence of a significant financing component.",
+        "The practical expedient in paragraph 94 is about the incremental costs of obtaining a contract."
+      ],
+      "ground_truth": "The fact that the entity has elected to use the practical expedient."
+    },
+    {
+      "question": "What is considered a contract according to IFRS 15?",
+      "contexts": [
+        "An agreement between two or more parties that creates enforceable rights and obligations is considered a contract.",
+        "This definition is outlined in IFRS 15 Appendix A.",
+        "The contract creates rights and obligations that are enforceable."
+      ],
+      "ground_truth": "An agreement between two or more parties that creates enforceable rights and obligations."
+    },
+    {
+      "question": "What is considered revenue according to the given definitions?",
+      "contexts": [
+        "Revenue is income arising in the course of an entity's ordinary activities.",
+        "Benefits during the accounting period result in an increase in equity, other than those relating to contributions from equity participants."
+      ],
+      "ground_truth": "Income arising in the course of an entity's ordinary activities."
+    },
+    {
+      "question": "What categories are used to organize the application guidance in IFRS 15 Appendix B?",
+      "contexts": [
+        "This application guidance is organised into the following categories: (a) performance obligations satisfied over time; (b) methods for measuring progress towards complete satisfaction of a performance obligation; and others.",
+        "The categories include sale with a right of return, warranties, and principal versus agent considerations among others."
+      ],
+      "ground_truth": "Eight categories including performance obligations, methods for measuring progress, sale with a right of return, warranties, principal versus agent, customer options, customers' unexercised rights, and non-refundable upfront fees"
+    },
+    {
+      "question": "What are the criteria for determining if a performance obligation is satisfied over time?",
+      "contexts": [
+        "A performance obligation is satisfied over time if one of the following criteria is met:",
+        "In accordance with paragraph 35, a performance obligation is satisfied over time if one of the following criteria is met:"
+      ],
+      "ground_truth": "One of the criteria in paragraph 35 is met"
+    },
+    {
+      "question": "Under what conditions can an entity recognize revenue over time as it performs?",
+      "contexts": [
+        "The entity's performance creates or enhances an asset that the customer controls as the asset is created or enhanced.",
+        "The entity's performance does not create an asset with an alternative use to the entity and the entity has an enforceable right to payment for performance completed to date."
+      ],
+      "ground_truth": "When it simultaneously receives and consumes the benefits, creates or enhances a controlled asset, or has no alternative use and an enforceable right to payment."
+    },
+    {
+      "question": "What types of performance obligations make it straightforward to assess simultaneous receipt and consumption of benefits by the customer?",
+      "contexts": [
+        "For some types of performance obligations, the assessment of whether a customer receives the benefits of an entity's performance as the entity performs and simultaneously consumes those benefits as they are received will be straightforward.",
+        "Examples include routine or recurring services (such as a cleaning service) in which the receipt and simultaneous consumption by the customer of the benefits of the entity's performance can be readily identified."
+      ],
+      "ground_truth": "Routine or recurring services, such as a cleaning service."
+    },
+    {
+      "question": "How does an entity determine if a performance obligation is satisfied over time?",
+      "contexts": [
+        "A performance obligation is satisfied over time if another entity would not need to substantially re-perform the work completed to date.",
+        "In determining this, an entity must disregard potential contractual restrictions and presume another entity would not have the benefit of currently controlled assets."
+      ],
+      "ground_truth": "By determining if another entity would need to substantially re-perform the work completed to date."
+    },
+    {
+      "question": "What is required for a customer to control an asset as it is created or enhanced?",
+      "contexts": [
+        "Customer controls the asset as it is created or enhanced (paragraph 35(b))",
+        "an entity shall apply the requirements for control in paragraphs 31-34 and 38"
+      ],
+      "ground_truth": "The customer must meet the requirements for control in paragraphs 31-34 and 38"
+    },
+    {
+      "question": "What factors should an entity consider when assessing if an asset has an alternative use?",
+      "contexts": [
+        "An entity shall consider the effects of contractual restrictions and practical limitations on the entity's ability to readily direct that asset for another use.",
+        "The possibility of the contract with the customer being terminated is not a relevant consideration in assessing whether the entity would be able to readily direct the asset for another use."
+      ],
+      "ground_truth": "Contractual restrictions and practical limitations"
+    },
+    {
+      "question": "What makes a contractual restriction on an entity's ability to direct an asset substantive?",
+      "contexts": [
+        "A contractual restriction on an entity's ability to direct an asset for another use must be substantive for the asset not to have an alternative use to the entity.",
+        "A contractual restriction is substantive if a customer could enforce its rights to the promised asset if the entity sought to direct the asset for another use."
+      ],
+      "ground_truth": "The customer must be able to enforce its rights to the promised asset if the entity seeks to direct it for another use."
+    },
+    {
+      "question": "What could happen to an entity if it needs to redirect an asset for another use?",
+      "contexts": [
+        "A significant economic loss could arise because the entity either would incur significant costs to rework the asset or would only be able to sell the asset at a significant loss.",
+        "An entity may be practically limited from redirecting assets that either have design specifications that are unique to a customer or are located in remote areas."
+      ],
+      "ground_truth": "The entity could incur significant costs to rework the asset or only be able to sell it at a significant loss."
+    },
+    {
+      "question": "What should an entity be entitled to as compensation for a reasonable profit margin if a contract is terminated?",
+      "contexts": [
+        "An amount that would compensate an entity for performance completed to date would be an amount that approximates the selling price of the goods or services transferred to date.",
+        "Compensation for a reasonable profit margin need not equal the profit margin expected if the contract was fulfilled as promised, but an entity should be entitled to compensation for either of the following amounts: (a) a proportion of the expected profit margin in the contract that reasonably reflects the extent of the entity's performance under the contract"
+      ],
+      "ground_truth": "A proportion of the expected profit margin in the contract that reasonably reflects the extent of the entity's performance under the contract"
+    },
+    {
+      "question": "What conditions determine an entity's right to payment for performance completed to date?",
+      "contexts": [
+        "An entity's right to payment for performance completed to date need not be a present unconditional right to payment.",
+        "In many cases, an entity will have an unconditional right to payment only at an agreed-upon milestone or upon complete satisfaction of the performance obligation."
+      ],
+      "ground_truth": "The entity's right to payment is determined by whether it would have an enforceable right to demand or retain payment for performance completed to date if the contract were to be terminated."
+    },
+    {
+      "question": "What happens if a customer terminates a contract without having the right to do so?",
+      "contexts": [
+        "B11 terminated before completion for reasons other than the entity's failure to perform as promised.",
+        "If a customer acts to terminate a contract without having the right to terminate the contract at that time, the contract might entitle the entity to continue to transfer goods or services and require the customer to pay."
+      ],
+      "ground_truth": "The entity has a right to payment for performance completed."
+    },
+    {
+      "question": "What factors should an entity consider when assessing its right to payment for performance completed to date?",
+      "contexts": [
+        "An entity has a right to continue to perform its obligations in accordance with the contract and to require the customer to perform its obligations.",
+        "In assessing the existence and enforceability of a right to payment, an entity shall consider the contractual terms as well as any legislation or legal precedent."
+      ],
+      "ground_truth": "Contractual terms, legislation, and legal precedent"
+    },
+    {
+      "question": "What happens to an entity's right to payment if it chooses not to enforce it in similar contracts?",
+      "contexts": [
+        "An entity's customary business practices of choosing not to enforce a right to payment has resulted in the right being rendered unenforceable in that legal environment.",
+        "Notwithstanding that an entity may choose to waive its right to payment in similar contracts, an entity would continue to have a right to payment to date if its right to payment for performance to date remains enforceable."
+      ],
+      "ground_truth": "The right to payment may be rendered unenforceable, but it remains enforceable if the contract specifies it."
+    },
+    {
+      "question": "Does a contract's payment schedule always prove an entity's right to payment for work completed?",
+      "contexts": [
+        "The payment schedule specified in a contract does not necessarily indicate whether an entity has an enforceable right to payment for performance completed to date.",
+        "The contract could specify that the consideration received from the customer is refundable for reasons other than the entity failing to perform as promised."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What are the two main methods for measuring progress towards complete satisfaction of a performance obligation under IFRS 15?",
+      "contexts": [
+        "Methods that can be used to measure an entity's progress towards complete satisfaction of a performance obligation satisfied over time include output methods and input methods.",
+        "Output methods recognise revenue on the basis of direct measurements of the value to the customer of the goods or services transferred to date relative to the remaining goods or services promised under the contract."
+      ],
+      "ground_truth": "Output methods and input methods"
+    },
+    {
+      "question": "What condition would make an output method not faithfully depict an entity's performance towards complete satisfaction of a performance obligation?",
+      "contexts": [
+        "An output method would not provide a faithful depiction of the entity's performance if the output selected would fail to measure some of the goods or services for which control has transferred to the customer.",
+        "For example, output methods based on units produced or units delivered would not faithfully depict an entity's performance in satisfying a performance obligation if, at the end of the reporting period, the entity's performance has produced work in progress or finished goods controlled by the customer that are not included in the measurement"
+      ],
+      "ground_truth": "If the output selected fails to measure some goods or services for which control has transferred to the customer."
+    },
+    {
+      "question": "Under what circumstances can an entity recognize revenue based on the right to invoice a customer?",
+      "contexts": [
+        "An entity may recognise revenue in the amount to which the entity has a right to invoice if it has a right to consideration from a customer in an amount that corresponds directly with the value to the customer of the entity's performance completed to date.",
+        "This approach is considered a practical expedient."
+      ],
+      "ground_truth": "When the entity has a right to consideration from a customer that corresponds directly with the value of the entity's performance completed to date."
+    },
+    {
+      "question": "How may an entity recognise revenue when the outcome of a performance obligation is not directly observable?",
+      "contexts": [
+        "Input methods recognise revenue on the basis of the entity's efforts or inputs to the satisfaction of a performance obligation.",
+        "Examples of inputs include resources consumed, labour hours expended, costs incurred, time elapsed or machine hours used."
+      ],
+      "ground_truth": "On the basis of the entity's efforts or inputs"
+    },
+    {
+      "question": "What should an entity exclude from an input method when measuring progress?",
+      "contexts": [
+        "An entity shall exclude from an input method the effects of any inputs that do not depict the entity's performance in transferring control of goods or services to the customer.",
+        "An adjustment to the measure of progress may be required when a cost incurred does not contribute to an entity's progress in satisfying the performance obligation."
+      ],
+      "ground_truth": "The effects of any inputs that do not depict the entity's performance in transferring control of goods or services to the customer."
+    },
+    {
+      "question": "When might an entity adjust the input method to recognise revenue only to the extent of the cost incurred?",
+      "contexts": [
+        "Inefficiencies in the entity's performance can include unexpected costs of wasted materials, labour, or resources.",
+        "A cost incurred is not proportionate to the entity's progress in satisfying the performance obligation.",
+        "The best depiction of the entity's performance may require adjusting the input method."
+      ],
+      "ground_truth": "When a cost incurred is not proportionate to the entity's progress in satisfying the performance obligation."
+    },
+    {
+      "question": "What conditions indicate that an entity is acting as a principal when procuring a good from a third party?",
+      "contexts": [
+        "the entity procures the good from a third party and is not significantly involved in designing and manufacturing the good",
+        "the entity is acting as a principal in accordance with paragraphs B34-B38"
+      ],
+      "ground_truth": "The entity is not significantly involved in designing and manufacturing the good."
+    },
+    {
+      "question": "What three things must an entity recognize when accounting for the transfer of products with a right of return according to IFRS 15?",
+      "contexts": [
+        "To account for the transfer of products with a right of return, an entity shall recognise revenue for the transferred products, a refund liability, and an asset for its right to recover products.",
+        "IFRS 15 requires recognition of revenue, a refund liability, and an asset adjustment for returned products."
+      ],
+      "ground_truth": "Revenue, a refund liability, and an asset"
+    },
+    {
+      "question": "What should an entity do with amounts received for which it does not expect to be entitled?",
+      "contexts": [
+        "For any amounts received (or receivable) for which an entity does not expect to be entitled, the entity shall not recognise revenue when it transfers products to customers but shall recognise those amounts received (or receivable) as a refund liability.",
+        "The entity shall update its assessment of amounts for which it expects to be entitled in exchange for the transferred products and make a corresponding change to the transaction price and, therefore, in the amount of revenue recognised."
+      ],
+      "ground_truth": "Recognise those amounts as a refund liability"
+    },
+    {
+      "question": "How should an entity update the measurement of its refund liability at the end of each reporting period?",
+      "contexts": [
+        "An entity shall update the measurement of the refund liability at the end of each reporting period for changes in expectations about the amount of refunds.",
+        "An entity shall recognise corresponding adjustments as revenue (or reductions of revenue)."
+      ],
+      "ground_truth": "For changes in expectations about the amount of refunds."
+    },
+    {
+      "question": "How should an entity account for exchanges by customers of one product for another of the same type, quality, condition, and price?",
+      "contexts": [
+        "Exchanges by customers of one product for another of the same type, quality, condition and price are not considered returns for the purposes of applying this Standard.",
+        "An entity shall update the measurement of the asset arising from changes in expectations about products to be returned at the end of each reporting period."
+      ],
+      "ground_truth": "They are not considered returns."
+    },
+    {
+      "question": "What determines if a warranty is considered a distinct service under IFRS 15?",
+      "contexts": [
+        "It is common for an entity to provide a warranty in connection with the sale of a product.",
+        "If a customer has the option to purchase a warranty separately, the warranty is a distinct service because it is priced or negotiated separately."
+      ],
+      "ground_truth": "The customer having the option to purchase the warranty separately."
+    },
+    {
+      "question": "How should an entity account for a promised warranty when it provides a service in addition to the product?",
+      "contexts": [
+        "the entity promises to provide the service to the customer in addition to the product that has the functionality described in the contract",
+        "an entity shall account for the promised warranty as a performance obligation in accordance with paragraphs 22-30 and allocate a portion of the transaction price to that performance obligation in accordance with paragraphs 73-86"
+      ],
+      "ground_truth": "As a performance obligation"
+    },
+    {
+      "question": "What factors should an entity consider when determining if a warranty provides a service in addition to product assurance?",
+      "contexts": [
+        "An entity shall consider factors such as whether the warranty is required by law, the length of the warranty coverage period, and the nature of the warranty when determining if it provides a service in addition to product assurance.",
+        "The existence of a law requiring a warranty indicates it is not a performance obligation, as such laws protect customers from defective products."
+      ],
+      "ground_truth": "whether the warranty is required by law, the length of the warranty coverage period, and the nature of the warranty"
+    },
+    {
+      "question": "When does a warranty or part of a warranty give rise to a performance obligation?",
+      "contexts": [
+        "If a warranty, or a part of a warranty, provides a customer with a service in addition to the assurance that the product complies with agreed-upon specifications, the promised service is a performance obligation.",
+        "The tasks that the entity promises to perform – if it is necessary for an entity to perform specified tasks to provide the assurance that a product complies with agreed-upon specifications, then those tasks likely do not give rise to a performance obligation."
+      ],
+      "ground_truth": "When it provides a customer with a service in addition to the assurance that the product complies with agreed-upon specifications."
+    },
+    {
+      "question": "How should an entity account for assurance-type and service-type warranties if they cannot be separated?",
+      "contexts": [
+        "IFRS 15 B33 entity promises both an assurance-type warranty and a service-type warranty but cannot reasonably account for them separately, the entity shall account for both of the warranties together as a single performance obligation.",
+        "A law that requires an entity to pay compensation if its products cause harm or damage does not give rise to a performance obligation."
+      ],
+      "ground_truth": "As a single performance obligation"
+    },
+    {
+      "question": "How should an entity account for obligations that do not give rise to a performance obligation?",
+      "contexts": [
+        "The entity shall account for such obligations in accordance with IAS 37.",
+        "Obligations that do not give rise to a performance obligation are accounted for separately."
+      ],
+      "ground_truth": "In accordance with IAS 37"
+    },
+    {
+      "question": "What steps should an entity take to determine the nature of its promise when providing multiple specified goods or services to a customer?",
+      "contexts": [
+        "An entity could be a principal for some specified goods or services and an agent for others when a contract with a customer includes more than one specified good or service.",
+        "To determine the nature of its promise, the entity shall identify the specified goods or services to be provided to the customer."
+      ],
+      "ground_truth": "Identify the specified goods or services and assess control."
+    },
+    {
+      "question": "What determines if an entity is a principal in the context of transferring goods or services to a customer?",
+      "contexts": [
+        "An entity is a principal if it controls the specified good or service before that good or service is transferred to a customer.",
+        "However, an entity does not necessarily control a specified good if the entity obtains legal title to that good only momentarily before legal title is transferred to a customer."
+      ],
+      "ground_truth": "Control of the specified good or service before transfer to the customer."
+    },
+    {
+      "question": "How does an entity obtain control as a principal when another party is involved in providing goods or services to a customer?",
+      "contexts": [
+        "An entity that is a principal obtains control of a good or another asset from the other party that it then transfers to the customer.",
+        "An entity obtains control of a right to a service to be performed by the other party, which gives the entity the ability to direct that party to provide the service to the customer on the entity's behalf.",
+        "An entity obtains control of a good or service from the other party that it then combines with other goods or services in providing the specified good or service to the customer."
+      ],
+      "ground_truth": "By obtaining a good, a right to a service, or a good or service to be combined with others for the customer."
+    },
+    {
+      "question": "How does revenue recognition differ between a principal and an agent in a transaction?",
+      "contexts": [
+        "An entity that is a principal satisfies a performance obligation and recognises revenue in the gross amount of consideration to which it expects to be entitled in exchange for the specified good or service transferred.",
+        "An entity is an agent if the entity's performance obligation is to arrange for the provision of the specified good or service by another party."
+      ],
+      "ground_truth": "A principal recognises revenue in the gross amount, while an agent does not control the good or service and recognises revenue differently."
+    },
+    {
+      "question": "How does an entity that is an agent recognise revenue when satisfying a performance obligation?",
+      "contexts": [
+        "When an entity that is an agent satisfies a performance obligation, the entity recognises revenue in the amount of any fee or commission to which it expects to be entitled.",
+        "An entity's fee or commission might be the net amount of consideration that the entity retains after paying the other party the consideration received in exchange for the goods or services."
+      ],
+      "ground_truth": "In the amount of any fee or commission to which it expects to be entitled"
+    },
+    {
+      "question": "What is the role of an entity that is primarily responsible for fulfilling a promise to provide a specified good or service?",
+      "contexts": [
+        "The entity is primarily responsible for fulfilling the promise to provide the specified good or service.",
+        "This typically includes responsibility for the acceptability of the specified good or service."
+      ],
+      "ground_truth": "The entity is responsible for the acceptability of the good or service and ensures it meets customer specifications."
+    },
+    {
+      "question": "What are indicators that an entity has the ability to direct the use of a good or service under IFRS 15?",
+      "contexts": [
+        "The entity has inventory risk before the specified good or service has been transferred to a customer or after transfer of control to the customer.",
+        "The entity obtains, or commits itself to obtain, the specified good or service before obtaining a contract with a customer.",
+        "The entity has discretion in establishing the price for the specified good or service."
+      ],
+      "ground_truth": "Inventory risk, obtaining goods or services before a customer contract, and discretion in price establishment"
+    },
+    {
+      "question": "Can an agent have discretion in setting prices for goods or services provided by other parties?",
+      "contexts": [
+        "An agent can have discretion in establishing prices in some cases.",
+        "An agent may have some flexibility in setting prices in order to generate additional revenue from its service of arranging for goods or services to be provided by other parties to customers."
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "When does an entity not recognize revenue for a performance obligation?",
+      "contexts": [
+        "The entity shall not recognise revenue for that performance obligation if it is acting as an agent for the specified good or service to the customer.",
+        "Customer options for additional goods or services come in many forms, including sales incentives and contract renewal options."
+      ],
+      "ground_truth": "When the entity is acting as an agent for the specified good or service to the customer."
+    },
+    {
+      "question": "When does an entity recognize revenue if a customer option provides a material right?",
+      "contexts": [
+        "The entity recognises revenue when those future goods or services are transferred or when the option expires if the option provides a material right to the customer.",
+        "A customer option provides a material right if it offers a discount incremental to the range of discounts typically given for those goods or services."
+      ],
+      "ground_truth": "When the future goods or services are transferred or when the option expires"
+    },
+    {
+      "question": "How should an entity account for a customer's option to acquire additional goods or services at a stand-alone selling price?",
+      "contexts": [
+        "If a customer has the option to acquire an additional good or service at a price that would reflect the stand-alone selling price for that good or service, that option does not provide the customer with a material right.",
+        "The entity has made a marketing offer that it shall account for in accordance with this Standard only when the customer exercises the option to purchase the additional goods or services."
+      ],
+      "ground_truth": "Only when the customer exercises the option to purchase"
+    },
+    {
+      "question": "How should an entity estimate the discount when a customer exercises an option to acquire future goods or services?",
+      "contexts": [
+        "That estimate shall reflect the discount that the customer would obtain when exercising the option, adjusted for both of the following: (a) any discount that the customer could receive without exercising the option; and (b) the likelihood that the option will be exercised.",
+        "If a customer has a material right to acquire future goods or services and those goods or services are similar to the original goods or services in the contract and are provided in accordance with the terms of the original contract, then an entity may, as a practical alternative to estimating the stand-alone selling price of the option, allocate the transaction price to the optional goods or services by reference to the goods or services expected to be provided and the corresponding expected consideration."
+      ],
+      "ground_truth": "Adjusted for any discount the customer could receive without exercising the option and the likelihood that the option will be exercised."
+    },
+    {
+      "question": "What happens to a contract liability when an entity transfers goods or services to a customer?",
+      "contexts": [
+        "An entity shall derecognise that contract liability (and recognise revenue) when it transfers those goods or services and, therefore, satisfies its performance obligation.",
+        "A customer's non-refundable prepayment to an entity gives the customer a right to receive a good or service in the future (and obliges the entity to stand ready to transfer a good or service)."
+      ],
+      "ground_truth": "The contract liability is derecognised and revenue is recognised."
+    },
+    {
+      "question": "When should an entity recognize the expected breakage amount as revenue if it does not expect to be entitled to it?",
+      "contexts": [
+        "If an entity does not expect to be entitled to a breakage amount, the entity shall recognise the expected breakage amount as revenue when the likelihood of the customer exercising its remaining rights becomes remote.",
+        "rights are often referred to as breakage."
+      ],
+      "ground_truth": "when the likelihood of the customer exercising its remaining rights becomes remote"
+    },
+    {
+      "question": "What should an entity recognize when it receives consideration for a customer's unexercised rights that must be remitted to another party?",
+      "contexts": [
+        "An entity shall recognise a liability (and not revenue) for any consideration received that is attributable to a customer's unexercised rights for which the entity is required to remit to another party, for example, a government entity in accordance with applicable unclaimed property laws.",
+        "Non-refundable upfront fees (and some related costs) are charged by an entity to a customer at or near contract inception."
+      ],
+      "ground_truth": "A liability"
+    },
+    {
+      "question": "How should an entity recognize revenue from a non-refundable upfront fee in a contract?",
+      "contexts": [
+        "An entity shall assess whether the fee relates to the transfer of a promised good or service.",
+        "A non-refundable upfront fee is an advance payment for future goods or services and would be recognised as revenue when those future goods or services are provided."
+      ],
+      "ground_truth": "When the future goods or services are provided"
+    },
+    {
+      "question": "How should an entity account for a non-refundable upfront fee related to a good or service?",
+      "contexts": [
+        "The entity shall evaluate whether to account for the good or service as a separate performance obligation in accordance with paragraphs 22-30.",
+        "An entity may charge a non-refundable fee in part as compensation for costs incurred in setting up a contract."
+      ],
+      "ground_truth": "As a separate performance obligation"
+    },
+    {
+      "question": "What types of intellectual property may be included in a licence?",
+      "contexts": [
+        "Licences of intellectual property may include, but are not limited to, licences of any of the following: software and technology; motion pictures, music and other forms of media and entertainment; franchises; and patents, trademarks and copyrights.",
+        "A licence establishes a customer's rights to the intellectual property of an entity."
+      ],
+      "ground_truth": "Software and technology, motion pictures, music, media, entertainment, franchises, patents, trademarks, and copyrights."
+    },
+    {
+      "question": "How does an entity identify performance obligations in a contract that includes a promise to grant a licence and other goods or services?",
+      "contexts": [
+        "An entity may promise to transfer other goods or services to the customer in addition to a promise to grant a licence.",
+        "When a contract includes a promise to grant a licence and other promised goods or services, an entity applies paragraphs 22–30 to identify each performance obligation."
+      ],
+      "ground_truth": "By applying paragraphs 22–30"
+    },
+    {
+      "question": "How should an entity determine if a performance obligation that includes a non-distinct licence is satisfied over time or at a point in time?",
+      "contexts": [
+        "Examples of licences that are not distinct from other goods or services promised in the contract include a licence that forms a component of a tangible good and that is integral to the functionality of the good.",
+        "If the licence is not distinct, an entity shall apply paragraphs 31–38 to determine whether the performance obligation is satisfied over time or satisfied at a point in time."
+      ],
+      "ground_truth": "By applying paragraphs 31–38"
+    },
+    {
+      "question": "How does an entity determine whether a licence transfers to a customer?",
+      "contexts": [
+        "An entity shall determine whether the licence transfers to a customer either at a point in time or over time.",
+        "In making this determination, an entity shall consider whether the nature of the entity's promise in granting the licence to a customer is to provide the customer with either a right to access the entity's intellectual property."
+      ],
+      "ground_truth": "At a point in time or over time, based on the nature of the promise."
+    },
+    {
+      "question": "What is required for an entity's promise in granting a licence to be considered a promise to provide a right to access its intellectual property?",
+      "contexts": [
+        "The nature of an entity's promise in granting a licence is a promise to provide a right to access the entity's intellectual property if certain criteria are met.",
+        "The contract requires, or the customer reasonably expects, that the entity will undertake activities that significantly affect the intellectual property to which the customer has rights."
+      ],
+      "ground_truth": "The contract must require, or the customer must reasonably expect, that the entity will undertake activities significantly affecting the intellectual property."
+    },
+    {
+      "question": "What factors may indicate a customer's reasonable expectation of an entity's activities affecting intellectual property?",
+      "contexts": [
+        "Factors that may indicate that a customer could reasonably expect that an entity will undertake activities that significantly affect the intellectual property include the entity's customary business practices, published policies or specific statements.",
+        "The existence of a shared economic interest between the entity and the customer related to the intellectual property may also indicate this expectation."
+      ],
+      "ground_truth": "Customary business practices, published policies, specific statements, and shared economic interests"
+    },
+    {
+      "question": "Under what conditions does an entity's activities significantly affect the intellectual property to which the customer has rights?",
+      "contexts": [
+        "An entity's activities significantly affect the intellectual property when they are expected to significantly change its form or functionality.",
+        "The customer's ability to obtain benefit from the intellectual property is substantially derived from, or dependent upon, the entity's activities."
+      ],
+      "ground_truth": "When activities change the form or functionality of the intellectual property, or when the customer's benefit is dependent on those activities."
+    },
+    {
+      "question": "What types of intellectual property often have significant stand-alone functionality?",
+      "contexts": [
+        "Types of intellectual property that often have significant stand-alone functionality include software, biological compounds or drug formulas, and completed media content.",
+        "Consequently, the ability of the customer to obtain benefit from that intellectual property would not be significantly affected by the entity's activities unless those activities significantly change its form or functionality."
+      ],
+      "ground_truth": "Software, biological compounds or drug formulas, and completed media content"
+    },
+    {
+      "question": "What happens when the criteria in paragraph B58 are not met regarding an entity's promise to provide intellectual property?",
+      "contexts": [
+        "An entity shall apply paragraphs 39–45 to select an appropriate method to measure its progress towards complete satisfaction of that performance obligation to provide access.",
+        "If the criteria in paragraph B58 are not met, the nature of an entity's promise is to provide a right to use the entity's intellectual property as that intellectual property exists at the point in time at which the licence is granted to the customer."
+      ],
+      "ground_truth": "The entity's promise is to provide a right to use its intellectual property as it exists at the time the licence is granted."
+    },
+    {
+      "question": "When can revenue be recognised for a licence that provides a right to use an entity's intellectual property?",
+      "contexts": [
+        "An entity shall account for the promise to provide a right to use the entity's intellectual property as a performance obligation satisfied at a point in time.",
+        "Revenue cannot be recognised for a licence that provides a right to use the entity's intellectual property before the beginning of the period during which the customer is able to use and benefit from the licence."
+      ],
+      "ground_truth": "At the beginning of the period during which the customer is able to use and benefit from the licence."
+    },
+    {
+      "question": "What factors should an entity disregard when determining if a licence provides a right to access its intellectual property?",
+      "contexts": [
+        "An entity shall disregard the following factors when determining whether a licence provides a right to access the entity's intellectual property or a right to use the entity's intellectual property: restrictions of time, geographical region or use.",
+        "Guarantees provided by the entity that it has a valid patent to intellectual property and that it will defend that patent from unauthorised use are also to be disregarded."
+      ],
+      "ground_truth": "Restrictions of time, geographical region or use, and guarantees to defend a patent"
+    },
+    {
+      "question": "When can an entity recognize revenue for a sales-based or usage-based royalty related to a licence of intellectual property?",
+      "contexts": [
+        "An entity shall recognise revenue for a sales-based or usage-based royalty promised in exchange for a licence of intellectual property only when certain conditions are met.",
+        "The conditions for recognizing revenue include the subsequent sale or usage occurring and the performance obligation being fulfilled."
+      ],
+      "ground_truth": "When the later of the sale or usage occurs and the performance obligation is fulfilled."
+    },
+    {
+      "question": "When does the requirement for a sales-based or usage-based royalty apply according to paragraph B63?",
+      "contexts": [
+        "The requirement for a sales-based or usage-based royalty in paragraph B63 applies when the royalty relates only to a licence of intellectual property or when a licence of intellectual property is the predominant item to which the royalty relates.",
+        "The licence of intellectual property may be the predominant item to which the royalty relates when the entity has a reasonable expectation that the customer would ascribe significantly more value to the licence than to the other goods or services to which the royalty relates."
+      ],
+      "ground_truth": "When the royalty relates only to a licence of intellectual property or when a licence of intellectual property is the predominant item to which the royalty relates."
+    },
+    {
+      "question": "What happens to revenue recognition from sales-based or usage-based royalties when the requirement in paragraph B63A is not met?",
+      "contexts": [
+        "When the requirement in paragraph B63A is met, revenue from a sales-based or usage-based royalty shall be recognised wholly in accordance with paragraph B63.",
+        "When the requirement in paragraph B63A is not met, the requirements on variable consideration in paragraphs 50-59 apply to the sales-based or usage-based royalty."
+      ],
+      "ground_truth": "The requirements on variable consideration in paragraphs 50-59 apply."
+    },
+    {
+      "question": "Under what circumstances does a customer not obtain control of an asset?",
+      "contexts": [
+        "An entity has an obligation or a right to repurchase the asset, such as a forward or a call option.",
+        "The customer's ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset is limited."
+      ],
+      "ground_truth": "When the entity has an obligation or a right to repurchase the asset."
+    },
+    {
+      "question": "How should an entity account for a financial liability in a sale and leaseback transaction?",
+      "contexts": [
+        "If the contract is part of a sale and leaseback transaction, the entity shall continue to recognise the asset and shall recognise a financial liability for any consideration received from the customer.",
+        "The entity shall account for the financial liability in accordance with IFRS 9;"
+      ],
+      "ground_truth": "In accordance with IFRS 9"
+    },
+    {
+      "question": "What should an entity do if it enters into a repurchase agreement that is considered a financing arrangement?",
+      "contexts": [
+        "If the repurchase agreement is a financing arrangement, the entity shall continue to recognise the asset and also recognise a financial liability for any consideration received from the customer.",
+        "The entity must either repurchase the asset for an amount that is equal to or more than the original selling price of the asset or consider the time value of money when comparing prices."
+      ],
+      "ground_truth": "Continue to recognise the asset and recognise a financial liability for any consideration received."
+    },
+    {
+      "question": "What happens to the liability and revenue recognition when a customer's option lapses unexercised?",
+      "contexts": [
+        "If the option lapses unexercised, an entity shall derecognise the liability and recognise revenue.",
+        "A put option gives the customer the right to require the entity to repurchase the asset at a specified price."
+      ],
+      "ground_truth": "The entity derecognises the liability and recognises revenue."
+    },
+    {
+      "question": "How should an entity account for a contract that is part of a sale and leaseback transaction under IFRS?",
+      "contexts": [
+        "The entity shall account for the agreement as a lease in accordance with IFRS 16, unless the contract is part of a sale and leaseback transaction.",
+        "If the contract is part of a sale and leaseback transaction, the entity shall continue to recognise the asset and shall recognise a financial liability for any consideration received from the customer."
+      ],
+      "ground_truth": "The entity shall continue to recognise the asset and recognise a financial liability for any consideration received from the customer, accounting for the financial liability in accordance with IFRS 9."
+    },
+    {
+      "question": "How should an entity account for an agreement if the repurchase price of the asset is equal to or greater than the original selling price and exceeds the expected market value?",
+      "contexts": [
+        "If the repurchase price of the asset is equal to or greater than the original selling price and is more than the expected market value of the asset, the contract is in effect a financing arrangement",
+        "the entity shall account for the agreement as if it were the sale of a product with a right of return if the customer does not have a significant economic incentive to exercise its right at a price that is lower than the original selling price of the asset"
+      ],
+      "ground_truth": "as a financing arrangement"
+    },
+    {
+      "question": "How should an entity account for an agreement when the repurchase price is less than or equal to the expected market value and the customer has no significant economic incentive to exercise its right?",
+      "contexts": [
+        "The entity shall account for the agreement as if it were the sale of a product with a right of return when the original selling price is met and the customer does not have a significant economic incentive.",
+        "An entity must consider the time value of money when comparing the repurchase price with the selling price.",
+        "If the option lapses unexercised, the entity shall derecognise the liability and recognise revenue."
+      ],
+      "ground_truth": "As a sale of a product with a right of return"
+    },
+    {
+      "question": "Under what conditions should an entity not recognize revenue upon delivery of a product to another party?",
+      "contexts": [
+        "An entity shall not recognise revenue upon delivery of a product to another party if the delivered product is held on consignment.",
+        "A product that has been delivered to another party may be held in a consignment arrangement if that other party has not obtained control of the product."
+      ],
+      "ground_truth": "If the delivered product is held on consignment."
+    },
+    {
+      "question": "What conditions must be met for a product to be considered sold under a bill-and-hold arrangement?",
+      "contexts": [
+        "A bill-and-hold arrangement is a contract under which an entity bills a customer for a product but retains physical possession of it.",
+        "The entity must be able to require the return of the product or transfer it to a third party.",
+        "The dealer does not have an unconditional obligation to pay for the product."
+      ],
+      "ground_truth": "The entity must be able to require the return of the product, transfer it to a third party, and the dealer must not have an unconditional obligation to pay."
+    },
+    {
+      "question": "How does an entity determine when a customer has obtained control of a product?",
+      "contexts": [
+        "An entity satisfies its performance obligation to transfer a product by evaluating when a customer obtains control of that product.",
+        "Control is transferred either when the product is delivered to the customer's site or when the product is shipped, depending on the terms of the contract."
+      ],
+      "ground_truth": "By evaluating when a customer obtains control of the product, based on contract terms including delivery and shipping terms."
+    },
+    {
+      "question": "What criteria must be met for a customer to have obtained control of a product in a bill-and-hold arrangement?",
+      "contexts": [
+        "In addition to applying the requirements in paragraph 38, for a customer to have obtained control of a product in a bill-and-hold arrangement, all of the following criteria must be met: (a) the reason for the bill-and-hold arrangement must be substantive",
+        "the customer has the ability to direct the use of, and obtain substantially all of the remaining benefits from, the product even though it has decided not to exercise its right to take physical possession of that product"
+      ],
+      "ground_truth": "The reason for the bill-and-hold arrangement must be substantive"
+    },
+    {
+      "question": "What conditions must be met for an entity to recognize revenue for the sale of a product on a bill-and-hold basis?",
+      "contexts": [
+        "the product must be identified separately as belonging to the customer",
+        "the product currently must be ready for physical transfer to the customer",
+        "the entity cannot have the ability to use the product or to direct it to another customer"
+      ],
+      "ground_truth": "The product must be identified separately, be ready for physical transfer, and the entity must not have the ability to use or redirect it."
+    },
+    {
+      "question": "How does an entity determine if customer acceptance affects the transfer of control of a good or service?",
+      "contexts": [
+        "An entity shall consider clauses that require remedial action if a good or service does not meet agreed-upon specifications when evaluating when a customer obtains control.",
+        "If an entity can objectively determine that control of a good or service has been transferred in accordance with the contract specifications, then customer acceptance is a formality."
+      ],
+      "ground_truth": "It does not affect the determination if the entity can objectively confirm the good or service meets the agreed-upon specifications."
+    },
+    {
+      "question": "What should an entity consider when revenue is recognised before customer acceptance?",
+      "contexts": [
+        "The entity's experience with contracts for similar goods or services may provide evidence that a good or service provided to the customer is in accordance with the agreed-upon specifications in the contract.",
+        "If revenue is recognised before customer acceptance, the entity still must consider whether there are any remaining performance obligations and evaluate whether to account for them separately."
+      ],
+      "ground_truth": "Remaining performance obligations"
+    },
+    {
+      "question": "When can an entity conclude that a customer has obtained control of a good or service if it is provided for trial or evaluation purposes?",
+      "contexts": [
+        "The entity would not be able to conclude that the customer has obtained control until the entity receives the customer's acceptance if the good or service is in accordance with the agreed-upon specifications.",
+        "If an entity delivers products to a customer for trial or evaluation purposes and the customer is not committed to pay, control of the product is not transferred to the customer until either the customer accepts the product or the trial period lapses."
+      ],
+      "ground_truth": "Until the customer accepts the product or the trial period lapses"
+    },
+    {
+      "question": "What factors affect how an entity's revenue is disaggregated under IFRS 15?",
+      "contexts": [
+        "Paragraph 114 requires an entity to disaggregate revenue from contracts with customers into categories that depict how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors.",
+        "The extent to which an entity's revenue is disaggregated depends on the facts and circumstances that pertain to the entity's contracts with customers."
+      ],
+      "ground_truth": "Economic factors"
+    },
+    {
+      "question": "What types of information should be considered when evaluating how an entity's revenue is presented?",
+      "contexts": [
+        "Information about the entity's revenue includes disclosures outside financial statements and data reviewed by the chief operating decision maker.",
+        "Examples of relevant categories include type of good or service."
+      ],
+      "ground_truth": "Disclosures outside financial statements and data reviewed by the chief operating decision maker"
+    },
+    {
+      "question": "What are some examples of ways to categorize revenue streams as mentioned in the provided text?",
+      "contexts": [
+        "Revenue can be categorized by factors such as major product lines, geographical region, or type of customer.",
+        "Examples of categorization include market or type of customer, type of contract, and contract duration.",
+        "Other factors include timing of transfer of goods or services and sales channels."
+      ],
+      "ground_truth": "Major product lines, geographical region, market or type of customer, type of contract, contract duration, timing of transfer of goods or services, and sales channels"
+    },
+    {
+      "question": "When must an entity apply IFRS 15 for annual reporting periods?",
+      "contexts": [
+        "An entity shall apply this Standard for annual reporting periods beginning on or after 1 January 2018.",
+        "Earlier application is permitted.",
+        "If an entity applies this Standard earlier, it shall disclose that fact."
+      ],
+      "ground_truth": "On or after 1 January 2018"
+    },
+    {
+      "question": "When must an entity apply the amendments issued in IFRS 17?",
+      "contexts": [
+        "Entity shall apply those amendments for annual reporting periods beginning on or after 1 January 2018.",
+        "An entity shall apply that amendment when it applies IFRS 17."
+      ],
+      "ground_truth": "For annual reporting periods beginning on or after 1 January 2018, or when it applies IFRS 17"
+    },
+    {
+      "question": "What information is an entity required to present when first applying this Standard according to paragraph 28(f) of IAS 8?",
+      "contexts": [
+        "An entity need only present the quantitative information required by paragraph 28(f) of IAS 8 for the annual period immediately preceding the first annual period for which this Standard is applied.",
+        "This requirement applies only if the entity applies this Standard retrospectively in accordance with paragraph C3(a)."
+      ],
+      "ground_truth": "Quantitative information for the immediately preceding period"
+    },
+    {
+      "question": "What practical expedients can an entity use when applying IFRS 15 retrospectively?",
+      "contexts": [
+        "An entity may use one or more of the following practical expedients when applying this Standard retrospectively in accordance with paragraph C3(a):",
+        "For completed contracts, an entity need not restate contracts that begin and end within the same annual reporting period, or are completed contracts at the beginning of the earliest period presented."
+      ],
+      "ground_truth": "The entity can use expedients such as not restating certain completed contracts and using the transaction price at the date the contract was completed for contracts with variable consideration."
+    },
+    {
+      "question": "What is required for an entity when identifying performance obligations and allocating transaction prices for contract modifications?",
+      "contexts": [
+        "An entity need not retrospectively restate the contract for those contract modifications in accordance with paragraphs 20–21.",
+        "An entity shall reflect the aggregate effect of all of the modifications that occur before the beginning of the earliest period presented when identifying performance obligations and allocating transaction prices."
+      ],
+      "ground_truth": "The entity shall reflect the aggregate effect of all modifications."
+    },
+    {
+      "question": "What information must an entity disclose when using practical expedients from paragraph C5?",
+      "contexts": [
+        "The entity shall disclose all of the following information: the expedients that have been used; and to the extent reasonably possible, a qualitative assessment of the estimated effect of applying each of those expedients.",
+        "For any of the practical expedients in paragraph C5 that an entity uses, the entity shall apply that expedient consistently to all contracts within all reporting periods presented."
+      ],
+      "ground_truth": "The expedients used and a qualitative assessment of their estimated effect."
+    },
+    {
+      "question": "What disclosures must an entity provide when applying IFRS 15 retrospectively for reporting periods that include the date of initial application?",
+      "contexts": [
+        "An entity applying this Standard retrospectively in accordance with paragraph C3(b) may also use the practical expedient described in paragraph C5(c).",
+        "If an entity uses this practical expedient, the entity shall apply the expedient consistently to all contracts and disclose the information required by paragraph C6.",
+        "For reporting periods that include the date of initial application, an entity shall provide both of the following additional disclosures if this Standard is applied retrospectively"
+      ],
+      "ground_truth": "Additional disclosures as required"
+    },
+    {
+      "question": "How should an entity apply the Clarifications to IFRS 15 according to paragraph C1B?",
+      "contexts": [
+        "An entity shall apply Clarifications to IFRS 15 retrospectively in accordance with IAS 8.",
+        "In applying the amendments retrospectively, an entity shall apply the amendments as if they had been included in IFRS 15 at the date of initial application."
+      ],
+      "ground_truth": "Retrospectively in accordance with IAS 8"
+    },
+    {
+      "question": "What happens to completed contracts at the date of initial application of IFRS 15 if an entity applies it according to paragraph C3(b)?",
+      "contexts": [
+        "if an entity applies IFRS 15 in accordance with paragraph C3(b) only to contracts that are not completed contracts at the date of initial application, the entity does not restate the completed contracts at the date of initial application of IFRS 15 for the effects of these amendments.",
+        "References to IFRS 9 C9 If an entity applies this Standard but does not yet apply IFRS 9 Financial Instruments, any reference in this Standard to IFRS 9 shall be read as a reference to IAS 39 Financial Instruments: Recognition and Measurement."
+      ],
+      "ground_truth": "The entity does not restate the completed contracts."
+    },
+    {
+      "question": "What are some of the specific IFRS interpretations related to revenue recognition mentioned?",
+      "contexts": [
+        "IFRS 15",
+        "IFRIC 15 Agreements for the Construction of Real Estate",
+        "IFRIC 18 Transfers of Assets from Customers"
+      ],
+      "ground_truth": "IFRS 15, IFRIC 15, IFRIC 18"
+    },
+    {
+      "question": "When must an entity apply the amendments to other Standards as described in IFRS 15 Appendix D?",
+      "contexts": [
+        "An entity shall apply the amendments for annual periods beginning on or after 1 January 2018.",
+        "If an entity applies IFRS 15 for an earlier period, these amendments shall be applied for that earlier period."
+      ],
+      "ground_truth": "For annual periods beginning on or after 1 January 2018, or for an earlier period if IFRS 15 is applied early."
+    },
+    {
+      "question": "How many members of the International Accounting Standards Board approved IFRS 15 Revenue from Contracts with Customers?",
+      "contexts": [
+        "IFRS 15 Revenue from Contracts with Customers was approved for issue by all sixteen members of the International Accounting Standards Board.",
+        "The International Accounting Standards Board consists of members who vote on the approval of standards such as IFRS 15."
+      ],
+      "ground_truth": "sixteen"
+    },
+    {
+      "question": "Who was the Chairman of the International Accounting Standards Board when IFRS 15 was approved for publication?",
+      "contexts": [
+        "The fourteen members of the International Accounting Standards Board approved IFRS 15 for publication.",
+        "Hans Hoogervorst was the Chairman of the International Accounting Standards Board.",
+        "The effective date of IFRS 15 was issued in September 2015."
+      ],
+      "ground_truth": "Hans Hoogervorst"
+    },
+    {
+      "question": "How many members of the International Accounting Standards Board approved the Clarifications to IFRS 15 Revenue from Contracts with Customers?",
+      "contexts": [
+        "Clarifications to IFRS 15 Revenue from Contracts with Customers was approved for issue by thirteen of the fourteen members of the International Accounting Standards Board.",
+        "Mr Ochi dissented.",
+        "The International Accounting Standards Board consists of fourteen members."
+      ],
+      "ground_truth": "13"
+    }
+  ]
+}

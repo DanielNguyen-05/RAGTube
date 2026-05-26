@@ -1,0 +1,592 @@
+{
+  "document": "isa-500_en.pdf",
+  "source_chunk_file": "C:\\github\\AI-Audit-Assistant\\data\\processed\\chunks\\isa-500_en_chunks.json",
+  "sample_count": 72,
+  "samples": [
+    {
+      "question": "When did the INTERNATIONAL STANDARD ON AUDITING 500 AUDIT EVIDENCE become effective for audits of financial statements?",
+      "contexts": [
+        "The INTERNATIONAL STANDARD ON AUDITING 500 AUDIT EVIDENCE is effective for audits of financial statements for periods beginning on or after December 15, 2009"
+      ],
+      "ground_truth": "December 15, 2009"
+    },
+    {
+      "question": "What International Standard on Auditing should be read in conjunction with ISA 200?",
+      "contexts": [
+        "International Standard on Auditing (ISA) 500, Audit Evidence, should be read in conjunction with ISA 200, Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with International Standards on Auditing."
+      ],
+      "ground_truth": "ISA 500"
+    },
+    {
+      "question": "What is the primary focus of this International Standard on Auditing (ISA) in relation to audit evidence?",
+      "contexts": [
+        "This International Standard on Auditing (ISA) explains what constitutes audit evidence in an audit of financial statements.",
+        "This ISA deals with the auditor's responsibility to design and perform audit procedures to obtain sufficient appropriate audit evidence."
+      ],
+      "ground_truth": "Explaining what constitutes audit evidence and the auditor's responsibility to obtain sufficient appropriate audit evidence."
+    },
+    {
+      "question": "What is the objective of the auditor in designing and performing audit procedures according to this ISA?",
+      "contexts": [
+        "The objective of the auditor is to design and perform audit procedures in such a way as to enable the auditor to obtain sufficient appropriate audit evidence to be able to draw reasonable conclusions on which to base the auditor's opinion.",
+        "Evidence has been obtained as per ISA 200 and ISA 330."
+      ],
+      "ground_truth": "To obtain sufficient appropriate audit evidence to draw reasonable conclusions for the auditor's opinion."
+    },
+    {
+      "question": "What types of information are included in audit evidence?",
+      "contexts": [
+        "Audit evidence includes both information contained in the accounting records underlying the financial statements and information obtained from other sources.",
+        "Records such as work sheets and spreadsheets supporting cost allocations, computations, reconciliations and disclosures are part of the information used by the auditor."
+      ],
+      "ground_truth": "Information contained in accounting records and information from other sources"
+    },
+    {
+      "question": "What is considered when determining the sufficiency of audit evidence?",
+      "contexts": [
+        "The quantity of the audit evidence is the measure of the sufficiency of audit evidence.",
+        "Information obtained by the auditor as audit evidence is suitable for use by a broad range of users."
+      ],
+      "ground_truth": "The quantity of audit evidence"
+    },
+    {
+      "question": "What factors affect the evidence needed in an audit?",
+      "contexts": [
+        "The evidence needed is affected by the auditor's assessment of the risks of material misstatement and also by the quality of such audit evidence.",
+        "The auditor's assessment and the quality of audit evidence are key factors."
+      ],
+      "ground_truth": "The auditor's assessment of the risks of material misstatement and the quality of audit evidence"
+    },
+    {
+      "question": "What factors should the auditor consider when designing and performing audit procedures to obtain sufficient appropriate audit evidence?",
+      "contexts": [
+        "The auditor shall design and perform audit procedures that are appropriate in the circumstances for the purpose of obtaining sufficient appropriate audit evidence.",
+        "When designing and performing audit procedures, the auditor shall consider the relevance and reliability of the information to be used as audit evidence."
+      ],
+      "ground_truth": "relevance and reliability of the information"
+    },
+    {
+      "question": "What steps should an auditor take when using information produced by the entity?",
+      "contexts": [
+        "the auditor shall evaluate whether the information is sufficiently reliable for the auditor's purposes",
+        "Obtaining audit evidence about the accuracy and completeness of the information"
+      ],
+      "ground_truth": "Evaluate reliability, obtain evidence of accuracy and completeness, and assess precision and detail."
+    },
+    {
+      "question": "What should the auditor do when audit evidence from different sources is inconsistent?",
+      "contexts": [
+        "audit evidence obtained from one source is inconsistent with that obtained from another",
+        "the auditor has doubts over the reliability of information to be used as audit evidence"
+      ],
+      "ground_truth": "determine what modifications or additions to audit procedures are necessary to resolve the matter"
+    },
+    {
+      "question": "What types of data may be obtained from external information sources for pricing services?",
+      "contexts": [
+        "Examples of information that may be obtained from external information sources include prices and pricing related data",
+        "External information sources can provide macro-economic data, such as historical and forecast unemployment rates and economic growth rates",
+        "Industry specific data, such as an index of reclamation costs, can also be obtained from external sources"
+      ],
+      "ground_truth": "Prices and pricing related data, macro-economic data, credit history data, and industry specific data"
+    },
+    {
+      "question": "What factors make information more suitable for use by a broad range of users?",
+      "contexts": [
+        "A particular set of information is more likely to be suitable for use by a broad range of users and less likely to be subject to influence by any particular user if the external individual or organization provides it to the public for free, or makes it available to a wide range of users in return for payment of a fee.",
+        "Judgment may be required in determining whether the information is suitable for use by a broad range of users, taking into account the ability of the entity to influence the external information"
+      ],
+      "ground_truth": "If it's provided for free or available for a fee to a wide range of users, and less subject to influence by any particular user."
+    },
+    {
+      "question": "Can an external individual or organization serve as both an external information source and a management's expert for the same set of information?",
+      "contexts": [
+        "An external individual or organization cannot be both an external information source and a management's expert for any particular set of information.",
+        "An external individual or organization may act as a management's expert for one set of information and as an external information source for another."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "Can the same organization serve as both an external information source and an expert for an entity?",
+      "contexts": [
+        "An organization may provide general information about real estate prices and be considered an external information source.",
+        "The same organization may also provide commissioned valuations tailored to an entity's specific needs, acting as a management's or auditor's expert."
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "What role might an external individual or organization play if they provide expertise in estimating the fair value of securities for an entity's financial statements?",
+      "contexts": [
+        "An external individual or organization may possess expertise in the application of models to estimate the fair value of securities for which there is no observable market.",
+        "If the external individual or organization applies that expertise in making an estimate specifically for the entity and that work is used by management in preparing its financial statements, the external individual or organization is likely to be a management's expert with respect to that information."
+      ],
+      "ground_truth": "Management's expert"
+    },
+    {
+      "question": "What is considered an external information source if used by an entity in preparing its risk disclosures?",
+      "contexts": [
+        "An external individual or organization may publish information about risks or conditions in an industry.",
+        "If used by an entity in preparing its risk disclosures, such information would ordinarily be considered to be information from an external information source."
+      ],
+      "ground_truth": "Information published by an external individual or organization about risks or conditions in an industry."
+    },
+    {
+      "question": "How does the role of an external individual or organization differ when providing general market trend information versus being commissioned for entity-specific advice?",
+      "contexts": [
+        "An external individual or organization may apply its expertise in providing information about current and future market trends, which it makes available to, and is suitable for use by, a broad range of users.",
+        "If the same type of information has been commissioned by the entity to address current and future trends relevant to the entity's specific facts and circumstances, the external individual or organization is likely to be acting as a management's expert."
+      ],
+      "ground_truth": "The external individual or organization acts as an external information source for general market trends, but as a management's expert when providing entity-specific advice."
+    },
+    {
+      "question": "What sources can an auditor obtain information from to form their opinion?",
+      "contexts": [
+        "It is cumulative in nature and is primarily obtained from audit procedures performed during the course of the audit.",
+        "It may, however, also include information obtained from other sources such as previous audits"
+      ],
+      "ground_truth": "audit procedures and other sources like previous audits"
+    },
+    {
+      "question": "What types of information can be considered as audit evidence?",
+      "contexts": [
+        "Accounting records and other sources internal to the entity are important sources of audit evidence.",
+        "Information that may be used as audit evidence may have been prepared using the work of a management's expert or be obtained from an external information source.",
+        "Audit evidence comprises both information that supports and corroborates management's assertions, and any information that contradicts such assertions."
+      ],
+      "ground_truth": "Both supporting and contradicting information, as well as the absence of information."
+    },
+    {
+      "question": "What types of audit procedures can be used to obtain audit evidence?",
+      "contexts": [
+        "Audit procedures to obtain audit evidence can include inspection, observation, confirmation, recalculation, reperformance, and analytical procedures, often in some combination, in addition to inquiry.",
+        "Although inquiry may provide important audit evidence, and may even produce evidence of a misstatement, inquiry alone ordinarily does not provide sufficient audit evidence."
+      ],
+      "ground_truth": "inspection, observation, confirmation, recalculation, reperformance, analytical procedures, and inquiry"
+    },
+    {
+      "question": "What factors affect the quantity of audit evidence needed?",
+      "contexts": [
+        "The quantity of audit evidence needed is affected by the auditor's assessment of the risks of misstatement and also by the quality of such audit evidence.",
+        "Sufficiency is the measure of the quantity of audit evidence."
+      ],
+      "ground_truth": "The auditor's assessment of the risks of misstatement and the quality of the audit evidence"
+    },
+    {
+      "question": "What factors influence the reliability of audit evidence?",
+      "contexts": [
+        "The reliability of evidence is influenced by its source and by its nature, and is dependent on the individual circumstances under which it is obtained.",
+        "ISA 200 contains discussion of such matters as the nature of audit procedures, the timeliness of financial reporting, and the balance between benefit and cost."
+      ],
+      "ground_truth": "Source, nature, and individual circumstances"
+    },
+    {
+      "question": "What types of audit evidence provide more assurance when obtained from different sources?",
+      "contexts": [
+        "Some audit evidence is obtained by performing audit procedures to test the accounting records",
+        "More assurance is ordinarily obtained from consistent audit evidence obtained from different sources or of a different nature"
+      ],
+      "ground_truth": "Consistent audit evidence from different sources or of a different nature"
+    },
+    {
+      "question": "What types of information from independent sources can auditors use as audit evidence?",
+      "contexts": [
+        "Information from sources independent of the entity that the auditor may use as audit evidence may include confirmations from third parties and information from an external information source, including analysts' reports, and comparable data about competitors (benchmarking data).",
+        "Audit evidence to draw reasonable conclusions on which to base the auditor's opinion is obtained by performing risk assessment procedures and further audit procedures."
+      ],
+      "ground_truth": "Confirmations from third parties, analysts' reports, and comparable data about competitors (benchmarking data)."
+    },
+    {
+      "question": "What types of procedures may the audit procedures described in paragraphs A18-A29 be used for?",
+      "contexts": [
+        "Audit procedures comprise tests of controls and substantive procedures.",
+        "The audit procedures described in paragraphs A18-A29 may serve multiple purposes depending on their application.",
+        "These purposes include risk assessment procedures, tests of controls, or substantive procedures."
+      ],
+      "ground_truth": "Risk assessment procedures, tests of controls, or substantive procedures"
+    },
+    {
+      "question": "What may happen to certain electronic information after a specified period of time due to an entity's data retention policies?",
+      "contexts": [
+        "The nature and timing of the audit procedures to be used may be affected by the fact that some of the accounting data and other information may be available only in electronic form or only at certain points or periods in time.",
+        "Certain electronic information may not be retrievable after a specified period of time, for example, if files are changed and if backup files do not exist."
+      ],
+      "ground_truth": "It may not be retrievable"
+    },
+    {
+      "question": "What is an example of using inspection as a test of controls in an audit?",
+      "contexts": [
+        "Inspection involves examining records or documents, whether internal or external, in paper form, electronic form, or other media, or a physical examination of an asset.",
+        "An example of inspection used as a test of controls is inspection of records for evidence of authorization."
+      ],
+      "ground_truth": "Inspection of records for evidence of authorization"
+    },
+    {
+      "question": "What type of audit evidence can inspection of tangible assets provide?",
+      "contexts": [
+        "Inspection of such documents may not necessarily provide audit evidence about ownership or value.",
+        "Inspection of tangible assets may provide reliable audit evidence with respect to their existence, but not necessarily about the entity's rights and obligations or the valuation of the assets."
+      ],
+      "ground_truth": "Existence"
+    },
+    {
+      "question": "What is a limitation of using observation as audit evidence?",
+      "contexts": [
+        "Observation is limited to the point in time at which it takes place",
+        "The act of being observed may affect how a process or procedure is performed"
+      ],
+      "ground_truth": "It is limited to a specific point in time and may be affected by the observation itself"
+    },
+    {
+      "question": "What is the purpose of external confirmation procedures in an audit?",
+      "contexts": [
+        "The auditor may request confirmation of the terms of agreements or transactions an entity has with third parties.",
+        "External confirmation procedures also are used to obtain audit evidence about the absence of certain conditions."
+      ],
+      "ground_truth": "To confirm agreements and obtain evidence about the absence of certain conditions."
+    },
+    {
+      "question": "What does reperformance involve in the context of auditing?",
+      "contexts": [
+        "Reperformance involves the auditor's independent execution of procedures or controls that were originally performed as part of the entity's internal control.",
+        "Recalculation consists of checking the mathematical accuracy of documents or records."
+      ],
+      "ground_truth": "the auditor's independent execution of procedures or controls"
+    },
+    {
+      "question": "What types of data are used in analytical procedures during an audit?",
+      "contexts": [
+        "Analytical procedures consist of evaluations of financial information through analysis of plausible relationships among both financial and non-financial data.",
+        "Analytical procedures also encompass such investigation as is necessary of identified fluctuations or relationships that are inconsistent with other relevant information or that differ from expected values by a significant amount."
+      ],
+      "ground_truth": "Financial and non-financial data"
+    },
+    {
+      "question": "What might responses to inquiries provide to the auditor during the audit process?",
+      "contexts": [
+        "Responses to inquiries may provide the auditor with information not previously possessed or with corroborative audit evidence.",
+        "Responses might provide information that differs significantly from other information that the auditor has obtained."
+      ],
+      "ground_truth": "Information not previously possessed, corroborative audit evidence, or differing information."
+    },
+    {
+      "question": "What type of information may the auditor consider obtaining from management and those charged with governance to confirm responses to oral inquiries?",
+      "contexts": [
+        "The auditor may consider it necessary to obtain written representations from management and, where appropriate, those charged with governance to confirm responses to oral inquiries.",
+        "Management's stated reasons for choosing a particular course of action, and management's ability to pursue a specific course of action may provide relevant information to corroborate the evidence obtained through inquiry."
+      ],
+      "ground_truth": "Written representations"
+    },
+    {
+      "question": "What factor affects the quality of all audit evidence?",
+      "contexts": [
+        "The quality of all audit evidence is affected by the relevance and reliability of the information upon which it is based.",
+        "Relevance deals with the logical connection with, or bearing upon, the purpose of the audit procedure and, where appropriate, the assertion under consideration."
+      ],
+      "ground_truth": "relevance and reliability of the information"
+    },
+    {
+      "question": "What type of audit evidence may be relevant when testing for understatement in the existence or valuation of accounts payable?",
+      "contexts": [
+        "testing the recorded accounts payable may be a relevant audit procedure in the existence or valuation of accounts payable",
+        "testing such information as subsequent disbursements, unpaid invoices, suppliers' statements, and unmatched receiving reports may be relevant when testing for understatement in the existence or valuation of accounts payable"
+      ],
+      "ground_truth": "subsequent disbursements, unpaid invoices, suppliers' statements, and unmatched receiving reports"
+    },
+    {
+      "question": "What is the purpose of designing tests of controls in an audit?",
+      "contexts": [
+        "Tests of controls are designed to evaluate the operating effectiveness of controls in preventing, or detecting and correcting, material misstatements at the assertion level.",
+        "Designing tests of controls to obtain relevant audit evidence includes identifying conditions that indicate performance of a control, and deviation conditions."
+      ],
+      "ground_truth": "To evaluate the operating effectiveness of controls"
+    },
+    {
+      "question": "What factors influence the reliability of information used as audit evidence?",
+      "contexts": [
+        "The reliability of information to be used as audit evidence, and therefore of the audit evidence itself, is influenced by its source and its nature, and the circumstances under which it is obtained, including the controls over its preparation and maintenance where relevant.",
+        "AUDIT EVIDENCE indicate departures from adequate performance."
+      ],
+      "ground_truth": "source, nature, and circumstances of obtaining the information"
+    },
+    {
+      "question": "What factors can affect the reliability of audit evidence obtained from external sources?",
+      "contexts": [
+        "Even when information to be used as audit evidence is obtained from sources external to the entity, circumstances may exist that could affect its reliability.",
+        "For example, information obtained from a source independent of the entity may not be reliable if the source is not knowledgeable, or a management's expert may lack objectivity."
+      ],
+      "ground_truth": "The source not being knowledgeable or the expert lacking objectivity"
+    },
+    {
+      "question": "What type of audit evidence is considered more reliable than oral evidence?",
+      "contexts": [
+        "Audit evidence in documentary form, whether paper, electronic, or other medium, is more reliable than evidence obtained orally",
+        "Audit evidence obtained directly by the auditor is more reliable than audit evidence obtained indirectly or by inference",
+        "A contemporaneously written record of a meeting is more reliable than a subsequent oral representation of the matters discussed"
+      ],
+      "ground_truth": "Documentary form evidence"
+    },
+    {
+      "question": "What ISA provides guidance on the reliability of data used for designing analytical procedures as substantive procedures?",
+      "contexts": [
+        "ISA 520 provides further guidance regarding the reliability of data used for purposes of designing analytical procedures as substantive procedures.",
+        "The auditor uses various ISAs for guidance on different aspects of the audit process."
+      ],
+      "ground_truth": "ISA 520"
+    },
+    {
+      "question": "What factors must the auditor consider when using information from an external source as audit evidence?",
+      "contexts": [
+        "The auditor is required to consider the relevance and reliability of information obtained from an external information source.",
+        "This consideration may include audit evidence about the external information source or the preparation of the information."
+      ],
+      "ground_truth": "relevance and reliability"
+    },
+    {
+      "question": "What factors should auditors consider when evaluating the relevance and reliability of external information sources used by management?",
+      "contexts": [
+        "Obtaining an understanding of why management uses an external information source, and how the relevance and reliability of the information was considered, may help to inform the auditor's consideration of the relevance and reliability of that information.",
+        "The consideration includes its accuracy and completeness."
+      ],
+      "ground_truth": "Accuracy and completeness"
+    },
+    {
+      "question": "What factors should auditors consider when evaluating the relevance and reliability of information from external sources?",
+      "contexts": [
+        "The nature and authority of the external information source is a factor to consider when evaluating the relevance and reliability of information.",
+        "The ability to influence the information obtained, through relationships between the entity and the information source, is also a factor to consider."
+      ],
+      "ground_truth": "The nature and authority of the source and the ability to influence the information"
+    },
+    {
+      "question": "What factors does an auditor consider when evaluating the reliability of information from an external source?",
+      "contexts": [
+        "The auditor considers the reputation of the external information source with respect to the information.",
+        "Past experience of the auditor with the reliability of the information provided by the external information source is also a factor.",
+        "Evidence of general market acceptance by users of the relevance or reliability of information from an external information source is considered."
+      ],
+      "ground_truth": "reputation, past experience, and market acceptance"
+    },
+    {
+      "question": "What factors should be considered when evaluating the suitability of information for use in financial reporting?",
+      "contexts": [
+        "Whether the information is suitable for use in the manner in which it is being used and, if applicable, was developed taking into account the applicable financial reporting framework;",
+        "Alternative information that may contradict the information used;",
+        "Information about the methods used in preparing the information, how the methods are being applied including, where applicable, how models have been used in such application, and the controls over the methods;"
+      ],
+      "ground_truth": "suitability, alternative information, methods, and controls"
+    },
+    {
+      "question": "What factors does the auditor consider when evaluating the reliability of external information?",
+      "contexts": [
+        "The auditor considers the assessed risks of material misstatement at the assertion level relevant to the external information.",
+        "The degree to which the external information is relevant to the reasons for the assessed risks of material misstatement is also considered.",
+        "The possibility that the external information may not be reliable, such as whether it is from a credible source, is taken into account."
+      ],
+      "ground_truth": "Assessed risks, relevance to reasons for risks, and credibility of the source"
+    },
+    {
+      "question": "What procedures may auditors use to respond to assessed risks of material misstatement related to external information sources?",
+      "contexts": [
+        "Auditors may perform a comparison of information obtained from the external information source with information obtained from an alternative independent information source.",
+        "Obtaining an understanding of management's use of an external information source is also relevant when considering the assessed risks."
+      ],
+      "ground_truth": "Comparing information with an alternative source and obtaining an understanding of management's use"
+    },
+    {
+      "question": "What steps can be taken to assess the reliability of information from external sources?",
+      "contexts": [
+        "The auditor considers the reliability of the information from external information sources and potentially tests the operating effectiveness of such controls.",
+        "Procedures are performed to obtain information from the external information source to understand its processes, techniques, and assumptions."
+      ],
+      "ground_truth": "Consider reliability and test operating effectiveness of controls, and perform procedures to understand the external source's processes."
+    },
+    {
+      "question": "What factors influence an auditor's determination of audit procedures when relying on information from a single external source?",
+      "contexts": [
+        "The auditor's determination of the nature and extent of audit procedures is influenced by the nature and credibility of the source of the information.",
+        "The assessed risks of material misstatement to which that external information is relevant also play a role.",
+        "The degree to which the use of that information is relevant to the reasons for the assessed risk of material misstatement is another factor."
+      ],
+      "ground_truth": "The nature and credibility of the source, assessed risks of material misstatement, and relevance to the reasons for the assessed risk."
+    },
+    {
+      "question": "What action may an auditor take if a source is not considered credible?",
+      "contexts": [
+        "If a source is not assessed as credible, the auditor may determine that more extensive procedures are appropriate.",
+        "The auditor may consider performing procedures to obtain information from the external information source when practical."
+      ],
+      "ground_truth": "Perform more extensive procedures or obtain information from the external source when practical."
+    },
+    {
+      "question": "What happens when an entity fails to employ necessary expertise for preparing financial statements?",
+      "contexts": [
+        "The preparation of an entity's financial statements may require expertise in a field other than accounting or auditing, such as actuarial calculations, valuations, or engineering data.",
+        "Failure to do so when such expertise is necessary increases the risks of material misstatement."
+      ],
+      "ground_truth": "It increases the risks of material misstatement."
+    },
+    {
+      "question": "What happens when an individual or organization provides price data for private transactions to an entity for its estimation methods?",
+      "contexts": [
+        "If the individual or organization merely provides price data regarding private transactions not otherwise available to the entity which the entity uses in its own estimation methods, such information, if used as audit evidence, is subject to paragraph 7 of this ISA.",
+        "The information provided by the individual or organization is considered as coming from an external information source and not the use of a management's expert by the entity."
+      ],
+      "ground_truth": "It is subject to paragraph 7 of this ISA as information from an external information source."
+    },
+    {
+      "question": "What factors can affect the auditor's use of management's expert in an audit?",
+      "contexts": [
+        "The nature and complexity of the matter to which the management's expert relates can affect the auditor's use of the expert.",
+        "Other factors include the risks of material misstatement, availability of alternative sources of audit evidence, and the nature of the expert's work."
+      ],
+      "ground_truth": "The nature and complexity of the matter, risks of material misstatement, availability of alternative sources of audit evidence, and the nature of the expert's work"
+    },
+    {
+      "question": "What factors can influence the capability of a management's expert?",
+      "contexts": [
+        "Factors that influence capability may include, for example, geographic location, and the availability of time and resources.",
+        "Capability relates the ability of the management's expert to exercise that competence in the circumstances."
+      ],
+      "ground_truth": "geographic location, availability of time and resources"
+    },
+    {
+      "question": "What factors are important in determining the reliability of information produced by a management's expert?",
+      "contexts": [
+        "The competence, capabilities and objectivity of a management's expert, and any controls within the entity over that expert's work, are important factors in relation to the reliability of any information produced by a management's expert.",
+        "Information regarding the competence, capabilities and objectivity of a management's expert may come from a variety of sources."
+      ],
+      "ground_truth": "competence, capabilities, and objectivity"
+    },
+    {
+      "question": "What factors are relevant when evaluating the competence of a management's expert?",
+      "contexts": [
+        "Matters relevant to evaluating the competence, capabilities and objectivity of a management's expert include whether that expert's work is subject to technical performance standards or other professional or industry requirements.",
+        "Other matters that may be relevant include the relevance of the management's expert's competence."
+      ],
+      "ground_truth": "Technical performance standards, professional or industry requirements, and relevance of the expert's competence"
+    },
+    {
+      "question": "What factors should be considered when evaluating the competence of management's experts?",
+      "contexts": [
+        "The expert's work should be evaluated in the context of the matter for which it will be used, including any areas of specialty within that expert's field.",
+        "The management's expert's competence with respect to relevant accounting requirements should be considered, including knowledge of assumptions and methods consistent with the applicable financial reporting framework."
+      ],
+      "ground_truth": "Areas of specialty and relevant accounting requirements"
+    },
+    {
+      "question": "What types of threats may compromise a management's expert's objectivity?",
+      "contexts": [
+        "A broad range of circumstances may threaten objectivity, for example, self-interest threats, advocacy threats, familiarity threats, self-review threats and intimidation threats.",
+        "Safeguards may reduce such threats, and may be created either by external structures or by the management's expert's work environment."
+      ],
+      "ground_truth": "self-interest threats, advocacy threats, familiarity threats, self-review threats and intimidation threats"
+    },
+    {
+      "question": "How can the objectivity of an expert engaged by an entity be evaluated?",
+      "contexts": [
+        "An expert employed by the entity cannot ordinarily be regarded as being more likely to be objective than other employees of the entity.",
+        "When evaluating the objectivity of an expert engaged by the entity, it may be relevant to discuss with management and that expert any interests and relationships that may create threats to the expert's objectivity."
+      ],
+      "ground_truth": "By discussing interests, relationships, and applicable safeguards with management and the expert."
+    },
+    {
+      "question": "What types of interests and relationships may create threats to an expert's objectivity?",
+      "contexts": [
+        "Interests and relationships creating threats may include: financial interests, business and personal relationships, and provision of other services.",
+        "Obtaining an understanding of the work of the management's expert is necessary to evaluate the adequacy of safeguards."
+      ],
+      "ground_truth": "Financial interests, business and personal relationships, and provision of other services"
+    },
+    {
+      "question": "What factors should the auditor consider when evaluating the work of the management's expert?",
+      "contexts": [
+        "Aspects of the management's expert's field relevant to the auditor's understanding may include areas of specialty, professional or other standards, and regulatory or legal requirements.",
+        "The auditor should consider the assumptions and methods used by the management's expert and whether they are generally accepted within that expert's field and appropriate for financial reporting purposes."
+      ],
+      "ground_truth": "Areas of specialty, professional standards, assumptions and methods, and regulatory requirements"
+    },
+    {
+      "question": "What information can help the auditor determine the appropriateness of a management's expert's work for the auditor's purposes?",
+      "contexts": [
+        "Evaluating the agreement between the entity and the expert may assist the auditor in determining the appropriateness of the nature, scope and objectives of that expert's work.",
+        "The agreement can also help the auditor understand the respective roles and responsibilities of management and the expert.",
+        "Additionally, the agreement may outline the nature, timing and extent of communication between management and the expert."
+      ],
+      "ground_truth": "The nature, scope and objectives of the expert's work; the respective roles and responsibilities of management and the expert; and the nature, timing and extent of communication between management and the expert."
+    },
+    {
+      "question": "What factors should the auditor consider when evaluating the appropriateness of a management expert's work as audit evidence?",
+      "contexts": [
+        "Evaluating the appropriateness of the management's expert's work as audit evidence for the relevant assertion may include considerations of the relevance and reasonableness of that expert's findings or conclusions.",
+        "The auditor should also consider the consistency of the expert's findings with other audit evidence and whether they have been appropriately reflected in the financial statements.",
+        "Additionally, the relevance and reasonableness of significant assumptions and methods, and the relevance, completeness, and accuracy of source data used by the expert, should be considered."
+      ],
+      "ground_truth": "The relevance and reasonableness of the expert's findings, consistency with other audit evidence, significant assumptions and methods, and source data"
+    },
+    {
+      "question": "What factors affect the reliability of audit evidence when auditing revenue by applying standard prices to sales volume records?",
+      "contexts": [
+        "Information produced by the entity that is used for performing audit procedures needs to be sufficiently complete and accurate.",
+        "The effectiveness of auditing revenue by applying standard prices to records of sales volume is affected by the accuracy of the price information and the completeness and accuracy of the sales volume data."
+      ],
+      "ground_truth": "Accuracy of price information and completeness and accuracy of sales volume data"
+    },
+    {
+      "question": "How can an auditor obtain evidence about the accuracy and completeness of information used in an audit?",
+      "contexts": [
+        "Obtaining audit evidence about the accuracy and completeness of such information may be performed concurrently with the actual audit procedure applied to the information when obtaining such audit evidence is an integral part of the audit procedure itself.",
+        "The auditor may have obtained audit evidence of the accuracy and completeness of such information by testing controls over the preparation and maintenance of the information."
+      ],
+      "ground_truth": "Concurrently with the audit procedure or by testing controls over the preparation and maintenance of the information."
+    },
+    {
+      "question": "What factors affect the appropriateness of audit evidence obtained from an entity's performance measures?",
+      "contexts": [
+        "The appropriateness of the audit evidence obtained is affected by whether the information is sufficiently precise or detailed for the auditor's purposes.",
+        "Performance measures used by management may not be precise enough to detect material misstatements."
+      ],
+      "ground_truth": "The precision and detail of the information"
+    },
+    {
+      "question": "What methods can an auditor use to select items for testing during an audit?",
+      "contexts": [
+        "The means available to the auditor for selecting items for testing are: (a) Selecting all items (100% examination); (b) Selecting specific items; and (c) Audit sampling.",
+        "The application of any one or combination of these means may be appropriate depending on the particular circumstances."
+      ],
+      "ground_truth": "Selecting all items, selecting specific items, and audit sampling"
+    },
+    {
+      "question": "When might a 100% examination be appropriate for audit evidence?",
+      "contexts": [
+        "100% examination may be appropriate when the population constitutes a small number of large value items;",
+        "100% examination may be appropriate when there is a significant risk and other means do not provide sufficient appropriate audit evidence;",
+        "100% examination may be appropriate when the repetitive nature of a calculation or other process performed automatically by an information system makes a 100% examination cost effective."
+      ],
+      "ground_truth": "When the population has a small number of large value items, significant risk is present, or when automated processes make it cost-effective."
+    },
+    {
+      "question": "What types of items might an auditor select for examination due to their characteristics?",
+      "contexts": [
+        "The judgmental selection of specific items is subject to non-sampling risk.",
+        "Specific items selected may include high value or key items, items that are suspicious, unusual, particularly risk-prone or that have a history of error."
+      ],
+      "ground_truth": "High value or key items, suspicious or unusual items, and risk-prone items"
+    },
+    {
+      "question": "What is the primary limitation of selectively examining specific items from a class of transactions or account balance in an audit?",
+      "contexts": [
+        "Selective examination of specific items from a class of transactions or account balance will often be an efficient means of obtaining audit evidence, but it does not constitute audit sampling.",
+        "The results of audit procedures applied to items selected in this way cannot be projected to the entire population."
+      ],
+      "ground_truth": "It does not provide audit evidence concerning the remainder of the population."
+    },
+    {
+      "question": "What may indicate that an individual item of audit evidence is not reliable?",
+      "contexts": [
+        "Obtaining audit evidence from different sources or of a different nature may indicate that an individual item of audit evidence is not reliable.",
+        "This may be the case when responses to inquiries of management, internal auditors, and others are inconsistent."
+      ],
+      "ground_truth": "Inconsistency in audit evidence from different sources or of a different nature."
+    }
+  ]
+}

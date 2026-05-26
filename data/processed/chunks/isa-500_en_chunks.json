@@ -1,0 +1,439 @@
+{
+  "document": "isa-500_en.pdf",
+  "source_pdf": "C:\\github\\AI-Audit-Assistant\\data\\raw\\International Knowledge Base\\isa-500_en.pdf",
+  "chunk_count": 72,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "page": 1,
+      "content": "INTERNATIONAL STANDARD ON AUDITING 500 AUDIT EVIDENCE (Effective for audits of financial statements for periods beginning on or after December 15, 2009) CONTENTS Introduction Scope of this ISA Effective Date Objective Definitions Requirements Sufficient Appropriate Audit Evidence Information to Be Used as Audit Evidence Selecting Items for Testing to Obtain Audit Evidence Inconsistency in, or Doubts over Reliability of, Audit Evidence Application and Other Explanatory Material External Information",
+      "char_count": 502
+    },
+    {
+      "chunk_id": 2,
+      "page": 1,
+      "content": "Source Sufficient Appropriate Audit Evidence Information to Be Used as Audit Evidence Selecting Items for Testing to Obtain Audit Evidence Inconsistency in, or Doubts over Reliability of, Audit Evidence Paragraph 1-2 3 4 5 6 7-9 10 11 A1-A4 A5-A29 A30-A62 A63-A67 A68 International Standard on Auditing (ISA) 500, Audit Evidence, should be read in conjunction with ISA 200, Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with International Standards on Auditing. ISA 500 361",
+      "char_count": 515
+    },
+    {
+      "chunk_id": 3,
+      "page": 2,
+      "content": "AUDIT EVIDENCE Introduction Scope of this ISA 1. This International Standard on Auditing (ISA) explains what constitutes audit evidence in an audit of financial statements, and deals with the auditor's responsibility to design and perform audit procedures to obtain sufficient appropriate audit evidence to be able to draw reasonable conclusions on which to base the auditor's opinion. 2. This ISA is applicable to all the audit evidence obtained during the course of the audit. Other ISAs deal with specific aspects of the audit (for example, ISA 315 (Revised 2019)¹), the audit evidence to be obtained in relation to a particular topic (for example, ISA 570 (Revised)²), specific procedures to obtain audit evidence (for example, ISA 520³), and the evaluation of whether sufficient appropriate audit",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 4,
+      "page": 2,
+      "content": "evidence has been obtained (ISA 200⁴ and ISA 330⁵). Effective Date 3. This ISA is effective for audits of financial statements for periods beginning on or after December 15, 2009. Objective 4. The objective of the auditor is to design and perform audit procedures in such a way as to enable the auditor to obtain sufficient appropriate audit evidence to be able to draw reasonable conclusions on which to base the auditor's opinion. Definitions 5. For purposes of the ISA, the following terms have the meanings attributed below: (a) Accounting records – The records of initial accounting entries and supporting records, such as checks and records of electronic fund transfers; invoices; contracts; the general and subsidiary ledgers, journal entries and other adjustments to the financial statements that",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 5,
+      "page": 2,
+      "content": "are not reflected in journal entries; and records such as work sheets and spreadsheets supporting cost allocations, computations, reconciliations and disclosures. (b) Appropriateness (of audit evidence) – The measure of the quality of audit evidence; that is, its relevance and its reliability in providing support for the conclusions on which the auditor's opinion is based. (c) Audit evidence – Information used by the auditor in arriving at the conclusions on which the auditor's opinion is based. Audit evidence includes both information contained in the accounting records underlying the financial statements and information obtained from other sources. (d) External information source – An external individual or organization that provides information that has been used by the entity in preparing",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 6,
+      "page": 2,
+      "content": "the financial statements, or that has been obtained by the auditor as audit evidence, when such information is suitable for use by a broad range of users. When information has been provided by an individual or organization acting in the capacity of a management's expert, service organization,⁶ or auditor's expert⁷ the individual or organization is not considered an external information source with respect to that particular information. (Ref: Para. A1–A4) (e) Management's expert – An individual or organization possessing expertise in a field other than accounting or auditing, whose work in that field is used by the entity to assist the entity in preparing the financial statements. (f) Sufficiency (of audit evidence) – The measure of the quantity of audit evidence. The quantity of the audit",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 7,
+      "page": 2,
+      "content": "evidence needed is affected by the auditor's assessment of the risks of material misstatement and also by the quality of such audit evidence. 1 ISA 315 (Revised 2019), Identifying and Assessing the Risks of Material Misstatement 2 ISA 570 (Revised), Going Concern 3 ISA 520, Analytical Procedures 4 ISA 200, Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with International Standards on Auditing 5 ISA 330, The Auditor's Responses to Assessed Risks 6 ISA 402, Audit Considerations Relating to an Entity Using a Service Organization, paragraph 8 7 ISA 620, Using the Work of an Auditor's Expert, paragraph 6 362 ISA 500",
+      "char_count": 659
+    },
+    {
+      "chunk_id": 8,
+      "page": 3,
+      "content": "**Requirements** **Sufficient Appropriate Audit Evidence** 6. The auditor shall design and perform audit procedures that are appropriate in the circumstances for the purpose of obtaining sufficient appropriate audit evidence. (Ref: Para. A5-A29) **Information to Be Used as Audit Evidence** 7. When designing and performing audit procedures, the auditor shall consider the relevance and reliability of the information to be used as audit evidence, including information obtained from an external information source. (Ref: Para. A30-A44) 8. If information to be used as audit evidence has been prepared using the work of a management's expert, the auditor shall, to the extent necessary, having regard to the significance of that expert's work for the auditor's purposes: (Ref: Para. A45-A47) (a) Evaluate",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 9,
+      "page": 3,
+      "content": "the competence, capabilities and objectivity of that expert; (Ref: Para. A48-A54) (b) Obtain an understanding of the work of that expert; and (Ref: Para. A55-A58) (c) Evaluate the appropriateness of that expert's work as audit evidence for the relevant assertion. (Ref: Para. A59) 9. When using information produced by the entity, the auditor shall evaluate whether the information is sufficiently reliable for the auditor's purposes, including, as necessary in the circumstances: (a) Obtaining audit evidence about the accuracy and completeness of the information; and (Ref: Para. A60-A61) (b) Evaluating whether the information is sufficiently precise and detailed for the auditor's purposes. (Ref: Para. A62) **Selecting Items for Testing to Obtain Audit Evidence** 10. When designing tests of controls",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 10,
+      "page": 3,
+      "content": "and tests of details, the auditor shall determine means of selecting items for testing that are effective in meeting the purpose of the audit procedure. (Ref: Para. A63-A67) **Inconsistency in, or Doubts over Reliability of, Audit Evidence** 11. If: (a) audit evidence obtained from one source is inconsistent with that obtained from another; or (b) the auditor has doubts over the reliability of information to be used as audit evidence, the auditor shall determine what modifications or additions to audit procedures are necessary to resolve the matter, and shall consider the effect of the matter, if any, on other aspects of the audit. (Ref: Para. A68) *** **Application and Other Explanatory Material** **External Information Source (Ref: Para 5(d))** A1. External information sources may include",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 11,
+      "page": 3,
+      "content": "pricing services, governmental organizations, central banks or recognized stock exchanges. Examples of information that may be obtained from external information sources include: * Prices and pricing related data; * Macro-economic data, such as historical and forecast unemployment rates and economic growth rates, or census data; * Credit history data; * Industry specific data, such as an index of reclamation costs for certain extractive industries, or viewership information or ratings used to determine",
+      "char_count": 507
+    },
+    {
+      "chunk_id": 12,
+      "page": 3,
+      "content": "advertising revenue in the entertainment industry; and * Mortality tables used to determine liabilities in the life insurance and pension sectors. A2. A particular set of information is more likely to be suitable for use by a broad range of users and less likely to be subject to influence by any particular user if the external individual or organization provides it to the public for free, or makes it available to a wide range of users in return for payment of a fee. Judgment may be required in determining whether the information is suitable for use by a broad range of users, taking into account the ability of the entity to influence the external information ISA 500 363",
+      "char_count": 677
+    },
+    {
+      "chunk_id": 13,
+      "page": 4,
+      "content": "AUDIT EVIDENCE A3. An external individual or organization cannot, in respect of any particular set of information, be both an external information source and a management's expert, or service organization or auditor's expert. A4. However, an external individual or organization may, for example, be acting as a management's expert when providing a particular set of information, but may be acting as an external information source when providing a different set of information. In some circumstances, professional judgment may be needed to determine whether an external individual or organization is acting as an external information source or as a management's expert with respect to a particular set of information. In other circumstances, the distinction may be clear. For example: • An external individual",
+      "char_count": 809
+    },
+    {
+      "chunk_id": 14,
+      "page": 4,
+      "content": "or organization may be providing information about real estate prices that is suitable for use by a broad range of users, for example, information made generally available pertaining to a geographical region, and be determined to be an external information source with respect to that set of information. The same external organization may also be acting as a management's or auditor's expert in providing commissioned valuations, with respect to the entity's real estate portfolio specifically tailored for the entity's facts and circumstances. • Some actuarial organizations publish mortality tables for general use which, when used by an entity, would generally be considered to be information from an external information source. The same actuarial organization may also be a management's expert with",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 15,
+      "page": 4,
+      "content": "respect to different information tailored to the specific circumstances of the entity to help management determine the pension liability for several of the entity's pension plans. • An external individual or organization may possess expertise in the application of models to estimate the fair value of securities for which there is no observable market. If the external individual or organization applies that expertise in making an estimate specifically for the entity and that work is used by management in preparing its financial statements, the external individual or organization is likely to be a management's expert with respect to that information. If, on the other hand, that external individual or organization merely provides, to the public, prices or pricing-related data regarding private",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 16,
+      "page": 4,
+      "content": "transactions, and the entity uses that information in its own estimation methods, the external individual or organization is likely to be an external information source with respect to such information. • An external individual or organization may publish information, suitable for a broad range of users, about risks or conditions in an industry. If used by an entity in preparing its risk disclosures (for example in compliance with IFRS 78), such information would ordinarily be considered to be information from an external information source. However, if the same type of information has been specifically commissioned by the entity to use its expertise to develop information about those risks, tailored to the entity's circumstances, the external individual or organization is likely to be acting",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 17,
+      "page": 4,
+      "content": "as a management's expert. • An external individual or organization may apply its expertise in providing information about current and future market trends, which it makes available to, and is suitable for use by, a broad range of users. If used by the entity to help make decisions about assumptions to be used in making accounting estimates, such information is likely to be considered to be information from an external information source. If the same type of information has been commissioned by the entity to address current and future trends relevant to the entity's specific facts and circumstances, the external individual or organization is likely to be acting as a management's expert. Sufficient Appropriate Audit Evidence (Ref: Para. 6) A5. Audit evidence is necessary to support the auditor's",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 18,
+      "page": 4,
+      "content": "opinion and report. It is cumulative in nature and is primarily obtained from audit procedures performed during the course of the audit. It may, however, also include information obtained from other sources such as previous audits (provided the auditor has evaluated whether such information remains relevant and reliable as audit evidence for the current audit) through the information obtained by the firm in the acceptance or continuance of the client relationship or engagement. In addition, the entity's",
+      "char_count": 508
+    },
+    {
+      "chunk_id": 19,
+      "page": 4,
+      "content": "accounting records and other sources internal to the entity are important sources of audit evidence. Information that may be used as audit evidence may have been prepared using the work of a management's expert or be obtained from an external information source. Audit evidence comprises both information that supports and corroborates management's assertions, and any information that contradicts such assertions. In addition, in some cases the absence of information (for example, management's refusal to provide a requested representation) is used by the auditor, and therefore, also constitutes audit evidence. 8 International Financial Reporting Standards (IFRS) 7, Financial Instruments: Disclosures 9 ISA 315 (Revised 2019), paragraph 16 364 ISA 500",
+      "char_count": 756
+    },
+    {
+      "chunk_id": 20,
+      "page": 5,
+      "content": "AUDIT EVIDENCE A6. Most of the auditor's work in forming the auditor's opinion consists of obtaining and evaluating audit evidence. Audit procedures to obtain audit evidence can include inspection, observation, confirmation, recalculation, reperformance, and analytical procedures, often in some combination, in addition to inquiry. Although inquiry may provide important audit evidence, and may even produce evidence of a misstatement, inquiry alone ordinarily does not provide sufficient audit evidence of the absence of a material misstatement at the assertion level, nor of the operating effectiveness of controls. A7. As explained in ISA 200,¹⁰ reasonable assurance is obtained when the auditor has obtained sufficient appropriate audit evidence to reduce audit risk (that is, the risk that the auditor",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 21,
+      "page": 5,
+      "content": "expresses an inappropriate opinion when the financial statements are materially misstated) to an acceptably low level. A8. The sufficiency and appropriateness of audit evidence are interrelated. Sufficiency is the measure of the quantity of audit evidence. The quantity of audit evidence needed is affected by the auditor's assessment of the risks of misstatement (the higher the assessed risks, the more audit evidence is likely to be required) and also by the quality of such audit evidence (the higher the quality, the less may be required). Obtaining more audit evidence, however, may not compensate for its poor quality. A9. Appropriateness is the measure of the quality of audit evidence; that is, its relevance and its reliability in providing support for the conclusions on which the auditor's",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 22,
+      "page": 5,
+      "content": "opinion is based. The reliability of evidence is influenced by its source and by its nature, and is dependent on the individual circumstances under which it is obtained. A10. ISA 330 requires the auditor to conclude whether sufficient appropriate audit evidence has been obtained.¹¹ Whether sufficient appropriate audit evidence has been obtained to reduce audit risk to an acceptably low level, and thereby enable the auditor to draw reasonable conclusions on which to base the auditor's opinion, is a matter of professional judgment. ISA 200 contains discussion of such matters as the nature of audit procedures, the timeliness of financial reporting, and the balance between benefit and cost, which are relevant factors when the auditor exercises professional judgment regarding whether sufficient",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 23,
+      "page": 5,
+      "content": "appropriate audit evidence has been obtained. Sources of Audit Evidence A11. Some audit evidence is obtained by performing audit procedures to test the accounting records, for example, through analysis and review, reperforming procedures followed in the financial reporting process, and reconciling related types and applications of the same information. Through the performance of such audit procedures, the auditor may determine that the accounting records are internally consistent and agree to the financial statements. A12. More assurance is ordinarily obtained from consistent audit evidence obtained from different sources or of a different nature than from items of audit evidence considered individually. For example, corroborating information obtained from a source independent of the entity",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 24,
+      "page": 5,
+      "content": "may increase the assurance the auditor obtains from audit evidence that is generated internally, such as evidence existing within the accounting records, minutes of meetings, or a management representation. A13. Information from sources independent of the entity that the auditor may use as audit evidence may include confirmations from third parties and information from an external information source, including analysts' reports, and comparable data about competitors (benchmarking data). Audit Procedures for Obtaining Audit Evidence A14. As required by, and explained further in, ISA 315 (Revised 2019) and ISA 330, audit evidence to draw reasonable conclusions on which to base the auditor's opinion is obtained by performing: (a) Risk assessment procedures; and (b) Further audit procedures, which",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 25,
+      "page": 5,
+      "content": "comprise: (i) Tests of controls, when required by the ISA or when the auditor has chosen to do so; and (ii) Substantive procedures, including tests of details and substantive analytical procedures. A15. The audit procedures described in paragraphs A18-A29 below may be used as risk assessment procedures, tests of controls or substantive procedures, depending on the context in which they are applied by the auditor. As explained in ISA 330, audit evidence obtained from previous audits may, in certain circumstances, provide appropriate audit evidence where the auditor 10 ISA 200, paragraph 5 11 ISA 330, paragraph 26 ISA 500 365",
+      "char_count": 631
+    },
+    {
+      "chunk_id": 26,
+      "page": 6,
+      "content": "AUDIT EVIDENCE A16. The nature and timing of the audit procedures to be used may be affected by the fact that some of the accounting data and other information may be available only in electronic form or only at certain points or periods in time. For example, source documents, such as purchase orders and invoices, may exist only in electronic form when an entity uses electronic commerce, or may be discarded after scanning when an entity uses image processing systems to facilitate storage and reference. A17. Certain electronic information may not be retrievable after a specified period of time, for example, if files are changed and if backup files do not exist. Accordingly, the auditor may find it necessary as a result of an entity's data retention policies to request retention of some information",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 27,
+      "page": 6,
+      "content": "for the auditor's review or to perform audit procedures at a time when the information is available. Inspection A18. Inspection involves examining records or documents, whether internal or external, in paper form, electronic form, or other media, or a physical examination of an asset. Inspection of records and documents provides audit evidence of varying degrees of reliability, depending on their nature and source and, in the case of internal records and documents, on the effectiveness of the controls over their production. An example of inspection used as a test of controls is inspection of records for evidence of authorization. A19. Some documents represent direct audit evidence of the existence of an asset, for example, a document constituting a financial instrument such as a stock or bond.",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 28,
+      "page": 6,
+      "content": "Inspection of such documents may not necessarily provide audit evidence about ownership or value. In addition, inspecting an executed contract may provide audit evidence relevant to the entity's application of accounting policies, such as revenue recognition. A20. Inspection of tangible assets may provide reliable audit evidence with respect to their existence, but not necessarily about the entity's rights and obligations or the valuation of the assets. Inspection of individual inventory items may accompany the observation of inventory counting. Observation A21. Observation consists of looking at a process or procedure being performed by others, for example, the auditor's observation of inventory counting by the entity's personnel, or of the performance of controls. Observation provides audit",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 29,
+      "page": 6,
+      "content": "evidence about the performance of a process or procedure, but is limited to the point in time at which the observation takes place, and by the fact that the act of being observed may affect how the process or procedure is performed. See ISA 501 for further guidance on observation of the counting of inventory. <sup>13</sup> External Confirmation A22. An external confirmation represents audit evidence obtained by the auditor as a direct written response to the auditor from a third party (the confirming party), in paper form, or by electronic or other medium. External confirmation procedures frequently are relevant when addressing assertions associated with certain account balances and their elements. However, external confirmations need not be restricted to account balances only. For example,",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 30,
+      "page": 6,
+      "content": "the auditor may request confirmation of the terms of agreements or transactions an entity has with third parties; the confirmation request may be designed to ask if any modifications have been made to the agreement and, if so, what the relevant details are. External confirmation procedures also are used to obtain audit evidence about the absence of certain conditions, for example, the absence of a \"side agreement\" that may influence revenue recognition. See ISA 505 for further guidance. <sup>14</sup>",
+      "char_count": 505
+    },
+    {
+      "chunk_id": 31,
+      "page": 6,
+      "content": "Recalculation A23. Recalculation consists of checking the mathematical accuracy of documents or records. Recalculation may be performed manually or electronically. Reperformance A24. Reperformance involves the auditor's independent execution of procedures or controls that were originally performed as part of the entity's internal control. <sup>12</sup> ISA 330, paragraph A36 <sup>13</sup> ISA 501, Audit Evidence—Specific Considerations for Selected Items <sup>14</sup> ISA 505, External Confirmations 366 ISA 500",
+      "char_count": 516
+    },
+    {
+      "chunk_id": 32,
+      "page": 7,
+      "content": "AUDIT EVIDENCE Analytical Procedures A25. Analytical procedures consist of evaluations of financial information through analysis of plausible relationships among both financial and non-financial data. Analytical procedures also encompass such investigation as is necessary of identified fluctuations or relationships that are inconsistent with other relevant information or that differ from expected values by a significant amount. See ISA 520 for further guidance. Inquiry A26. Inquiry consists of seeking information of knowledgeable persons, both financial and non-financial, within the entity or outside the entity. Inquiry is used extensively throughout the audit in addition to other audit procedures. Inquiries may range from formal written inquiries to informal oral inquiries. Evaluating responses",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 33,
+      "page": 7,
+      "content": "to inquiries is an integral part of the inquiry process. A27. Responses to inquiries may provide the auditor with information not previously possessed or with corroborative audit evidence. Alternatively, responses might provide information that differs significantly from other information that the auditor has obtained, for example, information regarding the possibility of management override of controls. In some cases, responses to inquiries provide a basis for the auditor to modify or perform additional audit procedures. A28. Although corroboration of evidence obtained through inquiry is often of particular importance, in the case of inquiries about management intent, the information available to support management's intent may be limited. In these cases, understanding management's past history",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 34,
+      "page": 7,
+      "content": "of carrying out its stated intentions, management's stated reasons for choosing a particular course of action, and management's ability to pursue a specific course of action may provide relevant information to corroborate the evidence obtained through inquiry. A29. In respect of some matters, the auditor may consider it necessary to obtain written representations from management and, where appropriate, those charged with governance to confirm responses to oral inquiries. See ISA 580 for further guidance.15 Information to Be Used as Audit Evidence Relevance and Reliability (Ref: Para. 7) A30. As noted in paragraph A5, while audit evidence is primarily obtained from audit procedures performed during the course of the audit, it may also include information obtained from other sources, for example,",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 35,
+      "page": 7,
+      "content": "previous audits, through the information obtained by the firm in the acceptance or continuance of the client relationship or engagement and in complying with certain additional responsibilities under law, regulation or relevant ethical requirements (e.g., regarding an entity's non-compliance with laws and regulations). The quality of all audit evidence is affected by the relevance and reliability of the information upon which it is based. Relevance A31. Relevance deals with the logical connection with, or bearing upon, the purpose of the audit procedure and, where appropriate, the assertion under consideration. The relevance of information to be used as audit evidence may be affected by the direction of testing. For example, if the purpose of an audit procedure is to test for overstatement",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 36,
+      "page": 7,
+      "content": "in the existence or valuation of accounts payable, testing the recorded accounts payable may be a relevant audit procedure. On the other hand, when testing for understatement in the existence or valuation of accounts payable, testing the recorded accounts payable would not be relevant, but testing such information as subsequent disbursements, unpaid invoices, suppliers' statements, and unmatched receiving reports may be relevant. A32. A given set of audit procedures may provide audit evidence that is relevant to certain assertions, but not others. For example, inspection of documents related to the collection of receivables after the period end may provide audit evidence regarding existence and valuation, but not necessarily cutoff. Similarly, obtaining audit evidence regarding a particular",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 37,
+      "page": 7,
+      "content": "assertion, for example, the existence of inventory, is not a substitute for obtaining audit evidence regarding another assertion, for example, the valuation of that inventory. On the other hand, audit evidence from different sources or of a different nature may often be relevant to the same assertion. A33. Tests of controls are designed to evaluate the operating effectiveness of controls in preventing, or detecting and correcting, material misstatements at the assertion level. Designing tests of controls to obtain relevant audit evidence includes identifying conditions (characteristics or attributes) that indicate performance of a control, and deviation conditions which 15 ISA 580, Written Representations ISA 500 367",
+      "char_count": 726
+    },
+    {
+      "chunk_id": 38,
+      "page": 8,
+      "content": "AUDIT EVIDENCE indicate departures from adequate performance. The presence or absence of those conditions can then be tested by the auditor. A34. Substantive procedures are designed to detect material misstatements at the assertion level. They comprise tests of details and substantive analytical procedures. Designing substantive procedures includes identifying conditions relevant to the purpose of the test that constitute a misstatement in the relevant assertion. Reliability A35. The reliability of information to be used as audit evidence, and therefore of the audit evidence itself, is influenced by its source and its nature, and the circumstances under which it is obtained, including the controls over its preparation and maintenance where relevant. Therefore, generalizations about the reliability",
+      "char_count": 808
+    },
+    {
+      "chunk_id": 39,
+      "page": 8,
+      "content": "of various kinds of audit evidence are subject to important exceptions. Even when information to be used as audit evidence is obtained from sources external to the entity, circumstances may exist that could affect its reliability. For example, information obtained from a source independent of the entity may not be reliable if the source is not knowledgeable, or a management's expert may lack objectivity. While recognizing that exceptions may exist, the following generalizations about the reliability of audit evidence may be useful: • The reliability of audit evidence is increased when it is obtained from independent sources outside the entity. • The reliability of audit evidence that is generated internally is increased when the related controls, including those over its preparation and maintenance,",
+      "char_count": 810
+    },
+    {
+      "chunk_id": 40,
+      "page": 8,
+      "content": "imposed by the entity are effective. • Audit evidence obtained directly by the auditor (for example, observation of the application of a control) is more reliable than audit evidence obtained indirectly or by inference (for example, inquiry about the application of a control). • Audit evidence in documentary form, whether paper, electronic, or other medium, is more reliable than evidence obtained orally (for example, a contemporaneously written record of a meeting is more reliable than a subsequent oral representation of the matters discussed). • Audit evidence provided by original documents is more reliable than audit evidence provided by photocopies or facsimiles, or documents that have been filmed, digitized or otherwise transformed into electronic form, the reliability of which may depend",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 41,
+      "page": 8,
+      "content": "on the controls over their preparation and maintenance. A36. ISA 520 provides further guidance regarding the reliability of data used for purposes of designing analytical procedures as substantive procedures.16 A37. ISA 240 deals with circumstances where the auditor has reason to believe that a document may not be authentic, or may have been modified without that modification having been disclosed to the auditor.17 A38. ISA 250 (Revised)18 provides further guidance with respect to the auditor complying with any additional responsibilities under law, regulation or relevant ethical requirements regarding an entity's identified or suspected non-compliance with laws and regulations that may provide further information that is relevant to the auditor's work in accordance with ISAs and evaluating",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 42,
+      "page": 8,
+      "content": "the implications of such non-compliance in relation to other aspects of the audit. External Information Sources A39. The auditor is required by paragraph 7 to consider the relevance and reliability of information obtained from an external information source that is to be used as audit evidence, regardless of whether that information has been used by the entity in preparing the financial statements or obtained by the auditor. For information obtained from an external information source, that consideration may, in certain cases, include audit evidence about the external information source or the preparation of the information by the external information source, obtained through designing and performing further audit procedures in accordance with ISA 330 or, where applicable, ISA 540 (Revised).19",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 43,
+      "page": 8,
+      "content": "A40. Obtaining an understanding of why management or, when applicable, a management's expert uses an external information source, and how the relevance and reliability of the information was considered (including its accuracy and completeness), may help to inform the auditor's consideration of the relevance and reliability of that information. 16 ISA 520, paragraph 5(a) 17 ISA 240, The Auditor's Responsibilities Relating to Fraud in an Audit of Financial Statements, paragraph 14 18 ISA 250 (Revised), Consideration of Laws and Regulations in an Audit of Financial Statements, paragraph 9 19 ISA 540 (Revised), Auditing Accounting Estimates and Disclosures 368 ISA 500",
+      "char_count": 672
+    },
+    {
+      "chunk_id": 44,
+      "page": 9,
+      "content": "AUDIT EVIDENCE A41. The following factors may be important when considering the relevance and reliability of information obtained from an external information source, including its accuracy and completeness, taking into account that some of these factors may only be relevant when the information has been used by management in preparing the financial statements or has been obtained by the auditor: • The nature and authority of the external information source. For example, a central bank or government statistics office with a legislative mandate to provide industry information to the public is likely to be an authority for certain types of information; • The ability to influence the information obtained, through relationships between the entity and the information source; • The competence and",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 45,
+      "page": 9,
+      "content": "reputation of the external information source with respect to the information, including whether, in the auditor's professional judgment, the information is routinely provided by a source with a track record of providing reliable information; • Past experience of the auditor with the reliability of the information provided by the external information source; • Evidence of general market acceptance by users of the relevance or reliability of information from an external information source for a similar purpose to that for which the information has been used by management or the auditor; • Whether the entity has in place controls to address the relevance and reliability of the information obtained and used; • Whether the external information source accumulates overall market information or engages",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 46,
+      "page": 9,
+      "content": "directly in \"setting\" market transactions; • Whether the information is suitable for use in the manner in which it is being used and, if applicable, was developed taking into account the applicable financial reporting framework; • Alternative information that may contradict the information used; • The nature and extent of disclaimers or other restrictive language relating to the information obtained; • Information about the methods used in preparing the information, how the methods are being applied including, where applicable, how models have been used in such application, and the controls over the methods; and • When available, information relevant to considering the appropriateness of assumptions and other data applied by the external information sources in developing the information obtained.",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 47,
+      "page": 9,
+      "content": "A42. The nature and extent of the auditor's consideration takes into account the assessed risks of material misstatement at the assertion level to which the use of the external information is relevant, the degree to which the use of that information is relevant to the reasons for the assessed risks of material misstatement and the possibility that the information from the external information source may not be reliable (for example, whether it is from a credible source). Based on the auditor's consideration of the matters described in paragraph A39, the auditor may determine that further understanding of the entity and its environment, including its internal control, is needed, in accordance with ISA 315 (Revised 2019), or that further audit procedures, in accordance with ISA 330,20 and ISA",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 48,
+      "page": 9,
+      "content": "540 (Revised)21 when applicable, are appropriate in the circumstances, to respond to the assessed risks of material misstatement related to the use of information from an external information source. Such procedures may include: • Performing a comparison of information obtained from the external information source with information obtained from an alternative independent information source. • When relevant to considering management's use of an external information source, obtaining an understanding",
+      "char_count": 503
+    },
+    {
+      "chunk_id": 49,
+      "page": 9,
+      "content": "of controls management has in place to consider the reliability of the information from external information sources, and potentially testing the operating effectiveness of such controls. • Performing procedures to obtain information from the external information source to understand its processes, techniques, and assumptions, for the purposes of identifying, understanding and, when relevant, testing the operating effectiveness of its controls. 20 ISA 330, paragraph 6 21 ISA 540 (Revised), paragraph 30 ISA 500 369",
+      "char_count": 519
+    },
+    {
+      "chunk_id": 50,
+      "page": 10,
+      "content": "A43. In some situations, there may be only one provider of certain information, for example, information from a central bank or government, such as an inflation rate, or a single recognized industry body. In such cases, the auditor's determination of the nature and extent of audit procedures that may be appropriate in the circumstances is influenced by the nature and credibility of the source of the information, the assessed risks of material misstatement to which that external information is relevant, and the degree to which the use of that information is relevant to the reasons for the assessed risk of material misstatement. For example, when the information is from a credible authoritative source, the extent of the auditor's further audit procedures may be less extensive, such as corroborating",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 51,
+      "page": 10,
+      "content": "the information to the source's website or published information. In other cases, if a source is not assessed as credible, the auditor may determine that more extensive procedures are appropriate and, in the absence of any alternative independent information source against which to compare, may consider whether performing procedures to obtain information from the external information source, when practical, is appropriate in order to obtain sufficient appropriate audit evidence. A44. When the auditor does not have a sufficient basis with which to consider the relevance and reliability of information from an external information source, the auditor may have a limitation on scope if sufficient appropriate audit evidence cannot be obtained through alternative procedures. Any imposed limitation",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 52,
+      "page": 10,
+      "content": "on scope is evaluated in accordance with the requirements of ISA 705 (Revised).22 Reliability of Information Produced by a Management's Expert (Ref: Para. 8) A45. The preparation of an entity's financial statements may require expertise in a field other than accounting or auditing, such as actuarial calculations, valuations, or engineering data. The entity may employ or engage experts in these fields to obtain the needed expertise to prepare the financial statements. Failure to do so when such expertise is necessary increases the risks of material misstatement. A46. When information to be used as audit evidence has been prepared using the work of a management's expert, the requirement in paragraph 8 of this ISA applies. For example, an individual or organization may possess expertise in the",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 53,
+      "page": 10,
+      "content": "application of models to estimate the fair value of securities for which there is no observable market. If the individual or organization applies that expertise in making an estimate which the entity uses in preparing its financial statements, the individual or organization is a management's expert and paragraph 8 applies. If, on the other hand, that individual or organization merely provides price data regarding private transactions not otherwise available to the entity which the entity uses in its own estimation methods, such information, if used as audit evidence, is subject to paragraph 7 of this ISA, being information from an external information source and not the use of a management's expert by the entity. A47. The nature, timing and extent of audit procedures in relation to the requirement",
+      "char_count": 808
+    },
+    {
+      "chunk_id": 54,
+      "page": 10,
+      "content": "in paragraph 8 of this ISA, may be affected by such matters as: * The nature and complexity of the matter to which the management's expert relates. * The risks of material misstatement in the matter. * The availability of alternative sources of audit evidence. * The nature, scope and objectives of the management's expert's work. * Whether the management's expert is employed by the entity, or is a party engaged by it to provide relevant services. * The extent to which management can exercise control or influence over the work of the management's expert. * Whether the management's expert is subject to technical performance standards or other professional or industry requirements. * The nature and extent of any controls within the entity over the management's expert's work. * The auditor's knowledge",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 55,
+      "page": 10,
+      "content": "and experience of the management's expert's field of expertise. * The auditor's previous experience of the work of that expert. The Competence, Capabilities and Objectivity of a Management's Expert (Ref: Para. 8(a)) A48. Competence relates to the nature and level of expertise of the management's expert. Capability relates the ability of the management's expert to exercise that competence in the circumstances. Factors that influence capability may include, for example, geographic location, and the availability of time and resources. Objectivity relates to the possible effects that bias,",
+      "char_count": 592
+    },
+    {
+      "chunk_id": 56,
+      "page": 11,
+      "content": "AUDIT EVIDENCE conflict of interest or the influence of others may have on the professional or business judgment of the management's expert. The competence, capabilities and objectivity of a management's expert, and any controls within the entity over that expert's work, are important factors in relation to the reliability of any information produced by a management's expert. A49. Information regarding the competence, capabilities and objectivity of a management's expert may come from a variety of sources, such as: • Personal experience with previous work of that expert. • Discussions with that expert. • Discussions with others who are familiar with that expert's work. • Knowledge of that expert's qualifications, membership of a professional body or industry association, license to practice,",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 57,
+      "page": 11,
+      "content": "or other forms of external recognition. • Published papers or books written by that expert. • An auditor's expert, if any, who assists the auditor in obtaining sufficient appropriate audit evidence with respect to information produced by the management's expert. A50. Matters relevant to evaluating the competence, capabilities and objectivity of a management's expert include whether that expert's work is subject to technical performance standards or other professional or industry requirements, for example, ethical standards and other membership requirements of a professional body or industry association, accreditation standards of a licensing body, or requirements imposed by law or regulation. A51. Other matters that may be relevant include: • The relevance of the management's expert's competence",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 58,
+      "page": 11,
+      "content": "to the matter for which that expert's work will be used, including any areas of specialty within that expert's field. For example, a particular actuary may specialize in property and casualty insurance, but have limited expertise regarding pension calculations. • The management's expert's competence with respect to relevant accounting requirements, for example, knowledge of assumptions and methods, including models where applicable, that are consistent with the applicable financial reporting framework. • Whether unexpected events, changes in conditions, or the audit evidence obtained from the results of audit procedures indicate that it may be necessary to reconsider the initial evaluation of the competence, capabilities and objectivity of the management's expert as the audit progresses. A52.",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 59,
+      "page": 11,
+      "content": "A broad range of circumstances may threaten objectivity, for example, self-interest threats, advocacy threats, familiarity threats, self-review threats and intimidation threats. Safeguards may reduce such threats, and may be created either by external structures (for example, the management's expert's profession, legislation or regulation), or by the management's expert's work environment (for example, quality control policies and procedures). A53. Although safeguards cannot eliminate all threats to a management's expert's objectivity, threats such as intimidation threats may be of less significance to an expert engaged by the entity than to an expert employed by the entity, and the effectiveness of safeguards such as quality control policies and procedures may be greater. Because the threat",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 60,
+      "page": 11,
+      "content": "to objectivity created by being an employee of the entity will always be present, an expert employed by the entity cannot ordinarily be regarded as being more likely to be objective than other employees of the entity. A54. When evaluating the objectivity of an expert engaged by the entity, it may be relevant to discuss with management and that expert any interests and relationships that may create threats to the expert's objectivity, and any applicable safeguards, including any professional requirements",
+      "char_count": 508
+    },
+    {
+      "chunk_id": 61,
+      "page": 11,
+      "content": "that apply to the expert; and to evaluate whether the safeguards are adequate. Interests and relationships creating threats may include: • Financial interests. • Business and personal relationships. • Provision of other services. Obtaining an Understanding of the Work of the Management's Expert (Ref: Para. 8(b)) A55. An understanding of the work of the management's expert includes an understanding of the relevant field of expertise. An understanding of the relevant field of expertise may be obtained in conjunction with the auditor's determination of whether ISA 500 371",
+      "char_count": 575
+    },
+    {
+      "chunk_id": 62,
+      "page": 12,
+      "content": "AUDIT EVIDENCE the auditor has the expertise to evaluate the work of the management's expert, or whether the auditor needs an auditor's expert for this purpose.23 A56. Aspects of the management's expert's field relevant to the auditor's understanding may include: • Whether that expert's field has areas of specialty within it that are relevant to the audit. • Whether any professional or other standards, and regulatory or legal requirements apply. • What assumptions and methods are used by the management's expert, and whether they are generally accepted within that expert's field and appropriate for financial reporting purposes. • The nature of internal and external data or information the management's expert uses. A57. In the case of a management's expert engaged by the entity, there will ordinarily",
+      "char_count": 809
+    },
+    {
+      "chunk_id": 63,
+      "page": 12,
+      "content": "be an engagement letter or other written form of agreement between the entity and that expert. Evaluating that agreement when obtaining an understanding of the work of the management's expert may assist the auditor in determining the appropriateness of the following for the auditor's purposes: • The nature, scope and objectives of that expert's work; • The respective roles and responsibilities of management and that expert; and • The nature, timing and extent of communication between management and that expert, including the form of any report to be provided by that expert. A58. In the case of a management's expert employed by the entity, it is less likely there will be a written agreement of this kind. Inquiry of the expert and other members of management may be the most appropriate way for",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 64,
+      "page": 12,
+      "content": "the auditor to obtain the necessary understanding. Evaluating the Appropriateness of the Management's Expert's Work (Ref: Para. 8(c)) A59. Considerations when evaluating the appropriateness of the management's expert's work as audit evidence for the relevant assertion may include: • The relevance and reasonableness of that expert's findings or conclusions, their consistency with other audit evidence, and whether they have been appropriately reflected in the financial statements; • If that expert's work involves use of significant assumptions and methods, the relevance and reasonableness of those assumptions and methods; • If that expert's work involves significant use of source data, the relevance, completeness, and accuracy of that source data; and • If that expert's work involves the use",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 65,
+      "page": 12,
+      "content": "of information from an external information source, the relevance and reliability of that information. Information Produced by the Entity and Used for the Auditor's Purposes (Ref: Para. 9(a)-(b)) A60. In order for the auditor to obtain reliable audit evidence, information produced by the entity that is used for performing audit procedures needs to be sufficiently complete and accurate. For example, the effectiveness of auditing revenue by applying standard prices to records of sales volume is affected by the accuracy of the price information and the completeness and accuracy of the sales volume data. Similarly, if the auditor intends to test a population (for example, payments) for a certain characteristic (for example, authorization), the results of the test will be less reliable if the population",
+      "char_count": 809
+    },
+    {
+      "chunk_id": 66,
+      "page": 12,
+      "content": "from which items are selected for testing is not complete. A61. Obtaining audit evidence about the accuracy and completeness of such information may be performed concurrently with the actual audit procedure applied to the information when obtaining such audit evidence is an integral part of the audit procedure itself. In other situations, the auditor may have obtained audit evidence of the accuracy and completeness of such information by testing controls over the preparation and maintenance of the information. In some situations, however, the auditor may determine that additional audit procedures are needed. A62. In some cases, the auditor may intend to use information produced by the entity for other audit purposes. For example, the 23 ISA 620, paragraph 7 372 ISA 500",
+      "char_count": 779
+    },
+    {
+      "chunk_id": 67,
+      "page": 13,
+      "content": "AUDIT EVIDENCE auditor may intend to make use of the entity's performance measures for the purpose of analytical procedures, or to make use of the entity's information produced for monitoring activities, such as reports of the internal audit function. In such cases, the appropriateness of the audit evidence obtained is affected by whether the information is sufficiently precise or detailed for the auditor's purposes. For example, performance measures used by management may not be precise enough to detect material misstatements. Selecting Items for Testing to Obtain Audit Evidence (Ref: Para. 10) A63. An effective test provides appropriate audit evidence to an extent that, taken with other audit evidence obtained or to be obtained, will be sufficient for the auditor's purposes. In selecting",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 68,
+      "page": 13,
+      "content": "items for testing, the auditor is required by paragraph 7 to determine the relevance and reliability of information to be used as audit evidence; the other aspect of effectiveness (sufficiency) is an important consideration in selecting items to test. The means available to the auditor for selecting items for testing are: (a) Selecting all items (100% examination); (b) Selecting specific items; and (c) Audit sampling. The application of any one or combination of these means may be appropriate depending on the particular circumstances, for example, the risks of material misstatement related to the assertion being tested, and the practicality and efficiency of the different means. Selecting All Items A64. The auditor may decide that it will be most appropriate to examine the entire population",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 69,
+      "page": 13,
+      "content": "of items that make up a class of transactions or account balance (or a stratum within that population). 100% examination is unlikely in the case of tests of controls; however, it is more common for tests of details. 100% examination may be appropriate when, for example: • The population constitutes a small number of large value items; • There is a significant risk and other means do not provide sufficient appropriate audit evidence; or • The repetitive nature of a calculation or other process performed automatically by an information system makes a 100% examination cost effective. Selecting Specific Items A65. The auditor may decide to select specific items from a population. In making this decision, factors that may be relevant include the auditor's understanding of the entity, the assessed",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 70,
+      "page": 13,
+      "content": "risks of material misstatement, and the characteristics of the population being tested. The judgmental selection of specific items is subject to non-sampling risk. Specific items selected may include: • High value or key items. The auditor may decide to select specific items within a population because they are of high value, or exhibit some other characteristic, for example, items that are suspicious, unusual, particularly risk-prone or that have a history of error. • All items over a certain amount. The auditor may decide to examine items whose recorded values exceed a certain amount so as to verify a large proportion of the total amount of a class of transactions or account balance. • Items to obtain information. The auditor may examine items to obtain information about matters such as the",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 71,
+      "page": 13,
+      "content": "nature of the entity, or the nature of transactions. A66. While selective examination of specific items from a class of transactions or account balance will often be an efficient means of obtaining audit evidence, it does not constitute audit sampling. The results of audit procedures applied to items selected in this way cannot be projected to the entire population; accordingly, selective examination of specific items does not provide audit evidence concerning the remainder of the population. Audit Sampling A67. Audit sampling is designed to enable conclusions to be drawn about an entire population on the basis of testing a sample ISA 500 373",
+      "char_count": 650
+    },
+    {
+      "chunk_id": 72,
+      "page": 14,
+      "content": "AUDIT EVIDENCE drawn from it. Audit sampling is discussed in ISA 530.24 Inconsistency in, or Doubts over Reliability of, Audit Evidence (Ref: Para. 11) A68. Obtaining audit evidence from different sources or of a different nature may indicate that an individual item of audit evidence is not reliable, such as when audit evidence obtained from one source is inconsistent with that obtained from another. This may be the case when, for example, responses to inquiries of management, internal auditors, and others are inconsistent, or when responses to inquiries of those charged with governance made to corroborate the responses to inquiries of management are inconsistent with the response by management. ISA 230 includes a specific documentation requirement if the auditor identified information that is inconsistent with the auditor's final conclusion regarding a significant matter.25 24 ISA 530, Audit Sampling 25 ISA 230, Audit Documentation, paragraph 11 374 ISA 500",
+      "char_count": 972
+    }
+  ]
+}

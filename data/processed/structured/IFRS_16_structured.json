@@ -1,0 +1,1275 @@
+{
+  "document": "IFRS_16.pdf",
+  "source_chunk_file": "C:\\github\\AI-Audit-Assistant\\data\\processed\\chunks\\IFRS_16_chunks.json",
+  "sample_count": 157,
+  "samples": [
+    {
+      "question": "When was IAS 17 Leases originally issued by the International Accounting Standards Committee?",
+      "contexts": [
+        "IAS 17 Leases replaced IAS 17 Accounting for Leases that was issued in September 1982.",
+        "In April 2001 the International Accounting Standards Board adopted IAS 17 Leases, which had originally been issued by the International Accounting Standards Committee in December 1997."
+      ],
+      "ground_truth": "December 1997"
+    },
+    {
+      "question": "What standard replaced IAS 17 and IFRIC 4 for lease accounting?",
+      "contexts": [
+        "In January 2016 the Board issued IFRS 16 Leases.",
+        "IFRS 16 replaces IAS 17, IFRIC 4, SIC-15 and SIC-27."
+      ],
+      "ground_truth": "IFRS 16"
+    },
+    {
+      "question": "What amendment was issued by the Board in August 2020 related to interest rate benchmark reform?",
+      "contexts": [
+        "The Board issued Interest Rate Benchmark Reform—Phase 2 in August 2020.",
+        "This amendment affected requirements in several standards including IFRS 9 and IFRS 7."
+      ],
+      "ground_truth": "Interest Rate Benchmark Reform—Phase 2"
+    },
+    {
+      "question": "What was the purpose of the Covid-19-Related Rent Concessions amendment issued by the Board in March 2021?",
+      "contexts": [
+        "The Board issued Covid-19-Related Rent Concessions beyond 30 June 2021, which extended by one year the application period of the practical expedient in paragraph 46A to help lessees accounting for covid-19-related rent concessions.",
+        "The Phase 2 amendments apply only to changes required by the interest rate benchmark reform to financial instruments and hedging relationships."
+      ],
+      "ground_truth": "To help lessees accounting for covid-19-related rent concessions by extending the application period of a practical expedient."
+    },
+    {
+      "question": "When was Lease Liability in a Sale and Leaseback issued by the Board?",
+      "contexts": [
+        "The Board issued Lease Liability in a Sale and Leaseback in September 2022.",
+        "Other Standards have made minor consequential amendments to IFRS 16."
+      ],
+      "ground_truth": "September 2022"
+    },
+    {
+      "question": "When was the standard IFRS 16 Leases issued by the board?",
+      "contexts": [
+        "The International Financial Reporting Standard (IFRS) 16 Leases was issued in January 2016.",
+        "Approval by the board of IFRS 16 Leases occurred in January 2016."
+      ],
+      "ground_truth": "January 2016"
+    },
+    {
+      "question": "What standard is being referred to in the appendix to the illustrative examples?",
+      "contexts": [
+        "The appendix refers to amendments to guidance on other Standards under IFRS 16.",
+        "IFRS 16 is the standard being discussed in the context of illustrative examples."
+      ],
+      "ground_truth": "IFRS 16"
+    },
+    {
+      "question": "What standard provides a basis for selecting and applying accounting policies when there is no explicit guidance?",
+      "contexts": [
+        "International Financial Reporting Standard 16 Leases (IFRS 16) is set out in paragraphs 1-106 and Appendices A-D.",
+        "IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for selecting and applying accounting policies in the absence of explicit guidance."
+      ],
+      "ground_truth": "IAS 8"
+    },
+    {
+      "question": "What is the main objective of IFRS 16 International Financial Reporting Standard 16 Leases?",
+      "contexts": [
+        "This Standard sets out the principles for the recognition, measurement, presentation and disclosure of leases.",
+        "The objective is to ensure that lessees and lessors provide relevant information in a manner that faithfully represents those transactions."
+      ],
+      "ground_truth": "To ensure that lessees and lessors provide relevant information in a manner that faithfully represents those transactions."
+    },
+    {
+      "question": "What types of leases are excluded from the standard lease accounting requirements?",
+      "contexts": [
+        "The standard applies to all leases, including leases of right-of-use assets in a sublease, except for specific types.",
+        "Excluded leases include those to explore for or use minerals, oil, natural gas, and similar resources.",
+        "Other exceptions are leases of biological assets, service concession arrangements, and licences of intellectual property."
+      ],
+      "ground_truth": "Leases to explore for or use minerals, oil, natural gas, leases of biological assets, service concession arrangements, and licences of intellectual property."
+    },
+    {
+      "question": "What types of intangible assets are within the scope of IAS 38 that a lessee holds rights to under licensing agreements?",
+      "contexts": [
+        "A lessee holds rights under licensing agreements for items such as motion picture films, video recordings, plays, manuscripts, patents and copyrights within the scope of IAS 38 Intangible Assets.",
+        "Recognition exemptions are available for certain leases, including short-term leases and leases of low-value assets."
+      ],
+      "ground_truth": "Motion picture films, video recordings, plays, manuscripts, patents, and copyrights."
+    },
+    {
+      "question": "How should a lessee recognize lease payments for short-term leases or leases of low-value assets?",
+      "contexts": [
+        "If a lessee elects not to apply the requirements in paragraphs 22-49 to either short-term leases or leases for which the underlying asset is of low value, the lessee shall recognise the lease payments associated with those leases as an expense on either a straight-line basis over the lease term or another systematic basis.",
+        "The lessee shall apply another systematic basis if that basis is more representative of the pattern of the lessee's benefit."
+      ],
+      "ground_truth": "On a straight-line basis over the lease term or another systematic basis."
+    },
+    {
+      "question": "How should a lessee determine whether to consider a lease as new for the purposes of this Standard?",
+      "contexts": [
+        "The lessee shall consider the lease to be a new lease for the purposes of this Standard if there is a lease modification or a change in the lease term.",
+        "A change in the lease term includes the lessee exercising an option not previously included in its determination of the lease term."
+      ],
+      "ground_truth": "If there is a lease modification or a change in the lease term."
+    },
+    {
+      "question": "How should a lessee determine the relative stand-alone price of lease and non-lease components if an observable stand-alone price is not readily available?",
+      "contexts": [
+        "The relative stand-alone price of lease and non-lease components shall be determined on the basis of the price the lessor, or a similar supplier, would charge an entity for that component, or a similar component, separately.",
+        "If an observable stand-alone price is not readily available, the lessee shall estimate the stand-alone price, maximising the use of observable information."
+      ],
+      "ground_truth": "The lessee shall estimate the stand-alone price, maximising the use of observable information."
+    },
+    {
+      "question": "How should a lessor allocate consideration in a contract with multiple components?",
+      "contexts": [
+        "For a contract that contains a lease component and one or more additional lease or non-lease components, a lessor shall allocate the consideration in the contract applying paragraphs 73–90 of IFRS 15.",
+        "A lessee shall account for non-lease components applying other applicable Standards when the practical expedient in paragraph 15 is applied."
+      ],
+      "ground_truth": "By applying paragraphs 73–90 of IFRS 15"
+    },
+    {
+      "question": "What factors should an entity consider when deciding to extend a lease or not exercise an option to terminate it?",
+      "contexts": [
+        "An entity shall consider all relevant facts and circumstances that create an economic incentive for the lessee to exercise the option to extend the lease.",
+        "The consideration is as described in paragraphs B37-B40.",
+        "A lessee shall reassess its decision upon the occurrence of a significant event."
+      ],
+      "ground_truth": "All relevant facts and circumstances creating an economic incentive"
+    },
+    {
+      "question": "What triggers a revision of the lease term under the given circumstances?",
+      "contexts": [
+        "A significant change in circumstances affects whether the lessee is reasonably certain to exercise an option not previously included in its determination of the lease term.",
+        "An entity shall revise the lease term if there is a change in the non-cancellable period of a lease."
+      ],
+      "ground_truth": "A change in the non-cancellable period of a lease"
+    },
+    {
+      "question": "What events require a lessee to reassess the lease term?",
+      "contexts": [
+        "The lessee exercises an option not previously included in the entity's determination of the lease term",
+        "An event occurs that contractually obliges the lessee to exercise an option not previously included in the entity's determination of the lease term"
+      ],
+      "ground_truth": "Exercising a new option or being contractually obliged to do so"
+    },
+    {
+      "question": "What components make up the cost of the right-of-use asset?",
+      "contexts": [
+        "The cost of the right-of-use asset shall comprise the amount of the initial measurement of the lease liability, lease payments made at or before the commencement date, initial direct costs, and estimated dismantling and removal costs.",
+        "The components include the initial measurement of the lease liability, lease payments, initial direct costs, and costs for dismantling and removing the underlying asset."
+      ],
+      "ground_truth": "Initial measurement of lease liability, lease payments, initial direct costs, and dismantling/removal costs"
+    },
+    {
+      "question": "How does a lessee account for costs incurred from using a right-of-use asset to produce inventories?",
+      "contexts": [
+        "A lessee applies IAS 2 Inventories to costs that are incurred during a particular period as a consequence of having used the right-of-use asset to produce inventories during that period.",
+        "The obligations for such costs accounted for applying this Standard or IAS 2 are recognised and measured applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets."
+      ],
+      "ground_truth": "Using IAS 2 Inventories and measuring obligations with IAS 37."
+    },
+    {
+      "question": "How should a lessee measure the lease liability at the commencement date according to IFRS 16?",
+      "contexts": [
+        "At the commencement date, a lessee shall measure the lease liability at the present value of the lease payments that are not paid at that date.",
+        "The lease payments shall be discounted using the interest rate implicit in the lease, if that rate can be readily determined."
+      ],
+      "ground_truth": "At the present value of the lease payments that are not paid at that date."
+    },
+    {
+      "question": "What types of payments are considered variable lease payments that depend on an index or a rate?",
+      "contexts": [
+        "lease payments that depend on an index or a rate, initially measured using the index or rate as at the commencement date",
+        "payments linked to a consumer price index, payments linked to a benchmark interest rate (such as LIBOR) or payments that vary to reflect changes"
+      ],
+      "ground_truth": "Payments linked to a consumer price index, benchmark interest rate, or other variable rates."
+    },
+    {
+      "question": "How should a lessee measure the right-of-use asset after the commencement date under the cost model?",
+      "contexts": [
+        "After the commencement date, a lessee shall measure the right-of-use asset applying a cost model, unless it applies either of the measurement models described in paragraphs 34 and 35.",
+        "To apply a cost model, a lessee shall measure the right-of-use asset at cost: less any accumulated depreciation and any accumulated impairment losses; and adjusted for any remeasurement of the lease liability."
+      ],
+      "ground_truth": "At cost, less any accumulated depreciation and impairment losses, and adjusted for any remeasurement of the lease liability."
+    },
+    {
+      "question": "How should a lessee depreciate a right-of-use asset if the lease does not transfer ownership of the underlying asset?",
+      "contexts": [
+        "If the lease transfers ownership of the underlying asset to the lessee by the end of the lease term or if the cost of the right-of-use asset reflects that the lessee will exercise a purchase option, the lessee shall depreciate the right-of-use asset from the commencement date to the end of the useful life of the underlying asset.",
+        "Otherwise, the lessee shall depreciate the right-of-use asset from the commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term."
+      ],
+      "ground_truth": "From the commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term."
+    },
+    {
+      "question": "How does a lessee measure the lease liability after the commencement date?",
+      "contexts": [
+        "After the commencement date, a lessee shall measure the lease liability by increasing the carrying amount to reflect interest on the lease liability, reducing the carrying amount to reflect the lease payments made, and remeasuring the carrying amount to reflect any reassessment or lease modifications.",
+        "The lessee applies the fair value model to right-of-use assets that meet the definition of investment property in IAS 40."
+      ],
+      "ground_truth": "By increasing the carrying amount to reflect interest, reducing it to reflect lease payments, and remeasuring for reassessments or modifications."
+    },
+    {
+      "question": "What two items should a lessee recognize in profit or loss after the commencement date?",
+      "contexts": [
+        "After the commencement date, a lessee shall recognise in profit or loss, unless the costs are included in the carrying amount of another asset applying other applicable Standards, both: (a) interest on the lease liability; and (b) variable lease payments not included in the measurement of the lease liability in the period in which the event or condition that triggers those payments occurs.",
+        "The periodic rate of interest is the discount rate described in paragraph 26, or if applicable the revised discount rate described in paragraph 41, paragraph 43 or paragraph 45(c)."
+      ],
+      "ground_truth": "Interest on the lease liability and variable lease payments not included in the measurement of the lease liability"
+    },
+    {
+      "question": "How does a lessee remeasure the lease liability after the commencement date?",
+      "contexts": [
+        "After the commencement date, a lessee shall apply paragraphs 40-43 to remeasure the lease liability to reflect changes to the lease payments.",
+        "A lessee shall remeasure the lease liability by discounting the revised lease payments using a revised discount rate, if either: there is a change in the lease term."
+      ],
+      "ground_truth": "By discounting the revised lease payments using a revised discount rate."
+    },
+    {
+      "question": "How does a lessee determine the revised discount rate for the remainder of the lease term?",
+      "contexts": [
+        "A lessee shall determine the revised discount rate as the interest rate implicit in the lease for the remainder of the lease term, if that rate can be readily determined, or the lessee's incremental borrowing rate at the date of reassessment, if the interest rate implicit in the lease cannot be readily determined.",
+        "The revised lease payments reflect the change in amounts payable under the purchase option."
+      ],
+      "ground_truth": "The interest rate implicit in the lease or the lessee's incremental borrowing rate"
+    },
+    {
+      "question": "What triggers a revision in lease payments according to the given conditions?",
+      "contexts": [
+        "A lessee shall determine the revised lease payments to reflect the change in amounts expected to be payable under the residual value guarantee.",
+        "There is a change in future lease payments resulting from a change in an index or a rate used to determine those payments."
+      ],
+      "ground_truth": "Changes in residual value guarantees or changes in indices/rates used to determine lease payments"
+    },
+    {
+      "question": "When should a lessee remeasure the lease liability to reflect revised lease payments?",
+      "contexts": [
+        "A lessee shall remeasure the lease liability to reflect those revised lease payments only when there is a change in the cash flows.",
+        "The revised lease payments for the remainder of the lease term are determined based on the revised contractual payments."
+      ],
+      "ground_truth": "When there is a change in the cash flows"
+    },
+    {
+      "question": "How should a lessee account for a lease modification that adds the right to use one or more underlying assets and increases consideration by an amount commensurate with the stand-alone price?",
+      "contexts": [
+        "A lessee shall account for a lease modification as a separate lease if the modification increases the scope of the lease and the consideration increases by an amount commensurate with the stand-alone price.",
+        "For a lease modification that is not accounted for as a separate lease, the lessee shall allocate the consideration, determine the lease term, and remeasure the lease liability at the effective date of the modification."
+      ],
+      "ground_truth": "As a separate lease or by allocating consideration, determining lease term, and remeasuring lease liability."
+    },
+    {
+      "question": "How does a lessee account for the remeasurement of the lease liability in the case of a lease modification that is not accounted for as a separate lease?",
+      "contexts": [
+        "The lessee shall account for the remeasurement of the lease liability by decreasing the carrying amount of the right-of-use asset to reflect the partial or full termination of the lease for lease modifications that decrease the scope of the lease.",
+        "The lessee shall recognise in profit or loss any gain or loss relating to the partial or full termination."
+      ],
+      "ground_truth": "By decreasing the carrying amount of the right-of-use asset and recognising any gain or loss in profit or loss."
+    },
+    {
+      "question": "What conditions must be met for a lessee to apply the practical expedient for rent concessions under IFRS 16?",
+      "contexts": [
+        "A lessee may elect not to assess whether a rent concession is a lease modification if it meets the conditions in paragraph 46B.",
+        "The practical expedient applies only to rent concessions occurring as a direct consequence of the covid-19 pandemic.",
+        "The change in lease payments must result in revised consideration for the lease that is substantially the same as, or less than, the consideration for the lease immediately preceding the change."
+      ],
+      "ground_truth": "The change must be due to the covid-19 pandemic and result in the same or less consideration for the lease."
+    },
+    {
+      "question": "How should a lessee present right-of-use assets in the statement of financial position according to IFRS 16?",
+      "contexts": [
+        "A lessee shall either present in the statement of financial position, or disclose in the notes: right-of-use assets separately from other assets.",
+        "If a lessee does not present right-of-use assets separately in the statement of financial position, the lessee shall include right-of-use assets within the same line item as that within which the corresponding underlying assets would be presented if"
+      ],
+      "ground_truth": "Either separately from other assets or included within the same line item as the corresponding underlying assets."
+    },
+    {
+      "question": "How should a lessee present interest expense on the lease liability in the statement of profit or loss and other comprehensive income?",
+      "contexts": [
+        "In the statement of profit or loss and other comprehensive income, a lessee shall present interest expense on the lease liability separately from the depreciation charge for the right-of-use asset.",
+        "The requirement in paragraph 47(a) does not apply to right-of-use assets that meet the definition of investment property, which shall be presented in the statement of financial position as investment property."
+      ],
+      "ground_truth": "Separately from the depreciation charge for the right-of-use asset."
+    },
+    {
+      "question": "How should a lessee classify cash payments for the interest portion of the lease liability in the statement of cash flows?",
+      "contexts": [
+        "Interest expense on the lease liability is a component of finance costs, which paragraph 82(b) of IAS 1 Presentation of Financial Statements requires to be presented separately in the statement of profit or loss and other comprehensive income.",
+        "In the statement of cash flows, a lessee shall classify cash payments for the interest portion of the lease liability applying the requirements in IAS 7 Statement of Cash Flows for interest paid;"
+      ],
+      "ground_truth": "Applying the requirements in IAS 7 Statement of Cash Flows for interest paid"
+    },
+    {
+      "question": "What is the main objective of lease disclosures under IFRS 16 for lessees?",
+      "contexts": [
+        "The objective of the disclosures is for lessees to disclose information in the notes that, together with the information provided in the statement of financial position, statement of profit or loss and statement of cash flows, gives a basis for users of financial statements to assess the effect that leases have on the financial position, financial performance and cash flows of the lessee.",
+        "A lessee shall disclose information about its leases for which it is a lessee in a single note or separate section in its financial statements."
+      ],
+      "ground_truth": "To provide a basis for users to assess the effect of leases on the lessee's financial position, performance, and cash flows."
+    },
+    {
+      "question": "What disclosures are required for a lessee regarding leases in the reporting period?",
+      "contexts": [
+        "A lessee shall disclose the following amounts for the reporting period: depreciation charge for right-of-use assets, interest expense on lease liabilities, and expenses related to short-term and low-value asset leases.",
+        "The disclosures include expenses relating to variable lease payments and income from subleasing right-of-use assets.",
+        "Total lease-related expenses are also required to be disclosed."
+      ],
+      "ground_truth": "Depreciation charge, interest expense, short-term lease expenses, low-value asset lease expenses, variable lease payments, sublease income, and total lease-related expenses."
+    },
+    {
+      "question": "What format should a lessee use to provide the disclosures specified in paragraph 53?",
+      "contexts": [
+        "A lessee shall provide the disclosures specified in paragraph 53 in a tabular format, unless another format is more appropriate.",
+        "The amounts disclosed shall include costs that a lessee has included in the carrying amount of another asset during the reporting period."
+      ],
+      "ground_truth": "A tabular format, unless another format is more appropriate."
+    },
+    {
+      "question": "What disclosure requirements apply to right-of-use assets that meet the definition of investment property under IFRS 16?",
+      "contexts": [
+        "A lessee shall apply the disclosure requirements in IAS 40 if right-of-use assets meet the definition of investment property.",
+        "In such cases, the lessee is not required to provide the disclosures in paragraph 53(a), (f), (h) or (j) for those right-of-use assets."
+      ],
+      "ground_truth": "IAS 40 disclosure requirements"
+    },
+    {
+      "question": "What types of information help users of financial statements assess a lessee's leasing activities?",
+      "contexts": [
+        "Information about leasing activities is necessary to meet the disclosure objective, including the nature of the lessee's leasing activities and future cash outflows.",
+        "This information may include details about variable lease payments, extension options, termination options, residual value guarantees, and leases not yet commenced.",
+        "Restrictions or covenants imposed by leases are also considered important for users of financial statements to assess leasing activities."
+      ],
+      "ground_truth": "The nature of leasing activities, future cash outflows, and restrictions or covenants imposed by leases."
+    },
+    {
+      "question": "What disclosure is required for a lessee that applies the practical expedient in paragraph 46A?",
+      "contexts": [
+        "If a lessee applies the practical expedient in paragraph 46A, the lessee shall disclose: (a) that it has applied the practical expedient to all rent concessions that meet the conditions in paragraph 46B or, if not applied to all such rent concessions, information about the nature of the contracts to which it has applied the practical expedient",
+        "the lessee shall disclose: (b) the amount recognised in profit or loss for the reporting period to reflect changes in lease payments that arise from rent concessions to which the lessee has applied the practical expedient in paragraph 46A"
+      ],
+      "ground_truth": "The lessee must disclose that it has applied the practical expedient and the amount recognised in profit or loss for changes in lease payments from rent concessions."
+    },
+    {
+      "question": "How does a lessor classify a lease under IFRS 16?",
+      "contexts": [
+        "A lessor shall classify each of its leases as either an operating lease or a finance lease.",
+        "A lease is classified as a finance lease if it transfers substantially all the risks and rewards incidental to ownership of an underlying asset."
+      ],
+      "ground_truth": "As either an operating lease or a finance lease"
+    },
+    {
+      "question": "What conditions indicate a lease should be classified as a finance lease?",
+      "contexts": [
+        "A lease should be classified as a finance lease if it meets certain conditions, including the lease term being for the major part of the economic life of the underlying asset.",
+        "Other indicators include the present value of the lease payments amounting to substantially all of the fair value of the underlying asset, or the underlying asset being so specialized that only the lessee can use it without major modifications."
+      ],
+      "ground_truth": "Conditions such as lease term, option to purchase, lease payments, and asset specialization"
+    },
+    {
+      "question": "What conditions indicate a lease should be classified as a capital lease from the lessee's perspective?",
+      "contexts": [
+        "If the lessee can cancel the lease, the lessor's losses associated with the cancellation are borne by the lessee.",
+        "Gains or losses from the fluctuation in the fair value of the residual accrue to the lessee.",
+        "The lessee has the ability to continue the lease for a secondary period at a rent that is substantially lower than market rent."
+      ],
+      "ground_truth": "The lessee bears lessor's losses upon cancellation, gains/losses from residual value fluctuations accrue to them, and they can extend the lease at below-market rent."
+    },
+    {
+      "question": "How is a lease classified if it does not transfer substantially all the risks and rewards of an underlying asset?",
+      "contexts": [
+        "If it is clear from other features that the lease does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset, the lease is classified as an operating lease.",
+        "This may be the case if ownership of the underlying asset transfers at the end of the lease for a variable payment equal to its then fair value, or if there are variable lease payments."
+      ],
+      "ground_truth": "As an operating lease"
+    },
+    {
+      "question": "How is the net investment in a lease measured for a lessor according to IFRS 16?",
+      "contexts": [
+        "At the commencement date, a lessor shall recognise assets held under a finance lease in its statement of financial position and present them as a receivable at an amount equal to the net investment in the lease.",
+        "The lessor shall use the interest rate implicit in the lease to measure the net investment in the lease."
+      ],
+      "ground_truth": "Using the interest rate implicit in the lease"
+    },
+    {
+      "question": "How are initial direct costs treated in the initial measurement of the net investment in a lease?",
+      "contexts": [
+        "Initial direct costs, other than those incurred by manufacturer or dealer lessors, are included in the initial measurement of the net investment in the lease and reduce the amount of income recognised over the lease term.",
+        "The interest rate implicit in the lease is defined in such a way that the initial direct costs are included automatically in the net investment in the lease; there is no need to add them separately."
+      ],
+      "ground_truth": "They are included in the initial measurement and reduce the amount of income recognised over the lease term."
+    },
+    {
+      "question": "What types of payments are included in the measurement of the net investment in a lease?",
+      "contexts": [
+        "The lease payments included in the measurement of the net investment in the lease comprise the following payments for the right to use the underlying asset during the lease term.",
+        "These payments include fixed payments, variable lease payments that depend on an index or a rate, and any residual value."
+      ],
+      "ground_truth": "Fixed payments, variable lease payments, and residual value"
+    },
+    {
+      "question": "What factors are considered when assessing if a lessee is reasonably certain to exercise a purchase option?",
+      "contexts": [
+        "The exercise price of a purchase option is considered if the lessee is reasonably certain to exercise that option.",
+        "This assessment considers the factors described in paragraph B37."
+      ],
+      "ground_truth": "Factors described in paragraph B37"
+    },
+    {
+      "question": "What should a manufacturer or dealer lessor recognize at the commencement date of a finance lease?",
+      "contexts": [
+        "A manufacturer or dealer lessor shall recognise revenue, cost of sale, and selling profit or loss at the commencement date of a finance lease.",
+        "The revenue is the fair value of the underlying asset or the present value of lease payments, whichever is lower."
+      ],
+      "ground_truth": "Revenue, cost of sale, and selling profit or loss"
+    },
+    {
+      "question": "How does a finance lease by a manufacturer or dealer lessor affect profit or loss?",
+      "contexts": [
+        "A finance lease of an asset by a manufacturer or dealer lessor gives rise to profit or loss equivalent to the profit or loss resulting from an outright sale of the underlying asset.",
+        "Manufacturer or dealer lessors sometimes quote artificially low rates of interest in order to attract customers."
+      ],
+      "ground_truth": "It gives rise to profit or loss equivalent to an outright sale of the asset."
+    },
+    {
+      "question": "How should a lessor allocate finance income over the lease term?",
+      "contexts": [
+        "A lessor shall recognise finance income over the lease term, based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease.",
+        "A lessor aims to allocate finance income over the lease term on a systematic and rational basis."
+      ],
+      "ground_truth": "On a systematic and rational basis."
+    },
+    {
+      "question": "What standard should a lessor apply when classifying an asset under a finance lease as held for sale?",
+      "contexts": [
+        "A lessor that classifies an asset under a finance lease as held for sale (or includes it in a disposal group that is classified as held for sale) applying IFRS 5 Non-current Assets Held for Sale and Discontinued Operations shall account for the asset in accordance with that Standard.",
+        "A lessor shall apply the derecognition and impairment requirements in IFRS 9 to the net investment in the lease."
+      ],
+      "ground_truth": "IFRS 5"
+    },
+    {
+      "question": "How should a lessor account for a modification to a finance lease that does not qualify as a separate lease and would have been an operating lease at inception?",
+      "contexts": [
+        "A modification to a finance lease is accounted for as a separate lease if it increases the scope and consideration commensurate with the stand-alone price.",
+        "For modifications not qualifying as separate leases, if the lease would have been an operating lease at inception, the lessor accounts for it as a new lease from the modification's effective date."
+      ],
+      "ground_truth": "As a new lease from the effective date of the modification"
+    },
+    {
+      "question": "How should a lessor recognize lease payments from operating leases?",
+      "contexts": [
+        "A lessor shall recognise lease payments from operating leases as income on either a straight-line basis or another systematic basis.",
+        "The lessor shall apply another systematic basis if that basis is more representative of the pattern in which benefit from the use of the underlying asset is diminished."
+      ],
+      "ground_truth": "On a straight-line basis or another systematic basis"
+    },
+    {
+      "question": "How should a lessor calculate depreciation for depreciable underlying assets subject to operating leases?",
+      "contexts": [
+        "The depreciation policy for depreciable underlying assets subject to operating leases shall be consistent with the lessor's normal depreciation policy for similar assets.",
+        "A lessor shall calculate depreciation in accordance with IAS 16 and IAS 38."
+      ],
+      "ground_truth": "In accordance with IAS 16 and IAS 38, consistently with the lessor's normal depreciation policy."
+    },
+    {
+      "question": "How should a lessor account for a modification to an operating lease?",
+      "contexts": [
+        "A lessor shall account for a modification to an operating lease as a new lease from the effective date of the modification.",
+        "Considering any prepaid or accrued lease payments relating to the original lease as part of the lease payments for the new lease."
+      ],
+      "ground_truth": "As a new lease from the effective date of the modification"
+    },
+    {
+      "question": "What information must a lessor disclose for finance leases according to the specified requirements?",
+      "contexts": [
+        "A lessor shall disclose the following amounts for the reporting period: (a) for finance leases: (i) selling profit or loss; (ii) finance income on the net investment in the lease; and (iii) income relating to variable lease payments not included in the measurement of the net investment in the lease.",
+        "Paragraphs 90-97 specify requirements on how to meet the objective of disclosing performance and cash flows of the lessor."
+      ],
+      "ground_truth": "Selling profit or loss, finance income on the net investment in the lease, and income relating to variable lease payments not included in the measurement of the net investment in the lease."
+    },
+    {
+      "question": "What type of information should a lessor disclose about its leasing activities according to IFRS 16?",
+      "contexts": [
+        "A lessor shall disclose additional qualitative and quantitative information about its leasing activities necessary to meet the disclosure objective.",
+        "This additional information includes information that helps users of financial statements to assess the nature of the lessor's leasing activities and how the lessor manages the risk associated with any rights it retains in underlying assets."
+      ],
+      "ground_truth": "Qualitative and quantitative information"
+    },
+    {
+      "question": "What information should a lessor disclose regarding lease payments receivable for a finance lease?",
+      "contexts": [
+        "A lessor shall disclose a maturity analysis of the lease payments receivable, showing the undiscounted lease payments to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years.",
+        "The reconciliation shall identify the unearned finance income relating to the lease payments receivable and any discounted unguaranteed residual value."
+      ],
+      "ground_truth": "A maturity analysis of the lease payments receivable, including undiscounted lease payments for the first five years and the total for the remaining years."
+    },
+    {
+      "question": "How should a lessor disaggregate each class of property, plant and equipment according to IAS 16?",
+      "contexts": [
+        "A lessor shall disaggregate each class of property, plant and equipment into assets subject to operating leases and assets not subject to operating leases.",
+        "A lessor shall provide the disclosures required by IAS 16 for assets subject to an operating lease separately from owned assets held and used by the lessor."
+      ],
+      "ground_truth": "Into assets subject to operating leases and assets not subject to operating leases."
+    },
+    {
+      "question": "What information must a lessor disclose regarding lease payments?",
+      "contexts": [
+        "A lessor shall disclose a maturity analysis of lease payments, showing the undiscounted lease payments to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years.",
+        "The disclosure requirements apply to operating leases."
+      ],
+      "ground_truth": "A maturity analysis of lease payments on an annual basis for the first five years and the total for the remaining years."
+    },
+    {
+      "question": "How does an entity determine if the transfer of an asset is accounted for as a sale under IFRS 16?",
+      "contexts": [
+        "An entity shall apply the requirements for determining when a performance obligation is satisfied in IFRS 15 to determine whether the transfer of an asset is accounted for as a sale of that asset.",
+        "The transfer of an asset by the seller-lessee satisfies the requirements of IFRS 15 to be accounted for as a sale of the asset."
+      ],
+      "ground_truth": "By applying IFRS 15 requirements for determining when a performance obligation is satisfied."
+    },
+    {
+      "question": "How should an entity account for below-market terms in a sale-leaseback transaction?",
+      "contexts": [
+        "An entity shall account for the purchase of the asset applying applicable Standards, and for the lease applying the lessor accounting requirements in this Standard.",
+        "Any below-market terms shall be accounted for as a prepayment of lease payments."
+      ],
+      "ground_truth": "As a prepayment of lease payments"
+    },
+    {
+      "question": "How should the seller-lessee determine 'lease payments' or 'revised lease payments' after the commencement date of a leaseback transaction?",
+      "contexts": [
+        "The seller-lessee shall apply paragraphs 36–46 to the lease liability arising from the leaseback.",
+        "In applying paragraphs 36–46, the seller-lessee shall determine ‘lease payments’ or ‘revised lease payments’ in a way that the seller-lessee would not recognise any amount of the gain or loss that relates to the right of use retained by the seller-lessee."
+      ],
+      "ground_truth": "In a way that the seller-lessee would not recognise any amount of the gain or loss that relates to the right of use retained by the seller-lessee."
+    },
+    {
+      "question": "What happens to the transferred asset when the transfer does not meet IFRS 15 sale requirements?",
+      "contexts": [
+        "The seller-lessee shall continue to recognise the transferred asset and shall recognise a financial liability equal to the transfer proceeds.",
+        "The buyer-lessor shall not recognise the transferred asset and shall recognise a financial asset equal to the transfer proceeds."
+      ],
+      "ground_truth": "The seller-lessee continues to recognise the asset, and the buyer-lessor does not recognise it."
+    },
+    {
+      "question": "What is the term 'interest rate benchmark reform' referring to in the context of IFRS 9?",
+      "contexts": [
+        "The term 'interest rate benchmark reform' refers to the market-wide reform of an interest rate benchmark as described in paragraph 6.8.2 of IFRS 9.",
+        "Benchmark reform is discussed in paragraphs 5.4.6 and 5.4.8 of IFRS 9."
+      ],
+      "ground_truth": "The market-wide reform of an interest rate benchmark as described in paragraph 6.8.2 of IFRS 9."
+    },
+    {
+      "question": "What conditions must be met for a lease modification to be required by interest rate benchmark reform?",
+      "contexts": [
+        "A lease modification is required by interest rate benchmark reform if it is necessary as a direct consequence of interest rate benchmark reform and the new basis for determining lease payments is economically equivalent to the previous basis.",
+        "Two conditions must be met: the modification must be a direct consequence of interest rate benchmark reform, and the new lease payment basis must be economically equivalent to the previous one."
+      ],
+      "ground_truth": "The modification must be necessary due to interest rate benchmark reform and the new basis for lease payments must be economically equivalent to the previous basis."
+    },
+    {
+      "question": "What is meant by the commencement date of a lease?",
+      "contexts": [
+        "The commencement date of the lease is the date on which a lessor makes an underlying asset available for use by a lessee.",
+        "This appendix defines key terms used in the Standard, including commencement date."
+      ],
+      "ground_truth": "The date on which a lessor makes an underlying asset available for use by a lessee."
+    },
+    {
+      "question": "What does the inception date of a lease refer to?",
+      "contexts": [
+        "The inception date of the lease is the earlier of the date of a lease agreement and the date of commitment by the parties to the principal terms and conditions of the lease.",
+        "This date marks the beginning of the lease term."
+      ],
+      "ground_truth": "The earlier of the date of a lease agreement and the date of commitment by the parties to the principal terms and conditions of the lease."
+    },
+    {
+      "question": "What is the implicit interest rate in a finance lease based on?",
+      "contexts": [
+        "The implicit interest rate in a finance lease causes the present value of lease payments and unguaranteed residual value to equal the sum of the fair value of the underlying asset and any initial direct costs of the lessor.",
+        "A finance lease conveys the right to use an asset for a period of time in exchange for consideration.",
+        "Lease incentives are payments made by a lessor to a lessee associated with a lease."
+      ],
+      "ground_truth": "The present value of lease payments and unguaranteed residual value"
+    },
+    {
+      "question": "What types of payments are included in lease payments according to IFRS 16?",
+      "contexts": [
+        "Lease payments comprise fixed payments, variable lease payments that depend on an index or a rate, the exercise price of a purchase option, and payments of penalties for terminating the lease.",
+        "IFRS 16 defines lease payments as payments made by a lessee to a lessor relating to the right to use an underlying asset during the lease term."
+      ],
+      "ground_truth": "Fixed payments, variable lease payments, exercise price of a purchase option, and payments of penalties for terminating the lease"
+    },
+    {
+      "question": "What types of payments are included in lease payments for the lessee?",
+      "contexts": [
+        "Lease payments also include amounts expected to be payable by the lessee under residual value guarantees.",
+        "Lease payments do not include payments allocated to non-lease components, unless the lessee elects to combine non-lease components with a lease component and to account for them as a single lease component."
+      ],
+      "ground_truth": "Amounts expected to be payable under residual value guarantees and lease payments, potentially including non-lease components if elected by the lessee."
+    },
+    {
+      "question": "What factors determine the periods covered by a lease in addition to its initial term?",
+      "contexts": [
+        "The lease term includes periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option.",
+        "It also includes periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option."
+      ],
+      "ground_truth": "Options to extend or terminate the lease, if the lessee is reasonably certain to exercise or not exercise them."
+    },
+    {
+      "question": "What type of lease does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset?",
+      "contexts": [
+        "A lease that does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset is called an operating lease.",
+        "IFRS 16 defines various terms related to leases, including operating lease."
+      ],
+      "ground_truth": "Operating lease"
+    },
+    {
+      "question": "What is considered a short-term lease?",
+      "contexts": [
+        "A lease that, at the commencement date, has a lease term of 12 months or less.",
+        "A lease that contains a purchase option is not a short-term lease."
+      ],
+      "ground_truth": "A lease with a term of 12 months or less, excluding those with a purchase option."
+    },
+    {
+      "question": "What is meant by unguaranteed residual value in the context of a lease?",
+      "contexts": [
+        "The unguaranteed residual value is that portion of the residual value of the underlying asset, the realisation of which by a lessor is not assured or is guaranteed solely by a party related to the lessor.",
+        "This definition is specific to the lease and its associated terms."
+      ],
+      "ground_truth": "The portion of the residual value of the underlying asset that is not assured to be realised by the lessor."
+    },
+    {
+      "question": "What does the useful life of an asset represent under IFRS 16?",
+      "contexts": [
+        "The period over which an asset is expected to be available for use by an entity",
+        "or the number of production or similar units expected to be obtained from an asset by an entity"
+      ],
+      "ground_truth": "The period of use or production units expected from an asset"
+    },
+    {
+      "question": "Under what conditions can an entity apply IFRS 16 to a portfolio of leases rather than individual leases?",
+      "contexts": [
+        "This Standard specifies the accounting for an individual lease.",
+        "An entity may apply this Standard to a portfolio of leases with similar characteristics if the entity reasonably expects that the effects on the financial statements would not differ materially from applying this Standard to the individual leases within that portfolio."
+      ],
+      "ground_truth": "The entity reasonably expects that the effects on the financial statements would not differ materially from applying the Standard to the individual leases within that portfolio."
+    },
+    {
+      "question": "Under what conditions should an entity combine two or more contracts with the same counterparty as a single contract?",
+      "contexts": [
+        "An entity shall combine two or more contracts entered into at or near the same time with the same counterparty if certain criteria are met.",
+        "The contracts must be negotiated as a package with an overall commercial objective, or the amount of consideration in one contract depends on the price or performance of the other contract, or the rights to use underlying assets form a single lease component."
+      ],
+      "ground_truth": "The contracts are negotiated as a package, the consideration in one contract depends on the other, or the rights to use underlying assets form a single lease component."
+    },
+    {
+      "question": "How should a lessee assess the value of an underlying asset to determine if it is of low value?",
+      "contexts": [
+        "A lessee shall assess the value of an underlying asset based on the value of the asset when it is new, regardless of the age of the asset being leased.",
+        "The assessment of whether an underlying asset is of low value is performed on an absolute basis."
+      ],
+      "ground_truth": "Based on the value of the asset when it is new"
+    },
+    {
+      "question": "What conditions must be met for an underlying asset to be considered of low value under IFRS 16?",
+      "contexts": [
+        "An underlying asset can be of low value if the lessee can benefit from its use and it's not highly dependent on other assets.",
+        "The asset must be able to be used by the lessee on its own or with readily available resources."
+      ],
+      "ground_truth": "The lessee must be able to benefit from its use and it must not be highly dependent on other assets."
+    },
+    {
+      "question": "What two rights must a customer have to control the use of an identified asset in a contract?",
+      "contexts": [
+        "To assess whether a contract conveys the right to control the use of an identified asset, an entity shall assess whether the customer has the right to obtain substantially all of the economic benefits and the right to direct the use.",
+        "The customer must have both the right to obtain substantially all of the economic benefits from use of the identified asset and the right to direct the use of the identified asset."
+      ],
+      "ground_truth": "The right to obtain substantially all of the economic benefits and the right to direct the use"
+    },
+    {
+      "question": "How is a joint arrangement considered in a contract when assessing for a lease under IFRS 11?",
+      "contexts": [
+        "A joint arrangement, as defined in IFRS 11 Joint Arrangements, may enter into contracts or services on its own behalf.",
+        "In such cases, the joint arrangement is viewed as the customer in the contract for the purpose of lease assessment."
+      ],
+      "ground_truth": "The joint arrangement is considered the customer."
+    },
+    {
+      "question": "Under what conditions does a supplier have a substantive right to substitute an asset?",
+      "contexts": [
+        "A supplier's right to substitute an asset is substantive only if the supplier has the practical ability to substitute alternative assets throughout the period of use.",
+        "The supplier must also benefit economically from the exercise of its right to substitute the asset."
+      ],
+      "ground_truth": "The supplier must have the practical ability to substitute and benefit economically from it."
+    },
+    {
+      "question": "How does the occurrence of a specified event affect a supplier's substitution right?",
+      "contexts": [
+        "If the supplier has a right or an obligation to substitute the asset only on or after either a particular date or the occurrence of a specified event, the supplier's substitution right is not substantive because the supplier does not have the practical ability to substitute alternative assets throughout the period of use.",
+        "An entity's evaluation of whether a supplier's substitution right is substantive is based on facts and circumstances at inception of the contract and shall exclude consideration of future events that, at inception of the contract, are not considered likely to occur."
+      ],
+      "ground_truth": "It makes the supplier's substitution right not substantive."
+    },
+    {
+      "question": "What factors should be excluded from the evaluation of a contract?",
+      "contexts": [
+        "An agreement by a future customer to pay an above market rate for use of the asset should be excluded.",
+        "The introduction of new technology not substantially developed at inception of the contract should also be excluded.",
+        "Substantial differences in the customer's use or the asset's performance from what was considered likely at contract inception should be excluded."
+      ],
+      "ground_truth": "Factors such as above market rate agreements, new technology introductions, and substantial differences in asset use or performance"
+    },
+    {
+      "question": "What factors affect the costs associated with substituting an asset?",
+      "contexts": [
+        "The costs associated with substitution are generally higher when the asset is located at the customer's premises or elsewhere, rather than at the supplier's premises.",
+        "The period of use and the market price considered likely at inception of the contract are relevant factors."
+      ],
+      "ground_truth": "Location of the asset and market price"
+    },
+    {
+      "question": "What is presumed about a supplier's substitution right if the customer cannot readily determine its substance?",
+      "contexts": [
+        "The customer shall presume that any substitution right is not substantive if it cannot be readily determined.",
+        "A substantive substitution right affects how assets are identified under IFRS 16.",
+        "IFRS 16 provides guidelines for determining the substance of a supplier's substitution right."
+      ],
+      "ground_truth": "It is presumed not to be substantive."
+    },
+    {
+      "question": "How can a customer obtain economic benefits from the use of an asset?",
+      "contexts": [
+        "A customer can obtain economic benefits from use of an asset directly or indirectly in many ways, such as by using, holding or subleasing the asset.",
+        "The economic benefits from use of an asset include its primary output and by-products (including potential cash flows derived from these items), and other economic benefits from using the asset that could be realised from a commercial transaction with a third party."
+      ],
+      "ground_truth": "by using, holding or subleasing the asset"
+    },
+    {
+      "question": "How should an entity consider the economic benefits from the use of an asset when there are contractual limitations?",
+      "contexts": [
+        "A contract may limit the use of an asset to a specific territory or a particular number of miles during the period of use.",
+        "If a contract specifies such limitations, an entity shall consider only the economic benefits from use of the asset within those limits."
+      ],
+      "ground_truth": "Only within the specified limits"
+    },
+    {
+      "question": "What constitutes the economic benefits a customer obtains from using an asset, such as retail space?",
+      "contexts": [
+        "The economic benefits that the customer obtains from use of the asset include cash flows arising from sales.",
+        "A customer's requirement to pay a supplier a percentage of sales from use of the asset does not prevent them from obtaining substantially all economic benefits."
+      ],
+      "ground_truth": "Cash flows from sales, even if a portion is paid to the supplier as consideration."
+    },
+    {
+      "question": "What conditions must be met for a customer to have the right to direct the use of an identified asset under IFRS 16?",
+      "contexts": [
+        "A customer has the right to direct the use of an identified asset throughout the period of use only if either: (a) the customer has the right to direct how and for what purpose the asset is used throughout the period of use;",
+        "or (b) the relevant decisions about how and for what purpose the asset is used are predetermined and the customer has specific rights regarding its operation or design."
+      ],
+      "ground_truth": "The customer must have the right to direct how and for what purpose the asset is used, or the decisions must be predetermined with the customer having operational or design control."
+    },
+    {
+      "question": "What determines a customer's right to direct the use of an asset?",
+      "contexts": [
+        "A customer has the right to direct how and for what purpose the asset is used if it can change how and for what purpose the asset is used throughout the period of use.",
+        "Decision-making rights are relevant when they affect the economic benefits to be derived from use."
+      ],
+      "ground_truth": "The customer's ability to change how and for what purpose the asset is used throughout the period of use."
+    },
+    {
+      "question": "What types of changes can a customer make to an asset's use under the right of use?",
+      "contexts": [
+        "The customer's right of use may include rights to change the type of output produced by the asset.",
+        "This can also involve changing when, where, or whether the output is produced, including the quantity of output."
+      ],
+      "ground_truth": "Type of output, timing of output, location of output, and quantity of output"
+    },
+    {
+      "question": "What types of decision-making rights do not grant the right to change how and for what purpose an asset is used under IFRS 16?",
+      "contexts": [
+        "Examples of decision-making rights that do not grant the right to change how and for what purpose the asset is used include rights that are limited to operating or maintaining the asset.",
+        "Such rights can be held by the customer or the supplier."
+      ],
+      "ground_truth": "Rights limited to operating or maintaining the asset"
+    },
+    {
+      "question": "What factors should an entity consider when determining if a customer has the right to direct the use of an asset?",
+      "contexts": [
+        "The relevant decisions can be predetermined by the design of the asset or by contractual restrictions on the use of the asset.",
+        "An entity shall consider only rights to make decisions about the use of the asset during the period of use, unless the customer designed the asset."
+      ],
+      "ground_truth": "Rights to make decisions about the asset's use during the period of use"
+    },
+    {
+      "question": "What is the purpose of protective rights in a contract?",
+      "contexts": [
+        "A contract may include terms and conditions designed to protect the supplier's interest in the asset or other assets, to protect its personnel, or to ensure the supplier's compliance with laws or regulations.",
+        "These are examples of protective rights.",
+        "Protective rights typically define the scope of the customer's right of use but do not, in isolation, prevent the customer from having the right to direct the use of an asset."
+      ],
+      "ground_truth": "To protect the supplier's interest, personnel, or compliance with laws and regulations."
+    },
+    {
+      "question": "What are the key considerations for determining if a contract contains a lease according to IFRS 16?",
+      "contexts": [
+        "To assess if a contract is, or contains, a lease, consider if there is an identified asset and if the customer has the right to obtain substantially all of the economic benefits from its use.",
+        "The assessment also involves determining which party has the right to direct how and for what purpose the asset is used throughout the period of use."
+      ],
+      "ground_truth": "Identified asset, right to economic benefits, and right to direct use"
+    },
+    {
+      "question": "What conditions must be met for the right to use an underlying asset to be considered a separate lease component?",
+      "contexts": [
+        "The right to use an underlying asset is a separate lease component if both: (a) the lessee can benefit from use of the underlying asset either on its own or together with other resources",
+        "Separating components of a contract is discussed in paragraphs 12-17"
+      ],
+      "ground_truth": "The lessee must be able to benefit from use of the underlying asset either on its own or together with other resources"
+    },
+    {
+      "question": "What conditions must be met for resources to be considered readily available to the lessee?",
+      "contexts": [
+        "Resources are considered readily available if they are sold or leased separately by the lessor or other suppliers.",
+        "The lessee must also have the option to obtain these resources from other transactions or events."
+      ],
+      "ground_truth": "They must be sold or leased separately or already obtained by the lessee."
+    },
+    {
+      "question": "What happens to amounts payable for activities that do not transfer a good or service to the lessee in a contract under IFRS 16?",
+      "contexts": [
+        "A contract may include an amount payable by the lessee for activities and costs that do not transfer a good or service to the lessee.",
+        "Such amounts payable do not give rise to a separate component of the contract, but are considered to be part of the total consideration that is allocated to the separately identified components of the contract."
+      ],
+      "ground_truth": "They are considered part of the total consideration allocated to the separately identified components of the contract."
+    },
+    {
+      "question": "How does the right to terminate a lease affect the determination of the lease term if only the lessee has this right?",
+      "contexts": [
+        "A lease is no longer enforceable when the lessee and the lessor each has the right to terminate the lease without permission from the other party with no more than an insignificant penalty.",
+        "If only a lessee has the right to terminate a lease, that right is considered to be an option to terminate the lease available to the lessee that an entity considers when determining the lease term."
+      ],
+      "ground_truth": "It is considered an option to terminate the lease available to the lessee when determining the lease term."
+    },
+    {
+      "question": "What factors does an entity consider when assessing a lessee's likelihood of exercising a lease option?",
+      "contexts": [
+        "An entity assesses whether the lessee is reasonably certain to exercise an option to extend the lease or to purchase the underlying asset, or not to exercise an option to terminate the lease.",
+        "The entity considers all relevant facts and circumstances that create an economic incentive for the lessee to exercise, or not to exercise, the option."
+      ],
+      "ground_truth": "All relevant facts and circumstances creating an economic incentive"
+    },
+    {
+      "question": "What factors should be considered when evaluating contractual terms and conditions for optional periods in a lease?",
+      "contexts": [
+        "Examples of factors to consider include, but are not limited to: contractual terms and conditions for the optional periods compared with market rates",
+        "such as the amount of payments for the lease in any optional period",
+        "the amount of any variable payments for the lease or other contingent payments"
+      ],
+      "ground_truth": "contractual terms and conditions compared with market rates, payments for the lease, and variable or contingent payments"
+    },
+    {
+      "question": "What types of costs are considered when terminating a lease?",
+      "contexts": [
+        "costs relating to the termination of the lease include negotiation costs, relocation costs, and costs of identifying another underlying asset",
+        "termination penalties and similar costs are also considered, including costs associated with returning the underlying asset in a contractually specified condition"
+      ],
+      "ground_truth": "negotiation costs, relocation costs, costs of identifying another underlying asset, termination penalties"
+    },
+    {
+      "question": "What factors should be considered when evaluating an option to extend or terminate a lease?",
+      "contexts": [
+        "The evaluation of an option to extend or terminate a lease depends on factors such as the underlying asset, its location, and the availability of suitable alternatives.",
+        "Conditionality associated with exercising the option, including the likelihood that conditions will exist, is also a relevant consideration."
+      ],
+      "ground_truth": "Underlying asset, location, availability of alternatives, and conditionality"
+    },
+    {
+      "question": "What factor makes a lessee more likely to exercise an option to extend a lease or not terminate it?",
+      "contexts": [
+        "The shorter the non-cancellable period of a lease, the more likely a lessee is to exercise an option to extend the lease or not to exercise an option to terminate the lease.",
+        "This is because the costs associated with obtaining a replacement asset are likely to be proportionately higher the shorter the non-cancellable period."
+      ],
+      "ground_truth": "A shorter non-cancellable period"
+    },
+    {
+      "question": "When should a lessee reassess the lease term after the commencement date?",
+      "contexts": [
+        "A lessee reassesses the lease term upon the occurrence of a significant event or a significant change in circumstances that is within the control of the lessee.",
+        "The reassessment affects whether the lessee is reasonably certain to exercise an option not previously included in its determination of the lease term, or not to exercise an option."
+      ],
+      "ground_truth": "Upon the occurrence of a significant event or a significant change in circumstances within the lessee's control."
+    },
+    {
+      "question": "What are examples of significant events or changes in circumstances that affect the lease term under IFRS 16?",
+      "contexts": [
+        "IFRS 16 includes significant events or changes in circumstances in its determination of the lease term.",
+        "Examples of such events include significant leasehold improvements, modifications to the underlying asset, subleases beyond the lease term, and relevant business decisions."
+      ],
+      "ground_truth": "Significant leasehold improvements, modifications to the underlying asset, subleases beyond the lease term, and relevant business decisions."
+    },
+    {
+      "question": "What are in-substance fixed lease payments?",
+      "contexts": [
+        "In-substance fixed lease payments are payments that may, in form, contain variability but that, in substance, are unavoidable.",
+        "Those payments contain variable clauses that do not have real economic substance."
+      ],
+      "ground_truth": "Payments that are unavoidable and contain no genuine variability despite being structured as variable lease payments."
+    },
+    {
+      "question": "How should an entity determine lease payments when there are multiple realistic sets of payments a lessee could make?",
+      "contexts": [
+        "If there is more than one set of payments that a lessee could make, but only one of those sets of payments is realistic, an entity shall consider the realistic set of payments to be lease payments.",
+        "When there is more than one realistic set of payments that a lessee could make, but it must make at least one of those sets of payments, the set of payments that aggregates to the lowest amount (on a discounted basis) is considered lease payments."
+      ],
+      "ground_truth": "The set of payments that aggregates to the lowest amount on a discounted basis."
+    },
+    {
+      "question": "How should a lessee account for costs related to the construction or design of an underlying asset?",
+      "contexts": [
+        "A lessee may incur costs relating to the construction or design of an underlying asset before the commencement date of a lease.",
+        "The lessee shall account for those costs applying other applicable Standards, such as IAS 16."
+      ],
+      "ground_truth": "Using other applicable Standards, such as IAS 16"
+    },
+    {
+      "question": "What determines how to account for a transaction when a lessee obtains legal title to an underlying asset?",
+      "contexts": [
+        "Obtaining legal title does not in itself determine how to account for the transaction.",
+        "If the lessee controls the underlying asset before it is transferred to the lessor, the transaction is a sale and leaseback transaction."
+      ],
+      "ground_truth": "Control of the underlying asset"
+    },
+    {
+      "question": "What condition must be met for a transaction not to be considered a sale and leaseback transaction?",
+      "contexts": [
+        "A transaction is not a sale and leaseback transaction if the lessee obtains legal title to the underlying asset before legal title transfers to the lessor.",
+        "The lessee may obtain legal title to the underlying asset but not obtain control of the asset before it is transferred to the lessor."
+      ],
+      "ground_truth": "The lessee must not obtain control of the asset before it is transferred to the lessor."
+    },
+    {
+      "question": "What factors should a lessee consider when determining whether to provide additional information about leasing activities?",
+      "contexts": [
+        "A lessee shall consider whether that information is relevant to users of financial statements.",
+        "A lessee shall provide additional information specified in paragraph 59 only if that information is expected to be relevant to users of financial statements."
+      ],
+      "ground_truth": "Relevance to users of financial statements"
+    },
+    {
+      "question": "What are some factors that leases may provide flexibility for lessees?",
+      "contexts": [
+        "Leases may provide flexibility if, for example, a lessee can reduce its exposure by exercising termination options or renewing leases with favourable terms and conditions.",
+        "IFRS 16 considers the flexibility provided by leases as a key aspect."
+      ],
+      "ground_truth": "exercising termination options or renewing leases with favourable terms and conditions"
+    },
+    {
+      "question": "What information may a lessee need to disclose regarding variable lease payments to help users of financial statements understand their impact?",
+      "contexts": [
+        "A lessee need not duplicate information that is already presented elsewhere in the financial statements.",
+        "Additional information relating to variable lease payments could include the lessee's reasons for using variable lease payments and the prevalence of those payments."
+      ],
+      "ground_truth": "Information about the lessee's reasons for using variable lease payments, their prevalence, relative magnitude to fixed payments, and key variables affecting payments."
+    },
+    {
+      "question": "What type of information may be disclosed to help users of financial statements assess the lessee's use of extension or termination options?",
+      "contexts": [
+        "Additional information relating to extension options or termination options may be needed to satisfy the disclosure objective in paragraph 51.",
+        "This information could include the lessee's reasons for using extension options or termination options and the prevalence of those options."
+      ],
+      "ground_truth": "Information about the lessee's reasons, prevalence, relative magnitude of optional lease payments, and other operational and financial effects."
+    },
+    {
+      "question": "What type of information may be disclosed regarding residual value guarantees to help users of financial statements?",
+      "contexts": [
+        "Additional information relating to residual value guarantees could include information that helps users of financial statements to assess the lessee's reasons for providing residual value guarantees and the prevalence of those guarantees.",
+        "The magnitude of a lessee's exposure to residual value risk and the nature of underlying assets for which those guarantees are provided may also be disclosed."
+      ],
+      "ground_truth": "Lessee's reasons, prevalence, magnitude of exposure, and nature of underlying assets"
+    },
+    {
+      "question": "What factors determine the classification of leases for lessors under this Standard?",
+      "contexts": [
+        "The classification of leases for lessors is based on the extent to which the lease transfers the risks and rewards incidental to ownership of an underlying asset.",
+        "Risks include the possibilities of losses from idle capacity or technological obsolescence and of variations in return because of changing economic conditions."
+      ],
+      "ground_truth": "The extent to which the lease transfers the risks and rewards incidental to ownership of an underlying asset."
+    },
+    {
+      "question": "How should a lessor classify the land element in a lease that includes both land and buildings?",
+      "contexts": [
+        "When a lease includes both land and buildings elements, a lessor shall assess the classification of each element as a finance lease or an operating lease separately.",
+        "In determining whether the land element is an operating lease or a finance lease, an important consideration is that land normally has an indefinite economic life."
+      ],
+      "ground_truth": "as an operating lease"
+    },
+    {
+      "question": "How should a lessor allocate lease payments for a lease of land and buildings under IFRS 16?",
+      "contexts": [
+        "A lessor shall allocate lease payments between the land and the buildings elements in proportion to the relative fair values of the leasehold interests in the land element and buildings element of the lease at the inception date.",
+        "If the lease payments cannot be allocated reliably between these two elements, the entire lease is classified as a finance lease, unless it is clear that both elements are operating leases."
+      ],
+      "ground_truth": "In proportion to the relative fair values of the leasehold interests"
+    },
+    {
+      "question": "How should an intermediate lessor classify a sublease if the head lease is a short-term lease accounted for under paragraph 6?",
+      "contexts": [
+        "In classifying a sublease, an intermediate lessor shall classify the sublease as a finance lease or an operating lease as follows: (a) if the head lease is a short-term lease that the entity, as a lessee, has accounted for applying paragraph 6, the sublease shall be classified as an operating lease.",
+        "Sublease classification depends on the nature of the head lease."
+      ],
+      "ground_truth": "as an operating lease"
+    },
+    {
+      "question": "When must an entity apply IFRS 16 for annual reporting periods?",
+      "contexts": [
+        "An entity shall apply this Standard for annual reporting periods beginning on or after 1 January 2019.",
+        "Earlier application is permitted for entities that apply IFRS 15 Revenue from Contracts with Customers at or before the date of initial application of this Standard."
+      ],
+      "ground_truth": "On or after 1 January 2019"
+    },
+    {
+      "question": "When must an entity apply the amendments from C1B Interest Rate Benchmark Reform – Phase 2 for annual reporting periods?",
+      "contexts": [
+        "An entity shall apply these amendments for annual reporting periods beginning on or after 1 January 2021.",
+        "Earlier application is permitted.",
+        "C1B Interest Rate Benchmark Reform – Phase 2 amended IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16."
+      ],
+      "ground_truth": "On or after 1 January 2021"
+    },
+    {
+      "question": "When must a seller-lessee apply the amendments issued in September 2022 for annual reporting periods?",
+      "contexts": [
+        "A seller-lessee shall apply these amendments for annual reporting periods beginning on or after 1 January 2024.",
+        "Earlier application is permitted."
+      ],
+      "ground_truth": "On or after 1 January 2024"
+    },
+    {
+      "question": "How should an entity apply the transition requirements for contracts previously identified as leases under IAS 17 and IFRIC 4?",
+      "contexts": [
+        "The entity shall apply the transition requirements in paragraphs C5-C18 to those leases.",
+        "IFRS 16 applies to contracts that were previously identified as leases applying IAS 17 Leases and IFRIC 4 Determining whether an Arrangement contains a Lease."
+      ],
+      "ground_truth": "According to paragraphs C5-C18"
+    },
+    {
+      "question": "How should a lessee recognize the cumulative effect of initially applying the new Standard according to paragraph C5(b)?",
+      "contexts": [
+        "If a lessee elects to apply this Standard in accordance with paragraph C5(b), the lessee shall not restate comparative information.",
+        "Instead, the lessee shall recognise the cumulative effect of initially applying this Standard as an adjustment to the opening balance of retained earnings (or other component of equity, as appropriate) at the date of initial application."
+      ],
+      "ground_truth": "As an adjustment to the opening balance of retained earnings"
+    },
+    {
+      "question": "How should a lessee measure the lease liability for leases previously classified as operating leases when applying this Standard?",
+      "contexts": [
+        "The lessee shall measure the lease liability at the present value of the remaining lease payments, discounted using the lessee's incremental borrowing rate at the date of initial application.",
+        "This applies to leases previously classified as an operating lease under IAS 17."
+      ],
+      "ground_truth": "At the present value of the remaining lease payments, discounted using the lessee's incremental borrowing rate."
+    },
+    {
+      "question": "What adjustment is made to the lease liability when applying IFRS 16?",
+      "contexts": [
+        "An amount equal to the lease liability, adjusted by the amount of any prepaid or accrued lease payments relating to that lease recognised in the statement of financial position immediately before the date of initial application.",
+        "The lessee shall account for those leases applying this Standard"
+      ],
+      "ground_truth": "Adjusted by the amount of any prepaid or accrued lease payments"
+    },
+    {
+      "question": "How should a lessee measure the right-of-use asset for leases previously accounted for as operating leases that will be accounted for as investment property using the fair value model in IAS 40?",
+      "contexts": [
+        "The lessee shall account for the right-of-use asset and the lease liability arising from those leases applying IAS 40 and this Standard from the date of initial application.",
+        "shall measure the right-of-use asset at fair value at the date of initial application for leases previously accounted for as operating leases applying IAS 17 and that will be accounted for as investment property using the fair value model in IAS 40 from the date of initial application."
+      ],
+      "ground_truth": "at fair value at the date of initial application"
+    },
+    {
+      "question": "How can a lessee apply practical expedients when applying this Standard retrospectively to leases previously classified as operating leases?",
+      "contexts": [
+        "A lessee may use one or more of the following practical expedients when applying this Standard retrospectively in accordance with paragraph C5(b) to leases previously classified as operating leases applying IAS 17.",
+        "A lessee is permitted to apply these practical expedients on a lease-by-lease basis."
+      ],
+      "ground_truth": "By using one or more practical expedients on a lease-by-lease basis."
+    },
+    {
+      "question": "How can a lessee determine if a lease is onerous under the given standard?",
+      "contexts": [
+        "A lessee may rely on its assessment of whether leases are onerous applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets.",
+        "The assessment is made immediately before the date of initial application as an alternative to performing an impairment review."
+      ],
+      "ground_truth": "By applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets."
+    },
+    {
+      "question": "How should a lessee account for leases with a term ending within 12 months of the initial application date under IFRS 16?",
+      "contexts": [
+        "A lessee may elect not to apply the requirements in paragraph C8 to leases for which the lease term ends within 12 months of the date of initial application.",
+        "In this case, a lessee shall account for those leases in the same way as short-term leases as described in paragraph 6."
+      ],
+      "ground_truth": "As short-term leases"
+    },
+    {
+      "question": "What information must a lessee disclose when applying this Standard in accordance with paragraph C5(b)?",
+      "contexts": [
+        "If a lessee elects to apply this Standard in accordance with paragraph C5(b), the lessee shall disclose information about initial application required by paragraph 28 of IAS 8, except for the information specified in paragraph 28(f) of IAS 8.",
+        "For leases that were classified as finance leases applying IAS 17, the carrying amount of the right-of-use asset and the lease liability at the date of initial application shall be the carrying amount of the lease asset and lease liability immediately before that date measured applying IAS 17."
+      ],
+      "ground_truth": "Information about initial application required by paragraph 28 of IAS 8, except for the information specified in paragraph 28(f) of IAS 8."
+    },
+    {
+      "question": "What information must a lessee disclose according to paragraph 28(f) of IAS 8?",
+      "contexts": [
+        "The lessee shall disclose the weighted average lessee's incremental borrowing rate applied to lease liabilities recognised in the statement of financial position at the date of initial application.",
+        "The lessee shall also disclose an explanation of any difference between operating lease commitments and lease liabilities recognised at the date of initial application."
+      ],
+      "ground_truth": "The weighted average lessee's incremental borrowing rate and an explanation of differences between operating lease commitments and lease liabilities."
+    },
+    {
+      "question": "What action must an intermediate lessor take for subleases classified as operating leases under IAS 17 at the date of initial application of IFRS 16?",
+      "contexts": [
+        "An intermediate lessor shall reassess subleases that were classified as operating leases applying IAS 17 and are ongoing at the date of initial application.",
+        "The reassessment is to determine whether each sublease should be classified as an operating lease or a finance lease applying IFRS 16."
+      ],
+      "ground_truth": "Reassess the subleases to determine if they should be classified as operating or finance leases under IFRS 16."
+    },
+    {
+      "question": "How should a seller-lessee account for the leaseback in a sale and leaseback transaction that was previously accounted for as a sale and a finance lease under IAS 17?",
+      "contexts": [
+        "The seller-lessee shall account for the leaseback in the same way as it accounts for any other finance lease that exists at the date of initial application.",
+        "A sale and leaseback transaction before the date of initial application should not be reassessed to determine whether the transfer satisfies IFRS 15 requirements.",
+        "The seller-lessee continues to amortise any gain on sale over the lease term."
+      ],
+      "ground_truth": "In the same way as any other finance lease at the date of initial application"
+    },
+    {
+      "question": "How should a seller-lessee account for a leaseback in a sale and leaseback transaction under IAS 17?",
+      "contexts": [
+        "A sale and leaseback transaction was accounted for as a sale and operating lease applying IAS 17.",
+        "The seller-lessee shall account for the leaseback in the same way as it accounts for any other operating lease that exists at the date of initial application."
+      ],
+      "ground_truth": "In the same way as any other operating lease at the date of initial application."
+    },
+    {
+      "question": "How should a lessee apply Covid-19-related rent concessions according to the amendment?",
+      "contexts": [
+        "A lessee shall apply Covid-19-Related Rent Concessions retrospectively, recognising the cumulative effect of initially applying that amendment as an adjustment to the opening balance of retained earnings.",
+        "The application of Covid-19-Related Rent Concessions is referenced in paragraph C1A."
+      ],
+      "ground_truth": "Retrospectively, as an adjustment to the opening balance of retained earnings."
+    },
+    {
+      "question": "How should a lessee apply Covid-19-Related Rent Concessions beyond 30 June 2021 according to the given standard?",
+      "contexts": [
+        "A lessee shall apply Covid-19-Related Rent Concessions beyond 30 June 2021 retrospectively, recognising the cumulative effect of initially applying that amendment as an adjustment to the opening balance of retained earnings.",
+        "In the reporting period in which a lessee first applies Covid-19-Related Rent Concessions beyond 30 June 2021, a lessee is not required to disclose the information required by paragraph 28(f) of IAS 8."
+      ],
+      "ground_truth": "Retrospectively, with adjustment to the opening balance of retained earnings."
+    },
+    {
+      "question": "How should an entity apply the Interest Rate Benchmark Reform—Phase 2 amendments?",
+      "contexts": [
+        "An entity shall apply these amendments retrospectively in accordance with IAS 8, except as specified in paragraph C20D.",
+        "The application of the amendments is subject to specific conditions outlined in the standard."
+      ],
+      "ground_truth": "Retrospectively in accordance with IAS 8"
+    },
+    {
+      "question": "How should an entity account for differences in carrying amounts when not restating prior periods after applying amendments?",
+      "contexts": [
+        "The entity may restate prior periods if, and only if, it is possible without the use of hindsight.",
+        "If an entity does not restate prior periods, the entity shall recognise any difference between the previous carrying amount and the carrying amount at the beginning of the annual reporting period in the opening retained earnings."
+      ],
+      "ground_truth": "In the opening retained earnings of the annual reporting period that includes the date of initial application of these amendments."
+    },
+    {
+      "question": "What standards and interpretations does IFRS 16 supersede?",
+      "contexts": [
+        "This Standard supersedes the following Standards and Interpretations: (a) IAS 17 Leases; (b) IFRIC 4 Determining whether an Arrangement contains a Lease; (c) SIC-15 Operating Leases – Incentives; and (d) SIC-27 Evaluating the Substance of Transactions Involving the Legal Form of Lease.",
+        "IFRS 16 Lease liability in a sale and leaseback applies retrospectively in accordance with IAS 8 to sale and leaseback transactions entered into after the date of initial application."
+      ],
+      "ground_truth": "IAS 17, IFRIC 4, SIC-15, and SIC-27"
+    },
+    {
+      "question": "When must an entity apply the amendments to other Standards as a consequence of IASB issuing IFRS 16?",
+      "contexts": [
+        "An entity shall apply the amendments for annual periods beginning on or after 1 January 2019.",
+        "If an entity applies this Standard for an earlier period, it shall also apply these amendments for that earlier period."
+      ],
+      "ground_truth": "For annual periods beginning on or after 1 January 2019"
+    },
+    {
+      "question": "What date were certain Standards not effective?",
+      "contexts": [
+        "The Standards were not effective at 1 January 2016.",
+        "For Standards that were not effective on 1 January 2016, the amendments in this appendix are presented based on the text of the initial publication of that Standard."
+      ],
+      "ground_truth": "1 January 2016"
+    },
+    {
+      "question": "Who dissented from the approval of IFRS 16 Leases?",
+      "contexts": [
+        "IFRS 16 Leases was approved for issue by thirteen of the fourteen members of the International Accounting Standards Board.",
+        "Mr Zhang dissented."
+      ],
+      "ground_truth": "Mr Zhang"
+    },
+    {
+      "question": "How many members of the International Accounting Standards Board approved the issue of Covid-19-Related Rent Concessions in May 2020?",
+      "contexts": [
+        "Covid-19-Related Rent Concessions, which amended IFRS 16, was approved for issue by all 14 members of the International Accounting Standards Board.",
+        "The International Accounting Standards Board consists of members including Hans Hoogervorst, Suzanne Lloyd, and others."
+      ],
+      "ground_truth": "14"
+    },
+    {
+      "question": "How many members of the International Accounting Standards Board approved the issue of Interest Rate Benchmark Reform—Phase 2?",
+      "contexts": [
+        "Interest Rate Benchmark Reform—Phase 2 was approved for issue by 12 of 13 members of the International Accounting Standards Board (Board).",
+        "Mr Gast abstained in view of his recent appointment to the Board."
+      ],
+      "ground_truth": "12"
+    },
+    {
+      "question": "How many members of the International Accounting Standards Board approved the amendment to IFRS 16 for Covid-19-related rent concessions beyond 30 June 2021?",
+      "contexts": [
+        "Approval by the Board of Covid-19-Related Rent Concessions beyond 30 June 2021, which amended IFRS 16, was approved for issue by 11 of 13 members of the International Accounting Standards Board.",
+        "Messrs Anderson and Gast dissented."
+      ],
+      "ground_truth": "11"
+    },
+    {
+      "question": "When was Lease Liability in a Sale and Leaseback approved by the IASB?",
+      "contexts": [
+        "Lease Liability in a Sale and Leaseback, which amends IFRS 16 Leases, was approved for issue by nine of ten members of the International Accounting Standards Board (IASB) in September 2022"
+      ],
+      "ground_truth": "September 2022"
+    },
+    {
+      "question": "What is the primary objective of project scope definition in project management?",
+      "contexts": [
+        "The objective of project scope definition is to ensure the project aligns with the organization's strategic goals and is feasible to deliver.",
+        "Project scope definition involves conducting market research, analyzing organizational resources, and engaging stakeholders."
+      ],
+      "ground_truth": "To define the scope of the project, ensuring that it aligns with the organization's strategic goals and is feasible to deliver."
+    },
+    {
+      "question": "What is the primary objective of performance measurement in project management?",
+      "contexts": [
+        "To measure project performance against planned objectives, ensuring that the project stays on track and delivers on time and within budget.",
+        "Performance measurement is a key concept in project monitoring and control."
+      ],
+      "ground_truth": "To measure project performance against planned objectives"
+    },
+    {
+      "question": "What is the primary objective of the final review in the project closeout phase?",
+      "contexts": [
+        "To conduct a final review of the project's performance and outcomes, ensuring that all objectives were met and no significant issues were overlooked.",
+        "The final review is part of the project closeout phase, which also includes evaluating project outcomes and lessons learned."
+      ],
+      "ground_truth": "To ensure all objectives were met and no significant issues were overlooked."
+    },
+    {
+      "question": "What is the objective of Section 5.7 in project management?",
+      "contexts": [
+        "To ensure that all project documentation is complete, accurate, and easily accessible.",
+        "The section focuses on project documentation, documentation standards, and version control."
+      ],
+      "ground_truth": "To ensure that all project documentation is complete, accurate, and easily accessible."
+    }
+  ]
+}

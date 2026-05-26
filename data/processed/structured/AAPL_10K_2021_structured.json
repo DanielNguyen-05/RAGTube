@@ -1,0 +1,1936 @@
+{
+  "document": "AAPL_10K_2021.pdf",
+  "source_chunk_file": "C:\\github\\AI-Audit-Assistant\\data\\processed\\chunks\\AAPL_10K_2021_chunks.json",
+  "sample_count": 243,
+  "samples": [
+    {
+      "question": "What is the state or other jurisdiction of incorporation or organization of Apple Inc.?",
+      "contexts": [
+        "Apple Inc. is incorporated in California.",
+        "The company's principal executive offices are located in Cupertino, California."
+      ],
+      "ground_truth": "California"
+    },
+    {
+      "question": "On which exchange are the 1.000% Notes due 2022 of AAPL registered?",
+      "contexts": [
+        "Title of each class Common Stock, $0.00001 par value per share",
+        "1.000% Notes due 2022",
+        "Name of each exchange on which registered: The Nasdaq Stock Market LLC"
+      ],
+      "ground_truth": "The Nasdaq Stock Market LLC"
+    },
+    {
+      "question": "Is the Registrant required to file reports pursuant to Section 13 or Section 15(d) of the Act?",
+      "contexts": [
+        "Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☑",
+        "The Registrant has to file reports as indicated by the check mark."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What type of filer is the Registrant indicated to be in the given text?",
+      "contexts": [
+        "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.",
+        "Large accelerated filer ☐ Non-accelerated filer ☐ Accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐"
+      ],
+      "ground_truth": "None, as no option is selected."
+    },
+    {
+      "question": "What was the aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant as of March 26, 2021?",
+      "contexts": [
+        "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 26, 2021, the last business day of the Registrant's most recently completed second fiscal quarter, was approximately $2,021,360,000,000.",
+        "The Registrant has provided this information as part of its disclosure requirements."
+      ],
+      "ground_truth": "$2,021,360,000,000"
+    },
+    {
+      "question": "How many shares of common stock were issued and outstanding as of October 15, 2021?",
+      "contexts": [
+        "16,406,397,000 shares of common stock were issued and outstanding as of October 15, 2021.",
+        "This information is provided in the context of the company's annual report."
+      ],
+      "ground_truth": "16,406,397,000"
+    },
+    {
+      "question": "What item in the table of contents discusses Management's Discussion and Analysis of Financial Condition and Results of Operations?",
+      "contexts": [
+        "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+        "The table of contents includes various items related to the company's financial condition and operations."
+      ],
+      "ground_truth": "Item 7"
+    },
+    {
+      "question": "What item number discusses executive compensation in the provided table of contents?",
+      "contexts": [
+        "Item 11. Executive Compensation 56"
+      ],
+      "ground_truth": "Item 11"
+    },
+    {
+      "question": "Where can many of the forward-looking statements be found in this Form 10-K?",
+      "contexts": [
+        "Many of the forward-looking statements are located in Part II, Item 7 of this Form 10-K under the heading 'Management's Discussion and Analysis of Financial Condition and Results of Operations.'",
+        "This Annual Report on Form 10-K contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties."
+      ],
+      "ground_truth": "Part II, Item 7 under the heading 'Management's Discussion and Analysis of Financial Condition and Results of Operations'"
+    },
+    {
+      "question": "What might cause differences between the Company's actual results and its forward-looking statements?",
+      "contexts": [
+        "Forward-looking statements are not guarantees of future performance and the Company's actual results may differ significantly from the results discussed in the forward-looking statements.",
+        "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading 'Risk Factors.'"
+      ],
+      "ground_truth": "Factors discussed in Part I, Item 1A of this Form 10-K under the heading 'Risk Factors'"
+    },
+    {
+      "question": "What is the basis for the Company's fiscal year?",
+      "contexts": [
+        "The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.",
+        "references to particular years, quarters, months or periods refer to the Company's fiscal years ended in September and the associated quarters, months and periods of those fiscal years."
+      ],
+      "ground_truth": "a 52- or 53-week period ending on the last Saturday of September"
+    },
+    {
+      "question": "What operating system is used by the Company's line of personal computers?",
+      "contexts": [
+        "Mac Mac® is the Company's line of personal computers based on its macOS® operating system.",
+        "In November 2020, the Company released new versions of MacBook Air®, 13-inch MacBook Pro® and Mac mini®, and in May 2021, the Company released a redesigned iMac®, all powered by the Apple M1 chip."
+      ],
+      "ground_truth": "macOS"
+    },
+    {
+      "question": "What new products were released by the Company in September 2021?",
+      "contexts": [
+        "In September 2021, the Company released an updated iPad and a new iPad mini®.",
+        "In September 2021, the Company announced Apple Watch Series 7, which was available starting in October 2021."
+      ],
+      "ground_truth": "An updated iPad, a new iPad mini, and the announcement of Apple Watch Series 7"
+    },
+    {
+      "question": "What types of services are included in the AppleCare brand?",
+      "contexts": [
+        "The Company offers a portfolio of fee-based service and support products under the AppleCare brand.",
+        "The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage and/or theft and loss, depending on the country and type of product."
+      ],
+      "ground_truth": "priority access to technical support, repair and replacement services, and additional coverage for accidental damage, theft, and loss"
+    },
+    {
+      "question": "What types of digital content does the Company offer through subscription-based services?",
+      "contexts": [
+        "The Company also offers digital content through subscription-based services, including Apple Arcade®, a game subscription service; Apple Music®, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; and Apple TV+℠, which offers exclusive original content.",
+        "During 2021, the Company released Apple Fitness+℠, a personalized fitness service."
+      ],
+      "ground_truth": "games, music, video, news, magazines, original content, and fitness services"
+    },
+    {
+      "question": "What percentage of the Company's total net sales in 2021 came from indirect distribution channels?",
+      "contexts": [
+        "The Company sells its products and resells third-party products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force.",
+        "The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers.",
+        "During 2021, the Company's net sales through its direct and indirect distribution channels accounted for 36% and 64%, respectively, of total net sales."
+      ],
+      "ground_truth": "64%"
+    },
+    {
+      "question": "What is a key factor in the Company's ability to compete successfully in the market?",
+      "contexts": [
+        "The Company's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace.",
+        "Many of the Company's competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company's products and infringing on its intellectual property."
+      ],
+      "ground_truth": "introduction of innovative new products, services and technologies"
+    },
+    {
+      "question": "What are the key competitive factors for Apple's products?",
+      "contexts": [
+        "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation."
+      ],
+      "ground_truth": "Price, product and service features, relative price and performance, product and service quality and reliability, design innovation, ecosystem, marketing and distribution capability, service and support, and corporate reputation"
+    },
+    {
+      "question": "What factors contribute to the intense competition faced by the Company in its markets?",
+      "contexts": [
+        "The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases.",
+        "Certain competitors have the resources, experience or cost structures to provide products at little or no profit"
+      ],
+      "ground_truth": "Significant technical, marketing, distribution resources, established offerings, and ability to provide products at low or no profit"
+    },
+    {
+      "question": "What challenges does the Company face in terms of competition and component supply?",
+      "contexts": [
+        "The Company's services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications.",
+        "The Company faces significant competition as competitors imitate the Company's product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.",
+        "Certain components are currently obtained from single or limited sources."
+      ],
+      "ground_truth": "Competition from free content providers and limited component supply sources"
+    },
+    {
+      "question": "What factors can affect the availability of components used by the Company?",
+      "contexts": [
+        "The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source.",
+        "many components used by the Company are at times subject to industry-wide shortage and significant commodity pricing fluctuations."
+      ],
+      "ground_truth": "industry-wide shortages, significant commodity pricing fluctuations, and supplier concentration on common components"
+    },
+    {
+      "question": "Where are substantially all of the Company's hardware products manufactured?",
+      "contexts": [
+        "Substantially all of the Company's hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland."
+      ],
+      "ground_truth": "Primarily in Asia, with some in the U.S. and Ireland"
+    },
+    {
+      "question": "What types of intellectual property rights does the Company hold?",
+      "contexts": [
+        "The Company currently holds a broad collection of intellectual property rights relating to certain aspects of its hardware devices, accessories, software and services.",
+        "This includes patents, copyrights, trademarks, service marks, trade dress and other forms of intellectual property rights in the U.S. and various foreign countries."
+      ],
+      "ground_truth": "patents, copyrights, trademarks, service marks, trade dress and other forms"
+    },
+    {
+      "question": "What types of intellectual property does the Company hold?",
+      "contexts": [
+        "The Company has accumulated a large portfolio of issued patents, including utility patents, design patents and others.",
+        "The Company also holds copyrights relating to certain aspects of its products and services."
+      ],
+      "ground_truth": "Patents and copyrights"
+    },
+    {
+      "question": "Can the Company guarantee the future availability of necessary licenses on reasonable terms?",
+      "contexts": [
+        "The Company may need to seek or renew licenses for its products, processes, and services.",
+        "While the Company has generally obtained such licenses on commercially reasonable terms in the past, there is no guarantee for the future."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What factor contributes to the Company's higher net sales in its first quarter?",
+      "contexts": [
+        "The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand.",
+        "New product and service introductions can significantly impact net sales, cost of sales and operating expenses."
+      ],
+      "ground_truth": "Seasonal holiday demand"
+    },
+    {
+      "question": "How many full-time equivalent employees did the Company have as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, the Company had approximately 154,000 full-time equivalent employees.",
+        "The Company is committed to supporting the development of all of its team members and to continuously building on its strong culture."
+      ],
+      "ground_truth": "154,000"
+    },
+    {
+      "question": "What does the Company provide to support employees' growth and development?",
+      "contexts": [
+        "The Company invests in tools and resources that support employees' individual growth and development.",
+        "The Company provides classes and seminars to foster understanding and critical thinking about the Company's culture, organization and values."
+      ],
+      "ground_truth": "Tools, resources, classes, and seminars"
+    },
+    {
+      "question": "What steps is the Company taking to increase diverse representation?",
+      "contexts": [
+        "The Company has initiatives in place to implement its commitment to increase diverse representation, including creating diverse interview panels and candidate slates, focusing on robust diversity recruiting efforts, and expanding diversity outreach efforts through organizations that serve and engage talent from underrepresented communities.",
+        "The Company offers team members access to ongoing inclusion and diversity education, and support throughout their career journey"
+      ],
+      "ground_truth": "Creating diverse interview panels, focusing on diversity recruiting, and expanding diversity outreach efforts"
+    },
+    {
+      "question": "What does the Company do to understand employee sentiment?",
+      "contexts": [
+        "The Company regularly conducts surveys that gauge employee sentiment in areas like career development, manager performance and inclusivity.",
+        "Team members are encouraged to come to their managers with questions, feedback or concerns."
+      ],
+      "ground_truth": "Conducts regular surveys"
+    },
+    {
+      "question": "What types of safety training does the Company provide to its employees?",
+      "contexts": [
+        "The Company supports employees with general safety training and puts specific programs in place for those working in potentially high-hazard environments.",
+        "Specific programs include chemical management, laser safety, equipment and machinery safety, hazardous materials management and electrical safety."
+      ],
+      "ground_truth": "General safety training and specific programs for high-hazard environments, including chemical management, laser safety, equipment and machinery safety, hazardous materials management and electrical safety."
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What is the page number of this chunk?",
+      "contexts": [
+        "The chunk is located on page 9"
+      ],
+      "ground_truth": "9"
+    },
+    {
+      "question": "Why should past financial performance not be considered a reliable indicator of future performance?",
+      "contexts": [
+        "The Company's business, reputation, results of operations and financial condition, as well as the price of the Company's stock, can be affected by a number of factors, whether currently known or unknown.",
+        "When any one or more of these risks materialize from time to time, the Company's business, reputation, results of operations and financial condition, as well as the price of the Company's stock, can be materially and adversely affected."
+      ],
+      "ground_truth": "Because of various factors affecting the Company's results of operations and financial condition."
+    },
+    {
+      "question": "How has the COVID-19 pandemic affected the Company's business and financial condition?",
+      "contexts": [
+        "The Company's business, results of operations and financial condition, as well as the price of the Company's stock, have been adversely affected and could in the future be materially adversely affected by the COVID-19 pandemic.",
+        "COVID-19 has had, and continues to have, a significant impact around the world, prompting governments and businesses to take unprecedented measures in response."
+      ],
+      "ground_truth": "Adversely"
+    },
+    {
+      "question": "How has the COVID-19 pandemic impacted the Company's operations and suppliers?",
+      "contexts": [
+        "The COVID-19 pandemic has at times significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets.",
+        "The COVID-19 pandemic and the measures taken by many countries in response have adversely affected and could in the future materially adversely impact the Company's business, results of operations and financial condition.",
+        "Certain of the Company's component suppliers and manufacturing and logistical service providers have experienced disruptions, resulting in supply shortages that affected sales worldwide"
+      ],
+      "ground_truth": "The pandemic has caused disruptions to the Company's suppliers, resulting in supply shortages that affected sales worldwide."
+    },
+    {
+      "question": "How have the Company's operations been affected by the COVID-19 pandemic?",
+      "contexts": [
+        "The Company's retail stores, as well as channel partner points of sale, have been temporarily closed at various times.",
+        "In many cases, as stores and points of sale have reopened, they are subject to operating restrictions to protect public health and the health and safety of employees and customers."
+      ],
+      "ground_truth": "Temporarily closed and subject to operating restrictions"
+    },
+    {
+      "question": "What factors related to the COVID-19 pandemic could potentially affect the Company's business?",
+      "contexts": [
+        "The extent, trajectory and duration of the pandemic, the emergence of new variants, and the development, availability, distribution and effectiveness of vaccines and treatments could impact the Company.",
+        "The pandemic may have material adverse effects on demand for the Company's products and services, its supply chain, and its sales and distribution channels."
+      ],
+      "ground_truth": "Factors such as pandemic duration, new variants, vaccine effectiveness, and public safety measures"
+    },
+    {
+      "question": "What percentage of the Company's total net sales come from outside the U.S.?",
+      "contexts": [
+        "The Company has international operations with sales outside the U.S. representing a majority of the Company's total net sales.",
+        "The Company's global supply chain is large and complex and a majority of the Company's supplier facilities, including manufacturing and assembly sites, are located outside the U.S."
+      ],
+      "ground_truth": "A majority"
+    },
+    {
+      "question": "What economic factors can affect demand for the Company's products and services?",
+      "contexts": [
+        "Adverse macroeconomic conditions, including inflation, slower growth or recession, new or increased tariffs and other barriers to trade, can materially adversely affect demand for the Company's products and services.",
+        "Consumer confidence and spending can be adversely affected in response to financial market volatility, negative financial news, and other economic factors."
+      ],
+      "ground_truth": "Inflation, slower growth, recession, tariffs, financial market volatility, and negative financial news"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "The URL provided is for the aapl-20210925 filing."
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What is the name of the company that filed the 2021 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2021 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What is the name of the company that filed the 2021 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2021 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What is the name of the company that filed the 2021 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2021 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What factor does the Company's future performance depend on in part?",
+      "contexts": [
+        "The Company's future performance depends in part on support from third-party software developers.",
+        "The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party software applications and services."
+      ],
+      "ground_truth": "support from third-party software developers"
+    },
+    {
+      "question": "What factors influence developers' decisions to create software for the Company's products versus competitors' platforms?",
+      "contexts": [
+        "The Company believes the availability of third-party software applications and services for its products depends in part on the developers' perception and analysis of the relative benefits of developing, maintaining and upgrading such software and services for the Company's products compared to competitors' platforms.",
+        "This analysis may be based on factors such as the market"
+      ],
+      "ground_truth": "factors such as the market"
+    },
+    {
+      "question": "What type of document is aapl-20210925?",
+      "contexts": [
+        "The document aapl-20210925 is related to Apple Inc.'s 2021 Form 10-K.",
+        "It can be found on the SEC website at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021 Form 10-K"
+    },
+    {
+      "question": "What is a significant factor in the Company's ability to recruit and retain highly skilled employees?",
+      "contexts": [
+        "The Company believes that its distinctive and inclusive culture is a significant driver of its success.",
+        "Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company's key personnel are located."
+      ],
+      "ground_truth": "Its distinctive and inclusive culture"
+    },
+    {
+      "question": "How does the Company distribute its products to customers?",
+      "contexts": [
+        "The Company distributes its products through cellular network carriers, wholesalers, retailers and resellers, many of whom distribute products from competing manufacturers.",
+        "The Company also sells its products and resells third-party products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force."
+      ],
+      "ground_truth": "Through carriers, wholesalers, retailers, resellers, retail and online stores, and direct sales force."
+    },
+    {
+      "question": "What types of financial assistance do some carriers offer to users purchasing the Company's products?",
+      "contexts": [
+        "Some carriers providing cellular network service for the Company's products offer financing, installment payment plans or subsidies for users' purchases of the device.",
+        "There can be no assurance such offers will be continued at all or in the same amounts."
+      ],
+      "ground_truth": "financing, installment payment plans, or subsidies"
+    },
+    {
+      "question": "What are some risks associated with the Company's reliance on resellers for product distribution?",
+      "contexts": [
+        "The financial condition of these resellers could weaken, these resellers could stop distributing the Company's products, or uncertainty regarding demand for some or all of the Company's products could cause resellers to reduce their ordering and marketing of the Company's products.",
+        "The Company has invested and will continue to invest in programs to enhance reseller sales, including staffing selected resellers' stores with Company employees and contractors, and improving product placement displays."
+      ],
+      "ground_truth": "Resellers' financial weakness, stop of distribution, or reduced ordering due to demand uncertainty"
+    },
+    {
+      "question": "What are some potential consequences of system failures or network disruptions on the Company's business?",
+      "contexts": [
+        "failures or network disruptions caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions.",
+        "Such failures or disruptions can adversely impact the Company's business by, among other things, preventing access to the Company's online services, interfering with customer transactions or impeding the manufacturing and shipping of the Company's products."
+      ],
+      "ground_truth": "preventing access to online services, interfering with customer transactions, or impeding manufacturing and shipping of products"
+    },
+    {
+      "question": "What are the potential consequences for the Company if it experiences losses or unauthorized access to confidential information?",
+      "contexts": [
+        "Losses or unauthorized access to or releases of confidential information, including personal information, could subject the Company to significant reputational, financial, legal and operational consequences.",
+        "The Company devotes significant resources to network and data security, including through the use of encryption and other security measures intended to protect its systems and data."
+      ],
+      "ground_truth": "Significant reputational, financial, legal and operational consequences"
+    },
+    {
+      "question": "What are some risks that the Company's business and financial condition are exposed to due to its reliance on global suppliers?",
+      "contexts": [
+        "The Company relies on global suppliers that are also exposed to ransomware and other malicious attacks that can disrupt business operations.",
+        "Such incidents and other malicious attacks could materially adversely affect the Company's business, reputation, results of operations and financial condition."
+      ],
+      "ground_truth": "Ransomware and other malicious attacks"
+    },
+    {
+      "question": "What are the potential consequences of cyber attacks on the Company's operations and reputation?",
+      "contexts": [
+        "These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal business operations.",
+        "Could impair the Company's ability to attract and retain customers for its products and services, impact the price of the Company's stock, materially damage commercial relationships, and expose the Company to litigation or government investigations."
+      ],
+      "ground_truth": "Impair customer attraction and retention, impact stock price, damage commercial relationships, and expose to litigation or government investigations."
+    },
+    {
+      "question": "Why is the Company at a greater risk of being targeted by malicious attacks?",
+      "contexts": [
+        "Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the value of the confidential information it creates, owns, manages, stores and processes.",
+        "The Company has implemented systems and processes intended to secure its information technology systems and prevent unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of encryption and authentication technologies."
+      ],
+      "ground_truth": "Its high profile and the value of the confidential information it handles."
+    },
+    {
+      "question": "What are some potential vulnerabilities of a company's security measures?",
+      "contexts": [
+        "measures may not be sufficient for all eventualities and may be vulnerable to hacking, ransomware attacks, employee error, malfeasance, system error, faulty password management or other irregularities.",
+        "third parties can fraudulently induce the Company's or its vendors' employees or customers into disclosing user names, passwords or other sensitive information, which can, in turn, be used for unauthorized access to the Company's or its vendors' systems and services."
+      ],
+      "ground_truth": "hacking, ransomware attacks, employee error, malfeasance, system error, faulty password management, and other irregularities"
+    },
+    {
+      "question": "What measures does the Company take to protect its services and systems from unusual activity?",
+      "contexts": [
+        "the Company deploys and makes available technologies like multifactor authentication, monitors its services and systems for unusual activity",
+        "which, among other things, can result in the delay or loss of customer orders or impede customer access to the Company's products and services"
+      ],
+      "ground_truth": "The Company uses multifactor authentication and monitors its services and systems for unusual activity."
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What are some potential risks associated with the Company's investment in new business strategies or acquisitions?",
+      "contexts": [
+        "Investment in new business strategies and acquisitions could disrupt the Company's ongoing business, present risks not originally contemplated and adversely affect the Company's business, reputation, results of operations and financial condition.",
+        "Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic, political, legal and regulatory challenges associated with operating in new businesses, regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs."
+      ],
+      "ground_truth": "Distraction of management, greater-than-expected liabilities and expenses, economic challenges, and potential impairment of assets"
+    },
+    {
+      "question": "What are some risks associated with the Company's new ventures and retail stores?",
+      "contexts": [
+        "These new ventures are inherently risky and may not be successful.",
+        "The Company's retail stores have required and will continue to require a substantial investment and commitment of resources and are subject to numerous risks and uncertainties."
+      ],
+      "ground_truth": "Risks include failure, delay, or limitation in realizing benefits due to regulatory issues, substantial resource commitment, and uncertainty."
+    },
+    {
+      "question": "What could be the financial consequences for the Company if some of its retail stores experience poor performance or need to be closed?",
+      "contexts": [
+        "Due to the high cost structure associated with the Company's retail stores, a decline in sales or the closure or poor performance of an individual store or multiple stores could result in significant lease termination costs, write-offs of equipment and leasehold improvements and severance costs.",
+        "The Company also has entered into substantial lease commitments for retail space."
+      ],
+      "ground_truth": "significant lease termination costs, write-offs of equipment and leasehold improvements and severance costs"
+    },
+    {
+      "question": "What are some factors that could adversely impact the Company's retail operations?",
+      "contexts": [
+        "Company's retail operations are subject to many factors that pose risks and uncertainties and could adversely impact the Company's business, results of operations and financial condition, including macro-economic factors that could have an adverse effect on general retail activity.",
+        "Other factors include the Company's ability to manage costs associated with retail store construction and operation; manage relationships with existing retail partners; manage costs associated with fluctuations in the value of retail inventory; and obtain and renew leases in quality retail locations at a reasonable cost."
+      ],
+      "ground_truth": "Macro-economic factors, costs associated with retail store construction and operation, relationships with retail partners, costs associated with fluctuations in retail inventory value, and lease renewal costs"
+    },
+    {
+      "question": "What types of issues is the Company subject to in the ordinary course of business?",
+      "contexts": [
+        "The Company is subject to various claims, legal proceedings and government investigations that have arisen in the ordinary course of business and have not yet been fully resolved.",
+        "The number of claims, legal proceedings and government investigations involving the Company has generally increased over time and may continue to increase."
+      ],
+      "ground_truth": "claims, legal proceedings, and government investigations"
+    },
+    {
+      "question": "What can be the outcome of patent infringement allegations for the Company?",
+      "contexts": [
+        "The plaintiffs in these actions frequently seek injunctions and substantial damages.",
+        "The Company is vigorously defending infringement actions in courts in several U.S. jurisdictions, as well as internationally in various countries."
+      ],
+      "ground_truth": "injunctions and substantial damages"
+    },
+    {
+      "question": "What potential impact can litigation settlements have on the Company's operations?",
+      "contexts": [
+        "There can be no assurance such agreements can be obtained on acceptable terms or that litigation will not occur.",
+        "These agreements can also significantly increase the Company's cost of sales and operating expenses and require the Company to change its business practices"
+      ],
+      "ground_truth": "Increased costs and changes to business practices"
+    },
+    {
+      "question": "Did the company incur a material loss concerning loss contingencies for asserted legal and other claims?",
+      "contexts": [
+        "In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss concerning loss contingencies.",
+        "This information is further detailed in Note 10 of the Notes to Consolidated Financial Statements under the heading 'Contingencies'."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What potential consequences could changes to laws and regulations have on the Company's business?",
+      "contexts": [
+        "Changes to the Company's business practices to comply with new laws and regulations could negatively impact the reputation of the Company's products for privacy and security.",
+        "Such changes could otherwise adversely affect the experience for users of the Company's products and services."
+      ],
+      "ground_truth": "Negative impact on product reputation, adverse user experience, harm to Company reputation, loss of competitive advantage, poor market acceptance, reduced demand, and lost sales."
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What type of exposure does the Company have to foreign currency exchange rates?",
+      "contexts": [
+        "The Company's primary exposure to movements in foreign currency exchange rates relates to non-U.S. dollar-denominated sales, cost of sales and operating expenses worldwide.",
+        "Gross margins on the Company's products in foreign countries and on products that include components obtained from foreign suppliers could be materially adversely affected by foreign currency exchange rate fluctuations."
+      ],
+      "ground_truth": "Non-U.S. dollar-denominated sales, cost of sales, and operating expenses"
+    },
+    {
+      "question": "What is the date and time associated with this document transcription?",
+      "contexts": [
+        "The document transcription is dated 01/05/2026, 20:22."
+      ],
+      "ground_truth": "01/05/2026, 20:22"
+    },
+    {
+      "question": "How does the strengthening of the U.S. dollar impact the Company's foreign currency-denominated sales and earnings?",
+      "contexts": [
+        "The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company's foreign currency-denominated sales and earnings.",
+        "A strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company's foreign currency-denominated sales and earnings, could cause the Company to reduce international pricing"
+      ],
+      "ground_truth": "It adversely affects the U.S. dollar value of sales and earnings."
+    },
+    {
+      "question": "What are some potential risks associated with the Company's use of foreign currency derivative instruments?",
+      "contexts": [
+        "The Company uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to fluctuations in foreign currency exchange rates.",
+        "strengthening of foreign currencies may increase the Company's cost of product components denominated in those currencies, thus adversely affecting gross margins.",
+        "The use of such hedging activities may not be effective to offset any, or more than a portion, of the adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place."
+      ],
+      "ground_truth": "incurring losses, increased cost of product components, and ineffective hedging"
+    },
+    {
+      "question": "What factors could negatively affect the Company's financial condition?",
+      "contexts": [
+        "The Company's value and liquidity of cash, cash equivalents, and marketable and non-marketable securities may fluctuate substantially due to various factors.",
+        "Changes in liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, interest rate fluctuations or other factors could negatively affect the Company."
+      ],
+      "ground_truth": "Changes in liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, interest rate fluctuations or other factors"
+    },
+    {
+      "question": "How does the Company typically distribute its products?",
+      "contexts": [
+        "The Company distributes its products through third-party cellular network carriers, wholesalers, retailers and resellers.",
+        "The Company also sells its products directly to small and mid-sized businesses and education, enterprise and government customers."
+      ],
+      "ground_truth": "Through third-party carriers, wholesalers, retailers, resellers, and direct sales to certain customers."
+    },
+    {
+      "question": "Where are the vendors for the Company's vendor non-trade receivables and prepayments primarily located?",
+      "contexts": [
+        "The Company's vendor non-trade receivables and prepayments related to long-term supply agreements were concentrated among a few individual vendors located primarily in Asia.",
+        "The Company has unsecured vendor non-trade receivables resulting from purchases of components by outsourcing partners and other vendors that manufacture subassemblies or assemble final products for the Company."
+      ],
+      "ground_truth": "Asia"
+    },
+    {
+      "question": "In which countries is the Company subject to taxes?",
+      "contexts": [
+        "The Company is subject to taxes in the U.S. and numerous foreign jurisdictions, including Ireland, where a number of the Company's subsidiaries are organized.",
+        "Due to economic and political conditions, tax laws and tax rates for income taxes and other non-income taxes in various jurisdictions may be subject to significant change."
+      ],
+      "ground_truth": "The U.S. and numerous foreign jurisdictions, including Ireland"
+    },
+    {
+      "question": "What factors could materially adversely affect Apple Inc.'s business, results of operations, and financial condition?",
+      "contexts": [
+        "The Company is also subject to the examination of its tax returns and other tax matters by the U.S. Internal Revenue Service and other tax authorities and governmental bodies.",
+        "If the Company's effective tax rates were to increase, particularly in the U.S. or Ireland, or if the ultimate determination of the Company's taxes owed is for an amount in excess of amounts previously accrued, the Company's business, results of operations and financial condition could be materially adversely affected."
+      ],
+      "ground_truth": "An increase in effective tax rates or an ultimate determination of taxes owed in excess of previously accrued amounts."
+    },
+    {
+      "question": "What factor may cause the average price at which the Company repurchases its stock to exceed the stock's price at a given point in time?",
+      "contexts": [
+        "The price of the Company's stock is subject to volatility.",
+        "Price volatility may cause the average price at which the Company repurchases its stock in a given period to exceed the stock's price at a given point in time."
+      ],
+      "ground_truth": "Price volatility"
+    },
+    {
+      "question": "Where are the Company's headquarters located?",
+      "contexts": [
+        "The Company's headquarters are located in Cupertino, California.",
+        "As of September 25, 2021, the Company owned or leased facilities"
+      ],
+      "ground_truth": "Cupertino, California"
+    },
+    {
+      "question": "Where are the Company's facilities and equipment located?",
+      "contexts": [
+        "The Company has facilities and land for various purposes at locations throughout the U.S. and in various places outside the U.S.",
+        "Its existing facilities and equipment are used by all reportable segments."
+      ],
+      "ground_truth": "Throughout the U.S. and outside the U.S."
+    },
+    {
+      "question": "What could happen to the Company's financial condition and operating results if legal matters are resolved against it for amounts above management's expectations?",
+      "contexts": [
+        "Legal matters were resolved against the Company in a reporting period for amounts above management's expectations, the Company's financial condition and operating results for that reporting period could be materially adversely affected.",
+        "The Company settled certain matters during the fourth quarter of 2021 that did not individually or in the aggregate have a material impact on the Company's financial condition or operating results."
+      ],
+      "ground_truth": "They could be materially adversely affected."
+    },
+    {
+      "question": "What was the outcome of the Northern California District Court ruling on September 10, 2021, regarding Epic's claim against the Company?",
+      "contexts": [
+        "The Northern California District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic's claim.",
+        "The Northern California District Court found that certain provisions of the Company's App Store Review Guidelines violate California's unfair competition law and issued an injunction."
+      ],
+      "ground_truth": "The Company won nine out of ten counts, but the court found some App Store Review Guidelines violate California's unfair competition law."
+    },
+    {
+      "question": "On which stock market is the Company's common stock traded?",
+      "contexts": [
+        "The Company's common stock is traded on The Nasdaq Stock Market LLC under the symbol AAPL.",
+        "As of October 15, 2021, there were 23,502 shareholders of record."
+      ],
+      "ground_truth": "The Nasdaq Stock Market LLC"
+    },
+    {
+      "question": "What was the total number of shares purchased by the Company under the share repurchase program as of September 25, 2021?",
+      "contexts": [
+        "The Company was authorized to purchase up to $315 billion of the Company's common stock under a share repurchase program announced on April 28, 2021.",
+        "As of September 25, 2021, $254.1 billion had been utilized under the Program."
+      ],
+      "ground_truth": "141,521"
+    },
+    {
+      "question": "What was the average repurchase price per share under the accelerated share repurchase agreement?",
+      "contexts": [
+        "Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.",
+        "In May 2021, the Company entered into an accelerated share repurchase agreement to purchase up to $5.0 billion of the Company's common stock.",
+        "In total, 36 million shares were delivered under this ASR at an average repurchase price of $137.20."
+      ],
+      "ground_truth": "$137.20"
+    },
+    {
+      "question": "What indexes are used for comparison with Apple Inc.'s cumulative total shareholder return in the provided graph?",
+      "contexts": [
+        "The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 25, 2021.",
+        "The graph assumes $100 was invested in each of the Company's common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 23, 2016."
+      ],
+      "ground_truth": "S&P 500 Index, S&P Information Technology Index, and Dow Jones U.S. Technology Supersector Index"
+    },
+    {
+      "question": "What was the value of $100 invested in the Dow Jones U.S. Technology Supersector Index on September 25, 2021?",
+      "contexts": [
+        "The Dow Jones U.S. Technology Supersector Index is compared to other indexes with $100 invested on September 23, 2016, including reinvestment of dividends.",
+        "Data points are the last day of each fiscal year for the indexes, including the Dow Jones U.S. Technology Supersector Index."
+      ],
+      "ground_truth": "$349"
+    },
+    {
+      "question": "What is the name of the company mentioned in the context?",
+      "contexts": [
+        "Apple Inc.",
+        "The Company's common stock"
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What fiscal years are primarily discussed in the Management's Discussion and Analysis section of this Form 10-K?",
+      "contexts": [
+        "This section of this Form 10-K generally discusses 2021 and 2020 items and year-to-year comparisons between 2021 and 2020.",
+        "Discussions of 2019 items and year-to-year comparisons between 2020 and 2019 are not included in this Form 10-K"
+      ],
+      "ground_truth": "2021 and 2020"
+    },
+    {
+      "question": "How did the COVID-19 pandemic affect the Company's business in 2021?",
+      "contexts": [
+        "The COVID-19 pandemic has at times significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets.",
+        "The COVID-19 pandemic and the measures taken by many countries in response have affected and could in the future materially impact the Company's business, results of operations and financial condition.",
+        "During 2021, aspects of the Company's business continued to be affected by the COVID-19 pandemic, with many of the Company's retail stores"
+      ],
+      "ground_truth": "Many of the Company's retail stores were affected."
+    },
+    {
+      "question": "How did the COVID-19 pandemic affect the Company's operations and sales?",
+      "contexts": [
+        "The Company has reopened all of its retail stores and substantially all of its other facilities, subject to operating restrictions to protect public health and the health and safety of employees and customers.",
+        "During the fourth quarter of 2021, certain of the Company's component suppliers and logistical service providers experienced disruptions, resulting in supply shortages that affected sales worldwide."
+      ],
+      "ground_truth": "The pandemic caused temporary closures, supply shortages, and sales disruptions."
+    },
+    {
+      "question": "What are some factors that could affect the Company's financial performance during the pandemic?",
+      "contexts": [
+        "The Company's financial performance is uncertain and will depend on many factors outside the Company's control.",
+        "These factors include the timing, extent, trajectory and duration of the pandemic, as well as the emergence of new variants."
+      ],
+      "ground_truth": "Factors outside the Company's control, such as the pandemic's timing, extent, and duration, and the emergence of new variants."
+    },
+    {
+      "question": "What was the total increase in net sales for Apple in 2021 compared to 2020?",
+      "contexts": [
+        "Total net sales increased 33% or $91.3 billion during 2021 compared to 2020, driven by growth in all Products and Services categories.",
+        "Year-over-year net sales during 2021 also grew in each of the Company's reportable segments."
+      ],
+      "ground_truth": "$91.3 billion"
+    },
+    {
+      "question": "What is the URL of the referenced SEC filing?",
+      "contexts": [
+        "The company's filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What is the URL of the referenced SEC EDGAR filing?",
+      "contexts": [
+        "The company's filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What was the total gross margin for Apple's products and services in 2021?",
+      "contexts": [
+        "Gross margin for 2021 was $105,126 for Products and $47,710 for Services, with a total gross margin of $152,836.",
+        "The total gross margin percentage for 2021 was 41.8%."
+      ],
+      "ground_truth": "$152,836"
+    },
+    {
+      "question": "What was the primary reason for the increase in Services gross margin percentage during 2021 compared to 2020?",
+      "contexts": [
+        "Services gross margin percentage increased during 2021 compared to 2020 due primarily to a different Services mix and improved leverage, partially offset by higher Services costs.",
+        "Services gross margin increased during 2021 compared to 2020 due primarily to higher Services net sales and a different Services mix."
+      ],
+      "ground_truth": "A different Services mix and improved leverage"
+    },
+    {
+      "question": "What was the primary driver of the year-over-year growth in R&D expense in 2021?",
+      "contexts": [
+        "The year-over-year growth in R&D expense in 2021 was driven primarily by increases in headcount-related expenses, R&D-related professional services and infrastructure-related costs."
+      ],
+      "ground_truth": "increases in headcount-related expenses, R&D-related professional services and infrastructure-related costs"
+    },
+    {
+      "question": "What drove the year-over-year growth in selling, general and administrative expense in 2021?",
+      "contexts": [
+        "The year-over-year growth in selling, general and administrative expense in 2021 was driven primarily by increases in headcount-related expenses, variable selling expenses and professional services."
+      ],
+      "ground_truth": "increases in headcount-related expenses, variable selling expenses and professional services"
+    },
+    {
+      "question": "What is the URL of the referenced SEC EDGAR filing?",
+      "contexts": [
+        "The company's filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What were the Company's fixed lease payment obligations as of September 25, 2021?",
+      "contexts": [
+        "The Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space.",
+        "As of September 25, 2021, the Company had fixed lease payment obligations of $14.6 billion, with $1.8 billion payable within 12 months."
+      ],
+      "ground_truth": "$14.6 billion"
+    },
+    {
+      "question": "What was the total amount of the Company's purchase obligations as of September 25, 2021?",
+      "contexts": [
+        "The Company had purchase obligations of $54.8 billion, with $54.7 billion payable within 12 months.",
+        "The Company had other purchase obligations of $8.3 billion, with $4.8 billion payable within 12 months."
+      ],
+      "ground_truth": "$63.1 billion"
+    },
+    {
+      "question": "What was the Company's quarterly cash dividend per share as of September 25, 2021?",
+      "contexts": [
+        "The Company's quarterly cash dividend was $0.22 per share as of September 25, 2021.",
+        "The Company intends to increase its dividend on an annual basis, subject to declaration by the Board of Directors."
+      ],
+      "ground_truth": "$0.22"
+    },
+    {
+      "question": "What is the basis for management's estimates in preparing the Company's consolidated financial statements?",
+      "contexts": [
+        "Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances.",
+        "The results of which form the basis for making judgments about the carrying values of assets and liabilities."
+      ],
+      "ground_truth": "Historical experience and reasonable assumptions"
+    },
+    {
+      "question": "What factors may cause the Company's tax reserves to be adjusted?",
+      "contexts": [
+        "Reserves are adjusted considering changing facts and circumstances, such as the closing of a tax examination or the refinement of an estimate.",
+        "Resolution of these uncertainties in a manner inconsistent with management's expectations could have a material impact on the Company's financial condition and operating results."
+      ],
+      "ground_truth": "Changing facts and circumstances"
+    },
+    {
+      "question": "When does the Company record a liability for uncertain business outcomes?",
+      "contexts": [
+        "The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable.",
+        "The outcomes of business are inherently uncertain."
+      ],
+      "ground_truth": "When a loss is probable and the amount is reasonably estimable"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What is the URL of the EDGAR filing for Apple's report?",
+      "contexts": [
+        "The report can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What method did the Company use to generate random market price paths in its value-at-risk model?",
+      "contexts": [
+        "The Company performed a sensitivity analysis using a value-at-risk (\"VAR\") model",
+        "The VAR model consisted of using a Monte Carlo simulation to generate thousands of random market price paths assuming normal market conditions"
+      ],
+      "ground_truth": "Monte Carlo simulation"
+    },
+    {
+      "question": "What was the estimated maximum one-day loss in fair value as of September 25, 2021?",
+      "contexts": [
+        "The Company estimates with 95% confidence, a maximum one-day loss in fair value of $550 million as of September 25, 2021.",
+        "The losses in fair value incurred on foreign currency instruments are generally offset by increases in the fair value of the underlying exposures."
+      ],
+      "ground_truth": "$550 million"
+    },
+    {
+      "question": "What factors may cause actual future gains and losses to differ from the sensitivity analyses performed by the Company as of September 25, 2021?",
+      "contexts": [
+        "Actual future gains and losses associated with the Company's investment portfolio, debt and derivative positions may differ materially from the sensitivity analyses performed as of September 25, 2021",
+        "due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company's actual exposures and positions"
+      ],
+      "ground_truth": "inherent limitations in predicting changes in interest rates, foreign currency exchange rates, and actual exposures and positions"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What was the total net sales for Apple Inc. in the year ended September 25, 2021?",
+      "contexts": [
+        "The total net sales for the year ended September 25, 2021, were $365,817 million.",
+        "Apple Inc.'s consolidated statements of operations reported total net sales of $365,817 million for the year ended September 25, 2021."
+      ],
+      "ground_truth": "$365,817 million"
+    },
+    {
+      "question": "What was Apple Inc.'s net income for the reported year?",
+      "contexts": [
+        "Net income $ 94,680",
+        "The company's financial performance is detailed in the Consolidated Financial Statements."
+      ],
+      "ground_truth": "$ 94,680"
+    },
+    {
+      "question": "What was the net income of Apple Inc. for the year ended September 25, 2021?",
+      "contexts": [
+        "The net income for the year ended September 25, 2021, was $94,680 million.",
+        "Apple Inc.'s consolidated statements of comprehensive income include net income and other comprehensive income.",
+        "For the years ended September 25, 2021, September 26, 2020, and September 28, 2019, the net incomes were $94,680 million, $57,411 million, and $55,256 million, respectively."
+      ],
+      "ground_truth": "$94,680 million"
+    },
+    {
+      "question": "What was the total comprehensive income for the period?",
+      "contexts": [
+        "Total comprehensive income was $95,249",
+        "The total other comprehensive income/(loss) was $569"
+      ],
+      "ground_truth": "$95,249"
+    },
+    {
+      "question": "What was the total amount of Apple Inc.'s current assets as of September 25, 2021?",
+      "contexts": [
+        "The total current assets were $134,836 as of September 25, 2021.",
+        "As of September 25, 2021, Apple Inc.'s consolidated balance sheet reported current assets of $134,836.",
+        "Current assets for Apple Inc. totaled $134,836 on September 25, 2021."
+      ],
+      "ground_truth": "$134,836"
+    },
+    {
+      "question": "What was the total amount of liabilities reported by the company in the current year?",
+      "contexts": [
+        "Total liabilities were $287,912",
+        "The company's total liabilities increased from $258,549"
+      ],
+      "ground_truth": "$287,912"
+    },
+    {
+      "question": "What was the total shareholders' equity beginning balance for Apple Inc. in 2021?",
+      "contexts": [
+        "The total shareholders' equity, beginning balances were $65,339, $90,488, and $107,147 for the years ended September 25, 2021, September 26, 2020, and September 28, 2019, respectively.",
+        "Apple Inc.'s consolidated statements of shareholders' equity are reported in millions, except per share amounts."
+      ],
+      "ground_truth": "$65,339"
+    },
+    {
+      "question": "What was the total shareholders' equity at the end of the period for the year 2021?",
+      "contexts": [
+        "Total shareholders' equity, ending balances $ 63,090 $ 65,339 $ 90,488",
+        "The information is based on the Consolidated Financial Statements."
+      ],
+      "ground_truth": "$ 90,488"
+    },
+    {
+      "question": "What is the name of the company that filed the 2021 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2021 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What principles does Apple Inc. follow for the preparation of its consolidated financial statements?",
+      "contexts": [
+        "The consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries.",
+        "The preparation of these consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions."
+      ],
+      "ground_truth": "U.S. generally accepted accounting principles"
+    },
+    {
+      "question": "How often does the Company include an additional week in the first fiscal quarter to realign with calendar quarters?",
+      "contexts": [
+        "The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.",
+        "An additional week is included in the first fiscal quarter every five or six years to realign the Company's fiscal quarters with calendar quarters."
+      ],
+      "ground_truth": "every five or six years"
+    },
+    {
+      "question": "How did the Company adopt ASU 2016-13 and what was the impact on its financial statements?",
+      "contexts": [
+        "The Company adopted the Financial Accounting Standards Board's Accounting Standards Update No. 2016-13 utilizing the modified retrospective transition method.",
+        "The adoption of ASU 2016-13 did not have a material impact on the Company's condensed consolidated financial statements."
+      ],
+      "ground_truth": "The Company adopted ASU 2016-13 using the modified retrospective transition method with no material impact on its financial statements."
+    },
+    {
+      "question": "How does the Company measure share-based compensation and recognize the related expense?",
+      "contexts": [
+        "The Company generally measures share-based compensation based on the closing price of the Company's common stock on the date of grant.",
+        "The Company recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest."
+      ],
+      "ground_truth": "Based on the closing price of the Company's common stock on the date of grant, recognized on a straight-line basis."
+    },
+    {
+      "question": "How does the Company classify its marketable debt securities?",
+      "contexts": [
+        "The Company classifies its marketable debt securities as either short-term or long-term based on each instrument's underlying contractual maturity date.",
+        "All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents."
+      ],
+      "ground_truth": "Based on each instrument's underlying contractual maturity date"
+    },
+    {
+      "question": "How are debt securities classified as available-for-sale recognized in the financial statements?",
+      "contexts": [
+        "Debt securities classified as available-for-sale are recognized in other comprehensive income/(loss) (\"OCI\")",
+        "The Company's investments in marketable equity securities are classified based on the nature of the securities and their availability for use in current operations"
+      ],
+      "ground_truth": "in other comprehensive income/(loss) (\"OCI\")"
+    },
+    {
+      "question": "What was the depreciation and amortization expense on property and equipment during 2021?",
+      "contexts": [
+        "Depreciation and amortization expense on property and equipment was $9.5 billion, $9.7 billion and $11.3 billion during 2021, 2020 and 2019, respectively.",
+        "The Company considers the useful life of assets when calculating depreciation and amortization."
+      ],
+      "ground_truth": "$9.5 billion"
+    },
+    {
+      "question": "How does the Company classify and report restricted cash in the Consolidated Balance Sheets?",
+      "contexts": [
+        "The Company reports restricted cash as other assets in the Consolidated Balance Sheets, and determines current or non-current classification based on the expected duration of the restriction.",
+        "cash and marketable securities to be restricted when withdrawal or general use is legally restricted."
+      ],
+      "ground_truth": "As other assets, based on the expected duration of the restriction."
+    },
+    {
+      "question": "Where are changes in the fair value of amounts excluded from the assessment of hedge effectiveness recognized?",
+      "contexts": [
+        "flow hedge effectiveness are initially deferred in accumulated other comprehensive income/(loss) (\"AOCI\") and subsequently reclassified into earnings when the hedged transaction affects earnings, and in the same line item in the Consolidated Statements of Operations.",
+        "Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI."
+      ],
+      "ground_truth": "OCI"
+    },
+    {
+      "question": "How does the Company recognize changes in the fair value of amounts excluded from the assessment of hedge effectiveness for foreign exchange forward contracts?",
+      "contexts": [
+        "For foreign exchange forward contracts designated as fair value hedges, the Company excludes the forward carry component from the assessment of hedge effectiveness and recognizes it in OI&E on a straight-line basis over the life of the hedge.",
+        "Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI."
+      ],
+      "ground_truth": "In OCI"
+    },
+    {
+      "question": "Where are gains and losses from changes in the fair values of non-designated derivative instruments recognized?",
+      "contexts": [
+        "Gains and losses arising from changes in the fair values of derivative instruments that are not designated as accounting hedges are recognized in the Consolidated Statements of Operations line items to which the derivative instruments relate."
+      ],
+      "ground_truth": "Consolidated Statements of Operations"
+    },
+    {
+      "question": "How does the Company classify cash flows related to derivative instruments in the Consolidated Statements of Cash Flows?",
+      "contexts": [
+        "The Company classifies cash flows related to derivative instruments as operating activities in the Consolidated Statements of Cash Flows.",
+        "The Company presents derivative assets and liabilities at their gross fair values in the Consolidated Balance Sheets."
+      ],
+      "ground_truth": "as operating activities"
+    },
+    {
+      "question": "When does the Company recognize revenue from the sale of its products and services?",
+      "contexts": [
+        "The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers.",
+        "Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers."
+      ],
+      "ground_truth": "When control of the products or services is transferred to its customers"
+    },
+    {
+      "question": "How does the Company allocate revenue to distinct performance obligations in arrangements with multiple obligations?",
+      "contexts": [
+        "For arrangements with multiple performance obligations, the Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (\"SSPs\").",
+        "The Company uses observable prices to determine SSPs when available."
+      ],
+      "ground_truth": "Based on their relative stand-alone selling prices (SSPs)"
+    },
+    {
+      "question": "What factors does the Company consider when determining prices for performance obligations?",
+      "contexts": [
+        "prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation",
+        "including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance obligation"
+      ],
+      "ground_truth": "multiple factors, including prices for similar offerings, market trends, product-specific business objectives, and estimated costs"
+    },
+    {
+      "question": "When is revenue allocated to delivered hardware and bundled software recognized?",
+      "contexts": [
+        "Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer",
+        "The Company allocates revenue and any related discounts to these performance obligations based on their relative SSPs"
+      ],
+      "ground_truth": "when control has transferred to the customer, which generally occurs when the product is shipped"
+    },
+    {
+      "question": "How does the Company recognize cost of sales for delivered hardware and bundled software?",
+      "contexts": [
+        "Cost of sales related to delivered hardware and bundled software, including estimated warranty costs, are recognized at the time of sale.",
+        "Costs incurred to provide product-related bundled services and unspecified software upgrade rights are recognized as cost of sales as incurred."
+      ],
+      "ground_truth": "At the time of sale"
+    },
+    {
+      "question": "How does the Company recognize revenue for the sale of third-party products when it obtains control of the product?",
+      "contexts": [
+        "The Company recognizes revenue based on the gross amount billed to customers for the sale of third-party products where it obtains control of the product before transferring it to the customer.",
+        "The Company considers multiple factors when determining whether it obtains control of third-party products."
+      ],
+      "ground_truth": "Based on the gross amount billed to customers"
+    },
+    {
+      "question": "How does the Company account for sales of third-party applications through the App Store?",
+      "contexts": [
+        "The Company does not obtain control of the product before transferring it to the customer for third-party applications sold through the App Store.",
+        "The Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains."
+      ],
+      "ground_truth": "On a net basis, recognizing only the commission it retains."
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What percentage of total deferred revenue did the Company expect to be realized in less than a year as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, the Company had total deferred revenue of $11.9 billion.",
+        "As of September 25, 2021, the Company expects 64% of total deferred revenue to be realized in less than a year."
+      ],
+      "ground_truth": "64%"
+    },
+    {
+      "question": "What types of products are included in Wearables, Home and Accessories net sales?",
+      "contexts": [
+        "Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories.",
+        "Net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product."
+      ],
+      "ground_truth": "AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories"
+    },
+    {
+      "question": "What was the amount of revenue recognized in 2021 that was included in deferred revenue as of September 26, 2020?",
+      "contexts": [
+        "The Company recognized $6.7 billion of revenue in 2021 that was included in deferred revenue as of September 26, 2020.",
+        "Revenue recognition includes services bundled in the sales price of certain products."
+      ],
+      "ground_truth": "$6.7 billion"
+    },
+    {
+      "question": "What was the total fair value of the Company's cash and cash equivalents as of September 25, 2021?",
+      "contexts": [
+        "The Company's cash, cash equivalents and marketable securities by significant investment category are shown in the tables.",
+        "As of September 25, 2021, the Company had cash and cash equivalents with a fair value of $17,305 million."
+      ],
+      "ground_truth": "$17,305 million"
+    },
+    {
+      "question": "What is the total fair value of cash and cash equivalents as of the reporting date?",
+      "contexts": [
+        "The total fair value of cash and cash equivalents is reported as $190,516.",
+        "Cash and cash equivalents include cash, money market funds, and other short-term investments.",
+        "The fair value of these assets is determined based on their market values."
+      ],
+      "ground_truth": "$190,516"
+    },
+    {
+      "question": "What is the total fair value of the securities as of the reporting date?",
+      "contexts": [
+        "The total fair value of the securities is $191,830.",
+        "Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.",
+        "Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities."
+      ],
+      "ground_truth": "$191,830"
+    },
+    {
+      "question": "What was the total amount of marketable securities restricted from general use as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021 and September 26, 2020, total marketable securities included $17.9 billion and $18.6 billion, respectively, that was restricted from general use, related to the State Aid Decision and other agreements.",
+        "The restricted marketable securities were related to the State Aid Decision and other agreements."
+      ],
+      "ground_truth": "$17.9 billion"
+    },
+    {
+      "question": "What is the primary objective of the Company's investment policy in marketable debt securities?",
+      "contexts": [
+        "The Company typically invests in highly rated securities, with the primary objective of minimizing the potential risk of principal loss.",
+        "The Company's investment policy generally requires securities to be investment grade and limits the amount of credit exposure to any one issuer."
+      ],
+      "ground_truth": "Minimizing the potential risk of principal loss"
+    },
+    {
+      "question": "Why might the Company choose not to hedge certain exposures to foreign exchange and interest rate risk?",
+      "contexts": [
+        "The Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk.",
+        "The Company may choose not to hedge certain exposures for a variety of reasons including, but not limited to, accounting considerations or the prohibitive economic cost of hedging particular exposures."
+      ],
+      "ground_truth": "Accounting considerations or the prohibitive economic cost of hedging particular exposures."
+    },
+    {
+      "question": "What is the typical duration for which the Company hedges its forecasted foreign currency exposure associated with revenue and inventory purchases?",
+      "contexts": [
+        "The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.",
+        "To protect the Company's foreign currency-denominated term debt or marketable securities from fluctuations in foreign currency exchange rates, the Company may enter into forward contracts, cross-currency swaps or other instruments."
+      ],
+      "ground_truth": "up to 12 months"
+    },
+    {
+      "question": "What financial instruments does the Company use to protect against fluctuations in interest rates?",
+      "contexts": [
+        "The Company may enter into interest rate swaps, options or other instruments to protect its term debt or marketable securities from fluctuations in interest rates.",
+        "These instruments are designated as either cash flow or fair value hedges."
+      ],
+      "ground_truth": "interest rate swaps, options or other instruments"
+    },
+    {
+      "question": "What were the gross fair values of the Company's derivative assets and liabilities as of September 25, 2021 and September 26, 2020?",
+      "contexts": [
+        "The gross fair values of the Company's derivative assets and liabilities were not material as of September 25, 2021 and September 26, 2020.",
+        "Derivative instruments not designated as accounting hedges included Foreign exchange contracts with values of $126,918 and $88,636."
+      ],
+      "ground_truth": "Not material"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What were the carrying amounts of the Company's hedged items in fair value hedges as of September 25, 2021?",
+      "contexts": [
+        "The carrying amounts of the Company's hedged items in fair value hedges as of September 25, 2021 and September 26, 2020 were as follows (in millions): Hedged assets/(liabilities): Current and non-current marketable securities $ 15,954, Current and non-current term debt (17,857).",
+        "The gains and losses on the Company's derivative instruments designated as fair value hedges and the related hedged item adjustments were not material in 2021, 2020 and 2019."
+      ],
+      "ground_truth": "$ 15,954 and (17,857)"
+    },
+    {
+      "question": "How does the Company manage credit risk related to its trade receivables?",
+      "contexts": [
+        "The Company will require collateral or third-party credit support in certain instances to limit credit risk.",
+        "The Company attempts to limit credit risk on trade receivables with credit insurance for certain customers or by requiring third-party financing, loans or leases to support credit exposure."
+      ],
+      "ground_truth": "Through collateral, third-party credit support, credit insurance, and third-party financing arrangements."
+    },
+    {
+      "question": "What percentage of total vendor non-trade receivables did the largest vendor represent as of September 25, 2021?",
+      "contexts": [
+        "The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company.",
+        "As of September 25, 2021, the Company had three vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 52%, 11% and 11%."
+      ],
+      "ground_truth": "52%"
+    },
+    {
+      "question": "What was the total property, plant and equipment, net for the year 2021?",
+      "contexts": [
+        "The total property, plant and equipment, net was $39,440 for 2021 and $36,766 for 2020.",
+        "As of September 25, 2021, the company reported $109,723 in gross property, plant and equipment and $70,283 in accumulated depreciation and amortization."
+      ],
+      "ground_truth": "$39,440"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What was the total provision for income taxes in 2021?",
+      "contexts": [
+        "The provision for income taxes for 2021 consisted of Federal: $1,081, State: $1,282, and Foreign: $12,164.",
+        "The total provision for income taxes is the sum of the federal, state, and foreign provisions."
+      ],
+      "ground_truth": "$14,527"
+    },
+    {
+      "question": "What was the computed expected tax for 2021?",
+      "contexts": [
+        "A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (21% in 2021, 2020 and 2019) to income before provision for income taxes for 2021, 2020 and 2019, is as follows (dollars in millions): Computed expected tax $ 22,933 $ 14,089",
+        "The foreign provision for income taxes is based on foreign pretax earnings of $68.7 billion, $38.1 billion and $44.3 billion in 2021, 2020 and 2019, respectively."
+      ],
+      "ground_truth": "$ 22,933"
+    },
+    {
+      "question": "What was Apple Inc.'s effective tax rate in the year reported?",
+      "contexts": [
+        "The effective tax rate was 13.3%.",
+        "Provision for income taxes was $14,527.",
+        "Effective tax rates for prior years were 14.4% and 15.9%."
+      ],
+      "ground_truth": "13.3%"
+    },
+    {
+      "question": "What was the total deferred tax assets, net, as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, the total deferred tax assets, net, were $20,273.",
+        "The Company's deferred tax assets and liabilities as of September 25, 2021, included various components such as amortization and depreciation, accrued liabilities, and tax credit carryforwards."
+      ],
+      "ground_truth": "$20,273"
+    },
+    {
+      "question": "What is the primary factor considered when measuring deferred tax assets and liabilities?",
+      "contexts": [
+        "Deferred tax assets and liabilities reflect the effects of tax credits and the future income tax effects of temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and are measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.",
+        "The Company has elected to record certain deferred tax assets and liabilities in connection with the minimum tax on certain foreign earnings"
+      ],
+      "ground_truth": "enacted tax rates"
+    },
+    {
+      "question": "What was the total amount of gross unrecognized tax benefits as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, the total amount of gross unrecognized tax benefits was $15.5 billion, of which $6.6 billion, if recognized, would impact the Company's effective tax rate.",
+        "The Company had $2.6 billion in foreign tax credit carryforwards in Ireland and $1.6 billion in California research and development credit carryforwards as of September 25, 2021."
+      ],
+      "ground_truth": "$15.5 billion"
+    },
+    {
+      "question": "What was the beginning balance of gross unrecognized tax benefits in 2021?",
+      "contexts": [
+        "The beginning balance of gross unrecognized tax benefits for 2021 was $16,475 million.",
+        "The aggregate change in the balance of gross unrecognized tax benefits is reported for 2021, 2020, and 2019."
+      ],
+      "ground_truth": "$16,475 million"
+    },
+    {
+      "question": "In which jurisdictions does the Company file income tax returns?",
+      "contexts": [
+        "The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions."
+      ],
+      "ground_truth": "U.S. federal jurisdiction, many state jurisdictions, and many foreign jurisdictions"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What is the typical duration of the Company's lease arrangements?",
+      "contexts": [
+        "The Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space.",
+        "These leases typically have original terms not exceeding 10 years and generally contain multiyear renewal options, some of which are reasonably certain of exercise."
+      ],
+      "ground_truth": "Not exceeding 10 years"
+    },
+    {
+      "question": "What were the total lease costs associated with variable payments for the Company in 2021 and 2020?",
+      "contexts": [
+        "Lease costs associated with variable payments on the Company's leases were $12.9 billion and $9.3 billion for 2021 and 2020, respectively.",
+        "Operating leases were $1.7 billion and $1.5 billion for 2021 and 2020, respectively."
+      ],
+      "ground_truth": "$12.9 billion and $9.3 billion"
+    },
+    {
+      "question": "What was the total value of right-of-use assets as of September 25, 2021?",
+      "contexts": [
+        "The total right-of-use assets were $10,948 as of September 25, 2021.",
+        "Right-of-use assets included $10,087 for operating leases and $861 for finance leases as of September 25, 2021."
+      ],
+      "ground_truth": "$10,948"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What was the total undiscounted lease liability as of September 25, 2021?",
+      "contexts": [
+        "Lease liability maturities as of September 25, 2021, are as follows: Total undiscounted liabilities 13,453",
+        "The Company's lease liabilities as of September 25, 2021, had a total undiscounted amount of $13,453 million"
+      ],
+      "ground_truth": "$13,453 million"
+    },
+    {
+      "question": "What was the total amount of future payments under additional leases that had not yet commenced as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, the Company had $1.1 billion of future payments under additional leases, primarily for corporate facilities and retail space, that had not yet commenced.",
+        "These leases will commence between 2022 and 2023, with lease terms ranging from 3 years to 20 years."
+      ],
+      "ground_truth": "$1.1 billion"
+    },
+    {
+      "question": "What was the weighted-average interest rate of the Company's Commercial Paper as of September 25, 2021?",
+      "contexts": [
+        "The weighted-average interest rate of the Company's Commercial Paper was 0.06% and 0.62% as of September 25, 2021 and September 26, 2020, respectively.",
+        "The Company had Commercial Paper outstanding with maturities generally less than nine months."
+      ],
+      "ground_truth": "0.06%"
+    },
+    {
+      "question": "How did the Company account for its Repos in 2020?",
+      "contexts": [
+        "In 2020, the Company entered into agreements to sell certain of its marketable securities with a promise to repurchase the securities at a specified time and amount (\"Repos\").",
+        "Due to the Company's continuing involvement with the marketable securities, the Company accounted for its Repos as collateralized borrowings."
+      ],
+      "ground_truth": "as collateralized borrowings"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What was the total amount authorized for the Company's share repurchase program as of September 25, 2021?",
+      "contexts": [
+        "The Company was authorized to purchase up to $315 billion of the Company's common stock under a share repurchase program.",
+        "During 2021, the Company repurchased 656 million shares of its common stock for $85.5 billion."
+      ],
+      "ground_truth": "$315 billion"
+    },
+    {
+      "question": "What was the total number of common stock outstanding at the beginning of 2021?",
+      "contexts": [
+        "Common stock outstanding, beginning balances for 2021 were 16,976,763.",
+        "The company's common stock outstanding began at 16,976,763 in 2021."
+      ],
+      "ground_truth": "16,976,763"
+    },
+    {
+      "question": "How do RSUs granted under the 2014 Plan vest and settle?",
+      "contexts": [
+        "RSUs granted under the 2014 Plan generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company's common stock on a one-for-one basis.",
+        "RSUs granted under the 2014 Plan reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted."
+      ],
+      "ground_truth": "Over four years, based on continued employment, and settle in shares of common stock on a one-for-one basis."
+    },
+    {
+      "question": "What happens to shares subject to outstanding awards under the 2003 Employee Stock Plan that expire or are canceled?",
+      "contexts": [
+        "Shares subject to outstanding awards under the 2003 Employee Stock Plan that expire, are canceled or otherwise terminate, or are withheld to satisfy tax withholding obligations for RSUs, will also be available for awards under the 2014 Plan.",
+        "As of September 25, 2021, approximately 760 million shares were reserved for future issuance under the 2014 Plan."
+      ],
+      "ground_truth": "They become available for awards under the 2014 Plan."
+    },
+    {
+      "question": "When does the Director Plan expire?",
+      "contexts": [
+        "The Director Plan expires on November 12, 2027.",
+        "RSUs granted under the Director Plan reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted."
+      ],
+      "ground_truth": "November 12, 2027"
+    },
+    {
+      "question": "How many shares were reserved for future issuance under the Director Plan as of September 25, 2021?",
+      "contexts": [
+        "As of September 25, 2021, approximately 4 million shares were reserved for future issuance under the Director Plan.",
+        "The Director Plan is one of the company's equity plans."
+      ],
+      "ground_truth": "4 million"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What is the maximum amount of stock an employee can purchase in a calendar year under the Employee Stock Purchase Plan?",
+      "contexts": [
+        "An employee's payroll deductions under the Purchase Plan are limited to 10% of the employee's compensation and employees may not purchase more than $25,000 of stock during any calendar year.",
+        "The Employee Stock Purchase Plan allows substantially all employees to voluntarily enroll to purchase the Company's common stock through payroll deductions."
+      ],
+      "ground_truth": "$25,000"
+    },
+    {
+      "question": "What is the maximum amount of the Company's match to an employee's 401(k) contributions based on eligible earnings?",
+      "contexts": [
+        "The Company matches 50% to 100% of each employee's contributions, depending on length of service, up to a maximum of 6% of the employee's eligible earnings.",
+        "Participating U.S. employees may defer a portion of their pretax earnings, up to the U.S. Internal Revenue Service annual contribution limit ($19,500 for calendar year 2021)."
+      ],
+      "ground_truth": "6% of the employee's eligible earnings"
+    },
+    {
+      "question": "What was the balance of RSUs as of September 25, 2021?",
+      "contexts": [
+        "The balance of RSUs as of September 25, 2021, was 240,427 with a value of $75.16.",
+        "RSUs granted, vested, and canceled between 2019 and 2021 affected the overall balance."
+      ],
+      "ground_truth": "240,427"
+    },
+    {
+      "question": "What was the total amount paid for employees' tax obligations in 2021?",
+      "contexts": [
+        "Total payments for the employees' tax obligations to taxing authorities were $6.8 billion, $3.9 billion and $3.0 billion in 2021, 2020 and 2019, respectively.",
+        "The total shares withheld were approximately 53 million, 56 million and 59 million for 2021, 2020 and 2019, respectively,"
+      ],
+      "ground_truth": "$6.8 billion"
+    },
+    {
+      "question": "What was the income tax benefit related to share-based compensation expense for Apple Inc. in 2021?",
+      "contexts": [
+        "Income tax benefit related to share-based compensation expense for 2021 was $(4,056) million.",
+        "The Company recognized an income tax benefit included in the Consolidated Statements of Operations for 2021."
+      ],
+      "ground_truth": "$4,056 million"
+    },
+    {
+      "question": "What is the date and time associated with this document reference?",
+      "contexts": [
+        "The document reference is dated 01/05/2026, 20:22."
+      ],
+      "ground_truth": "01/05/2026, 20:22"
+    },
+    {
+      "question": "What was the beginning accrued warranty and related costs for the Company in 2019?",
+      "contexts": [
+        "The following table shows changes in the Company's accrued warranties and related costs for 2021, 2020 and 2019",
+        "Beginning accrued warranty and related costs for 2019 was $3,692"
+      ],
+      "ground_truth": "$3,692"
+    },
+    {
+      "question": "What happens to subsequent changes in the guarantee liability after the initial recognition?",
+      "contexts": [
+        "The Company recognizes arrangement revenue net of the fair value of such right as a guarantee liability.",
+        "Subsequent changes to the guarantee liability are recognized within net sales."
+      ],
+      "ground_truth": "Subsequent changes are recognized within net sales."
+    },
+    {
+      "question": "What is a potential risk related to the Company's use of custom components?",
+      "contexts": [
+        "The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source.",
+        "The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company's requirements."
+      ],
+      "ground_truth": "Suppliers may decide to concentrate on common components instead of custom ones."
+    },
+    {
+      "question": "Where are substantially all of the Company's hardware products manufactured?",
+      "contexts": [
+        "Substantially all of the Company's hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland."
+      ],
+      "ground_truth": "Primarily in Asia, with some in the U.S. and Ireland."
+    },
+    {
+      "question": "How does the Company account for potential losses from unresolved legal proceedings?",
+      "contexts": [
+        "The Company accrues its best estimate for the ultimate resolution of a matter when a loss related to a legal proceeding or claim is probable and reasonably estimable.",
+        "The outcome of litigation is inherently uncertain."
+      ],
+      "ground_truth": "By accruing its best estimate when a loss is probable and reasonably estimable."
+    },
+    {
+      "question": "What was the outcome of the retrial of the lawsuit filed by VinetX against the Company in October 2020?",
+      "contexts": [
+        "VinetX, Inc. filed a lawsuit against the Company alleging that certain of the Company's products infringe on patents owned by VirnetX.",
+        "The jury returned a verdict against the Company and awarded damages of $503 million, which the Company has appealed."
+      ],
+      "ground_truth": "The jury returned a verdict against the Company and awarded damages of $503 million."
+    },
+    {
+      "question": "In which court were the iOS Performance Management Cases consolidated?",
+      "contexts": [
+        "On April 5, 2018, several U.S. federal actions were consolidated through a Multidistrict Litigation process into a single action in the U.S. District Court for the Northern District of California",
+        "The cases related to the Company's performance management feature used in its iPhone operating systems"
+      ],
+      "ground_truth": "U.S. District Court for the Northern District of California"
+    },
+    {
+      "question": "What was the total amount paid to settle the Multidistrict Litigation claims?",
+      "contexts": [
+        "On March 18, 2021, the Northern California District Court granted final approval of the Multidistrict Litigation settlement, which will result in an aggregate payment of $310 million to settle all claims.",
+        "The Company continues to believe that its iPhones were not defective, that the performance management feature introduced with iOS updates 10.2.1 and 11.2 was intended to, and did, improve customers' user experience, and that the Company did not make any misleading statements or fail to disclose any material information."
+      ],
+      "ground_truth": "$310 million"
+    },
+    {
+      "question": "What was the amount of damages awarded against the Company in the Optis lawsuit retrial?",
+      "contexts": [
+        "Optis Wireless Technology, LLC and related entities filed a lawsuit against the Company alleging patent infringement.",
+        "A retrial on damages was held in August 2021 and the jury awarded damages of $300 million against the Company."
+      ],
+      "ground_truth": "$300 million"
+    },
+    {
+      "question": "How does the Company manage its business and what are its reportable segments?",
+      "contexts": [
+        "The Company manages its business primarily on a geographic basis.",
+        "The Company's reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific."
+      ],
+      "ground_truth": "Geographically, with segments including the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific."
+    },
+    {
+      "question": "What regions are included in the Rest of Asia Pacific segment?",
+      "contexts": [
+        "Rest of Asia Pacific includes Australia and those Asian countries not included in the Company's other reportable segments.",
+        "The Company's reportable segments are managed separately based on geographic regions."
+      ],
+      "ground_truth": "Australia and other Asian countries not in other segments"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What is the name of the company that filed the 2021 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2021 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "Which two countries accounted for more than 10% of the Company's net sales in 2021, 2020, and 2019?",
+      "contexts": [
+        "The U.S. and China were the only countries that accounted for more than 10% of the Company's net sales in 2021, 2020 and 2019.",
+        "Net sales for 2021, 2020 and 2019 were as follows: U.S. $133,803, $109,197, $102,266 and China $68,366, $40,308, $43,678."
+      ],
+      "ground_truth": "The U.S. and China"
+    },
+    {
+      "question": "What is the opinion of the independent registered public accounting firm on the fairness of Apple Inc.'s financial statements?",
+      "contexts": [
+        "We have audited the accompanying consolidated balance sheets of Apple Inc. as of September 25, 2021 and September 26, 2020, the related consolidated statements of operations, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended September 25, 2021, and the related notes",
+        "In our opinion, the financial statements present fairly, in all material respects, the financial position of Apple Inc. at September 25, 2021 and September 26, 2020, and the results of its operations and its cash flows for each of the"
+      ],
+      "ground_truth": "The financial statements present fairly, in all material respects, the financial position of Apple Inc."
+    },
+    {
+      "question": "What framework was used to audit Apple Inc.'s internal control over financial reporting as of September 25, 2021?",
+      "contexts": [
+        "We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (the 'PCAOB'), Apple Inc.'s internal control over financial reporting as of September 25, 2021, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)",
+        "These financial statements are the responsibility of Apple Inc.'s management."
+      ],
+      "ground_truth": "Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)"
+    },
+    {
+      "question": "What standards did the auditors follow when conducting the audit of Apple Inc.'s financial statements?",
+      "contexts": [
+        "We conducted our audits in accordance with the standards of the PCAOB.",
+        "Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud."
+      ],
+      "ground_truth": "The standards of the PCAOB"
+    },
+    {
+      "question": "What is the purpose of communicating a Critical Audit Matter in the financial statements audit?",
+      "contexts": [
+        "Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.",
+        "The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments."
+      ],
+      "ground_truth": "To communicate matters that are material to the financial statements and involve challenging, subjective, or complex judgments."
+    },
+    {
+      "question": "In which jurisdictions does Apple Inc. file income tax returns?",
+      "contexts": [
+        "Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions.",
+        "As discussed in Note 5 to the financial statements, Apple Inc. has tax obligations in multiple jurisdictions."
+      ],
+      "ground_truth": "U.S. federal, state, and foreign jurisdictions"
+    },
+    {
+      "question": "How much of the benefits would impact Apple Inc.'s effective tax rate if recognized?",
+      "contexts": [
+        "Benefits was $15.5 billion, of which $6.6 billion, if recognized, would impact Apple Inc.'s effective tax rate.",
+        "Apple Inc. uses significant judgment in the calculation of tax liabilities in estimating the impact of uncertainties in the application of technical merits and complex tax laws."
+      ],
+      "ground_truth": "$6.6 billion"
+    },
+    {
+      "question": "What procedures did the auditors use to evaluate Apple Inc.'s assessment of uncertain tax positions?",
+      "contexts": [
+        "We tested controls relating to the evaluation of uncertain tax positions, including controls over management's assessment as to whether tax positions are more likely than not to be sustained.",
+        "Our audit procedures included reading and evaluating management's assumptions and analysis, and Apple Inc.'s communications with taxing authorities."
+      ],
+      "ground_truth": "Reading and evaluating management's assumptions and analysis, and reviewing communications with taxing authorities."
+    },
+    {
+      "question": "Since what year has Ernst & Young LLP served as Apple Inc.'s auditor?",
+      "contexts": [
+        "We have served as Apple Inc.'s auditor since 2009.",
+        "Ernst & Young LLP",
+        "Apple Inc.'s auditor"
+      ],
+      "ground_truth": "2009"
+    },
+    {
+      "question": "What is the URL of the EDGAR filing for Apple's report?",
+      "contexts": [
+        "The report can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "As of September 25, 2021, were the Company's disclosure controls and procedures effective?",
+      "contexts": [
+        "The Company's principal executive officer and principal financial officer have concluded that the Company's disclosure controls and procedures were effective as of September 25, 2021.",
+        "The evaluation was under the supervision and with the participation of the Company's management."
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "What is the primary purpose of the Company's internal control over financial reporting?",
+      "contexts": [
+        "The Company's internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles (\"GAAP\").",
+        "The Company's internal control over financial reporting includes those policies and procedures that pertain to the maintenance of records that accurately and fairly reflect the transactions and dispositions of the Company's assets."
+      ],
+      "ground_truth": "To provide reasonable assurance regarding the reliability of financial reporting"
+    },
+    {
+      "question": "What level of assurance can a well-designed and operated control system provide according to the Company's management?",
+      "contexts": [
+        "A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance",
+        "Management, including the Company's Chief Executive Officer and Chief Financial Officer, does not expect that the Company's internal controls will prevent or detect all errors and all fraud"
+      ],
+      "ground_truth": "reasonable assurance"
+    },
+    {
+      "question": "What is a limitation of evaluating internal controls?",
+      "contexts": [
+        "no evaluation of internal controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected",
+        "the degree of compliance with the policies or procedures may deteriorate"
+      ],
+      "ground_truth": "Internal controls may not detect all control issues or instances of fraud, and their effectiveness can deteriorate over time"
+    },
+    {
+      "question": "As of September 25, 2021, was the Company's internal control over financial reporting effective?",
+      "contexts": [
+        "Management conducted an assessment of the effectiveness of the Company's internal control over financial reporting based on the criteria set forth in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework).",
+        "Based on the Company's assessment, management has concluded that its internal control over financial reporting was effective as of September 25, 2021 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP."
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "Were there any changes in the Company's internal control over financial reporting during the fourth quarter of 2021?",
+      "contexts": [
+        "There were no changes in the Company's internal control over financial reporting during the fourth quarter of 2021, which were identified in connection with management's evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.",
+        "LLP, has issued an audit report on the Company's internal control over financial reporting, which appears in Part II, Item 8 of this Form 10-K."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What is the URL of the EDGAR filing referenced on page 77?",
+      "contexts": [
+        "The EDGAR filing is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    },
+    {
+      "question": "What financial statements are included in the consolidated financial statements for the years ended September 25, 2021, September 26, 2020, and September 28, 2019?",
+      "contexts": [
+        "Consolidated Statements of Operations for the years ended September 25, 2021, September 26, 2020 and September 28, 2019",
+        "Consolidated Statements of Comprehensive Income for the years ended September 25, 2021, September 26, 2020 and September 28, 2019",
+        "Consolidated Balance Sheets as of September 25, 2021 and September 26, 2020"
+      ],
+      "ground_truth": "Statements of Operations, Comprehensive Income, Balance Sheets, Statements of Shareholders' Equity, and Statements of Cash Flows"
+    },
+    {
+      "question": "Why have all financial statement schedules been omitted from this report?",
+      "contexts": [
+        "All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes included in this Form 10-K."
+      ],
+      "ground_truth": "The required information is not applicable, not present in sufficient amounts, or is included in the consolidated financial statements and accompanying notes."
+    },
+    {
+      "question": "What types of notes were included in the Officer's Certificate of the Registrant dated as of May 3, 2013?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.",
+        "The certificate was filed as an exhibit to the Registrant's report on Form 8-K on May 3, 2013."
+      ],
+      "ground_truth": "Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043"
+    },
+    {
+      "question": "What types of notes were included in the Officer's Certificate of the Registrant dated February 9, 2015?",
+      "contexts": [
+        "Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.",
+        "Officer's Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045."
+      ],
+      "ground_truth": "Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045"
+    },
+    {
+      "question": "What types of notes were represented in the Officer's Certificate of the Registrant dated July 31, 2015?",
+      "contexts": [
+        "The Officer's Certificate of the Registrant, dated as of July 31, 2015, included forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.",
+        "The certificate was part of the 8-K filing 4.1 on 7/31/15."
+      ],
+      "ground_truth": "3.05% Notes due 2029 and 3.60% Notes due 2042"
+    },
+    {
+      "question": "What types of notes were included in the Officer's Certificate of the Registrant dated February 23, 2016?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.",
+        "The Officer's Certificate was filed as Exhibit 4.10 with the 8-K form on 2/23/16."
+      ],
+      "ground_truth": "Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046."
+    },
+    {
+      "question": "What types of notes were included in the Officer's Certificate of the Registrant dated August 4, 2016?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.",
+        "The certificate dated August 4, 2016, covered multiple note types with various due dates."
+      ],
+      "ground_truth": "Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026, and 3.850% Notes due 2046"
+    },
+    {
+      "question": "What is the interest rate of the notes due in 2027 mentioned in the Officer's Certificate of the Registrant dated as of June 20, 2017?",
+      "contexts": [
+        "3.000% Notes due 2027",
+        "Officer's Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027"
+      ],
+      "ground_truth": "3.000%"
+    },
+    {
+      "question": "What are the interest rates and maturity years of the notes mentioned in the Officer's Certificate of the Registrant dated November 13, 2017?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047.",
+        "Notes due 2027 and 3.750% Notes due 2047."
+      ],
+      "ground_truth": "1.800% due 2019, 2.000% due 2020, 2.400% due 2023, 2.750% due 2025, 3.000% due 2027, and 3.750% due 2047"
+    },
+    {
+      "question": "What types of notes were represented in the Officer's Certificate of the Registrant dated as of November 15, 2019?",
+      "contexts": [
+        "as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031",
+        "Officer's Certificate of the Registrant, dated as of May 11, 2020, including forms of global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030 and 2.650% Notes due 2050",
+        "Officer's Certificate of the Registrant, dated as of August 20, 2020, including forms of global notes representing the 0.550%"
+      ],
+      "ground_truth": "0.000% Notes due 2025 and 0.500% Notes due 2031"
+    },
+    {
+      "question": "What are the interest rates for the notes due in 2030 and 2050?",
+      "contexts": [
+        "Notes due 2025, 1.25% Notes due 2030, 2.400% Notes due 2050 and 2.550% Notes due 2060.",
+        "Officer's Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 1.650% Notes due 2031"
+      ],
+      "ground_truth": "2.400% and 2.550%"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2021.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "2021"
+    },
+    {
+      "question": "What type of plan was amended and restated as of March 10, 2015?",
+      "contexts": [
+        "Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.",
+        "The plan is incorporated by reference in Form 8-K, Exhibit 10.1."
+      ],
+      "ground_truth": "Employee Stock Purchase Plan"
+    },
+    {
+      "question": "What was the effective date of the Form of Performance Award Agreement under the 2014 Employee Stock Plan mentioned in the 10-K filing?",
+      "contexts": [
+        "Plan effective as of September 26, 2017.",
+        "Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017."
+      ],
+      "ground_truth": "September 26, 2017"
+    },
+    {
+      "question": "What is the effective date of the Form of Restricted Stock Unit Award Agreement under the 2014 Employee Stock Plan?",
+      "contexts": [
+        "Plan effective as of September 29, 2019",
+        "Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020"
+      ],
+      "ground_truth": "August 18, 2020"
+    },
+    {
+      "question": "What certifications are included in the Annual Report on Form 10-K?",
+      "contexts": [
+        "Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer",
+        "Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer",
+        "Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer"
+      ],
+      "ground_truth": "Certifications of Chief Executive Officer and Chief Financial Officer"
+    },
+    {
+      "question": "What item of Regulation S-K allows the omission of certain instruments defining the rights of holders of long-term debt securities?",
+      "contexts": [
+        "Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item 601(b)(4) (iii) of Regulation S-K.",
+        "The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such instruments."
+      ],
+      "ground_truth": "Item 601(b)(4) (iii) of Regulation S-K"
+    },
+    {
+      "question": "Who signed the report on behalf of Apple Inc.?",
+      "contexts": [
+        "The report was signed on behalf of Apple Inc. by the undersigned, Luca Maestri, Senior Vice President, Chief Financial Officer.",
+        "Luca Maestri was duly authorized to sign the report."
+      ],
+      "ground_truth": "Luca Maestri"
+    },
+    {
+      "question": "Who are the persons that signed the report on behalf of the Registrant?",
+      "contexts": [
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated",
+        "The signatories include Timothy D. Cook, Luca Maestri, and Chris Kondo"
+      ],
+      "ground_truth": "Timothy D. Cook, Luca Maestri, and Chris Kondo"
+    },
+    {
+      "question": "Who are the directors and officers listed in the document as of October 28, 2021?",
+      "contexts": [
+        "The document lists James A. Bell, Al Gore, Andrea Jung, Arthur D. Levinson, Monica Lozano, Ronald D. Sugar, and Susan L. Wagner as directors.",
+        "James A. Bell is listed as the Chief Executive Officer and Director, while others hold various director positions."
+      ],
+      "ground_truth": "James A. Bell, Al Gore, Andrea Jung, Arthur D. Levinson, Monica Lozano, Ronald D. Sugar, and Susan L. Wagner"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 25, 2021?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+    }
+  ]
+}

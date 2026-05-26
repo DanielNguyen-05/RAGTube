@@ -1,0 +1,949 @@
+{
+  "document": "IFRS_16.pdf",
+  "source_pdf": "C:\\github\\AI-Audit-Assistant\\data\\raw\\International Knowledge Base\\IFRS_16.pdf",
+  "chunk_count": 157,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "page": 1,
+      "content": "IFRS 16 Leases In April 2001 the International Accounting Standards Board (Board) adopted IAS 17 Leases, which had originally been issued by the International Accounting Standards Committee (IASC) in December 1997. IAS 17 Leases replaced IAS 17 Accounting for Leases that was issued in September 1982. In April 2001 the Board adopted SIC-15 Operating Leases—Incentives, which had originally been issued by the Standing Interpretations Committee of the IASC in December 1998. In December 2001 the Board issued SIC-27 Evaluating the Substance of Transactions Involving the Legal Form of a Lease. SIC-27 had originally been developed by the Standing Interpretations Committee of the IASC to provide guidance on determining, amongst other things, whether an arrangement that involves the legal form of a lease",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 2,
+      "page": 1,
+      "content": "meets the definition of a lease under IAS 17. In December 2003 the Board issued a revised IAS 17 as part of its initial agenda of technical projects. In December 2004 the Board issued IFRIC 4 Determining whether an Arrangement contains a Lease. The Interpretation was developed by the Interpretations Committee to provide guidance on determining whether transactions that do not take the legal form of a lease but convey the right to use an asset in return for a payment or series of payments are, or contain, leases that should be accounted for in accordance with IAS 17. In January 2016 the Board issued IFRS 16 Leases. IFRS 16 replaces IAS 17, IFRIC 4, SIC-15 and SIC-27. IFRS 16 sets out the principles for the recognition, measurement, presentation and disclosure of leases. In May 2020 the Board",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 3,
+      "page": 1,
+      "content": "issued Covid-19-Related Rent Concessions, which amended IFRS 16. The amendment permits lessees, as a practical expedient, not to assess whether rent concessions that occur as a direct consequence of the covid-19 pandemic and meet specified conditions are lease modifications. Instead, the lessee accounts for those rent concessions as if they were lease modifications. In August 2020 the Board issued Interest Rate Benchmark Reform—Phase 2 which amended requirements in IFRS 9, IAS 39, IFRS 7, IFRS 4",
+      "char_count": 500
+    },
+    {
+      "chunk_id": 4,
+      "page": 1,
+      "content": "and IFRS 16 relating to: • changes in the basis for determining contractual cash flows of financial assets, financial liabilities and lease liabilities; • hedge accounting; and • disclosures. The Phase 2 amendments apply only to changes required by the interest rate benchmark reform to financial instruments and hedging relationships. In March 2021 the Board issued Covid-19-Related Rent Concessions beyond 30 June 2021, which extended by one year the application period of the practical expedient in paragraph 46A to help lessees accounting for covid-19-related rent concessions. © IFRS Foundation A817",
+      "char_count": 604
+    },
+    {
+      "chunk_id": 5,
+      "page": 2,
+      "content": "IFRS 16 In September 2022, the Board issued Lease Liability in a Sale and Leaseback, which added subsequent measurement requirements for sale and leaseback transactions. Other Standards have made minor consequential amendments to IFRS 16, including Amendments to References to the Conceptual Framework in IFRS Standards (issued March 2018). A818 © IFRS Foundation",
+      "char_count": 363
+    },
+    {
+      "chunk_id": 6,
+      "page": 3,
+      "content": "OBJECTIVE SCOPE RECOGNITION EXEMPTIONS IDENTIFYING A LEASE Separating components of a contract LEASE TERM LESSEE Recognition Measurement Presentation Disclosure LESSOR Classification of leases Finance leases Operating leases Disclosure SALE AND LEASEBACK TRANSACTIONS Assessing whether the transfer of the asset is a sale TEMPORARY EXCEPTION ARISING FROM INTEREST RATE BENCHMARK REFORM APPENDICES A Defined terms B Application guidance C Effective date and transition D Amendments to other Standards APPROVAL BY THE BOARD OF IFRS 16 LEASES ISSUED IN JANUARY 2016 APPROVAL BY THE BOARD OF: Covid-19-Related Rent Concessions issued in May 2020 Interest Rate Benchmark Reform—Phase 2 issued in August 2020 Covid-19-Related Rent Concessions beyond 30 June 2021 issued March 2021 Lease Liability in a Sale and Leaseback issued September 2022 FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION ILLUSTRATIVE EXAMPLES continued... © IFRS Foundation A819",
+      "char_count": 965
+    },
+    {
+      "chunk_id": 7,
+      "page": 4,
+      "content": "IFRS 16 ...continued APPENDIX TO THE ILLUSTRATIVE EXAMPLES Amendments to guidance on other Standards FOR THE BASIS FOR CONCLUSIONS, SEE PART C OF THIS EDITION BASIS FOR CONCLUSIONS DISSENTING OPINION APPENDIX TO THE BASIS FOR CONCLUSIONS Amendments to the Basis for Conclusions on other Standards A820 © IFRS Foundation",
+      "char_count": 319
+    },
+    {
+      "chunk_id": 8,
+      "page": 5,
+      "content": "International Financial Reporting Standard 16 Leases (IFRS 16) is set out in paragraphs 1-106 and Appendices A-D. All the paragraphs have equal authority. Paragraphs in bold type state the main principles. Terms defined in Appendix A are in italics the first time that they appear in the Standard. Definitions of other terms are given in the Glossary for International Financial Reporting Standards. The Standard should be read in the context of its objective and the Basis for Conclusions, the Preface to IFRS Standards and the Conceptual Framework for Financial Reporting. IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for selecting and applying accounting policies in the absence of explicit guidance. © IFRS Foundation A821",
+      "char_count": 768
+    },
+    {
+      "chunk_id": 9,
+      "page": 6,
+      "content": "IFRS 16 International Financial Reporting Standard 16 Leases Objective 1 This Standard sets out the principles for the recognition, measurement, presentation and disclosure of leases. The objective is to ensure that lessees and lessors provide relevant information in a manner that faithfully represents those transactions. This information gives a basis for users of financial statements to assess the effect that leases have on the financial position, financial performance and cash flows of an entity. 2 An entity shall consider the terms and conditions of contracts and all relevant facts and circumstances when applying this Standard. An entity shall apply this Standard consistently to contracts with similar characteristics and in similar circumstances. Scope 3 An entity shall apply this Standard",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 10,
+      "page": 6,
+      "content": "to all leases, including leases of right-of-use assets in a sublease, except for: (a) leases to explore for or use minerals, oil, natural gas and similar non- regenerative resources; (b) leases of biological assets within the scope of IAS 41 Agriculture held by a lessee; (c) service concession arrangements within the scope of IFRIC 12 Service Concession Arrangements; (d) licences of intellectual property granted by a lessor within the scope of IFRS 15 Revenue from Contracts with Customers; and (e)",
+      "char_count": 502
+    },
+    {
+      "chunk_id": 11,
+      "page": 6,
+      "content": "rights held by a lessee under licensing agreements within the scope of IAS 38 Intangible Assets for such items as motion picture films, video recordings, plays, manuscripts, patents and copyrights. 4 A lessee may, but is not required to, apply this Standard to leases of intangible assets other than those described in paragraph 3(e). Recognition exemptions (paragraphs B3-B8) 5 A lessee may elect not to apply the requirements in paragraphs 22-49 to: (a) short-term leases; and (b) leases for which the underlying asset is of low value (as described in paragraphs B3-B8).",
+      "char_count": 572
+    },
+    {
+      "chunk_id": 12,
+      "page": 7,
+      "content": "If a lessee elects not to apply the requirements in paragraphs 22-49 to either short-term leases or leases for which the underlying asset is of low value, the lessee shall recognise the lease payments associated with those leases as an expense on either a straight-line basis over the lease term or another systematic basis. The lessee shall apply another systematic basis if that basis is more representative of the pattern of the lessee's benefit. If a lessee accounts for short-term leases applying",
+      "char_count": 501
+    },
+    {
+      "chunk_id": 13,
+      "page": 7,
+      "content": "paragraph 6, the lessee shall consider the lease to be a new lease for the purposes of this Standard if: (a) there is a lease modification; or (b) there is any change in the lease term (for example, the lessee exercises an option not previously included in its determination of the lease term). The election for short-term leases shall be made by class of underlying asset to which the right of use relates. A class of underlying asset is a grouping of underlying assets of a similar nature and use in an entity's operations. The election for leases for which the underlying asset is of low value can be made on a lease-by-lease basis.",
+      "char_count": 635
+    },
+    {
+      "chunk_id": 14,
+      "page": 8,
+      "content": "IFRS 16 14 The relative stand-alone price of lease and non-lease components shall be determined on the basis of the price the lessor, or a similar supplier, would charge an entity for that component, or a similar component, separately. If an observable stand-alone price is not readily available, the lessee shall estimate the stand-alone price, maximising the use of observable information. 15 As a practical expedient, a lessee may elect, by class of underlying asset, not to separate non-lease components from lease components, and instead account for each lease component and any associated non-lease components as a single lease component. A lessee shall not apply this practical expedient to embedded derivatives that meet the criteria in paragraph 4.3.3 of IFRS 9 Financial Instruments. 16 Unless",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 15,
+      "page": 8,
+      "content": "the practical expedient in paragraph 15 is applied, a lessee shall account for non-lease components applying other applicable Standards. Lessor 17 For a contract that contains a lease component and one or more additional lease or non-lease components, a lessor shall allocate the consideration in the contract applying paragraphs 73–90 of IFRS 15. Lease term (paragraphs B34–B41) 18 An entity shall determine the lease term as the non-cancellable period of a lease, together with both: (a) periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option; and (b) periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option. 19 In assessing whether a lessee is reasonably certain to exercise an option",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 16,
+      "page": 8,
+      "content": "to extend a lease, or not to exercise an option to terminate a lease, an entity shall consider all relevant facts and circumstances that create an economic incentive for the lessee to exercise the option to extend the lease, or not to exercise the option to terminate the lease, as described in paragraphs B37-B40. 20 A lessee shall reassess whether it is reasonably certain to exercise an extension option, or not to exercise a termination option, upon the occurrence of either a significant event or",
+      "char_count": 501
+    },
+    {
+      "chunk_id": 17,
+      "page": 8,
+      "content": "a significant change in circumstances that: (a) is within the control of the lessee; and (b) affects whether the lessee is reasonably certain to exercise an option not previously included in its determination of the lease term, or not to exercise an option previously included in its determination of the lease term (as described in paragraph B41). 21 An entity shall revise the lease term if there is a change in the non-cancellable period of a lease. For example, the non-cancellable period of a lease will change if: A824 © IFRS Foundation",
+      "char_count": 542
+    },
+    {
+      "chunk_id": 18,
+      "page": 9,
+      "content": "(a) the lessee exercises an option not previously included in the entity's determination of the lease term; (b) the lessee does not exercise an option previously included in the entity's determination of the lease term; (c) an event occurs that contractually obliges the lessee to exercise an option not previously included in the entity's determination of the lease term; or (d) an event occurs that contractually prohibits the lessee from exercising an option previously included in the entity's determination of the lease term. Lessee Recognition 22 At the commencement date, a lessee shall recognise a right-of-use asset and a lease liability. Measurement Initial measurement 23 Initial measurement of the right-of-use asset At the commencement date, a lessee shall measure the right-of-use asset",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 19,
+      "page": 9,
+      "content": "at cost. 24 The cost of the right-of-use asset shall comprise: (a) the amount of the initial measurement of the lease liability, as described in paragraph 26; (b) any lease payments made at or before the commencement date, less any lease incentives received; (c) any initial direct costs incurred by the lessee; and (d) an estimate of costs to be incurred by the lessee in dismantling and removing the underlying asset, restoring the site on which it is located or restoring the underlying asset to the condition required by the terms and conditions of the lease, unless those costs are incurred to produce inventories. The lessee incurs the obligation for those costs either at the commencement date or as a consequence of having used the underlying asset during a particular period. A lessee shall recognise",
+      "char_count": 809
+    },
+    {
+      "chunk_id": 20,
+      "page": 9,
+      "content": "the costs described in paragraph 24(d) as part of the cost of the right-of-use asset when it incurs an obligation for those costs. A lessee applies IAS 2 Inventories to costs that are incurred during a particular period as a consequence of having used the right-of-use asset to produce inventories during that period. The obligations for such costs accounted for applying this Standard or IAS 2 are recognised and measured applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets. © IFRS Foundation A825",
+      "char_count": 519
+    },
+    {
+      "chunk_id": 21,
+      "page": 10,
+      "content": "IFRS 16 26 Initial measurement of the lease liability At the commencement date, a lessee shall measure the lease liability at the present value of the lease payments that are not paid at that date. The lease payments shall be discounted using the interest rate implicit in the lease, if that rate can be readily determined. If that rate cannot be readily determined, the lessee shall use the lessee's incremental borrowing rate. 27 At the commencement date, the lease payments included in the measurement of the lease liability comprise the following payments for the right to use the underlying asset during the lease term that are not paid at the commencement date: (a) fixed payments (including in-substance fixed payments as described in paragraph B42), less any lease incentives receivable; (b) variable",
+      "char_count": 808
+    },
+    {
+      "chunk_id": 22,
+      "page": 10,
+      "content": "lease payments that depend on an index or a rate, initially measured using the index or rate as at the commencement date (as described in paragraph 28); (c) amounts expected to be payable by the lessee under residual value guarantees; (d) the exercise price of a purchase option if the lessee is reasonably certain to exercise that option (assessed considering the factors described in paragraphs B37-B40); and (e) payments of penalties for terminating the lease, if the lease term reflects the lessee exercising an option to terminate the lease. 28 Variable lease payments that depend on an index or a rate described in paragraph 27(b) include, for example, payments linked to a consumer price index, payments linked to a benchmark interest rate (such as LIBOR) or payments that vary to reflect changes",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 23,
+      "page": 10,
+      "content": "in market rental rates. Subsequent measurement Subsequent measurement of the right-of-use asset After the commencement date, a lessee shall measure the right-of-use asset applying a cost model, unless it applies either of the measurement models described in paragraphs 34 and 35. Cost model To apply a cost model, a lessee shall measure the right-of-use asset at cost: (a) less any accumulated depreciation and any accumulated impairment losses; and (b) adjusted for any remeasurement of the lease liability specified in paragraph 36(c). A lessee shall apply the depreciation requirements in IAS 16 Property, Plant and Equipment in depreciating the right-of-use asset, subject to the requirements in paragraph 32. A826 © IFRS Foundation",
+      "char_count": 736
+    },
+    {
+      "chunk_id": 24,
+      "page": 11,
+      "content": "32 If the lease transfers ownership of the underlying asset to the lessee by the end of the lease term or if the cost of the right-of-use asset reflects that the lessee will exercise a purchase option, the lessee shall depreciate the right-of- use asset from the commencement date to the end of the useful life of the underlying asset. Otherwise, the lessee shall depreciate the right-of-use asset from the commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. 33 A lessee shall apply IAS 36 Impairment of Assets to determine whether the right- of-use asset is impaired and to account for any impairment loss identified. Other measurement models 34 If a lessee applies the fair value model in IAS 40 Investment Property to its investment",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 25,
+      "page": 11,
+      "content": "property, the lessee shall also apply that fair value model to right- of-use assets that meet the definition of investment property in IAS 40. 35 If right-of-use assets relate to a class of property, plant and equipment to which the lessee applies the revaluation model in IAS 16, a lessee may elect to apply that revaluation model to all of the right-of-use assets that relate to that class of property, plant and equipment. Subsequent measurement of the lease liability 36 After the commencement date, a lessee shall measure the lease liability by: (a) increasing the carrying amount to reflect interest on the lease liability; (b) reducing the carrying amount to reflect the lease payments made; and (c) remeasuring the carrying amount to reflect any reassessment or lease modifications specified in",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 26,
+      "page": 11,
+      "content": "paragraphs 39-46, or to reflect revised in-substance fixed lease payments (see paragraph B42). 37 Interest on the lease liability in each period during the lease term shall be the amount that produces a constant periodic rate of interest on the remaining balance of the lease liability. The periodic rate of interest is the discount rate described in paragraph 26, or if applicable the revised discount rate described in paragraph 41, paragraph 43 or paragraph 45(c). 38 After the commencement date, a lessee shall recognise in profit or loss, unless the costs are included in the carrying amount of another asset applying other applicable Standards, both: (a) interest on the lease liability; and (b) variable lease payments not included in the measurement of the lease liability in the period in which the event or condition that triggers those payments occurs. © IFRS Foundation A827",
+      "char_count": 886
+    },
+    {
+      "chunk_id": 27,
+      "page": 12,
+      "content": "IFRS 16 39 Reassessment of the lease liability After the commencement date, a lessee shall apply paragraphs 40-43 to remeasure the lease liability to reflect changes to the lease payments. A lessee shall recognise the amount of the remeasurement of the lease liability as an adjustment to the right-of-use asset. However, if the carrying amount of the right-of-use asset is reduced to zero and there is a further reduction in the measurement of the lease liability, a lessee shall recognise any remaining amount of the remeasurement in profit or loss. 40 A lessee shall remeasure the lease liability by discounting the revised lease payments using a revised discount rate, if either: (a) there is a change in the lease term, as described in paragraphs 20-21. A lessee shall determine the revised lease",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 28,
+      "page": 12,
+      "content": "payments on the basis of the revised lease term; or (b) there is a change in the assessment of an option to purchase the underlying asset, assessed considering the events and circumstances described in paragraphs 20-21 in the context of a purchase option. A lessee shall determine the revised lease payments to reflect the change in amounts payable under the purchase option. 41 In applying paragraph 40, a lessee shall determine the revised discount rate as the interest rate implicit in the lease for the remainder of the lease term, if that rate can be readily determined, or the lessee's incremental borrowing rate at the date of reassessment, if the interest rate implicit in the lease cannot be readily determined. 42 A lessee shall remeasure the lease liability by discounting the revised lease",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 29,
+      "page": 12,
+      "content": "payments, if either: (a) there is a change in the amounts expected to be payable under a residual value guarantee. A lessee shall determine the revised lease payments to reflect the change in amounts expected to be payable under the residual value guarantee. (b) there is a change in future lease payments resulting from a change in an index or a rate used to determine those payments, including for example a change to reflect changes in market rental rates following a market rent review. The lessee",
+      "char_count": 501
+    },
+    {
+      "chunk_id": 30,
+      "page": 12,
+      "content": "shall remeasure the lease liability to reflect those revised lease payments only when there is a change in the cash flows (ie when the adjustment to the lease payments takes effect). A lessee shall determine the revised lease payments for the remainder of the lease term based on the revised contractual payments. 43 In applying paragraph 42, a lessee shall use an unchanged discount rate, unless the change in lease payments results from a change in floating interest rates. In that case, the lessee shall use a revised discount rate that reflects changes in the interest rate. A828 © IFRS Foundation",
+      "char_count": 601
+    },
+    {
+      "chunk_id": 31,
+      "page": 13,
+      "content": "Lease modifications 44 A lessee shall account for a lease modification as a separate lease if both: (a) the modification increases the scope of the lease by adding the right to use one or more underlying assets; and (b) the consideration for the lease increases by an amount commensurate with the stand-alone price for the increase in scope and any appropriate adjustments to that stand-alone price to reflect the circumstances of the particular contract. 45 For a lease modification that is not accounted for as a separate lease, at the effective date of the lease modification a lessee shall: (a) allocate the consideration in the modified contract applying paragraphs 13–16; (b) determine the lease term of the modified lease applying paragraphs 18-19; and (c) remeasure the lease liability by discounting",
+      "char_count": 808
+    },
+    {
+      "chunk_id": 32,
+      "page": 13,
+      "content": "the revised lease payments using a revised discount rate. The revised discount rate is determined as the interest rate implicit in the lease for the remainder of the lease term, if that rate can be readily determined, or the lessee's incremental borrowing rate at the effective date of the modification, if the interest rate implicit in the lease cannot be readily determined. 46 For a lease modification that is not accounted for as a separate lease, the lessee shall account for the remeasurement of the lease liability by: (a) decreasing the carrying amount of the right-of-use asset to reflect the partial or full termination of the lease for lease modifications that decrease the scope of the lease. The lessee shall recognise in profit or loss any gain or loss relating to the partial or full termination",
+      "char_count": 810
+    },
+    {
+      "chunk_id": 33,
+      "page": 13,
+      "content": "of the lease. (b) making a corresponding adjustment to the right-of-use asset for all other lease modifications. 46A As a practical expedient, a lessee may elect not to assess whether a rent concession that meets the conditions in paragraph 46B is a lease modification. A lessee that makes this election shall account for any change in lease payments resulting from the rent concession the same way it would account for the change applying this Standard if the change were not a lease modification. 46B The practical expedient in paragraph 46A applies only to rent concessions occurring as a direct consequence of the covid-19 pandemic and only if all of the following conditions are met: (a) the change in lease payments results in revised consideration for the lease that is substantially the same as, or less than, the consideration for the lease immediately preceding the change; IFRS 16 A829",
+      "char_count": 896
+    },
+    {
+      "chunk_id": 34,
+      "page": 14,
+      "content": "IFRS 16 (b) any reduction in lease payments affects only payments originally due on or before 30 June 2022 (for example, a rent concession would meet this condition if it results in reduced lease payments on or before 30 June 2022 and increased lease payments that extend beyond 30 June 2022); and (c) there is no substantive change to other terms and conditions of the lease. **Presentation** 47 A lessee shall either present in the statement of financial position, or disclose in the notes: (a) right-of-use assets separately from other assets. If a lessee does not present right-of-use assets separately in the statement of financial position, the lessee shall: (i) include right-of-use assets within the same line item as that within which the corresponding underlying assets would be presented if",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 35,
+      "page": 14,
+      "content": "they were owned; and (ii) disclose which line items in the statement of financial position include those right-of-use assets. (b) lease liabilities separately from other liabilities. If the lessee does not present lease liabilities separately in the statement of financial position, the lessee shall disclose which line items in the statement of financial position include those liabilities. 48 The requirement in paragraph 47(a) does not apply to right-of-use assets that meet the definition of investment property, which shall be presented in the statement of financial position as investment property. 49 In the statement of profit or loss and other comprehensive income, a lessee shall present interest expense on the lease liability separately from the depreciation charge for the right-of-use asset.",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 36,
+      "page": 14,
+      "content": "Interest expense on the lease liability is a component of finance costs, which paragraph 82(b) of IAS 1 Presentation of Financial Statements requires to be presented separately in the statement of profit or loss and other comprehensive income. 50 In the statement of cash flows, a lessee shall classify: (a) cash payments for the principal portion of the lease liability within financing activities; (b) cash payments for the interest portion of the lease liability applying the requirements in IAS 7 Statement of Cash Flows for interest paid; and (c) short-term lease payments, payments for leases of low-value assets and variable lease payments not included in the measurement of the lease liability within operating activities. A830 © IFRS Foundation",
+      "char_count": 753
+    },
+    {
+      "chunk_id": 37,
+      "page": 15,
+      "content": "IFRS 16 **Disclosure** The objective of the disclosures is for lessees to disclose information in the notes that, together with the information provided in the statement of financial position, statement of profit or loss and statement of cash flows, gives a basis for users of financial statements to assess the effect that leases have on the financial position, financial performance and cash flows of the lessee. Paragraphs 52-60 specify requirements on how to meet this objective. A lessee shall disclose information about its leases for which it is a lessee in a single note or separate section in its financial statements. However, a lessee need not duplicate information that is already presented elsewhere in the financial statements, provided that the information is incorporated by cross- reference",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 38,
+      "page": 15,
+      "content": "in the single note or separate section about leases. A lessee shall disclose the following amounts for the reporting period: (a) depreciation charge for right-of-use assets by class of underlying asset; (b) interest expense on lease liabilities; (c) the expense relating to short-term leases accounted for applying paragraph 6. This expense need not include the expense relating to leases with a lease term of one month or less; (d) the expense relating to leases of low-value assets accounted for applying paragraph 6. This expense shall not include the expense relating to short-term leases of low-value assets included in paragraph 53(c); (e) the expense relating to variable lease payments not included in the measurement of lease liabilities; (f) income from subleasing right-of-use assets; (g) total",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 39,
+      "page": 15,
+      "content": "cash outflow for leases; (h) additions to right-of-use assets; (i) gains or losses arising from sale and leaseback transactions; and (j) the carrying amount of right-of-use assets at the end of the reporting period by class of underlying asset. A lessee shall provide the disclosures specified in paragraph 53 in a tabular format, unless another format is more appropriate. The amounts disclosed shall include costs that a lessee has included in the carrying amount of another asset during the reporting period. A lessee shall disclose the amount of its lease commitments for short-term leases accounted for applying paragraph 6 if the portfolio of short-term leases to which it is committed at the end of the reporting period is dissimilar to the portfolio of short-term leases to which the short-term lease expense disclosed applying paragraph 53(c) relates. © IFRS Foundation A831",
+      "char_count": 883
+    },
+    {
+      "chunk_id": 40,
+      "page": 16,
+      "content": "IFRS 16 56 If right-of-use assets meet the definition of investment property, a lessee shall apply the disclosure requirements in IAS 40. In that case, a lessee is not required to provide the disclosures in paragraph 53(a), (f), (h) or (j) for those right-of-use assets. 57 If a lessee measures right-of-use assets at revalued amounts applying IAS 16, the lessee shall disclose the information required by paragraph 77 of IAS 16 for those right-of-use assets. 58 A lessee shall disclose a maturity analysis of lease liabilities applying paragraphs 39 and B11 of IFRS 7 Financial Instruments: Disclosures separately from the maturity analyses of other financial liabilities. 59 In addition to the disclosures required in paragraphs 53-58, a lessee shall disclose additional qualitative and quantitative",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 41,
+      "page": 16,
+      "content": "information about its leasing activities necessary to meet the disclosure objective in paragraph 51 (as described in paragraph B48). This additional information may include, but is not limited to, information that helps users of financial statements to assess: (a) the nature of the lessee's leasing activities; (b) future cash outflows to which the lessee is potentially exposed that are not reflected in the measurement of lease liabilities. This includes exposure arising from: (i) variable lease payments (as described in paragraph B49); (ii) extension options and termination options (as described in paragraph B50); (iii) residual value guarantees (as described in paragraph B51); and (iv) leases not yet commenced to which the lessee is committed. (c) restrictions or covenants imposed by leases;",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 42,
+      "page": 16,
+      "content": "and (d) sale and leaseback transactions (as described in paragraph B52). 60 A lessee that accounts for short-term leases or leases of low-value assets applying paragraph 6 shall disclose that fact. 60A If a lessee applies the practical expedient in paragraph 46A, the lessee shall disclose: (a) that it has applied the practical expedient to all rent concessions that meet the conditions in paragraph 46B or, if not applied to all such rent concessions, information about the nature of the contracts to which it has applied the practical expedient (see paragraph 2); and (b) the amount recognised in profit or loss for the reporting period to reflect changes in lease payments that arise from rent concessions to which the lessee has applied the practical expedient in paragraph 46A. A832 © IFRS Foundation",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 43,
+      "page": 17,
+      "content": "IFRS 16 Lessor Classification of leases (paragraphs B53–B58) A lessor shall classify each of its leases as either an operating lease or a finance lease. A lease is classified as a finance lease if it transfers substantially all the risks and rewards incidental to ownership of an underlying asset. A lease is classified as an operating lease if it does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset. Whether a lease is a finance lease or an operating lease depends on the substance of the transaction rather than the form of the contract. Examples of situations that individually or in combination would normally lead to a lease being classified as a finance lease are: (a) the lease transfers ownership of the underlying asset to the lessee by the",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 44,
+      "page": 17,
+      "content": "end of the lease term; (b) the lessee has the option to purchase the underlying asset at a price that is expected to be sufficiently lower than the fair value at the date the option becomes exercisable for it to be reasonably certain, at the inception date, that the option will be exercised; (c) the lease term is for the major part of the economic life of the underlying asset even if title is not transferred; (d) at the inception date, the present value of the lease payments amounts to at least substantially all of the fair value of the underlying asset; and (e) the underlying asset is of such a specialised nature that only the lessee can use it without major modifications. Indicators of situations that individually or in combination could also lead to a lease being classified as a finance",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 45,
+      "page": 17,
+      "content": "lease are: (a) if the lessee can cancel the lease, the lessor's losses associated with the cancellation are borne by the lessee; (b) gains or losses from the fluctuation in the fair value of the residual accruue to the lessee (for example, in the form of a rent rebate equaling most of the sales proceeds at the end of the lease); and (c) the lessee has the ability to continue the lease for a secondary period at a rent that is substantially lower than market rent. The examples and indicators in paragraphs",
+      "char_count": 508
+    },
+    {
+      "chunk_id": 46,
+      "page": 17,
+      "content": "63–64 are not always conclusive. If it is clear from other features that the lease does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset, the lease is classified as an operating lease. For example, this may be the case if ownership of the underlying asset transfers at the end of the lease for a variable payment equal to its then fair value, or if there are variable lease payments, as a result of which the lessor does not transfer substantially all such risks and rewards. © IFRS Foundation A833",
+      "char_count": 549
+    },
+    {
+      "chunk_id": 47,
+      "page": 18,
+      "content": "IFRS 16 66 Lease classification is made at the inception date and is reassessed only if there is a lease modification. Changes in estimates (for example, changes in estimates of the economic life or of the residual value of the underlying asset), or changes in circumstances (for example, default by the lessee), do not give rise to a new classification of a lease for accounting purposes. Finance leases 67 Recognition and measurement At the commencement date, a lessor shall recognise assets held under a finance lease in its statement of financial position and present them as a receivable at an amount equal to the net investment in the lease. Initial measurement 68 The lessor shall use the interest rate implicit in the lease to measure the net investment in the lease. In the case of a sublease,",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 48,
+      "page": 18,
+      "content": "if the interest rate implicit in the sublease cannot be readily determined, an intermediate lessor may use the discount rate used for the head lease (adjusted for any initial direct costs associated with the sublease) to measure the net investment in the sublease. 69 Initial direct costs, other than those incurred by manufacturer or dealer lessors, are included in the initial measurement of the net investment in the lease and reduce the amount of income recognised over the lease term. The interest rate implicit in the lease is defined in such a way that the initial direct costs are included automatically in the net investment in the lease; there is no need to add them separately. Initial measurement of the lease payments included in the net investment in the lease 70 At the commencement date,",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 49,
+      "page": 18,
+      "content": "the lease payments included in the measurement of the net investment in the lease comprise the following payments for the right to use the underlying asset during the lease term that are not received at the commencement date: (a) fixed payments (including in-substance fixed payments as described in paragraph B42), less any lease incentives payable; (b) variable lease payments that depend on an index or a rate, initially measured using the index or rate as at the commencement date; (c) any residual",
+      "char_count": 502
+    },
+    {
+      "chunk_id": 50,
+      "page": 18,
+      "content": "value guarantees provided to the lessor by the lessee, a party related to the lessee or a third party unrelated to the lessor that is financially capable of discharging the obligations under the guarantee; (d) the exercise price of a purchase option if the lessee is reasonably certain to exercise that option (assessed considering the factors described in paragraph B37); and (e) payments of penalties for terminating the lease, if the lease term reflects the lessee exercising an option to terminate the lease. A834 © IFRS Foundation",
+      "char_count": 535
+    },
+    {
+      "chunk_id": 51,
+      "page": 19,
+      "content": "71 Manufacturer or dealer lessors At the commencement date, a manufacturer or dealer lessor shall recognise the following for each of its finance leases: (a) revenue being the fair value of the underlying asset, or, if lower, the present value of the lease payments accruing to the lessor, discounted using a market rate of interest; (b) the cost of sale being the cost, or carrying amount if different, of the underlying asset less the present value of the unguaranteed residual value; and (c) selling profit or loss (being the difference between revenue and the cost of sale) in accordance with its policy for outright sales to which IFRS 15 applies. A manufacturer or dealer lessor shall recognise selling profit or loss on a finance lease at the commencement date, regardless of whether the lessor",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 52,
+      "page": 19,
+      "content": "transfers the underlying asset as described in IFRS 15. 72 Manufacturers or dealers often offer to customers the choice of either buying or leasing an asset. A finance lease of an asset by a manufacturer or dealer lessor gives rise to profit or loss equivalent to the profit or loss resulting from an outright sale of the underlying asset, at normal selling prices, reflecting any applicable volume or trade discounts. 73 Manufacturer or dealer lessors sometimes quote artificially low rates of interest in order to attract customers. The use of such a rate would result in a lessor recognising an excessive portion of the total income from the transaction at the commencement date. If artificially low rates of interest are quoted, a manufacturer or dealer lessor shall restrict selling profit to that",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 53,
+      "page": 19,
+      "content": "which would apply if a market rate of interest were charged. 74 A manufacturer or dealer lessor shall recognise as an expense costs incurred in connection with obtaining a finance lease at the commencement date because they are mainly related to earning the manufacturer or dealer's selling profit. Costs incurred by manufacturer or dealer lessors in connection with obtaining a finance lease are excluded from the definition of initial direct costs and, thus, are excluded from the net investment in the lease. Subsequent measurement 75 A lessor shall recognise finance income over the lease term, based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease. 76 A lessor aims to allocate finance income over the lease term on a systematic and rational basis. A lessor shall apply the lease payments relating to the period against the gross investment in the lease to reduce both the principal and the unearned finance income. © IFRS Foundation A835",
+      "char_count": 998
+    },
+    {
+      "chunk_id": 54,
+      "page": 20,
+      "content": "IFRS 16 77 A lessor shall apply the derecognition and impairment requirements in IFRS 9 to the net investment in the lease. A lessor shall review regularly estimated unguaranteed residual values used in computing the gross investment in the lease. If there has been a reduction in the estimated unguaranteed residual value, the lessor shall revise the income allocation over the lease term and recognise immediately any reduction in respect of amounts accrued. 78 A lessor that classifies an asset under a finance lease as held for sale (or includes it in a disposal group that is classified as held for sale) applying IFRS 5 Non-current Assets Held for Sale and Discontinued Operations shall account for the asset in accordance with that Standard. Lease modifications 79 A lessor shall account for a",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 55,
+      "page": 20,
+      "content": "modification to a finance lease as a separate lease if both: (a) the modification increases the scope of the lease by adding the right to use one or more underlying assets; and (b) the consideration for the lease increases by an amount commensurate with the stand-alone price for the increase in scope and any appropriate adjustments to that stand-alone price to reflect the circumstances of the particular contract. 80 For a modification to a finance lease that is not accounted for as a separate lease, a lessor shall account for the modification as follows: (a) if the lease would have been classified as an operating lease had the modification been in effect at the inception date, the lessor shall: (i) account for the lease modification as a new lease from the effective date of the modification;",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 56,
+      "page": 20,
+      "content": "and (ii) measure the carrying amount of the underlying asset as the net investment in the lease immediately before the effective date of the lease modification. (b) otherwise, the lessor shall apply the requirements of IFRS 9. Operating leases 81 Recognition and measurement A lessor shall recognise lease payments from operating leases as income on either a straight-line basis or another systematic basis. The lessor shall apply another systematic basis if that basis is more representative of the pattern in which benefit from the use of the underlying asset is diminished. 82 A lessor shall recognise costs, including depreciation, incurred in earning the lease income as an expense. A836 © IFRS Foundation",
+      "char_count": 710
+    },
+    {
+      "chunk_id": 57,
+      "page": 21,
+      "content": "83 A lessor shall add initial direct costs incurred in obtaining an operating lease to the carrying amount of the underlying asset and recognise those costs as an expense over the lease term on the same basis as the lease income. 84 The depreciation policy for depreciable underlying assets subject to operating leases shall be consistent with the lessor's normal depreciation policy for similar assets. A lessor shall calculate depreciation in accordance with IAS 16 and IAS 38. 85 A lessor shall apply IAS 36 to determine whether an underlying asset subject to an operating lease is impaired and to account for any impairment loss identified. 86 A manufacturer or dealer lessor does not recognise any selling profit on entering into an operating lease because it is not the equivalent of a sale. Lease",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 58,
+      "page": 21,
+      "content": "modifications 87 A lessor shall account for a modification to an operating lease as a new lease from the effective date of the modification, considering any prepaid or accrued lease payments relating to the original lease as part of the lease payments for the new lease. Presentation 88 A lessor shall present underlying assets subject to operating leases in its statement of financial position according to the nature of the underlying asset. Disclosure 89 The objective of the disclosures is for lessors to disclose information in the notes that, together with the information provided in the statement of financial position, statement of profit or loss and statement of cash flows, gives a basis for users of financial statements to assess the effect that leases have on the financial position, financial",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 59,
+      "page": 21,
+      "content": "performance and cash flows of the lessor. Paragraphs 90-97 specify requirements on how to meet this objective. 90 A lessor shall disclose the following amounts for the reporting period: (a) for finance leases: (i) selling profit or loss; (ii) finance income on the net investment in the lease; and (iii) income relating to variable lease payments not included in the measurement of the net investment in the lease. (b) for operating leases, lease income, separately disclosing income relating to variable lease payments that do not depend on an index or a rate. 91 A lessor shall provide the disclosures specified in paragraph 90 in a tabular format, unless another format is more appropriate. © IFRS Foundation A837",
+      "char_count": 716
+    },
+    {
+      "chunk_id": 60,
+      "page": 22,
+      "content": "IFRS 16 92 A lessor shall disclose additional qualitative and quantitative information about its leasing activities necessary to meet the disclosure objective in paragraph 89. This additional information includes, but is not limited to, information that helps users of financial statements to assess: (a) the nature of the lessor's leasing activities; and (b) how the lessor manages the risk associated with any rights it retains in underlying assets. In particular, a lessor shall disclose its risk management strategy for the rights it retains in underlying assets, including any means by which the lessor reduces that risk. Such means may include, for example, buy-back agreements, residual value guarantees or variable lease payments for use in excess of specified limits. Finance leases 93 A lessor",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 61,
+      "page": 22,
+      "content": "shall provide a qualitative and quantitative explanation of the significant changes in the carrying amount of the net investment in finance leases. 94 A lessor shall disclose a maturity analysis of the lease payments receivable, showing the undiscounted lease payments to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessor shall reconcile the undiscounted lease payments to the net investment in the lease. The reconciliation shall identify the unearned finance income relating to the lease payments receivable and any discounted unguaranteed residual value. Operating leases 95 For items of property, plant and equipment subject to an operating lease, a lessor shall apply the disclosure requirements of IAS 16. In",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 62,
+      "page": 22,
+      "content": "applying the disclosure requirements in IAS 16, a lessor shall disaggregate each class of property, plant and equipment into assets subject to operating leases and assets not subject to operating leases. Accordingly, a lessor shall provide the disclosures required by IAS 16 for assets subject to an operating lease (by class of underlying asset) separately from owned assets held and used by the lessor. 96 A lessor shall apply the disclosure requirements in IAS 36, IAS 38, IAS 40 and IAS 41 for assets",
+      "char_count": 504
+    },
+    {
+      "chunk_id": 63,
+      "page": 22,
+      "content": "subject to operating leases. 97 A lessor shall disclose a maturity analysis of lease payments, showing the undiscounted lease payments to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. Sale and leaseback transactions 98 If an entity (the seller-lessee) transfers an asset to another entity (the buyer-lessee) and leases that asset back from the buyer-lessor, both the seller-lessee and the buyer-lessor shall account for the transfer contract and the lease applying paragraphs 99-103. A838 © IFRS Foundation",
+      "char_count": 589
+    },
+    {
+      "chunk_id": 64,
+      "page": 23,
+      "content": "99 IFRS 16 Assessing whether the transfer of the asset is a sale An entity shall apply the requirements for determining when a performance obligation is satisfied in IFRS 15 to determine whether the transfer of an asset is accounted for as a sale of that asset. Transfer of the asset is a sale If the transfer of an asset by the seller-lessee satisfies the requirements of IFRS 15 to be accounted for as a sale of the asset: (a) the seller-lessee shall measure the right-of-use asset arising from the leaseback at the proportion of the previous carrying amount of the asset that relates to the right of use retained by the seller-lessee. Accordingly, the seller-lessee shall recognise only the amount of any gain or loss that relates to the rights transferred to the buyer-lessor. (b) the buyer-lessor",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 65,
+      "page": 23,
+      "content": "shall account for the purchase of the asset applying applicable Standards, and for the lease applying the lessor accounting requirements in this Standard. 101 If the fair value of the consideration for the sale of an asset does not equal the fair value of the asset, or if the payments for the lease are not at market rates, an entity shall make the following adjustments to measure the sale proceeds at fair value: (a) any below-market terms shall be accounted for as a prepayment of lease payments; and (b) any above-market terms shall be accounted for as additional financing provided by the buyer-lessor to the seller-lessee. The entity shall measure any potential adjustment required by paragraph 101 on the basis of the more readily determinable of: (a) the difference between the fair value of",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 66,
+      "page": 23,
+      "content": "the consideration for the sale and the fair value of the asset; and (b) the difference between the present value of the contractual payments for the lease and the present value of payments for the lease at market rates. 102A After the commencement date, the seller-lessee shall apply paragraphs 29–35 to the right-of-use asset arising from the leaseback and paragraphs 36–46 to the lease liability arising from the leaseback. In applying paragraphs 36–46, the seller-lessee shall determine ‘lease payments’ or ‘revised lease payments’ in a way that the seller-lessee would not recognise any amount of the gain or loss that relates to the right of use retained by the seller-lessee. Applying the requirements in this paragraph does not prevent the seller-lessee from recognising in profit or loss any gain or loss relating to the partial or full termination of a lease as required by paragraph 46(a). © IFRS Foundation A839",
+      "char_count": 922
+    },
+    {
+      "chunk_id": 67,
+      "page": 24,
+      "content": "IFRS 16 Transfer of the asset is not a sale If the transfer of an asset by the seller-lessee does not satisfy the requirements of IFRS 15 to be accounted for as a sale of the asset: (a) the seller-lessee shall continue to recognise the transferred asset and shall recognise a financial liability equal to the transfer proceeds. It shall account for the financial liability applying IFRS 9. (b) the buyer-lessor shall not recognise the transferred asset and shall recognise a financial asset equal to the transfer proceeds. It shall account for the financial asset applying IFRS 9. Temporary exception arising from interest rate benchmark reform A lessee shall apply paragraphs 105-106 to all lease modifications that change the basis for determining future lease payments as a result of interest rate",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 68,
+      "page": 24,
+      "content": "benchmark reform (see paragraphs 5.4.6 and 5.4.8 of IFRS 9). These paragraphs apply only to such lease modifications. For this purpose, the term 'interest rate benchmark reform' refers to the market-wide reform of an interest rate benchmark as described in paragraph 6.8.2 of IFRS 9. As a practical expedient, a lessee shall apply paragraph 42 to account for a lease modification required by interest rate benchmark reform. This practical expedient applies only to such modifications. For this purpose,",
+      "char_count": 502
+    },
+    {
+      "chunk_id": 69,
+      "page": 24,
+      "content": "a lease modification is required by interest rate benchmark reform if, and only if, both of these conditions are met: (a) the modification is necessary as a direct consequence of interest rate benchmark reform; and (b) the new basis for determining the lease payments is economically equivalent to the previous basis (ie the basis immediately preceding the modification). However, if lease modifications are made in addition to those lease modifications required by interest rate benchmark reform, a lessee shall apply the applicable requirements in this Standard to account for all lease modifications made at the same time, including those required by interest rate benchmark reform. A840 © IFRS Foundation",
+      "char_count": 708
+    },
+    {
+      "chunk_id": 70,
+      "page": 25,
+      "content": "Appendix A Defined terms This appendix is an integral part of the Standard. commencement date of the lease (commencement date) economic life The date on which a lessor makes an underlying asset available for use by a lessee. Either the period over which an asset is expected to be economically usable by one or more users or the number of production or similar units expected to be obtained from an asset by one or more users. effective date of the modification fair value The date when both parties agree to a lease modification. For the purpose of applying the lessor accounting requirements in this Standard, the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm's length transaction. finance lease A lease that transfers substantially",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 71,
+      "page": 25,
+      "content": "all the risks and rewards incidental to ownership of an underlying asset. fixed payments Payments made by a lessee to a lessor for the right to use an underlying asset during the lease term, excluding variable lease payments. gross investment in the lease The sum of: (a) the lease payments receivable by a lessor under a finance lease; and (b) any unguaranteed residual value accruing to the lessor. inception date of the lease (inception date) The earlier of the date of a lease agreement and the date of commitment by the parties to the principal terms and conditions of the lease. initial direct costs Incremental costs of obtaining a lease that would not have been incurred if the lease had not been obtained, except for such costs incurred by a manufacturer or dealer lessor in connection with a",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 72,
+      "page": 25,
+      "content": "finance lease. interest rate implicit in the lease The rate of interest that causes the present value of (a) the lease payments and (b) the unguaranteed residual value to equal the sum of (i) the fair value of the underlying asset and (ii) any initial direct costs of the lessor. lease A contract, or part of a contract, that conveys the right to use an asset (the underlying asset) for a period of time in exchange for consideration. lease incentives Payments made by a lessor to a lessee associated with a lease, or the reimbursement or assumption by a lessor of costs of a lessee. © IFRS Foundation A841",
+      "char_count": 606
+    },
+    {
+      "chunk_id": 73,
+      "page": 26,
+      "content": "IFRS 16 lease modification A change in the scope of a lease, or the consideration for a lease, that was not part of the original terms and conditions of the lease (for example, adding or terminating the right to use one or more underlying assets, or extending or shortening the contractual lease term). lease payments Payments made by a lessee to a lessor relating to the right to use an underlying asset during the lease term, comprising the following: (a) fixed payments (including in-substance fixed payments), less any lease incentives; (b) variable lease payments that depend on an index or a rate; (c) the exercise price of a purchase option if the lessee is reasonably certain to exercise that option; and (d) payments of penalties for terminating the lease, if the lease term reflects the lessee",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 74,
+      "page": 26,
+      "content": "exercising an option to terminate the lease. For the lessee, lease payments also include amounts expected to be payable by the lessee under residual value guarantees. Lease payments do not include payments allocated to non-lease components, unless the lessee elects to combine non-lease components with a lease component and to account for them as a single lease component. For the lessor, lease payments also include any residual value guarantees provided to the lessor by the lessee, a party related to the lessee or a third party unrelated to the lessor that is financially capable of discharging the obligations under the guarantee. Lease payments do not include payments allocated to non-lease components. lease term The non-cancellable period for which a lessee has the right to use an underlying",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 75,
+      "page": 26,
+      "content": "asset, together with both: (a) periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option; and (b) periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option. lessee An entity that obtains the right to use an underlying asset for a period of time in exchange for consideration. lessee's incremental borrowing rate The rate of interest that a lessee would have to pay to borrow over a similar term, and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar economic environment. A842 © IFRS Foundation",
+      "char_count": 675
+    },
+    {
+      "chunk_id": 76,
+      "page": 27,
+      "content": "IFRS 16 lessor An entity that provides the right to use an underlying asset for a period of time in exchange for consideration. net investment in the lease The gross investment in the lease discounted at the interest rate implicit in the lease. operating lease A lease that does not transfer substantially all the risks and rewards incidental to ownership of an underlying asset. optional lease payments Payments to be made by a lessee to a lessor for the right to use an underlying asset during periods covered by an option to extend or terminate a lease that are not included in the lease term. period of use The total period of time that an asset is used to fulfil a contract with a customer (including any non-consecutive periods of time). residual value guarantee A guarantee made to a lessor by",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 77,
+      "page": 27,
+      "content": "a party unrelated to the lessor that the value (or part of the value) of an underlying asset at the end of a lease will be at least a specified amount. right-of-use asset An asset that represents a lessee's right to use an underlying asset for the lease term. short-term lease A lease that, at the commencement date, has a lease term of 12 months or less. A lease that contains a purchase option is not a short-term lease. sublease A transaction for which an underlying asset is re-leased by a lessee ('intermediate lessor') to a third party, and the lease ('head lease') between the head lessor and lessee remains in effect. underlying asset An asset that is the subject of a lease, for which the right to use that asset has been provided by a lessor to a lessee. unearedn finance income The difference",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 78,
+      "page": 27,
+      "content": "between: (a) the gross investment in the lease; and (b) the net investment in the lease. unguaranteed residual value That portion of the residual value of the underlying asset, the realisation of which by a lessor is not assured or is guaranteed solely by a party related to the lessor. variable lease payments The portion of payments made by a lessee to a lessor for the right to use an underlying asset during the lease term that varies because of changes in facts or circumstances occurring after the commencement date, other than the passage of time. Terms defined in other Standards and used in this Standard with the same meaning contract An agreement between two or more parties that creates enforceable rights and obligations. © IFRS Foundation A843",
+      "char_count": 757
+    },
+    {
+      "chunk_id": 79,
+      "page": 28,
+      "content": "IFRS 16 useful life The period over which an asset is expected to be available for use by an entity; or the number of production or similar units expected to be obtained from an asset by an entity. A844 © IFRS Foundation",
+      "char_count": 220
+    },
+    {
+      "chunk_id": 80,
+      "page": 29,
+      "content": "IFRS 16 Appendix B Application guidance This appendix is an integral part of the Standard. It describes the application of paragraphs 1–103 and has the same authority as the other parts of the Standard. **Portfolio application** B1 This Standard specifies the accounting for an individual lease. However, as a practical expedient, an entity may apply this Standard to a portfolio of leases with similar characteristics if the entity reasonably expects that the effects on the financial statements of applying this Standard to the portfolio would not differ materially from applying this Standard to the individual leases within that portfolio. If accounting for a portfolio, an entity shall use estimates and assumptions that reflect the size and composition of the portfolio. **Combination of contracts**",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 81,
+      "page": 29,
+      "content": "B2 In applying this Standard, an entity shall combine two or more contracts entered into at or near the same time with the same counterparty (or related parties of the counterparty), and account for the contracts as a single contract if one or more of the following criteria are met: (a) the contracts are negotiated as a package with an overall commercial objective that cannot be understood without considering the contracts together; (b) the amount of consideration to be paid in one contract depends on the price or performance of the other contract; or (c) the rights to use underlying assets conveyed in the contracts (or some rights to use underlying assets conveyed in each of the contracts) form a single lease component as described in paragraph B32. **Recognition exemption: leases for which",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 82,
+      "page": 29,
+      "content": "the underlying asset is of low value (paragraphs 5–8)** B3 Except as specified in paragraph B7, this Standard permits a lessee to apply paragraph 6 to account for leases for which the underlying asset is of low value. A lessee shall assess the value of an underlying asset based on the value of the asset when it is new, regardless of the age of the asset being leased. B4 The assessment of whether an underlying asset is of low value is performed on an absolute basis. Leases of low-value assets qualify for the accounting treatment in paragraph 6 regardless of whether those leases are material to the lessee. The assessment is not affected by the size, nature or circumstances of the lessee. Accordingly, different lessees are expected to reach the same conclusions about whether a particular underlying asset is of low value. © IFRS Foundation A845",
+      "char_count": 852
+    },
+    {
+      "chunk_id": 83,
+      "page": 30,
+      "content": "IFRS 16 B5 An underlying asset can be of low value only if: (a) the lessee can benefit from use of the underlying asset on its own or together with other resources that are readily available to the lessee; and (b) the underlying asset is not highly dependent on, or highly interrelated with, other assets. B6 A lease of an underlying asset does not qualify as a lease of a low-value asset if the nature of the asset is such that, when new, the asset is typically not of low value. For example, leases of cars would not qualify as leases of low-value assets because a new car would typically not be of low value. B7 If a lessee subleases an asset, or expects to sublease an asset, the head lease does not qualify as a lease of a low-value asset. B8 Examples of low-value underlying assets can include tablet",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 84,
+      "page": 30,
+      "content": "and personal computers, small items of office furniture and telephones. Identifying a lease (paragraphs 9–11) B9 To assess whether a contract conveys the right to control the use of an identified asset (see paragraphs B13-B20) for a period of time, an entity shall assess whether, throughout the period of use, the customer has both of the following: (a) the right to obtain substantially all of the economic benefits from use of the identified asset (as described in paragraphs B21-B23); and (b) the right to direct the use of the identified asset (as described in paragraphs B24-B30). B10 If the customer has the right to control the use of an identified asset for only a portion of the term of the contract, the contract contains a lease for that portion of the term. B11 A contract to receive goods",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 85,
+      "page": 30,
+      "content": "or services may be entered into by a joint arrangement, or on behalf of a joint arrangement, as defined in IFRS 11 Joint Arrangements. In this case, the joint arrangement is considered to be the customer in the contract. Accordingly, in assessing whether such a contract contains a lease, an entity shall assess whether the joint arrangement has the right to control the use of an identified asset throughout the period of use. B12 An entity shall assess whether a contract contains a lease for each potential separate lease component. Refer to paragraph B32 for guidance on separate lease components. Identified asset B13 An asset is typically identified by being explicitly specified in a contract. However, an asset can also be identified by being implicitly specified at the time that the asset is made available for use by the customer. A846 © IFRS Foundation",
+      "char_count": 864
+    },
+    {
+      "chunk_id": 86,
+      "page": 31,
+      "content": "IFRS 16 Substantive substitution rights B14 Even if an asset is specified, a customer does not have the right to use an identified asset if the supplier has the substantive right to substitute the asset throughout the period of use. A supplier's right to substitute an asset is substantive only if both of the following conditions exist: (a) the supplier has the practical ability to substitute alternative assets throughout the period of use (for example, the customer cannot prevent the supplier from substituting the asset and alternative assets are readily available to the supplier or could be sourced by the supplier within a reasonable period of time); and (b) the supplier would benefit economically from the exercise of its right to substitute the asset (ie the economic benefits associated with",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 87,
+      "page": 31,
+      "content": "substituting the asset are expected to exceed the costs associated with substituting the asset). B15 If the supplier has a right or an obligation to substitute the asset only on or after either a particular date or the occurrence of a specified event, the supplier's substitution right is not substantive because the supplier does not have the practical ability to substitute alternative assets throughout the period of use. B16 An entity's evaluation of whether a supplier's substitution right is substantive is based on facts and circumstances at inception of the contract and shall exclude consideration of future events that, at inception of the contract, are not considered likely to occur. Examples of future events that, at inception of the contract, would not be considered likely to occur and,",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 88,
+      "page": 31,
+      "content": "thus, should be excluded from the evaluation include: (a) an agreement by a future customer to pay an above market rate for use of the asset; (b) the introduction of new technology that is not substantially developed at inception of the contract; (c) a substantial difference between the customer's use of the asset, or the performance of the asset, and the use or performance considered likely at inception of the contract; and (d) a substantial difference between the market price of the asset during",
+      "char_count": 502
+    },
+    {
+      "chunk_id": 89,
+      "page": 31,
+      "content": "the period of use, and the market price considered likely at inception of the contract. B17 If the asset is located at the customer's premises or elsewhere, the costs associated with substitution are generally higher than when located at the supplier's premises and, therefore, are more likely to exceed the benefits associated with substituting the asset. B18 The supplier's right or obligation to substitute the asset for repairs and maintenance, if the asset is not operating properly or if a technical upgrade becomes available does not preclude the customer from having the right to use an identified asset. © IFRS Foundation A847",
+      "char_count": 635
+    },
+    {
+      "chunk_id": 90,
+      "page": 32,
+      "content": "IFRS 16 B19 If the customer cannot readily determine whether the supplier has a substantive substitution right, the customer shall presume that any substitution right is not substantive. Portions of assets B20 A capacity portion of an asset is an identified asset if it is physically distinct (for example, a floor of a building). A capacity or other portion of an asset that is not physically distinct (for example, a capacity portion of a fibre optic cable) is not an identified asset, unless it represents substantially all of the capacity of the asset and thereby provides the customer with the right to obtain substantially all of the economic benefits from use of the asset. Right to obtain economic benefits from use B21 To control the use of an identified asset, a customer is required to have",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 91,
+      "page": 32,
+      "content": "the right to obtain substantially all of the economic benefits from use of the asset throughout the period of use (for example, by having exclusive use of the asset throughout that period). A customer can obtain economic benefits from use of an asset directly or indirectly in many ways, such as by using, holding or subleasing the asset. The economic benefits from use of an asset include its primary output and by-products (including potential cash flows derived from these items), and other economic benefits from using the asset that could be realised from a commercial transaction with a third party. B22 When assessing the right to obtain substantially all of the economic benefits from use of an asset, an entity shall consider the economic benefits that result from use of the asset within the",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 92,
+      "page": 32,
+      "content": "defined scope of a customer's right to use the asset (see paragraph B30). For example: (a) if a contract limits the use of a motor vehicle to only one particular territory during the period of use, an entity shall consider only the economic benefits from use of the motor vehicle within that territory, and not beyond. (b) if a contract specifies that a customer can drive a motor vehicle only up to a particular number of miles during the period of use, an entity shall consider only the economic benefits from use of the motor vehicle for the permitted mileage, and not beyond. B23 If a contract requires a customer to pay the supplier or another party a portion of the cash flows derived from use of an asset as consideration, those cash flows paid as consideration shall be considered to be part of",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 93,
+      "page": 32,
+      "content": "the economic benefits that the customer obtains from use of the asset. For example, if the customer is required to pay the supplier a percentage of sales from use of retail space as consideration for that use, that requirement does not prevent the customer from having the right to obtain substantially all of the economic benefits from use of the retail space. This is because the cash flows arising from those sales are considered to be economic benefits that the customer obtains from use of the retail space, a portion of which it then pays to the supplier as consideration for the right to use that space. A848 © IFRS Foundation",
+      "char_count": 633
+    },
+    {
+      "chunk_id": 94,
+      "page": 33,
+      "content": "IFRS 16 **Right to direct the use** B24 A customer has the right to direct the use of an identified asset throughout the period of use only if either: (a) the customer has the right to direct how and for what purpose the asset is used throughout the period of use (as described in paragraphs B25-B30); or (b) the relevant decisions about how and for what purpose the asset is used are predetermined and: (i) the customer has the right to operate the asset (or to direct others to operate the asset in a manner that it determines) throughout the period of use, without the supplier having the right to change those operating instructions; or (ii) the customer designed the asset (or specific aspects of the asset) in a way that predetermines how and for what purpose the asset will be used throughout the",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 95,
+      "page": 33,
+      "content": "period of use. **How and for what purpose the asset is used** B25 A customer has the right to direct how and for what purpose the asset is used if, within the scope of its right of use defined in the contract, it can change how and for what purpose the asset is used throughout the period of use. In making this assessment, an entity considers the decision-making rights that are most relevant to changing how and for what purpose the asset is used throughout the period of use. Decision-making rights are relevant when they affect the economic benefits to be derived from use. The decision-making rights that are most relevant are likely to be different for different contracts, depending on the nature of the asset and the terms and conditions of the contract. Examples of decision-making rights that,",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 96,
+      "page": 33,
+      "content": "depending on the circumstances, grant the right to change how and for what purpose the asset is used, within the defined scope of the customer's right of use, include: (a) rights to change the type of output that is produced by the asset (for example, to decide whether to use a shipping container to transport goods or for storage, or to decide upon the mix of products sold from retail space); (b) rights to change when the output is produced (for example, to decide when an item of machinery or a power plant will be used); (c) rights to change where the output is produced (for example, to decide upon the destination of a truck or a ship, or to decide where an item of equipment is used); and (d) rights to change whether the output is produced, and the quantity of that output (for example, to decide whether to produce energy from a power plant and how much energy to produce from that power plant). © IFRS Foundation A849",
+      "char_count": 929
+    },
+    {
+      "chunk_id": 97,
+      "page": 34,
+      "content": "IFRS 16 B27 Examples of decision-making rights that do not grant the right to change how and for what purpose the asset is used include rights that are limited to operating or maintaining the asset. Such rights can be held by the customer or the supplier. Although rights such as those to operate or maintain an asset are often essential to the efficient use of an asset, they are not rights to direct how and for what purpose the asset is used. However, rights to operate an asset may grant the customer the right to direct the use of the asset if the relevant decisions about how and for what purpose the asset is used are predetermined (see paragraph B24(b)(i)). Decisions determined during and before the period of use B28 The relevant decisions about how and for what purpose the asset is used can",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 98,
+      "page": 34,
+      "content": "be predetermined in a number of ways. For example, the relevant decisions can be predetermined by the design of the asset or by contractual restrictions on the use of the asset. B29 In assessing whether a customer has the right to direct the use of an asset, an entity shall consider only rights to make decisions about the use of the asset during the period of use, unless the customer designed the asset (or specific aspects of the asset) as described in paragraph B24(b)(ii). Consequently, unless the conditions in paragraph B24(b)(ii) exist, an entity shall not consider decisions that are predetermined before the period of use. For example, if a customer is able only to specify the output of an asset before the period of use, the customer does not have the right to direct the use of that asset.",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 99,
+      "page": 34,
+      "content": "The ability to specify the output in a contract before the period of use, without any other decision-making rights relating to the use of the asset, gives a customer the same rights as any customer that purchases goods or services. Protective rights B30 A contract may include terms and conditions designed to protect the supplier's interest in the asset or other assets, to protect its personnel, or to ensure the supplier's compliance with laws or regulations. These are examples of protective rights. For example, a contract may (i) specify the maximum amount of use of an asset or limit where or when the customer can use the asset, (ii) require a customer to follow particular operating practices, or (iii) require a customer to inform the supplier of changes in how an asset will be used. Protective rights typically define the scope of the customer's right of use but do not, in isolation, prevent the customer from having the right to direct the use of an asset. A850 © IFRS Foundation",
+      "char_count": 993
+    },
+    {
+      "chunk_id": 100,
+      "page": 35,
+      "content": "IFRS 16 B31 The following flowchart may assist entities in making the assessment of whether a contract is, or contains, a lease. Is there an identified asset? Consider paragraphs B13-B20. No Yes Does the customer have the right to obtain substantially all of the economic benefits from use of the asset throughout the period of use? Consider paragraphs B21-B23. No Yes Does the customer, the supplier or neither party have the right to direct how and for what purpose the asset is used throughout the period of use? Consider paragraphs B25-B30. Suppliers Neither; how and for what purpose the asset will be used is predetermined Does the customer have the right to operate the asset throughout the period of use, without the supplier having the right to change those operating instructions? Consider paragraph",
+      "char_count": 809
+    },
+    {
+      "chunk_id": 101,
+      "page": 35,
+      "content": "B24(b)(i). No Yes Did the customer design the asset in a way that predetermines how and for what purpose the asset will be used throughout the period of use? Consider paragraph B24(b)(ii). No Yes The contract contains a lease The contract does not contain a lease Separating components of a contract (paragraphs 12-17) B32 The right to use an underlying asset is a separate lease component if both: (a) the lessee can benefit from use of the underlying asset either on its own or together with other resources",
+      "char_count": 509
+    },
+    {
+      "chunk_id": 102,
+      "page": 35,
+      "content": "that are readily available to the lessee. Readily available resources are goods or services that are sold or leased separately (by the lessor or other suppliers) or resources that the lessee has already obtained (from the lessor or from other transactions or events); and (b) the underlying asset is neither highly dependent on, nor highly interrelated with, the other underlying assets in the contract. For example, the fact that a lessee could decide not to lease the underlying asset without significantly affecting its rights to use other underlying © IFRS Foundation A851",
+      "char_count": 576
+    },
+    {
+      "chunk_id": 103,
+      "page": 36,
+      "content": "IFRS 16 B33 assets in the contract might indicate that the underlying asset is not highly dependent on, or highly interrelated with, those other underlying assets. A contract may include an amount payable by the lessee for activities and costs that do not transfer a good or service to the lessee. For example, a lessor may include in the total amount payable a charge for administrative tasks, or other costs it incurs associated with the lease, that do not transfer a good or service to the lessee. Such amounts payable do not give rise to a separate component of the contract, but are considered to be part of the total consideration that is allocated to the separately identified components of the contract. Lease term (paragraphs 18–21) B34 In determining the lease term and assessing the length",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 104,
+      "page": 36,
+      "content": "of the non-cancellable period of a lease, an entity shall apply the definition of a contract and determine the period for which the contract is enforceable. A lease is no longer enforceable when the lessee and the lessor each has the right to terminate the lease without permission from the other party with no more than an insignificant penalty. B35 If only a lessee has the right to terminate a lease, that right is considered to be an option to terminate the lease available to the lessee that an entity considers when determining the lease term. If only a lessor has the right to terminate a lease, the non-cancellable period of the lease includes the period covered by the option to terminate the lease. B36 The lease term begins at the commencement date and includes any rent-free periods provided",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 105,
+      "page": 36,
+      "content": "to the lessee by the lessor. B37 At the commencement date, an entity assesses whether the lessee is reasonably certain to exercise an option to extend the lease or to purchase the underlying asset, or not to exercise an option to terminate the lease. The entity considers all relevant facts and circumstances that create an economic incentive for the lessee to exercise, or not to exercise, the option, including any expected changes in facts and circumstances from the commencement date until the exercise",
+      "char_count": 506
+    },
+    {
+      "chunk_id": 106,
+      "page": 36,
+      "content": "date of the option. Examples of factors to consider include, but are not limited to: (a) contractual terms and conditions for the optional periods compared with market rates, such as: (i) the amount of payments for the lease in any optional period; (ii) the amount of any variable payments for the lease or other contingent payments, such as payments resulting from termination penalties and residual value guarantees; and (iii) the terms and conditions of any options that are exercisable after initial optional periods (for example, a purchase option that is exercisable at the end of an extension period at a rate that is currently below market rates). A852 © IFRS Foundation",
+      "char_count": 678
+    },
+    {
+      "chunk_id": 107,
+      "page": 37,
+      "content": "(b) significant leasehold improvements undertaken (or expected to be undertaken) over the term of the contract that are expected to have significant economic benefit for the lessee when the option to extend or terminate the lease, or to purchase the underlying asset, becomes exercisable; (c) costs relating to the termination of the lease, such as negotiation costs, relocation costs, costs of identifying another underlying asset suitable for the lessee's needs, costs of integrating a new asset into the lessee's operations, or termination penalties and similar costs, including costs associated with returning the underlying asset in a contractually specified condition or to a contractually specified location; (d) the importance of that underlying asset to the lessee's operations, considering,",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 108,
+      "page": 37,
+      "content": "for example, whether the underlying asset is a specialised asset, the location of the underlying asset and the availability of suitable alternatives; and (e) conditionality associated with exercising the option (ie when the option can be exercised only if one or more conditions are met), and the likelihood that those conditions will exist. B38 An option to extend or terminate a lease may be combined with one or more other contractual features (for example, a residual value guarantee) such that the lessee guarantees the lessor a minimum or fixed cash return that is substantially the same regardless of whether the option is exercised. In such cases, and notwithstanding the guidance on in-substance fixed payments in paragraph B42, an entity shall assume that the lessee is reasonably certain to",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 109,
+      "page": 37,
+      "content": "exercise the option to extend the lease, or not to exercise the option to terminate the lease. B39 The shorter the non-cancellable period of a lease, the more likely a lessee is to exercise an option to extend the lease or not to exercise an option to terminate the lease. This is because the costs associated with obtaining a replacement asset are likely to be proportionately higher the shorter the non-cancellable period. B40 A lessee's past practice regarding the period over which it has typically used particular types of assets (whether leased or owned), and its economic reasons for doing so, may provide information that is helpful in assessing whether the lessee is reasonably certain to exercise, or not to exercise, an option. For example, if a lessee has typically used particular types of",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 110,
+      "page": 37,
+      "content": "assets for a particular period of time or if the lessee has a practice of frequently exercising options on leases of particular types of underlying assets, the lessee shall consider the economic reasons for that past practice in assessing whether it is reasonably certain to exercise an option on leases of those assets. B41 Paragraph 20 specifies that, after the commencement date, a lessee reassesses the lease term upon the occurrence of a significant event or a significant change in circumstances that is within the control of the lessee and affects whether the lessee is reasonably certain to exercise an option not previously included in its determination of the lease term, or not to exercise an option",
+      "char_count": 710
+    },
+    {
+      "chunk_id": 111,
+      "page": 38,
+      "content": "IFRS 16 previously included in its determination of the lease term. Examples of significant events or changes in circumstances include: (a) significant leasehold improvements not anticipated at the commencement date that are expected to have significant economic benefit for the lessee when the option to extend or terminate the lease, or to purchase the underlying asset, becomes exercisable; (b) a significant modification to, or customisation of, the underlying asset that was not anticipated at the commencement date; (c) the inception of a sublease of the underlying asset for a period beyond the end of the previously determined lease term; and (d) a business decision of the lessee that is directly relevant to exercising, or not exercising, an option (for example, a decision to extend the lease",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 112,
+      "page": 38,
+      "content": "of a complementary asset, to dispose of an alternative asset or to dispose of a business unit within which the right-of-use asset is employed). In-substance fixed lease payments (paragraphs 27(a), 36(c) and 70(a)) B42 Lease payments include any in-substance fixed lease payments. In-substance fixed lease payments are payments that may, in form, contain variability but that, in substance, are unavoidable. In-substance fixed lease payments exist, for example, if: (a) payments are structured as variable lease payments, but there is no genuine variability in those payments. Those payments contain variable clauses that do not have real economic substance. Examples of those types of payments include: (i) payments that must be made only if an asset is proven to be capable of operating during the lease,",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 113,
+      "page": 38,
+      "content": "or only if an event occurs that has no genuine possibility of not occurring; or (ii) payments that are initially structured as variable lease payments linked to the use of the underlying asset but for which the variability will be resolved at some point after the commencement date so that the payments become fixed for the remainder of the lease term. Those payments become in- substance fixed payments when the variability is resolved. (b) there is more than one set of payments that a lessee could make, but only one of those sets of payments is realistic. In this case, an entity shall consider the realistic set of payments to be lease payments. (c) there is more than one realistic set of payments that a lessee could make, but it must make at least one of those sets of payments. In this case, an entity shall consider the set of payments that aggregates to the lowest amount (on a discounted basis) to be lease payments. A854 © IFRS Foundation",
+      "char_count": 951
+    },
+    {
+      "chunk_id": 114,
+      "page": 39,
+      "content": "IFRS 16 Lessee involvement with the underlying asset before the commencement date Costs of the lessee relating to the construction or design of the underlying asset B43 An entity may negotiate a lease before the underlying asset is available for use by the lessee. For some leases, the underlying asset may need to be constructed or redesigned for use by the lessee. Depending on the terms and conditions of the contract, a lessee may be required to make payments relating to the construction or design of the asset. B44 If a lessee incurs costs relating to the construction or design of an underlying asset, the lessee shall account for those costs applying other applicable Standards, such as IAS 16. Costs relating to the construction or design of an underlying asset do not include payments made by",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 115,
+      "page": 39,
+      "content": "the lessee for the right to use the underlying asset. Payments for the right to use an underlying asset are payments for a lease, regardless of the timing of those payments. Legal title to the underlying asset B45 A lessee may obtain legal title to an underlying asset before that legal title is transferred to the lessor and the asset is leased to the lessee. Obtaining legal title does not in itself determine how to account for the transaction. B46 If the lessee controls (or obtains control of) the underlying asset before that asset is transferred to the lessor, the transaction is a sale and leaseback transaction that is accounted for applying paragraphs 98-103. B47 However, if the lessee does not obtain control of the underlying asset before the asset is transferred to the lessor, the transaction",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 116,
+      "page": 39,
+      "content": "is not a sale and leaseback transaction. For example, this may be the case if a manufacturer, a lessor and a lessee negotiate a transaction for the purchase of an asset from the manufacturer by the lessor, which is in turn leased to the lessee. The lessee may obtain legal title to the underlying asset before legal title transfers to the lessor. In this case, if the lessee obtains legal title to the underlying asset but does not obtain control of the asset before it is transferred to the lessor, the",
+      "char_count": 503
+    },
+    {
+      "chunk_id": 117,
+      "page": 39,
+      "content": "transaction is not accounted for as a sale and leaseback transaction, but as a lease. Lessee disclosures (paragraph 59) B48 In determining whether additional information about leasing activities is necessary to meet the disclosure objective in paragraph 51, a lessee shall consider: (a) whether that information is relevant to users of financial statements. A lessee shall provide additional information specified in paragraph 59 only if that information is expected to be relevant to users of financial statements. In this context, this is likely to be the case if it helps those users to understand: © IFRS Foundation A855",
+      "char_count": 624
+    },
+    {
+      "chunk_id": 118,
+      "page": 40,
+      "content": "IFRS 16 (i) the flexibility provided by leases. Leases may provide flexibility if, for example, a lessee can reduce its exposure by exercising termination options or renewing leases with favourable terms and conditions. (ii) restrictions imposed by leases. Leases may impose restrictions, for example, by requiring the lessee to maintain particular financial ratios. (iii) sensitivity of reported information to key variables. Reported information may be sensitive to, for example, future variable lease payments. (iv) exposure to other risks arising from leases. (v) deviations from industry practice. Such deviations may include, for example, unusual or unique lease terms and conditions that affect a lessee's lease portfolio. (b) whether that information is apparent from information either presented",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 119,
+      "page": 40,
+      "content": "in the primary financial statements or disclosed in the notes. A lessee need not duplicate information that is already presented elsewhere in the financial statements. B49 Additional information relating to variable lease payments that, depending on the circumstances, may be needed to satisfy the disclosure objective in paragraph 51 could include information that helps users of financial statements to assess, for example: (a) the lessee's reasons for using variable lease payments and the prevalence of those payments; (b) the relative magnitude of variable lease payments to fixed payments; (c) key variables upon which variable lease payments depend and how payments are expected to vary in response to changes in those key variables; and (d) other operational and financial effects of variable",
+      "char_count": 800
+    },
+    {
+      "chunk_id": 120,
+      "page": 40,
+      "content": "lease payments. B50 Additional information relating to extension options or termination options that, depending on the circumstances, may be needed to satisfy the disclosure objective in paragraph 51 could include information that helps users of financial statements to assess, for example: (a) the lessee's reasons for using extension options or termination options and the prevalence of those options; (b) the relative magnitude of optional lease payments to lease payments; (c) the prevalence of the exercise of options that were not included in the measurement of lease liabilities; and (d) other operational and financial effects of those options. A856 © IFRS Foundation",
+      "char_count": 675
+    },
+    {
+      "chunk_id": 121,
+      "page": 41,
+      "content": "B51 Additional information relating to residual value guarantees that, depending on the circumstances, may be needed to satisfy the disclosure objective in paragraph 51 could include information that helps users of financial statements to assess, for example: (a) the lessee's reasons for providing residual value guarantees and the prevalence of those guarantees; (b) the magnitude of a lessee's exposure to residual value risk; (c) the nature of underlying assets for which those guarantees are provided; and (d) other operational and financial effects of those guarantees. B52 Additional information relating to sale and leaseback transactions that, depending on the circumstances, may be needed to satisfy the disclosure objective in paragraph 51 could include information that helps users of financial",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 122,
+      "page": 41,
+      "content": "statements to assess, for example: (a) the lessee's reasons for sale and leaseback transactions and the prevalence of those transactions; (b) key terms and conditions of individual sale and leaseback transactions; (c) payments not included in the measurement of lease liabilities; and (d) the cash flow effect of sale and leaseback transactions in the reporting period. Lessor lease classification (paragraphs 61–66) B53 The classification of leases for lessors in this Standard is based on the extent to which the lease transfers the risks and rewards incidental to ownership of an underlying asset. Risks include the possibilities of losses from idle capacity or technological obsolescence and of variations in return because of changing economic conditions. Rewards may be represented by the expectation",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 123,
+      "page": 41,
+      "content": "of profitable operation over the underlying asset's economic life and of gain from appreciation in value or realisation of a residual value. B54 A lease contract may include terms and conditions to adjust the lease payments for particular changes that occur between the inception date and the commencement date (such as a change in the lessor's cost of the underlying asset or a change in the lessor's cost of financing the lease). In that case, for the purposes of classifying the lease, the effect of any such changes shall be deemed to have taken place at the inception date. B55 When a lease includes both land and buildings elements, a lessor shall assess the classification of each element as a finance lease or an operating lease separately applying paragraphs 62–66 and B53–B54. In determining whether the land element is an operating lease or a finance lease, an important consideration is that land normally has an indefinite economic life. © IFRS Foundation A857",
+      "char_count": 973
+    },
+    {
+      "chunk_id": 124,
+      "page": 42,
+      "content": "IFRS 16 B56 Whenever necessary in order to classify and account for a lease of land and buildings, a lessor shall allocate lease payments (including any lump-sum upfront payments) between the land and the buildings elements in proportion to the relative fair values of the leasehold interests in the land element and buildings element of the lease at the inception date. If the lease payments cannot be allocated reliably between these two elements, the entire lease is classified as a finance lease, unless it is clear that both elements are operating leases, in which case the entire lease is classified as an operating lease. B57 For a lease of land and buildings in which the amount for the land element is immaterial to the lease, a lessor may treat the land and buildings as a single unit for the",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 125,
+      "page": 42,
+      "content": "purpose of lease classification and classify it as a finance lease or an operating lease applying paragraphs 62-66 and B53-B54. In such a case, a lessor shall regard the economic life of the buildings as the economic life of the entire underlying asset. Sublease classification B58 In classifying a sublease, an intermediate lessor shall classify the sublease as a finance lease or an operating lease as follows: (a) if the head lease is a short-term lease that the entity, as a lessee, has accounted for applying paragraph 6, the sublease shall be classified as an operating lease. (b) otherwise, the sublease shall be classified by reference to the right-of-use asset arising from the head lease, rather than by reference to the underlying asset (for example, the item of property, plant or equipment that is the subject of the lease). A858 © IFRS Foundation",
+      "char_count": 860
+    },
+    {
+      "chunk_id": 126,
+      "page": 43,
+      "content": "IFRS 16 Appendix C Effective date and transition This appendix is an integral part of the Standard and has the same authority as the other parts of the Standard. Effective date C1 An entity shall apply this Standard for annual reporting periods beginning on or after 1 January 2019. Earlier application is permitted for entities that apply IFRS 15 Revenue from Contracts with Customers at or before the date of initial application of this Standard. If an entity applies this Standard earlier, it shall disclose that fact. C1A Covid-19-Related Rent Concessions, issued in May 2020, added paragraphs 46A, 46B, 60A, C20A and C20B. A lessee shall apply that amendment for annual reporting periods beginning on or after 1 June 2020. Earlier application is permitted, including in financial statements not authorised",
+      "char_count": 810
+    },
+    {
+      "chunk_id": 127,
+      "page": 43,
+      "content": "for issue at 28 May 2020. C1B Interest Rate Benchmark Reform – Phase 2, which amended IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16, issued in August 2020, added paragraphs 104–106 and C20C-C20D. An entity shall apply these amendments for annual reporting periods beginning on or after 1 January 2021. Earlier application is permitted. If an entity applies these amendments for an earlier period, it shall disclose that fact. C1C Covid-19-Related Rent Concessions beyond 30 June 2021, issued in March 2021, amended paragraph 46B and added paragraphs C20BA-C20BC. A lessee shall apply that amendment for annual reporting periods beginning on or after 1 April 2021. Earlier application is permitted, including in financial statements not authorised for issue at 31 March 2021. C1D Lease Liability in a Sale",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 128,
+      "page": 43,
+      "content": "and Leaseback, issued in September 2022, amended paragraph C2 and added paragraphs 102A and C20E. A seller-lessee shall apply these amendments for annual reporting periods beginning on or after 1 January 2024. Earlier application is permitted. If a seller-lessee applies these amendments for an earlier period, it shall disclose that fact. Transition C2 For the purposes of the requirements in paragraphs C1-C20E, the date of initial application is the beginning of the annual reporting period in which an entity first applies this Standard. Definition of a lease C3 As a practical expedient, an entity is not required to reassess whether a contract is, or contains, a lease at the date of initial application. Instead, the entity is permitted: © IFRS Foundation A859",
+      "char_count": 767
+    },
+    {
+      "chunk_id": 129,
+      "page": 44,
+      "content": "IFRS 16 (a) to apply this Standard to contracts that were previously identified as leases applying IAS 17 Leases and IFRIC 4 Determining whether an Arrangement contains a Lease. The entity shall apply the transition requirements in paragraphs C5-C18 to those leases. (b) not to apply this Standard to contracts that were not previously identified as containing a lease applying IAS 17 and IFRIC 4. C4 If an entity chooses the practical expedient in paragraph C3, it shall disclose that fact and apply the practical expedient to all of its contracts. As a result, the entity shall apply the requirements in paragraphs 9-11 only to contracts entered into (or changed) on or after the date of initial application. Lessees C5 A lessee shall apply this Standard to its leases either: (a) retrospectively to",
+      "char_count": 801
+    },
+    {
+      "chunk_id": 130,
+      "page": 44,
+      "content": "each prior reporting period presented applying IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors; or (b) retrospectively with the cumulative effect of initially applying the Standard recognised at the date of initial application in accordance with paragraphs C7-C13. C6 A lessee shall apply the election described in paragraph C5 consistently to all of its leases in which it is a lessee. C7 If a lessee elects to apply this Standard in accordance with paragraph C5(b), the lessee shall not restate comparative information. Instead, the lessee shall recognise the cumulative effect of initially applying this Standard as an adjustment to the opening balance of retained earnings (or other component of equity, as appropriate) at the date of initial application. Leases previously classified",
+      "char_count": 810
+    },
+    {
+      "chunk_id": 131,
+      "page": 44,
+      "content": "as operating leases C8 If a lessee elects to apply this Standard in accordance with paragraph C5(b), the lessee shall: (a) recognise a lease liability at the date of initial application for leases previously classified as an operating lease applying IAS 17. The lessee shall measure that lease liability at the present value of the remaining lease payments, discounted using the lessee's incremental borrowing rate at the date of initial application. (b) recognise a right-of-use asset at the date of initial application for leases previously classified as an operating lease applying IAS 17. The lessee shall choose, on a lease-by-lease basis, to measure that right-of-use asset at either: (i) its carrying amount as if the Standard had been applied since the commencement date, but discounted using the lessee's incremental borrowing rate at the date of initial application; or A860 © IFRS Foundation",
+      "char_count": 902
+    },
+    {
+      "chunk_id": 132,
+      "page": 45,
+      "content": "IFRS 16 (ii) an amount equal to the lease liability, adjusted by the amount of any prepaid or accrued lease payments relating to that lease recognised in the statement of financial position immediately before the date of initial application. (c) apply IAS 36 Impairment of Assets to right-of-use assets at the date of initial application, unless the lessee applies the practical expedient in paragraph C10(b). C9 Notwithstanding the requirements in paragraph C8, for leases previously classified as operating leases applying IAS 17, a lessee: (a) is not required to make any adjustments on transition for leases for which the underlying asset is of low value (as described in paragraphs B3-B8) that will be accounted for applying paragraph 6. The lessee shall account for those leases applying this Standard",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 133,
+      "page": 45,
+      "content": "from the date of initial application. (b) is not required to make any adjustments on transition for leases previously accounted for as investment property using the fair value model in IAS 40 Investment Property. The lessee shall account for the right-of-use asset and the lease liability arising from those leases applying IAS 40 and this Standard from the date of initial application. (c) shall measure the right-of-use asset at fair value at the date of initial application for leases previously accounted for as operating leases applying IAS 17 and that will be accounted for as investment property using the fair value model in IAS 40 from the date of initial application. The lessee shall account for the right-of-use asset and the lease liability arising from those leases applying IAS 40 and this",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 134,
+      "page": 45,
+      "content": "Standard from the date of initial application. C10 A lessee may use one or more of the following practical expedients when applying this Standard retrospectively in accordance with paragraph C5(b) to leases previously classified as operating leases applying IAS 17. A lessee is permitted to apply these practical expedies on a lease-by-lease basis: (a) a lessee may apply a single discount rate to a portfolio of leases with reasonably similar characteristics (such as leases with a similar remaining",
+      "char_count": 500
+    },
+    {
+      "chunk_id": 135,
+      "page": 45,
+      "content": "lease term for a similar class of underlying asset in a similar economic environment). (b) a lessee may rely on its assessment of whether leases are onerous applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets immediately before the date of initial application as an alternative to performing an impairment review. If a lessee chooses this practical expedient, the lessee shall adjust the right-of-use asset at the date of initial application by the amount of any provision for onerous leases recognised in the statement of financial position immediately before the date of initial application. © IFRS Foundation A861",
+      "char_count": 637
+    },
+    {
+      "chunk_id": 136,
+      "page": 46,
+      "content": "IFRS 16 (c) a lessee may elect not to apply the requirements in paragraph C8 to leases for which the lease term ends within 12 months of the date of initial application. In this case, a lessee shall: (i) account for those leases in the same way as short-term leases as described in paragraph 6; and (ii) include the cost associated with those leases within the disclosure of short-term lease expense in the annual reporting period that includes the date of initial application. (d) a lessee may exclude initial direct costs from the measurement of the right-of-use asset at the date of initial application. (e) a lessee may use hindsight, such as in determining the lease term if the contract contains options to extend or terminate the lease. Leases previously classified as finance leases C11 If a lessee",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 137,
+      "page": 46,
+      "content": "elects to apply this Standard in accordance with paragraph C5(b), for leases that were classified as finance leases applying IAS 17, the carrying amount of the right-of-use asset and the lease liability at the date of initial application shall be the carrying amount of the lease asset and lease liability immediately before that date measured applying IAS 17. For those leases, a lessee shall account for the right-of-use asset and the lease liability applying this Standard from the date of initial application. Disclosure C12 If a lessee elects to apply this Standard in accordance with paragraph C5(b), the lessee shall disclose information about initial application required by paragraph 28 of IAS 8, except for the information specified in paragraph 28(f) of IAS 8. Instead of the information specified",
+      "char_count": 808
+    },
+    {
+      "chunk_id": 138,
+      "page": 46,
+      "content": "in paragraph 28(f) of IAS 8, the lessee shall disclose: (a) the weighted average lessee's incremental borrowing rate applied to lease liabilities recognised in the statement of financial position at the date of initial application; and (b) an explanation of any difference between: (i) operating lease commitments disclosed applying IAS 17 at the end of the annual reporting period immediately preceding the date of initial application, discounted using the incremental borrowing rate at the date of initial application as described in paragraph C8(a); and (ii) lease liabilities recognised in the statement of financial position at the date of initial application. C13 If a lessee uses one or more of the specified practical expedients in paragraph C10, it shall disclose that fact. A862 © IFRS Foundation",
+      "char_count": 806
+    },
+    {
+      "chunk_id": 139,
+      "page": 47,
+      "content": "IFRS 16 Lessors C14 Except as described in paragraph C15, a lessor is not required to make any adjustments on transition for leases in which it is a lessor and shall account for those leases applying this Standard from the date of initial application. C15 An intermediate lessor shall: (a) reassess subleases that were classified as operating leases applying IAS 17 and are ongoing at the date of initial application, to determine whether each sublease should be classified as an operating lease or a finance lease applying this Standard. The intermediate lessor shall perform this assessment at the date of initial application on the basis of the remaining contractual terms and conditions of the head lease and sublease at that date. (b) for subleases that were classified as operating leases applying",
+      "char_count": 803
+    },
+    {
+      "chunk_id": 140,
+      "page": 47,
+      "content": "IAS 17 but finance leases applying this Standard, account for the sublease as a new finance lease entered into at the date of initial application. Sale and leaseback transactions before the date of initial application C16 An entity shall not reassess sale and leaseback transactions entered into before the date of initial application to determine whether the transfer of the underlying asset satisfies the requirements in IFRS 15 to be accounted for as a sale. C17 If a sale and leaseback transaction was accounted for as a sale and a finance lease applying IAS 17, the seller-lessee shall: (a) account for the leaseback in the same way as it accounts for any other finance lease that exists at the date of initial application; and (b) continue to amortise any gain on sale over the lease term. C18 If",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 141,
+      "page": 47,
+      "content": "a sale and leaseback transaction was accounted for as a sale and operating lease applying IAS 17, the seller-lessee shall: (a) account for the leaseback in the same way as it accounts for any other operating lease that exists at the date of initial application; and (b) adjust the leaseback right-of-use asset for any deferred gains or losses that relate to off-market terms recognised in the statement of financial position immediately before the date of initial application. Amounts previously recognised in respect of business combinations C19 If a lessee previously recognised an asset or a liability applying IFRS 3 Business Combinations relating to favourable or unfavourable terms of an operating lease acquired as part of a business combination, the lessee shall dereognise that asset or liability and adjust the carrying amount of the right-of-use asset by a corresponding amount at the date of initial application. © IFRS Foundation A863",
+      "char_count": 947
+    },
+    {
+      "chunk_id": 142,
+      "page": 48,
+      "content": "IFRS 16 References to IFRS 9 C20 If an entity applies this Standard but does not yet apply IFRS 9 Financial Instruments, any reference in this Standard to IFRS 9 shall be read as a reference to IAS 39 Financial Instruments: Recognition and Measurement. Covid-19-related rent concessions for lessees C20A A lessee shall apply Covid-19-Related Rent Concessions (see paragraph C1A) retrospectively, recognising the cumulative effect of initially applying that amendment as an adjustment to the opening balance of retained earnings (or other component of equity, as appropriate) at the beginning of the annual reporting period in which the lessee first applies the amendment. C20B In the reporting period in which a lessee first applies Covid-19-Related Rent Concessions, a lessee is not required to disclose",
+      "char_count": 804
+    },
+    {
+      "chunk_id": 143,
+      "page": 48,
+      "content": "the information required by paragraph 28(f) of IAS 8. C20BA A lessee shall apply Covid-19-Related Rent Concessions beyond 30 June 2021 (see paragraph C1C) retrospectively, recognising the cumulative effect of initially applying that amendment as an adjustment to the opening balance of retained earnings (or other component of equity, as appropriate) at the beginning of the annual reporting period in which the lessee first applies the amendment. C20BB In the reporting period in which a lessee first applies Covid-19-Related Rent Concessions beyond 30 June 2021, a lessee is not required to disclose the information required by paragraph 28(f) of IAS 8. C20BC Applying paragraph 2 of this Standard, a lessee shall apply the practical expedient in paragraph 46A consistently to eligible contracts with",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 144,
+      "page": 48,
+      "content": "similar characteristics and in similar circumstances, irrespective of whether the contract became eligible for the practical expedient as a result of the lessee applying Covid-19-Related Rent Concessions (see paragraph C1A) or Covid-19-Related Rent Concessions beyond 30 June 2021 (see paragraph C1C). Interest Rate Benchmark Reform—Phase 2 C20C An entity shall apply these amendments retrospectively in accordance with IAS 8, except as specified in paragraph C20D. C20D An entity is not required to restate",
+      "char_count": 507
+    },
+    {
+      "chunk_id": 145,
+      "page": 48,
+      "content": "prior periods to reflect the application of these amendments. The entity may restate prior periods if, and only if, it is possible without the use of hindsight. If an entity does not restate prior periods, the entity shall recognise any difference between the previous carrying amount and the carrying amount at the beginning of the annual reporting period that includes the date of initial application of these amendments in the opening retained earnings (or other component of equity, as appropriate) of the annual reporting period that includes the date of initial application of these amendments. A864 © IFRS Foundation",
+      "char_count": 623
+    },
+    {
+      "chunk_id": 146,
+      "page": 49,
+      "content": "IFRS 16 Lease liability in a sale and leaseback A seller-lessee shall apply Lease Liability in a Sale and Leaseback (see paragraph C1D) retrospectively in accordance with IAS 8 to sale and leaseback transactions entered into after the date of initial application. Withdrawal of other Standards This Standard supersedes the following Standards and Interpretations: (a) IAS 17 Leases; (b) IFRIC 4 Determining whether an Arrangement contains a Lease; (c) SIC-15 Operating Leases – Incentives; and (d) SIC-27 Evaluating the Substance of Transactions Involving the Legal Form of Lease. © IFRS Foundation A865",
+      "char_count": 603
+    },
+    {
+      "chunk_id": 147,
+      "page": 50,
+      "content": "IFRS 16 Appendix D Amendments to other Standards This appendix sets out the amendments to other Standards that are a consequence of the IASB issuing this Standard. An entity shall apply the amendments for annual periods beginning on or after 1 January 2019. If an entity applies this Standard for an earlier period, it shall also apply these amendments for that earlier period. An entity is not permitted to apply IFRS 16 before applying IFRS 15 Revenue from Contracts with Customers (see paragraph C1). Consequently, for Standards that were effective on 1 January 2016, the amendments in this appendix are presented based on the text of those Standards that was effective on 1 January 2016, as amended by IFRS 15. The text of those Standards in this appendix does not include any other amendments that",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 148,
+      "page": 50,
+      "content": "were not effective at 1 January 2016. For Standards that were not effective on 1 January 2016, the amendments in this appendix are presented based on the text of the initial publication of that Standard, as amended by IFRS 15. The text of those Standards in this appendix does not include any other amendments that were not effective at 1 January 2016. The amendments contained in this appendix when this Standard was issued in 2016 have been incorporated into the text of the relevant Standards included in this volume. A866 © IFRS Foundation",
+      "char_count": 543
+    },
+    {
+      "chunk_id": 149,
+      "page": 51,
+      "content": "IFRS 16 Leases was approved for issue by thirteen of the fourteen members of the International Accounting Standards Board. Mr Zhang dissented. His dissenting opinion is set out after the Basis for Conclusions. Hans Hoogervorst Chairman Ian Mackintosh Vice-Chairman Stephen Cooper Philippe Danjou Martin Edelmann Patrick Finnegan Gary Kabureck Suzanne Lloyd Amaro Luiz de Oliveira Gomes Takatsugu Ochi Darrel Scott Chungwoo Suh Mary Tokar Wei-Guo Zhang © IFRS Foundation A867",
+      "char_count": 474
+    },
+    {
+      "chunk_id": 150,
+      "page": 52,
+      "content": "IFRS 16 Approval by the Board of Covid-19-Related Rent Concessions issued in May 2020 Covid-19-Related Rent Concessions, which amended IFRS 16, was approved for issue by all 14 members of the International Accounting Standards Board. Hans Hoogervorst Chairman Suzanne Lloyd Vice-Chair Nick Anderson Tadeu Cendon Martin Edelmann Françoise Flores Gary Kabureck Jianqiao Lu Darrel Scott Thomas Scott Chungwoo Suh Rika Suzuki Ann Tarca Mary Tokar A868 © IFRS Foundation",
+      "char_count": 465
+    },
+    {
+      "chunk_id": 151,
+      "page": 53,
+      "content": "IFRS 16 Approval by the Board of Interest Rate Benchmark Reform— Phase 2 issued in August 2020 Interest Rate Benchmark Reform—Phase 2, which amended IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16, was approved for issue by 12 of 13 members of the International Accounting Standards Board (Board). Mr Gast abstained in view of his recent appointment to the Board. Hans Hoogervorst Chairman Suzanne Lloyd Vice-Chair Nick Anderson Tadeu Cendon Martin Edelmann Françoise Flores Zach Gast Jianqiao Lu Darrel Scott Thomas Scott Rika Suzuki Ann Tarca Mary Tokar © IFRS Foundation A869",
+      "char_count": 573
+    },
+    {
+      "chunk_id": 152,
+      "page": 54,
+      "content": "IFRS 16 Approval by the Board of Covid-19-Related Rent Concessions beyond 30 June 2021 issued in March 2021 Approval by the Board of Covid-19-Related Rent Concessions beyond 30 June 2021, which amended IFRS 16, was approved for issue by 11 of 13 members of the International Accounting Standards Board. Messrs Anderson and Gast dissented. Their dissenting opinion is set out after the Basis for Conclusions. Hans Hoogervorst Chairman Suzanne Lloyd Vice-Chair Nick Anderson Tadeu Cendon Martin Edelmann Françoise Flores Zachary Gast Jianqiao Lu Bruce Mackenzie Thomas Scott Rika Suzuki Ann Tarca Mary Tokar A870 © IFRS Foundation",
+      "char_count": 628
+    },
+    {
+      "chunk_id": 153,
+      "page": 55,
+      "content": "IFRS 16 Approval by the IASB of Lease Liability in a Sale and Leaseback issued in September 2022 Lease Liability in a Sale and Leaseback, which amends IFRS 16 Leases, was approved for issue by nine of ten members of the International Accounting Standards Board (IASB). Mr Anderson dissented. His dissenting opinion is set out after the Basis for Conclusions. Andreas Barckow Chair Nick Anderson Tadeu Cendon Zach Gast Jianqiao Lu Bruce Mackenzie Bertrand Perrin Rika Suzuki Ann Tarca Mary Tokar © IFRS Foundation A871",
+      "char_count": 517
+    },
+    {
+      "chunk_id": 154,
+      "page": 56,
+      "content": "```markdown # Chapter 5: Project Management ## Section 5.2: Project Planning ### 5.2.1: Project Scope Definition * **Objective:** To define the scope of the project, ensuring that it aligns with the organization's strategic goals and is feasible to deliver. * **Key Concepts:** Project scope, feasibility, strategic alignment, stakeholder input. * **Methodology:** Conduct market research, analyze organizational resources, and engage stakeholders to define project boundaries. * **Output:** Project scope definition document, approved by stakeholders. ## Section 5.3: Risk Management ### 5.3.1: Risk Identification * **Objective:** To identify potential risks that could impact the project's success and develop strategies to mitigate them. * **Key Concepts:** Risk identification, risk exposure, risk",
+      "char_count": 802
+    },
+    {
+      "chunk_id": 155,
+      "page": 56,
+      "content": "impact, risk probability. * **Methodology:** Perform a risk assessment, identify risk sources, and prioritize risks based on their potential impact. * **Output:** Risk identification report, prioritized risk list. ## Section 5.4: Project Monitoring and Control ### 5.4.1: Performance Measurement * **Objective:** To measure project performance against planned objectives, ensuring that the project stays on track and delivers on time and within budget. * **Key Concepts:** Performance measurement, key performance indicators (KPIs), project monitoring. * **Methodology:** Establish performance metrics, monitor project progress, and compare against planned objectives. * **Output:** Performance measurement report, KPI dashboard. ## Section 5.5: Project Change Management ### 5.5.1: Change Request Process",
+      "char_count": 805
+    },
+    {
+      "chunk_id": 156,
+      "page": 56,
+      "content": "* **Objective:** To establish a process for requesting and approving changes to the project plan, ensuring that changes are appropriate and do not compromise project success. * **Key Concepts:** Change request process, change request form, change approval process. * **Methodology:** Define change request procedures, obtain approvals from relevant stakeholders, and implement change requests appropriately. * **Output:** Change request documentation, change approval decisions. ## Section 5.6: Project Closeout ### 5.6.1: Final Review * **Objective:** To conduct a final review of the project's performance and outcomes, ensuring that all objectives were met and no significant issues were overlooked. * **Key Concepts:** Final review, project closure, project outcomes, lessons learned. * **Methodology:**",
+      "char_count": 807
+    },
+    {
+      "chunk_id": 157,
+      "page": 56,
+      "content": "Conduct a final review meeting, assess project performance against planned objectives, and document lessons learned. * **Output:** Final review report, project closure decision. ## Section 5.7: Project Documentation * **Objective:** To ensure that all project documentation is complete, accurate, and easily accessible. * **Key Concepts:** Project documentation, documentation standards, version control. * **Methodology:** Develop a documentation plan, ensure all documents are properly labeled and versioned, and maintain a central repository. * **Output:** Complete project documentation, version control statement. ```",
+      "char_count": 622
+    }
+  ]
+}

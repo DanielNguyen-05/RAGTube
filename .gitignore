@@ -1,11 +1,40 @@
-.venv/
+# Environment & secrets
 .env
+.env.*
+!.env.example
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs & local DBs
 *.log
 *.sqlite3
 *.db
 *.bak
-__init__.py
+
+# Generated artifacts
+data/vector_store/
+models/checkpoints/
+models/embeddings/
+
+# Raw source PDFs (large; download separately — see README/docs/02_DATA_DESCRIPTION.md)
+
+
+# OS / editor junk
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.ini

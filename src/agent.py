@@ -1,12 +1,13 @@
 import os
 import sys
 from dotenv import load_dotenv
+from simpleeval import simple_eval, DEFAULT_FUNCTIONS, DEFAULT_NAMES
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from langchain_openai import ChatOpenAI
 from langchain_core.tools import tool
-from langgraph.prebuilt import create_react_agent # Thư viện Agent hệ mới
+from langgraph.prebuilt import create_react_agent
 from langchain_core.messages import SystemMessage
 
 from configs.system_prompts import AUDIT_AGENT_SYSTEM_PROMPT
@@ -41,9 +42,9 @@ def search_audit_documents(query: str) -> str:
 
 @tool
 def calculate_financial_ratio(expression: str) -> str:
-    """Công cụ máy tính. Dùng để tính toán các phép toán cộng, trừ, nhân, chia (VD: 1500 * 0.1)."""
+    """Safe calculator for financial ratios. Example: 1500 * 0.1"""
     try:
-        result = eval(expression, {"__builtins__": None}, {})
+        result = simple_eval(expression, functions=DEFAULT_FUNCTIONS, names=DEFAULT_NAMES)
         return f"Kết quả tính toán: {result}"
     except Exception as e:
         return f"Lỗi tính toán: {e}"

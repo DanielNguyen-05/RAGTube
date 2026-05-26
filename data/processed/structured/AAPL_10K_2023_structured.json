@@ -1,0 +1,1890 @@
+{
+  "document": "AAPL_10K_2023.pdf",
+  "source_chunk_file": "C:\\github\\AI-Audit-Assistant\\data\\processed\\chunks\\AAPL_10K_2023_chunks.json",
+  "sample_count": 235,
+  "samples": [
+    {
+      "question": "What is the state or other jurisdiction of incorporation or organization of Apple Inc.?",
+      "contexts": [
+        "California (State or other jurisdiction of incorporation or organization)",
+        "Apple Inc. (Exact name of Registrant as specified in its charter)"
+      ],
+      "ground_truth": "California"
+    },
+    {
+      "question": "On which exchange are the 1.375% Notes due 2024 registered?",
+      "contexts": [
+        "Title of each class Common Stock, $0.00001 par value per share 1.375% Notes due 2024",
+        "Name of each exchange on which registered The Nasdaq Stock Market LLC"
+      ],
+      "ground_truth": "The Nasdaq Stock Market LLC"
+    },
+    {
+      "question": "Is the Registrant a well-known seasoned issuer?",
+      "contexts": [
+        "The Registrant is indicated by check mark as a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.",
+        "Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act: Yes ☑ No ☐"
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "Is the Registrant a large accelerated filer?",
+      "contexts": [
+        "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer",
+        "The Registrant has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months"
+      ],
+      "ground_truth": "Unknown"
+    },
+    {
+      "question": "What types of filers are defined in Rule 12b-2 of the Exchange Act?",
+      "contexts": [
+        "See the definitions of 'large accelerated filer,' 'accelerated filer,' 'smaller reporting company,' and 'emerging growth company' in Rule 12b-2 of the Exchange Act.",
+        "The Registrant is classified as a filer, which can be a non-accelerated filer, a smaller reporting company, or an emerging growth company."
+      ],
+      "ground_truth": "large accelerated filer, accelerated filer, smaller reporting company, emerging growth company"
+    },
+    {
+      "question": "Is the Registrant a shell company as defined in Rule 12b-2 of the Act?",
+      "contexts": [
+        "Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).",
+        "Yes ☐ No ☑"
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What was the approximate value of the voting and non-voting stock held by non-affiliates of the Registrant as of March 31, 2023?",
+      "contexts": [
+        "The value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 31, 2023, was approximately $2,591,165,000,000.",
+        "Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the Registrant as of such date have been excluded because such persons may be deemed to be affiliates."
+      ],
+      "ground_truth": "$2,591,165,000,000"
+    },
+    {
+      "question": "How many shares of common stock were issued and outstanding as of October 20, 2023?",
+      "contexts": [
+        "15,552,752,000 shares of common stock were issued and outstanding as of October 20, 2023.",
+        "The Registrant's definitive proxy statement relating to its 2024 annual meeting of shareholders is incorporated by reference into Part III of this Annual Report on Form 10-K."
+      ],
+      "ground_truth": "15,552,752,000"
+    },
+    {
+      "question": "What item in the table of contents is related to the management's analysis of Apple Inc.'s financial condition?",
+      "contexts": [
+        "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+        "The table of contents includes various items related to financial disclosures and analysis."
+      ],
+      "ground_truth": "Item 7"
+    },
+    {
+      "question": "What items are included in Part II of the report?",
+      "contexts": [
+        "Item 10. Directors, Executive Officers and Corporate Governance",
+        "Item 11. Executive Compensation",
+        "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters"
+      ],
+      "ground_truth": "Items 10, 11, and 12"
+    },
+    {
+      "question": "Where can forward-looking statements primarily be found in this Form 10-K?",
+      "contexts": [
+        "Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading 'Business' and Part II, Item 7 of this Form 10-K under the heading 'Management's Discussion and Analysis of Financial Condition and Results of Operations.'",
+        "Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact."
+      ],
+      "ground_truth": "Part I, Item 1 and Part II, Item 7"
+    },
+    {
+      "question": "What might cause differences between the Company's actual results and its forward-looking statements?",
+      "contexts": [
+        "Forward-looking statements are not guarantees of future performance and the Company's actual results may differ significantly from the results discussed in the forward-looking statements.",
+        "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading 'Risk Factors.'"
+      ],
+      "ground_truth": "Factors discussed in Part I, Item 1A under 'Risk Factors'"
+    },
+    {
+      "question": "What is the basis for the Company's fiscal calendar?",
+      "contexts": [
+        "herein is based on the Company's fiscal calendar, and references to particular years, quarters, months or periods refer to the Company's fiscal years ended in September and the associated quarters, months and periods of those fiscal years.",
+        "The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September."
+      ],
+      "ground_truth": "the last Saturday of September"
+    },
+    {
+      "question": "What are the different product lines offered by the Company?",
+      "contexts": [
+        "The Company offers iPhone, Mac, and iPad product lines.",
+        "Mac and iPad lines include various models such as MacBook, iMac, iPad Pro, and iPad mini.",
+        "The Company also has a Wearables, Home and Accessories line."
+      ],
+      "ground_truth": "iPhone, Mac, iPad, and Wearables, Home and Accessories"
+    },
+    {
+      "question": "What are some of the products included in the Company's line of smartwatches and wireless headphones?",
+      "contexts": [
+        "The Company's line of smartwatches includes Apple Watch Ultra 2, Apple Watch Series 9 and Apple Watch SE.",
+        "The Company's line of wireless headphones includes AirPods, AirPods Pro, AirPods Max and Beats products."
+      ],
+      "ground_truth": "Apple Watch Ultra 2, Apple Watch Series 9, Apple Watch SE, AirPods, AirPods Pro, AirPods Max, and Beats products"
+    },
+    {
+      "question": "What types of services does the Company offer under the AppleCare brand?",
+      "contexts": [
+        "The Company offers a portfolio of fee-based service and support products under the AppleCare brand.",
+        "The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage or theft and loss, depending on the country and type of product."
+      ],
+      "ground_truth": "Fee-based service and support products, including priority access to technical support, repair and replacement services, and additional coverage for accidental damage or theft and loss."
+    },
+    {
+      "question": "What types of digital content does the Company offer through its services?",
+      "contexts": [
+        "The Company offers digital content through subscription-based services, including Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; and Apple TV+, which offers exclusive original content and live sports.",
+        "allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts."
+      ],
+      "ground_truth": "books, music, video, games, podcasts, and other exclusive original content"
+    },
+    {
+      "question": "What geographic regions are included in the Europe segment?",
+      "contexts": [
+        "Europe includes European countries, as well as India, the Middle East and Africa.",
+        "Greater China includes China mainland, Hong Kong and Taiwan.",
+        "Rest of Asia Pacific includes Australia and those Asian countries not included in the Company's other reportable segments."
+      ],
+      "ground_truth": "European countries, India, the Middle East and Africa"
+    },
+    {
+      "question": "What percentage of the Company's total net sales in 2023 came from indirect distribution channels?",
+      "contexts": [
+        "The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force.",
+        "The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers.",
+        "During 2023, the Company's net sales through its direct and indirect distribution channels accounted for 37% and 63%, respectively, of total net sales."
+      ],
+      "ground_truth": "63%"
+    },
+    {
+      "question": "How do many of the Company's competitors seek to compete?",
+      "contexts": [
+        "Many of the Company's competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company's products and infringing on its intellectual property.",
+        "The Company faces competition due to improvement in product price and performance characteristics, and rapid adoption of technological advancements."
+      ],
+      "ground_truth": "Through aggressive pricing, low cost structures, imitating products, and infringing on intellectual property."
+    },
+    {
+      "question": "What are the key factors that contribute to the Company's competitiveness in the marketplace?",
+      "contexts": [
+        "The Company's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace.",
+        "Principal competitive factors important to the Company include price, product and service features, relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation."
+      ],
+      "ground_truth": "Price, product and service features, relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation."
+    },
+    {
+      "question": "What factors contribute to the intense competition in the markets where the Company operates?",
+      "contexts": [
+        "The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases.",
+        "Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins."
+      ],
+      "ground_truth": "Significant resources, established offerings, aggressive price cutting, and lowered product margins"
+    },
+    {
+      "question": "What challenges does the Company face in terms of component supply?",
+      "contexts": [
+        "Although most components essential to the Company's business are generally available from multiple sources, certain components are currently obtained from single or limited sources.",
+        "The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories."
+      ],
+      "ground_truth": "The Company faces challenges due to limited sources for certain components and competition with other market participants."
+    },
+    {
+      "question": "What factors may affect the continued availability of custom components for the Company?",
+      "contexts": [
+        "The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source.",
+        "The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company's requirements."
+      ],
+      "ground_truth": "Suppliers deciding to concentrate on common components and initial capacity constraints"
+    },
+    {
+      "question": "What is crucial for the Company's ability to compete successfully in its industries?",
+      "contexts": [
+        "the Company's ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace",
+        "the Company continues to develop new technologies to enhance existing products and services, and to expand the range of its offerings through research and development (\"R&D\")"
+      ],
+      "ground_truth": "a continual and timely flow of competitive products, services and technologies"
+    },
+    {
+      "question": "What factors does the Company's success depend on, aside from ownership of intellectual property rights?",
+      "contexts": [
+        "Although the Company believes the ownership of such intellectual property rights is an important factor in differentiating its business and that its success does depend in part on such ownership,",
+        "the Company relies primarily on the innovative skills, technical competence and marketing abilities of its personnel."
+      ],
+      "ground_truth": "innovative skills, technical competence and marketing abilities of its personnel"
+    },
+    {
+      "question": "Does the Company rely solely on its own intellectual property rights for its products and services?",
+      "contexts": [
+        "No single intellectual property right is solely responsible for protecting the Company's products and services.",
+        "Many of the Company's products and services are designed to include intellectual property owned by third parties."
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is the 2023 Form 10-K for Apple Inc.",
+        "The URL provided is for the edgar/data/320193/000032019323000106/aapl-20230930.htm document."
+      ],
+      "ground_truth": "2023"
+    },
+    {
+      "question": "What factors contribute to the Company's higher net sales in its first quarter?",
+      "contexts": [
+        "The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand.",
+        "new product and service introductions can significantly impact net sales"
+      ],
+      "ground_truth": "Seasonal holiday demand and new product introductions"
+    },
+    {
+      "question": "How many full-time equivalent employees did the Company have as of September 30, 2023?",
+      "contexts": [
+        "As of September 30, 2023, the Company had approximately 161,000 full-time equivalent employees.",
+        "The Company works to create an inclusive, safe and supportive environment for all of its team members."
+      ],
+      "ground_truth": "161,000"
+    },
+    {
+      "question": "What does the Company aim to achieve in terms of its workforce?",
+      "contexts": [
+        "The Company is committed to its vision to build and sustain a more inclusive workforce that is representative of the communities it serves.",
+        "The Company continues to work to increase diverse representation at every level, foster an inclusive culture, and support equitable pay and access to opportunity for all employees."
+      ],
+      "ground_truth": "A more inclusive workforce representative of the communities it serves"
+    },
+    {
+      "question": "What steps does the Company take to protect its team members' safety and security?",
+      "contexts": [
+        "The Company identifies potential workplace risks in order to develop measures to mitigate possible hazards.",
+        "The Company supports employees with general safety, security and crisis management training, and by putting specific programs in place for those working in potentially high-hazard environments."
+      ],
+      "ground_truth": "The Company identifies potential workplace risks, develops measures to mitigate hazards, provides safety and security training, and implements specific programs for high-hazard environments."
+    },
+    {
+      "question": "Where can investors find reports filed by the Company with the SEC?",
+      "contexts": [
+        "Such reports and other information filed by the Company with the SEC are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx",
+        "The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations"
+      ],
+      "ground_truth": "investor.apple.com/investor-relations/sec-filings/default.aspx"
+    },
+    {
+      "question": "Where can investors find information about Apple's financial performance and governance matters?",
+      "contexts": [
+        "Investors can find information about financial performance, environmental, social and governance matters on the website investor.apple.com.",
+        "The Company's annual meeting of shareholders details are also available on this website."
+      ],
+      "ground_truth": "investor.apple.com"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is the 2023 Form 10-K for Apple Inc.",
+        "The URL provided is for the edgar/data/320193/000032019323000106/aapl-20230930.htm document."
+      ],
+      "ground_truth": "2023"
+    },
+    {
+      "question": "What can affect the Company's business, reputation, results of operations, financial condition and stock price?",
+      "contexts": [
+        "The Company's business, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known or unknown.",
+        "When any one or more of these risks materialize from time to time, the Company's business, reputation, results of operations, financial condition and stock price can be materially and adversely affected."
+      ],
+      "ground_truth": "A number of factors, whether currently known or unknown"
+    },
+    {
+      "question": "What proportion of the Company's total net sales come from outside the U.S.?",
+      "contexts": [
+        "The Company has international operations with sales outside the U.S. representing a majority of the Company's total net sales.",
+        "The Company's global supply chain is large and complex"
+      ],
+      "ground_truth": "A majority"
+    },
+    {
+      "question": "What factors can materially adversely affect demand for the Company's products and services?",
+      "contexts": [
+        "Adverse macroeconomic conditions, including slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations, can adversely impact consumer confidence and spending and materially adversely affect demand for the Company's products and services.",
+        "Consumer confidence and spending can be materially adversely affected in response to changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors."
+      ],
+      "ground_truth": "Adverse macroeconomic conditions and changes in fiscal and monetary policy"
+    },
+    {
+      "question": "What are some potential outcomes for the Company's partners and financial institutions due to adverse economic conditions?",
+      "contexts": [
+        "Uncertainty about, or a decline in, global or regional economic conditions can have a significant impact on the Company's suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners, and developers.",
+        "Potential outcomes include financial instability; inability to obtain credit to finance business operations; and insolvency."
+      ],
+      "ground_truth": "Financial instability, inability to obtain credit, and insolvency"
+    },
+    {
+      "question": "What types of events can negatively impact the Company's business and global economy?",
+      "contexts": [
+        "The Company's business can be impacted by political events, trade and other international disputes, war, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions.",
+        "Political events, trade and other international disputes, war, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can harm or disrupt international commerce and the global economy."
+      ],
+      "ground_truth": "Political events, trade disputes, war, terrorism, natural disasters, public health issues, industrial accidents, and other business interruptions."
+    },
+    {
+      "question": "What characteristics define the global markets for the Company's products and services?",
+      "contexts": [
+        "Global markets for the Company's products and services are highly competitive and subject to rapid technological change",
+        "The Company's products and services are offered in highly competitive global markets characterized by aggressive price competition and resulting downward pressure on gross margins"
+      ],
+      "ground_truth": "Highly competitive, rapid technological change, aggressive price competition, and short product life cycles"
+    },
+    {
+      "question": "What is crucial for the Company's ability to compete successfully in the market?",
+      "contexts": [
+        "The Company's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace.",
+        "The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services."
+      ],
+      "ground_truth": "the continuing and timely introduction of innovative new products, services and technologies"
+    },
+    {
+      "question": "What is the name of the company that filed the 2023 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2023 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What is the URL of the financial report?",
+      "contexts": [
+        "The financial report is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What regions does the Company rely on for outsourcing partners to supply and manufacture components?",
+      "contexts": [
+        "The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components",
+        "outsourcing partners primarily located in Asia, for final assembly of substantially all of the Company's hardware products"
+      ],
+      "ground_truth": "U.S., Asia, and Europe"
+    },
+    {
+      "question": "What could happen if the Company's outsourcing partners or suppliers experience financial problems?",
+      "contexts": [
+        "The Company has equipment held at certain outsourcing partners and has made prepayments to suppliers associated with long-term supply agreements.",
+        "If these outsourcing partners or suppliers experience severe financial problems, the continued supply can be reduced or terminated."
+      ],
+      "ground_truth": "The continued supply can be reduced or terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted."
+    },
+    {
+      "question": "What type of risks can affect the Company's business and financial condition?",
+      "contexts": [
+        "Many components are at times subject to industry-wide shortages and significant commodity pricing fluctuations.",
+        "The global semiconductor industry has experienced high demand and shortages of supply, which adversely affected the Company's ability to obtain sufficient quantities of components."
+      ],
+      "ground_truth": "Pricing risks"
+    },
+    {
+      "question": "What factors can affect the Company's ability to obtain sufficient quantities of components?",
+      "contexts": [
+        "suppliers may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company's ability to obtain sufficient quantities of components on commercially reasonable terms or at all",
+        "The effects of global or regional economic conditions on the Company's suppliers can also affect the Company's ability to obtain components"
+      ],
+      "ground_truth": "poor financial conditions of suppliers and global or regional economic conditions"
+    },
+    {
+      "question": "What can affect the continued availability of custom components for the Company's products?",
+      "contexts": [
+        "The Company's new products often utilize custom components available from only one source.",
+        "The continued availability of these components at acceptable prices, or at all, can be affected for any number of reasons, including if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company's requirements."
+      ],
+      "ground_truth": "Suppliers deciding to concentrate on common components, among other reasons"
+    },
+    {
+      "question": "What factors could materially adversely affect the Company's business and financial performance?",
+      "contexts": [
+        "The Company's business, results of operations and financial condition have been adversely affected and future delays or constraints could materially adversely affect the Company's business, results of operations and financial condition.",
+        "The Company's business and financial performance could also be materially adversely affected depending on the time required to obtain sufficient quantities from the source, or to identify and obtain sufficient quantities from an alternative source.",
+        "The Company's products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company's business and result in harm to the Company's reputation."
+      ],
+      "ground_truth": "Delays or constraints, difficulties in obtaining sufficient quantities from sources, and design and manufacturing defects"
+    },
+    {
+      "question": "What are some potential risks associated with defects in the Company's products and services?",
+      "contexts": [
+        "Defects can also exist in components and products the Company purchases from third parties.",
+        "Component defects could make the Company's products unsafe and create a risk of environmental or property damage and personal injury.",
+        "These risks may increase as the Company's products are introduced into specialized applications, including health."
+      ],
+      "ground_truth": "Environmental or property damage and personal injury"
+    },
+    {
+      "question": "What are the potential consequences if the Company fails to detect and fix issues and defects in its products and services?",
+      "contexts": [
+        "have not performed as anticipated and may not meet customer expectations",
+        "Failure to do so can result in widespread technical and performance issues affecting the Company's products and services",
+        "the Company can be exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, plant and equipment"
+      ],
+      "ground_truth": "widespread technical and performance issues, product liability claims, recalls, and financial losses"
+    },
+    {
+      "question": "What are some potential consequences of quality problems for the Company's products and services?",
+      "contexts": [
+        "Quality problems can also adversely affect the experience for users of the Company's products and services, and result in harm to the Company's reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.",
+        "intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines."
+      ],
+      "ground_truth": "harm to reputation, loss of competitive advantage, poor market acceptance, reduced demand, delay in new introductions, and lost sales"
+    },
+    {
+      "question": "What is the URL of the financial report?",
+      "contexts": [
+        "The financial report is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What action does the Company take when it determines that an impairment of a long-lived asset has occurred?",
+      "contexts": [
+        "The Company reviews long-lived assets for impairment whenever events or circumstances indicate the assets may not be recoverable.",
+        "If the Company determines that an impairment has occurred, it records a write-down equal to the amount by which the carrying value of the asset exceeds"
+      ],
+      "ground_truth": "It records a write-down equal to the amount by which the carrying value of the asset exceeds"
+    },
+    {
+      "question": "What is the typical duration covered by the Company's manufacturing purchase obligations?",
+      "contexts": [
+        "Manufacturing purchase obligations cover the Company's forecasted component and manufacturing requirements, typically for periods up to 150 days.",
+        "The Company orders components for its products and builds inventory in advance of product announcements and shipments."
+      ],
+      "ground_truth": "up to 150 days"
+    },
+    {
+      "question": "What is a risk related to the Company's use of third-party intellectual property?",
+      "contexts": [
+        "The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms or at all.",
+        "The Company's products and services are designed to include intellectual property owned by third parties, which requires licenses from those third parties."
+      ],
+      "ground_truth": "The Company may not have access to it on commercially reasonable terms or at all."
+    },
+    {
+      "question": "What could happen if the Company fails to obtain necessary licenses to use third-party intellectual property?",
+      "contexts": [
+        "The Company has been notified that it may be infringing certain patents or other intellectual property rights of third parties.",
+        "Failure to obtain the right to use third-party intellectual property, or to use such intellectual property on commercially reasonable terms, can preclude the Company from selling certain products or services, or otherwise have a material adverse impact on the Company's business, results of operations and financial condition."
+      ],
+      "ground_truth": "It could preclude the Company from selling certain products or services, or have a material adverse impact on its business, results of operations and financial condition."
+    },
+    {
+      "question": "What factor does the Company believe influences customers' decisions to purchase its hardware products?",
+      "contexts": [
+        "The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party software applications and services.",
+        "There can be no assurance third-party developers will continue to develop and maintain software applications and services for the Company's products."
+      ],
+      "ground_truth": "the availability of third-party software applications and services"
+    },
+    {
+      "question": "What may discourage developers from creating software for the Company's products?",
+      "contexts": [
+        "The Company's minority market share in the global smartphone, personal computer and tablet markets can make developers less inclined to develop or upgrade software for the Company's products",
+        "developers may be more inclined to devote their resources to developing and upgrading software for competitors' products with larger market share"
+      ],
+      "ground_truth": "The Company's minority market share"
+    },
+    {
+      "question": "What happens when third-party developers fail to keep up with the pace of technological change in the Company's products?",
+      "contexts": [
+        "The Company's products and operating systems are subject to rapid technological change, and when third-party developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these changes to deliver improved customer experiences, can operate incorrectly, and can result in dissatisfied customers and lower customer demand for the Company's products.",
+        "The Company relies on the continued availability and development of compelling and innovative software applications for its products."
+      ],
+      "ground_truth": "Their applications can fail to deliver improved customer experiences, operate incorrectly, and result in dissatisfied customers and lower customer demand."
+    },
+    {
+      "question": "By when is the Company required to comply with the European Union's Digital Markets Act?",
+      "contexts": [
+        "The Company expects to make further business changes in the future, including as a result of legislative initiatives impacting the App Store, such as the European Union (\"EU\") Digital Markets Act, which the Company is required to comply with by March 2024."
+      ],
+      "ground_truth": "March 2024"
+    },
+    {
+      "question": "How might future changes related to the App Store investigations affect the Company's revenue?",
+      "contexts": [
+        "Changes have included how developers communicate with consumers outside the App Store regarding alternative purchasing mechanisms.",
+        "Future changes could also affect what the Company charges developers for access to its platforms, and the commission that the Company earns on sales."
+      ],
+      "ground_truth": "They could reduce the volume of sales and decrease the commission the Company earns."
+    },
+    {
+      "question": "What could happen if the Company fails to obtain appealing digital content for its customers?",
+      "contexts": [
+        "Failure to obtain or create digital content that appeals to the Company's customers, or to make such content available on commercially reasonable terms, could have a material adverse impact on the Company's business, results of operations and financial condition.",
+        "The Company contracts with numerous third parties to offer their digital content to customers."
+      ],
+      "ground_truth": "It could have a material adverse impact on the Company's business, results of operations and financial condition."
+    },
+    {
+      "question": "What challenges does the Company face in offering a wide variety of content at commercially reasonable prices?",
+      "contexts": [
+        "Some third-party content providers and distributors currently or in the future may offer competing products and services, and can take actions to make it difficult or impossible for the Company to license or otherwise distribute their content.",
+        "Other content owners, providers or distributors may seek to limit the Company's access to, or increase the cost of, such content.",
+        "The Company may be unable to continue to offer a wide variety of content at commercially reasonable prices with acceptable usage rules."
+      ],
+      "ground_truth": "Competition from third-party providers, potential limitations on access to content, and increasing costs."
+    },
+    {
+      "question": "What is a key factor in the Company's future success?",
+      "contexts": [
+        "The Company's success depends largely on the talents and efforts of its team members",
+        "Much of the Company's future success depends on the talents and efforts of its team members and the continued availability and service of key personnel"
+      ],
+      "ground_truth": "The talents and efforts of its team members and key personnel"
+    },
+    {
+      "question": "What could happen if the Company fails to manage changing workforce dynamics effectively?",
+      "contexts": [
+        "Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company's key personnel are located.",
+        "If the Company does not manage changing workforce dynamics effectively, it could materially adversely affect the Company's culture, reputation and operational flexibility."
+      ],
+      "ground_truth": "It could materially adversely affect the Company's culture, reputation and operational flexibility."
+    },
+    {
+      "question": "Who does the Company depend on for its business operations?",
+      "contexts": [
+        "The Company depends on the performance of carriers, wholesalers, retailers and other resellers.",
+        "The Company distributes its products and certain of its services through cellular network carriers, wholesalers, retailers and resellers."
+      ],
+      "ground_truth": "carriers, wholesalers, retailers and other resellers"
+    },
+    {
+      "question": "What types of customers does the company sell its products and services to?",
+      "contexts": [
+        "The company sells its products and services directly to consumers, small and mid-sized businesses, and education, enterprise and government customers.",
+        "Sales are made through its retail and online stores and its direct sales force in most of its major markets."
+      ],
+      "ground_truth": "Consumers, small and mid-sized businesses, education, enterprise and government customers"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What are some risks associated with the Company's reliance on resellers and information technology systems?",
+      "contexts": [
+        "The Company has invested in programs to enhance reseller sales, which can require substantial investment without assuring return or incremental sales.",
+        "The financial condition of resellers could weaken, causing them to stop distributing the Company's products or reduce their ordering and marketing.",
+        "The Company's business and reputation are impacted by information technology system failures and network disruptions."
+      ],
+      "ground_truth": "Risks include weakened reseller financial condition, reduced ordering and marketing, information technology system failures, and network disruptions."
+    },
+    {
+      "question": "What are some potential causes of information technology system failures or network disruptions that the Company may face?",
+      "contexts": [
+        "The Company is exposed to information technology system failures or network disruptions caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions.",
+        "System upgrades, redundancy and other continuity measures may be ineffective or inadequate, and the Company's or its vendors' business continuity and disaster recovery planning may not be sufficient for all eventualities."
+      ],
+      "ground_truth": "Natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, ransomware or other cybersecurity incidents"
+    },
+    {
+      "question": "What are the potential consequences of losses or unauthorized access to confidential information for the Company?",
+      "contexts": [
+        "Losses or unauthorized access to or releases of confidential information, including personal information, could subject the Company to significant reputational, financial, legal and operational consequences.",
+        "The Company's business requires it to use and store confidential information, including personal information, with respect to the Company's customers and employees."
+      ],
+      "ground_truth": "Significant reputational, financial, legal and operational consequences"
+    },
+    {
+      "question": "What are some risks to the Company's business and financial condition related to information security?",
+      "contexts": [
+        "The Company's business requires it to share confidential information with suppliers and other third parties, which can lead to losses or unauthorized access.",
+        "Global suppliers the Company relies on are exposed to ransomware and other malicious attacks that can disrupt business operations."
+      ],
+      "ground_truth": "Information security incidents and malicious attacks"
+    },
+    {
+      "question": "What are the potential consequences of malicious attacks on the Company's systems?",
+      "contexts": [
+        "The Company experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis.",
+        "These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal business operations."
+      ],
+      "ground_truth": "Impair ability to attract and retain customers, impact stock price, damage commercial relationships, and expose to litigation or government investigations."
+    },
+    {
+      "question": "Why is the Company at a greater risk of being targeted by malicious attacks?",
+      "contexts": [
+        "Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the value of the confidential information it creates, owns, manages, stores and processes.",
+        "The Company has implemented systems and processes intended to secure its information technology systems and prevent unauthorized access to or loss of"
+      ],
+      "ground_truth": "Its high profile and the value of the confidential information it handles"
+    },
+    {
+      "question": "What measures does the Company use to protect against unauthorized access?",
+      "contexts": [
+        "The Company uses encryption and authentication technologies to mitigate the impact of unauthorized access.",
+        "The Company deploys and makes available technologies like multifactor authentication to help protect customers and the Company."
+      ],
+      "ground_truth": "Encryption, authentication technologies, and multifactor authentication"
+    },
+    {
+      "question": "What happens to customer orders if the Company's systems detect suspicious activity?",
+      "contexts": [
+        "The Company's systems may freeze accounts under suspicious circumstances, which can result in the delay or loss of customer orders.",
+        "Such actions are intended to mitigate unusual activity."
+      ],
+      "ground_truth": "The orders may be delayed or lost."
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What are some potential risks associated with the Company's investment in new business strategies or acquisitions?",
+      "contexts": [
+        "Investment in new business strategies and acquisitions could disrupt the Company's ongoing business, present risks not originally contemplated and materially affect the Company's business, reputation, results of operations and financial condition.",
+        "Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic, political, legal and regulatory challenges associated with operating in new businesses, regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs."
+      ],
+      "ground_truth": "Distraction of management, greater-than-expected liabilities and expenses, economic challenges, and potential impairment of assets"
+    },
+    {
+      "question": "What are some potential risks associated with the Company's new ventures and retail operations?",
+      "contexts": [
+        "These new ventures are inherently risky and may not be successful.",
+        "The Company's retail stores are subject to numerous risks and uncertainties."
+      ],
+      "ground_truth": "Risks and uncertainties, potential failure of investments"
+    },
+    {
+      "question": "What are some factors that could have an adverse effect on the Company's retail activity?",
+      "contexts": [
+        "The Company's condition is affected by macroeconomic factors and its ability to manage costs associated with retail store construction and operation.",
+        "Other factors include managing relationships with existing retail partners and managing costs associated with fluctuations in the value of retail inventory."
+      ],
+      "ground_truth": "Macroeconomic factors, cost management, and relationship management with retail partners"
+    },
+    {
+      "question": "What type of claims has the Company faced and may continue to face in relation to its products?",
+      "contexts": [
+        "The Company has faced and continues to face a significant number of patent claims relating to its cellular-enabled products, and new claims may arise in the future.",
+        "The number of claims, legal proceedings and government investigations involving the Company, and the alleged magnitude of such claims, proceedings and government investigations, has generally increased over time and may continue to increase."
+      ],
+      "ground_truth": "Patent claims"
+    },
+    {
+      "question": "What actions may the Company take to address litigation related to patent infringement?",
+      "contexts": [
+        "The Company is vigorously defending infringement actions in courts in several U.S. jurisdictions, as well as internationally in various countries.",
+        "The Company may enter into agreements or other arrangements to settle litigation and resolve such challenges."
+      ],
+      "ground_truth": "Defend or settle"
+    },
+    {
+      "question": "What could be the impact of agreements related to legal proceedings on the Company's operations?",
+      "contexts": [
+        "These agreements can also significantly increase the Company's cost of sales and operating expenses and require the Company to change its business practices and limit the Company's ability to offer certain products and services.",
+        "Except as described in Part I, Item 3 of this Form 10-K under the heading 'Legal Proceedings' and in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 12, 'Commitments, Contingencies and Supply Concentrations' under the heading 'Contingencies,'"
+      ],
+      "ground_truth": "Increased costs and changes to business practices"
+    },
+    {
+      "question": "What could be the impact on the Company's results of operations and financial condition if a legal matter is resolved against it?",
+      "contexts": [
+        "The outcome of litigation or government investigations is inherently uncertain.",
+        "If one or more legal matters were resolved against the Company or an indemnified third party in a reporting period for amounts above management's expectations, the Company's results of operations and financial condition for that reporting period could be materially adversely affected."
+      ],
+      "ground_truth": "Materially adverse effect"
+    },
+    {
+      "question": "Does the Company's insurance coverage fully protect against all potential losses or claims?",
+      "contexts": [
+        "The Company maintains insurance coverage for certain types of claims",
+        "such insurance coverage may be insufficient to cover all losses or all types of claims that may arise"
+      ],
+      "ground_truth": "No"
+    },
+    {
+      "question": "What areas of law and regulation pose potential risks to the Company's business?",
+      "contexts": [
+        "The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased costs and other adverse effects on the Company's business.",
+        "The Company's global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy, data security and data localization; consumer protection; and other areas."
+      ],
+      "ground_truth": "Areas such as antitrust, privacy, consumer protection, and intellectual property ownership among others."
+    },
+    {
+      "question": "How can new and changing laws and regulations affect the Company's business?",
+      "contexts": [
+        "Compliance with laws and regulations is onerous and expensive.",
+        "New and changing laws and regulations can increase the Company's costs, limit its ability to offer products or services, and impact customer demand."
+      ],
+      "ground_truth": "Increase costs, limit product offerings, impact customer demand, and require changes to supply chain and business operations."
+    },
+    {
+      "question": "What could happen if the Company violates laws and regulations?",
+      "contexts": [
+        "The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance the Company's employees, contractors or agents will not violate such laws and regulations or the Company's policies and procedures.",
+        "If the Company is found to have violated laws and regulations, it could materially adversely affect the Company's business, reputation, results of operations and financial condition."
+      ],
+      "ground_truth": "It could materially adversely affect the Company's business, reputation, results of operations and financial condition."
+    },
+    {
+      "question": "What could happen to the Company's products if it fails to comply with changing regulations?",
+      "contexts": [
+        "The Company is subject to changing regulations relating to the export and import of its products.",
+        "Although the Company has programs, policies and procedures in place that are designed to satisfy regulatory requirements, there can be no assurance that such policies and procedures will be effective in preventing a violation or a claim of a violation.",
+        "The Company's products could be banned, delayed or prohibited from importation, which could materially adversely affect the Company's business, reputation, results of operations and financial condition."
+      ],
+      "ground_truth": "The Company's products could be banned, delayed or prohibited from importation."
+    },
+    {
+      "question": "What are some of the key areas of focus for governments, regulators, and other stakeholders regarding businesses?",
+      "contexts": [
+        "Many governments, regulators, investors, customers and other stakeholders are increasingly focused on environmental, social and governance considerations relating to businesses.",
+        "These considerations include climate change and greenhouse gas emissions, human and civil rights, and diversity, equity and inclusion."
+      ],
+      "ground_truth": "Environmental, social, and governance considerations, including climate change, human and civil rights, and diversity, equity, and inclusion."
+    },
+    {
+      "question": "What could be the consequences if the Company fails to achieve its environmental, social and governance goals?",
+      "contexts": [
+        "The Company cannot guarantee that it will achieve its announced environmental, social and governance goals and initiatives.",
+        "Any failure, or perceived failure, by the Company to achieve its goals, further its initiatives, adhere to its public statements, comply with federal, state or international environmental, social and governance laws and regulations, or meet evolving and varied stakeholder expectations and standards could result in legal and regulatory proceedings against the Company and materially adversely affect the Company's business, reputation, results of operations, financial condition"
+      ],
+      "ground_truth": "Legal and regulatory proceedings, and material adverse effects on business, reputation, results of operations, financial condition"
+    },
+    {
+      "question": "Why does the Company make changes to its App Store?",
+      "contexts": [
+        "The Company has made changes to its App Store, including actions taken in response to litigation, competition, market conditions and legal and regulatory requirements.",
+        "The technology industry, including the Company, is subject to intense media, political and regulatory scrutiny."
+      ],
+      "ground_truth": "In response to litigation, competition, market conditions, and legal and regulatory requirements."
+    },
+    {
+      "question": "By when is the Company required to comply with the EU Digital Markets Act?",
+      "contexts": [
+        "including as a result of legislative initiatives impacting the App Store, such as the EU Digital Markets Act, which the Company is required to comply with by March 2024",
+        "Changes have included how developers communicate with consumers outside the App Store regarding alternative purchasing mechanisms"
+      ],
+      "ground_truth": "March 2024"
+    },
+    {
+      "question": "What is the name of the company that filed the 2023 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2023 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What factors contribute to the volatility and downward pressure on the Company's gross margins?",
+      "contexts": [
+        "The Company's gross margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global product pricing pressures and product pricing actions that the Company may take in response to such pressures; increased competition; the Company's ability to effectively stimulate demand for certain of its products and services; compressed product life cycles; supply shortages; potential increases in the cost of components",
+        "The Company's profit margins vary across its products, services, geographic segments and distribution channels"
+      ],
+      "ground_truth": "industry-wide global product pricing pressures, product pricing actions, increased competition, ability to stimulate demand, compressed product life cycles, supply shortages, and potential increases in component costs"
+    },
+    {
+      "question": "What are some factors that could negatively impact the Company's financial condition?",
+      "contexts": [
+        "The Company's ability to manage product quality and warranty costs effectively could impact its financial condition.",
+        "Shifts in the mix of products and services, or in the geographic, currency or channel mix, could have a materially adverse impact on the Company's results of operations and financial condition."
+      ],
+      "ground_truth": "Factors such as managing product quality, shifts in product and service mixes, and foreign exchange rate fluctuations"
+    },
+    {
+      "question": "What are some factors that can significantly impact the Company's quarterly net sales?",
+      "contexts": [
+        "The Company generates a significant portion of its net sales from a single product and a decline in demand for that product could significantly impact quarterly net sales.",
+        "new product and service introductions can significantly impact net sales, cost of sales and operating expenses.",
+        "seasonal holiday demand can impact net sales in different quarters of the fiscal year."
+      ],
+      "ground_truth": "Seasonal holiday demand, new product and service introductions, and demand for a single significant product"
+    },
+    {
+      "question": "How do foreign exchange rate fluctuations affect the Company's gross margins on products sold in foreign countries?",
+      "contexts": [
+        "Gross margins on the Company's products in foreign countries and on products that include components obtained from foreign suppliers have in the past been adversely affected and could in the future be materially adversely affected by foreign exchange rate fluctuations.",
+        "The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company's foreign currency-denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company's products."
+      ],
+      "ground_truth": "Adversely"
+    },
+    {
+      "question": "How might a strengthening of foreign currencies relative to the U.S. dollar affect the Company's gross margins?",
+      "contexts": [
+        "A strengthening of foreign currencies relative to the U.S. dollar could cause the Company to reduce international pricing or incur losses on its foreign currency derivative instruments, thereby limiting the benefit.",
+        "The strengthening of foreign currencies may increase the Company's cost of product components denominated in those currencies, thus adversely affecting gross margins."
+      ],
+      "ground_truth": "It could limit the benefit or adversely affect gross margins."
+    },
+    {
+      "question": "What types of financial risks is the Company exposed to?",
+      "contexts": [
+        "The Company is exposed to credit risk and fluctuations in the values of its investment portfolio.",
+        "The Company uses instruments like foreign currency forward and option contracts to hedge exposures to foreign exchange rate fluctuations."
+      ],
+      "ground_truth": "Credit risk and fluctuations in investment portfolio values"
+    },
+    {
+      "question": "What factors could cause fluctuations in the value and liquidity of the Company's cash and marketable securities?",
+      "contexts": [
+        "The Company's cash, cash equivalents and marketable securities may fluctuate substantially due to various factors.",
+        "These factors include changes in liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, and interest rate fluctuations."
+      ],
+      "ground_truth": "Changes in liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, and interest rate fluctuations."
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "Where is the Company's headquarters located?",
+      "contexts": [
+        "The Company's headquarters is located in Cupertino, California.",
+        "As of September 30, 2023, the Company owned or leased facilities and land for corporate functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S."
+      ],
+      "ground_truth": "Cupertino, California"
+    },
+    {
+      "question": "What was the outcome of the District Court's ruling on September 10, 2021, regarding Epic's claim against the Company?",
+      "contexts": [
+        "The District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic's claim.",
+        "The District Court found that certain provisions of the Company's App Store Review Guidelines violate California's unfair competition law."
+      ],
+      "ground_truth": "The Company won nine out of ten counts, but certain App Store Review Guidelines were found to violate California's unfair competition law."
+    },
+    {
+      "question": "What was the outcome of Apple's motion to stay enforcement of the injunction pending appeal to the U.S. Supreme Court?",
+      "contexts": [
+        "On July 17, 2023, the Circuit Court granted Apple's motion to stay enforcement of the injunction pending appeal to the U.S. Supreme Court.",
+        "If the U.S. Supreme Court denies Apple's petition, the stay of the injunction will expire."
+      ],
+      "ground_truth": "The Circuit Court granted the motion."
+    },
+    {
+      "question": "What is the expected end date of the administrative review period related to the limited exclusion order for Apple Watch models with blood oxygen sensing functionality?",
+      "contexts": [
+        "The Order will not go into effect until the end of the administrative review period, which is currently expected to end on December 25, 2023.",
+        "On October 26, 2023, the ITC entered a limited exclusion order prohibiting importation and sales in the United States of Apple Watch models with blood oxygen sensing functionality."
+      ],
+      "ground_truth": "December 25, 2023"
+    },
+    {
+      "question": "What could happen to the Company's financial condition if legal matters are resolved against it?",
+      "contexts": [
+        "The outcome of litigation is inherently uncertain.",
+        "If one or more legal matters were resolved against the Company in a reporting period for amounts above management's expectations, the Company's financial condition and operating results for that reporting period could be materially adversely affected."
+      ],
+      "ground_truth": "It could be materially adversely affected."
+    },
+    {
+      "question": "How many shareholders of record did the Company have as of October 20, 2023?",
+      "contexts": [
+        "Holders As of October 20, 2023, there were 23,763 shareholders of record.",
+        "The Company's common stock is traded on The Nasdaq Stock Market LLC under the symbol AAPL."
+      ],
+      "ground_truth": "23,763"
+    },
+    {
+      "question": "What was the total number of shares purchased by the Company from July 2, 2023 to September 30, 2023?",
+      "contexts": [
+        "The Company purchased 33,864 shares from July 2, 2023 to August 5, 2023, and 30,299 shares from August 6, 2023 to September 2, 2023, and 20,347 shares from September 3, 2023 to September 30, 2023, in addition to 22,085 shares from August 2023 ASRs.",
+        "Total shares purchased during this period were from open market and privately negotiated purchases, as well as from August 2023 ASRs."
+      ],
+      "ground_truth": "106,595"
+    },
+    {
+      "question": "How will the total number of shares delivered under the ASRs be determined?",
+      "contexts": [
+        "Under the terms of the ASRs, two financial institutions committed to deliver shares of the Company's common stock during the purchase periods in exchange for up-front payments totaling $5.0 billion.",
+        "The total number of shares ultimately delivered under the ASRs, and therefore the average repurchase price paid per share, is determined based on the volume-weighted average price of the Company's common stock during the ASRs' purchase periods, which end in the first quarter of 2024."
+      ],
+      "ground_truth": "Based on the volume-weighted average price of the Company's common stock during the ASRs' purchase periods."
+    },
+    {
+      "question": "What is the page number of this chunk?",
+      "contexts": [
+        "The chunk is located on page 30 out of 74 pages."
+      ],
+      "ground_truth": "30"
+    },
+    {
+      "question": "What is the duration of the Company's fiscal year?",
+      "contexts": [
+        "The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September."
+      ],
+      "ground_truth": "52 or 53 weeks"
+    },
+    {
+      "question": "What was the primary reason for the year-over-year decrease in the Company's total net sales in 2023?",
+      "contexts": [
+        "The Company's total net sales decreased 3% or $11.0 billion during 2023 compared to 2022.",
+        "The weakness in foreign currencies relative to the U.S. dollar accounted for more than the entire year-over-year decrease in total net sales, which consisted primarily of lower net sales of Mac and iPhone, partially offset by higher net sales of Services."
+      ],
+      "ground_truth": "Weakness in foreign currencies relative to the U.S. dollar"
+    },
+    {
+      "question": "What new products did Apple announce in the Third Quarter of 2023?",
+      "contexts": [
+        "In Third Quarter 2023, Apple announced MacBook Air 15\", Mac Studio and Mac Pro.",
+        "Apple also announced Apple Vision Pro, its first spatial computer, and updates to its operating systems including iOS 17 and macOS Sonoma."
+      ],
+      "ground_truth": "MacBook Air 15\", Mac Studio, Mac Pro, Apple Vision Pro, iOS 17, macOS Sonoma, iPadOS 17, tvOS 17 and watchOS 10"
+    },
+    {
+      "question": "What was the amount of common stock repurchased by the Company during 2023?",
+      "contexts": [
+        "In May 2023, the Company announced a new share repurchase program of up to $90 billion and raised its quarterly dividend from $0.23 to $0.24 per share beginning in May 2023.",
+        "During 2023, the Company repurchased $76.6 billion of its common stock and paid dividends and dividend equivalents of $15.0 billion."
+      ],
+      "ground_truth": "$76.6 billion"
+    },
+    {
+      "question": "What was the percentage change in net sales for the Americas segment in 2023 compared to 2022?",
+      "contexts": [
+        "Americas net sales decreased 4% or $7.1 billion during 2023 compared to 2022 due to lower net sales of iPhone and Mac, partially offset by higher net sales of Services.",
+        "Net sales by reportable segment: Americas $ 162,560 (4)% $ 169,658 11% $ 153,306"
+      ],
+      "ground_truth": "4% decrease"
+    },
+    {
+      "question": "What was the primary reason for the year-over-year decrease in Japan net sales during 2023 compared to 2022?",
+      "contexts": [
+        "The weakness in the yen relative to the U.S. dollar accounted for more than the entire year-over-year decrease in Japan net sales.",
+        "Japan net sales decreased 7% or $1.7 billion during 2023 compared to 2022."
+      ],
+      "ground_truth": "Weakness in the yen relative to the U.S. dollar"
+    },
+    {
+      "question": "What was the year-over-year impact of foreign currency weakness on Rest of Asia Pacific net sales?",
+      "contexts": [
+        "The weakness in foreign currencies relative to the U.S. dollar had a significantly unfavorable year-over-year impact on Rest of Asia Pacific net sales.",
+        "Rest of Asia Pacific net sales increased 1% or $240 million during 2023 compared to 2022."
+      ],
+      "ground_truth": "Significantly unfavorable"
+    },
+    {
+      "question": "What was the total net sales for the year 2023?",
+      "contexts": [
+        "The following table shows net sales by category for 2023, 2022 and 2021",
+        "Total net sales for 2023 were $383,285"
+      ],
+      "ground_truth": "$383,285"
+    },
+    {
+      "question": "What was the percentage decrease in Mac net sales during 2023 compared to 2022?",
+      "contexts": [
+        "Mac net sales decreased 27% or $10.8 billion during 2023 compared to 2022 due primarily to lower net sales of laptops.",
+        "iPhone net sales decreased 2% or $4.9 billion during 2023 compared to 2022 due to lower net sales of non-Pro iPhone models, partially offset by higher net sales of Pro iPhone models."
+      ],
+      "ground_truth": "27%"
+    },
+    {
+      "question": "What was the percentage change in Services net sales during 2023 compared to 2022?",
+      "contexts": [
+        "Services net sales increased 9% or $7.1 billion during 2023 compared to 2022 due to higher net sales across all lines of business.",
+        "Wearables, Home and Accessories net sales decreased 3% or $1.4 billion during 2023 compared to 2022."
+      ],
+      "ground_truth": "9%"
+    },
+    {
+      "question": "What was the total gross margin for Apple's products and services in 2023?",
+      "contexts": [
+        "Gross margin for 2023, 2022 and 2021 were as follows: 2023 Gross margin: Products $ 108,803, Services 60,345, Total gross margin $ 169,148",
+        "Products gross margin decreased during 2023 compared to 2022 due to the weakness in foreign currencies relative to the U.S. dollar and lower Products volume, partially offset by cost savings and a different Products mix."
+      ],
+      "ground_truth": "$ 169,148"
+    },
+    {
+      "question": "What were the primary factors affecting Services gross margin percentage in 2023 compared to 2022?",
+      "contexts": [
+        "Services gross margin increased during 2023 compared to 2022 due primarily to higher Services net sales, partially offset by the weakness in foreign currencies relative to the U.S. dollar and higher Services costs.",
+        "Services gross margin percentage decreased during 2023 compared to 2022 due to higher Services costs and the weakness in foreign currencies relative to the U.S. dollar, partially offset by a different Services mix."
+      ],
+      "ground_truth": "Higher Services costs and weakness in foreign currencies"
+    },
+    {
+      "question": "What was the percentage of total net sales attributed to total operating expenses in 2023?",
+      "contexts": [
+        "Total operating expenses $ 54,847 7% $ 51,345 17% $ 43,887 Percentage of total net sales 14% 13%",
+        "Operating expenses for 2023, 2022 and 2021 were as follows"
+      ],
+      "ground_truth": "14%"
+    },
+    {
+      "question": "What was the primary reason for the difference between the Company's effective tax rate and the statutory federal income tax rate in 2023 and 2022?",
+      "contexts": [
+        "The Company's effective tax rate for 2023 and 2022 was lower than the statutory federal income tax rate due primarily to a lower effective tax rate on foreign earnings, the impact of the U.S. federal R&D credit, and tax benefits from share-based compensation, partially offset by state income taxes.",
+        "The statutory federal income tax rate was 21% for all three years: 2021, 2022, and 2023."
+      ],
+      "ground_truth": "A lower effective tax rate on foreign earnings, the impact of the U.S. federal R&D credit, and tax benefits from share-based compensation."
+    },
+    {
+      "question": "What was the total amount of the Company's cash, cash equivalents, and unrestricted marketable securities as of September 30, 2023?",
+      "contexts": [
+        "The Company believes its balances of cash, cash equivalents and unrestricted marketable securities, which totaled $148.3 billion as of September 30, 2023, along with cash generated by ongoing operations and continued access to debt markets, will be sufficient to satisfy its cash requirements and capital return program over the next 12 months and beyond.",
+        "The Company's material cash requirements include the following contractual obligations:"
+      ],
+      "ground_truth": "$148.3 billion"
+    },
+    {
+      "question": "What is the total amount of fixed lease payment obligations as of September 30, 2023?",
+      "contexts": [
+        "The Company has lease arrangements for certain equipment and facilities, including corporate, data center, manufacturing and retail space.",
+        "As of September 30, 2023, the Company had fixed lease payment obligations of $15.8 billion, with $2.0 billion payable within 12 months."
+      ],
+      "ground_truth": "$15.8 billion"
+    },
+    {
+      "question": "What was the total amount of the Company's manufacturing purchase obligations as of September 30, 2023?",
+      "contexts": [
+        "Company utilizes several outsourcing partners to manufacture subassemblies for the Company's products and to perform final assembly and testing of finished products.",
+        "The Company had manufacturing purchase obligations of $53.1 billion, with $52.9 billion payable within 12 months as of September 30, 2023."
+      ],
+      "ground_truth": "$53.1 billion"
+    },
+    {
+      "question": "What was the total amount of other purchase obligations the Company had as of September 30, 2023?",
+      "contexts": [
+        "The Company's other purchase obligations primarily consist of noncancelable obligations to acquire capital assets and other arrangements.",
+        "As of September 30, 2023, the Company had other purchase obligations of $21.9 billion."
+      ],
+      "ground_truth": "$21.9 billion"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2023.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "2023"
+    },
+    {
+      "question": "What is the URL of the financial report?",
+      "contexts": [
+        "The financial report is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the primary impact of increased interest rates on the Company's financials?",
+      "contexts": [
+        "The Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company's investment portfolio and term debt.",
+        "Increases in interest rates will negatively affect the fair value of the Company's investment portfolio and increase the interest expense on the Company's term debt."
+      ],
+      "ground_truth": "Negatively affects the fair value of the investment portfolio and increases interest expense on term debt."
+    },
+    {
+      "question": "What would be the potential impact on the Company's investment portfolio if there were a hypothetical 100 basis points increase in interest rates as of September 30, 2023?",
+      "contexts": [
+        "The following table sets forth potential impacts on the Company's investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 30, 2023 and September 24, 2022.",
+        "Investment portfolio 100 basis points, all tenors Decline in fair value $ 3,089 $ 4,022"
+      ],
+      "ground_truth": "Decline in fair value of $3,089"
+    },
+    {
+      "question": "How does a strengthening of the U.S. dollar affect the Company's net sales and gross margins?",
+      "contexts": [
+        "Changes in exchange rates, and in particular a strengthening of the U.S. dollar, will negatively affect the Company's net sales and gross margins as expressed in U.S. dollars.",
+        "Fluctuations in exchange rates may also affect the fair values of certain of the Company's assets and liabilities."
+      ],
+      "ground_truth": "Negatively"
+    },
+    {
+      "question": "What was the estimated maximum one-day loss in fair value of Apple's foreign currency derivative positions as of September 30, 2023, with 95% confidence?",
+      "contexts": [
+        "The Company estimates, with 95% confidence, a maximum one-day loss in fair value of $669 million and $1.0 billion as of September 30, 2023 and September 24, 2022, respectively.",
+        "The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company's foreign currency derivative positions due to adverse movements in rates."
+      ],
+      "ground_truth": "$669 million"
+    },
+    {
+      "question": "What types of financial statements are included in the consolidated financial statements for the years ended September 30, 2023, September 24, 2022, and September 25, 2021?",
+      "contexts": [
+        "Consolidated Statements of Operations for the years ended September 30, 2023, September 24, 2022 and September 25, 2021",
+        "Consolidated Statements of Comprehensive Income for the years ended September 30, 2023, September 24, 2022 and September 25, 2021",
+        "Consolidated Balance Sheets as of September 30, 2023 and September 24, 2022"
+      ],
+      "ground_truth": "Statements of Operations, Statements of Comprehensive Income, and Balance Sheets"
+    },
+    {
+      "question": "Why have all financial statement schedules been omitted from the report?",
+      "contexts": [
+        "All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes."
+      ],
+      "ground_truth": "The required information is not applicable, not present in sufficient amounts, or is already included in the consolidated financial statements and accompanying notes."
+    },
+    {
+      "question": "What is the URL of the financial report?",
+      "contexts": [
+        "The financial report is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What was the total amount of Apple Inc.'s current assets as of September 30, 2023?",
+      "contexts": [
+        "As of September 30, 2023, Apple Inc.'s total current assets were $143,566 million.",
+        "The company's current assets included cash and cash equivalents, marketable securities, and accounts receivable, among others."
+      ],
+      "ground_truth": "$143,566 million"
+    },
+    {
+      "question": "What was the total amount of liabilities reported by Apple Inc. in the given financial period?",
+      "contexts": [
+        "Total liabilities were $290,437 and $302,083",
+        "The company's liabilities included current and non-current liabilities",
+        "The total liabilities and shareholders' equity was $352,583 and $352,755"
+      ],
+      "ground_truth": "$290,437 and $302,083"
+    },
+    {
+      "question": "What is the URL of the financial report?",
+      "contexts": [
+        "The financial report is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. filing for September 30, 2023?",
+      "contexts": [
+        "The filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the basis of presentation for Apple Inc.'s consolidated financial statements?",
+      "contexts": [
+        "The consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries.",
+        "The preparation of these consolidated financial statements and accompanying notes is in conformity with GAAP."
+      ],
+      "ground_truth": "GAAP"
+    },
+    {
+      "question": "How does the Company record revenue from customers?",
+      "contexts": [
+        "The Company records revenue net of taxes collected from customers that are remitted to governmental authorities."
+      ],
+      "ground_truth": "Net of taxes collected from customers"
+    },
+    {
+      "question": "How does the company determine the cost of securities sold?",
+      "contexts": [
+        "The cost of securities sold is determined using the specific identification method.",
+        "Inventories are measured using the first-in, first-out method.",
+        "Property, Plant and Equipment Depreciation on property, plant and equipment is recognized on a straight-line basis."
+      ],
+      "ground_truth": "The specific identification method"
+    },
+    {
+      "question": "When does the Company consider control to be transferred for its products?",
+      "contexts": [
+        "Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers.",
+        "For most of the Company's Products net sales, control transfers when products are shipped."
+      ],
+      "ground_truth": "when products are shipped"
+    },
+    {
+      "question": "How does the Company determine the stand-alone selling prices for performance obligations when observable prices are not available?",
+      "contexts": [
+        "When observable prices are not available, SSPs are established that reflect the Company's best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis.",
+        "The Company's process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts"
+      ],
+      "ground_truth": "The Company uses its best estimates based on multiple factors."
+    },
+    {
+      "question": "What are the performance obligations typically included in the sale of products like iPhone, Mac, and iPad?",
+      "contexts": [
+        "The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, Mac, iPad and certain other products.",
+        "The first performance obligation is the hardware and bundled software delivered at the time of sale.",
+        "The second and third performance obligations include the right to receive certain product-related bundled services"
+      ],
+      "ground_truth": "Up to three performance obligations, including hardware and bundled software, and product-related bundled services"
+    },
+    {
+      "question": "How does the Company recognize revenue for delivered hardware and bundled software?",
+      "contexts": [
+        "Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped.",
+        "The Company allocates revenue and any related discounts to these performance obligations based on their relative SSPs."
+      ],
+      "ground_truth": "When control has transferred to the customer, generally upon shipping."
+    },
+    {
+      "question": "How does the Company recognize revenue for third-party products it controls before transferring to customers?",
+      "contexts": [
+        "For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers.",
+        "The Company considers multiple factors when determining whether it obtains control of third-party products, including evaluating if it can"
+      ],
+      "ground_truth": "Based on the gross amount billed to customers"
+    },
+    {
+      "question": "How does Apple account for sales of third-party applications sold through the App Store?",
+      "contexts": [
+        "For third-party applications sold through the App Store, the Company does not obtain control of the product before transferring it to the customer.",
+        "Therefore, the Company accounts for all third-party application-related sales on a net basis by recognizing in Services net sales only the commission it retains."
+      ],
+      "ground_truth": "On a net basis, recognizing only the commission it retains."
+    },
+    {
+      "question": "What was the total net sales for the year 2023?",
+      "contexts": [
+        "Total net sales for 2023 were $383,285 million.",
+        "The company reported total net sales of $383,285 million in 2023, which includes $8.2 billion of revenue recognized from deferred revenue."
+      ],
+      "ground_truth": "$383,285 million"
+    },
+    {
+      "question": "What percentage of the total deferred revenue as of September 30, 2023, is expected to be realized in less than a year?",
+      "contexts": [
+        "As of September 30, 2023, the Company had total deferred revenue of $12.1 billion.",
+        "As of September 30, 2023, the Company expects 67% of total deferred revenue to be realized in less than a year, 25% within one-to-two years."
+      ],
+      "ground_truth": "67%"
+    },
+    {
+      "question": "What was the basic earnings per share for Apple Inc. in 2023?",
+      "contexts": [
+        "The computation of basic and diluted earnings per share for 2023, 2022 and 2021 is shown in the table.",
+        "For 2023, the numerator was $96,995 and the denominator was 15,744,231 weighted-average basic shares outstanding.",
+        "Basic earnings per share for 2023 was $6.16."
+      ],
+      "ground_truth": "$6.16"
+    },
+    {
+      "question": "What was the total fair value of the Company's cash, cash equivalents, and marketable securities as of September 30, 2023?",
+      "contexts": [
+        "The Company's cash, cash equivalents and marketable securities by significant investment category are shown in the tables.",
+        "The tables provide the fair value of these investments as of September 30, 2023 and September 24, 2022."
+      ],
+      "ground_truth": "The total fair value is not explicitly stated in the provided chunk, but it can be calculated by summing the fair values of the different investment categories."
+    },
+    {
+      "question": "What was the total fair value of Level 1 securities in 2022?",
+      "contexts": [
+        "The subtotal of Level 1 securities was $3,203.",
+        "Level 1 securities include money market funds and mutual funds.",
+        "The fair value of these securities was $3,156."
+      ],
+      "ground_truth": "$3,156"
+    },
+    {
+      "question": "What was the total value of non-U.S. government securities after adjustments?",
+      "contexts": [
+        "The total value of non-U.S. government securities was 16,948, with adjustments of 2 and -1,201, resulting in 15,749.",
+        "Certificates of deposit, commercial paper, and other securities are also listed, but the question focuses on non-U.S. government securities."
+      ],
+      "ground_truth": "15,749"
+    },
+    {
+      "question": "What was the total value of marketable securities restricted from general use as of September 30, 2023?",
+      "contexts": [
+        "The valuation techniques used to measure the fair values of the Company's Level 2 financial instruments, which generally have counterparts with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.",
+        "As of September 30, 2023 and September 24, 2022, total marketable securities included $13.8 billion and $12.7 billion, respectively, that were restricted from general use, related to the State Aid Decision and other agreements."
+      ],
+      "ground_truth": "$13.8 billion"
+    },
+    {
+      "question": "What is the total fair value of the Company's non-current marketable debt securities as of September 30, 2023?",
+      "contexts": [
+        "The Company's non-current marketable debt securities had a total fair value of $100,544 as of September 30, 2023.",
+        "The fair value of these securities is classified by contractual maturity."
+      ],
+      "ground_truth": "$100,544"
+    },
+    {
+      "question": "How does the Company classify cash flows related to derivative instruments in the Consolidated Statements of Cash Flows?",
+      "contexts": [
+        "The Company classifies cash flows related to derivative instruments in the same section of the Consolidated Statements of Cash Flows as the items being hedged, which are generally classified as operating activities.",
+        "To protect gross margins from fluctuations in foreign exchange rates, the Company may use forwards, options or other instruments, and may designate these instruments as cash flow hedges."
+      ],
+      "ground_truth": "as operating activities"
+    },
+    {
+      "question": "What is the maximum length of time the Company is hedging its exposure to variability in future cash flows for term debt-related foreign currency transactions as of September 30, 2023?",
+      "contexts": [
+        "The Company may use forwards, cross-currency swaps or other instruments to protect its foreign currency-denominated term debt from fluctuations in foreign exchange rates.",
+        "As of September 30, 2023, the maximum length of time over which the Company is hedging its exposure to the variability in future cash flows for term debt-related foreign currency transactions is 19 years."
+      ],
+      "ground_truth": "19 years"
+    },
+    {
+      "question": "What types of derivative instruments does the Company use to protect against interest rate risk?",
+      "contexts": [
+        "The Company may use interest rate swaps, options or other instruments to protect its term debt or marketable securities from fluctuations in interest rates.",
+        "The Company designates these instruments as either cash flow or fair value hedges."
+      ],
+      "ground_truth": "interest rate swaps, options or other instruments"
+    },
+    {
+      "question": "How are the Company's derivative assets measured and where are they included in the Consolidated Balance Sheet?",
+      "contexts": [
+        "Derivative assets are measured using Level 2 fair value inputs and are included in other current assets and other non-current assets in the Consolidated Balance Sheet.",
+        "The gross fair values of the Company's derivative assets and liabilities as of September 24, 2022 were as follows"
+      ],
+      "ground_truth": "Using Level 2 fair value inputs, in other current assets and other non-current assets"
+    },
+    {
+      "question": "What was the net derivative asset as of September 24, 2022, after considering the effects of collateral and rights of set-off?",
+      "contexts": [
+        "The Company uses master netting arrangements to settle transactions with a single net amount payable by one party to the other.",
+        "As of September 24, 2022, the potential effects of these rights of set-off associated with the Company's derivative contracts would be a reduction to both derivative assets and derivative liabilities of $7.8 billion.",
+        "This reduction results in a net derivative asset of $412 million."
+      ],
+      "ground_truth": "$412 million"
+    },
+    {
+      "question": "What percentage of total trade receivables did the Company's third-party cellular network carriers account for as of September 30, 2023?",
+      "contexts": [
+        "The Company's third-party cellular network carriers accounted for 41% and 44% of total trade receivables as of September 30, 2023 and September 24, 2022, respectively.",
+        "As of September 24, 2022, the Company had one customer that represented 10% or more of total trade receivables, which accounted for 10%."
+      ],
+      "ground_truth": "41%"
+    },
+    {
+      "question": "What percentage of total vendor non-trade receivables did the two major vendors represent as of September 30, 2023?",
+      "contexts": [
+        "As of September 30, 2023, the Company had two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 48% and 23%.",
+        "The Company purchases components directly from suppliers and recognizes any gain on these sales as a reduction of products cost of sales."
+      ],
+      "ground_truth": "48% and 23%"
+    },
+    {
+      "question": "What was the total gross property, plant and equipment for the Company as of September 30, 2023?",
+      "contexts": [
+        "The Company's gross property, plant and equipment by major asset class and accumulated depreciation as of September 30, 2023 and September 24, 2022 (in millions):",
+        "Land and buildings, Machinery, equipment and internal-use software, Leasehold improvements, Gross property, plant and equipment for 2023 were $23,446, $78,314, $12,839, $114,599 respectively."
+      ],
+      "ground_truth": "$114,599"
+    },
+    {
+      "question": "What was the total of other non-current assets as of September 30, 2023?",
+      "contexts": [
+        "The total other non-current assets for 2023 was $64,758 million.",
+        "Financial statement details are provided as of September 30, 2023 and September 24, 2022."
+      ],
+      "ground_truth": "$64,758 million"
+    },
+    {
+      "question": "What was the total other income/(expense), net for Apple Inc. in 2023?",
+      "contexts": [
+        "The following table shows the detail of other income/(expense), net for 2023, 2022 and 2021",
+        "Total other income/(expense), net $ (565) $ (334) $ 258"
+      ],
+      "ground_truth": "$ (565)"
+    },
+    {
+      "question": "What was the total provision for income taxes in 2023?",
+      "contexts": [
+        "The provision for income taxes for 2023 was $16,741 million.",
+        "The total provision is comprised of federal, state, and foreign income taxes."
+      ],
+      "ground_truth": "$16,741 million"
+    },
+    {
+      "question": "What was the effective tax rate for Apple Inc. in 2023?",
+      "contexts": [
+        "The effective tax rate was 14.7% for 2023",
+        "Apple Inc.'s provision for income taxes for 2023 was 16,741 dollars in millions",
+        "The computed expected tax for 2023 was 23,885 dollars in millions"
+      ],
+      "ground_truth": "14.7%"
+    },
+    {
+      "question": "What was the total amount of deferred tax assets as of September 30, 2023, before considering the valuation allowance?",
+      "contexts": [
+        "As of September 30, 2023, the total deferred tax assets were $32,743 million.",
+        "The Company's deferred tax assets and liabilities are reported in millions."
+      ],
+      "ground_truth": "$32,743 million"
+    },
+    {
+      "question": "What was the total amount of gross unrecognized tax benefits as of September 30, 2023?",
+      "contexts": [
+        "As of September 30, 2023, the total amount of gross unrecognized tax benefits was $19.5 billion, of which $9.5 billion, if recognized, would impact the Company's effective tax rate.",
+        "A valuation allowance has been recorded for the credit carryforwards and a portion of other temporary differences."
+      ],
+      "ground_truth": "$19.5 billion"
+    },
+    {
+      "question": "What was the beginning balance of gross unrecognized tax benefits in 2022?",
+      "contexts": [
+        "The beginning balance of gross unrecognized tax benefits for 2022 was $15,477 million.",
+        "In 2022, the total amount of gross unrecognized tax benefits was $16.8 billion."
+      ],
+      "ground_truth": "$15,477 million"
+    },
+    {
+      "question": "What is the maximum amount by which Apple Inc.'s gross unrecognized tax benefits could decrease in the next 12 months?",
+      "contexts": [
+        "Although the timing of resolution or closure of examinations is not certain, the Company believes it is reasonably possible that its gross unrecognized tax benefits could decrease in the next 12 months by as much as $4.5 billion.",
+        "The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions."
+      ],
+      "ground_truth": "$4.5 billion"
+    },
+    {
+      "question": "What is the name of the company that filed the 2023 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2023 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What was the total undiscounted lease liability as of September 30, 2023?",
+      "contexts": [
+        "Lease liability maturities as of September 30, 2023, are as follows: Total undiscounted liabilities 15,266",
+        "The total lease liabilities were $ 12,842 as of September 30, 2023, after subtracting imputed interest from total undiscounted liabilities"
+      ],
+      "ground_truth": "$15,266"
+    },
+    {
+      "question": "What is the range of lease terms for the Company's future lease payments that had not yet commenced as of September 30, 2023?",
+      "contexts": [
+        "The Company had $544 million of future payments under additional leases, primarily for corporate facilities and retail space, that had not yet commenced.",
+        "These leases will commence between 2024 and 2026, with lease terms ranging from 1 year to 21 years."
+      ],
+      "ground_truth": "1 year to 21 years"
+    },
+    {
+      "question": "What was the weighted-average interest rate of the Company's commercial paper as of September 30, 2023?",
+      "contexts": [
+        "The weighted-average interest rate of the Company's commercial paper was 5.28% and 2.31% as of September 30, 2023 and September 24, 2022, respectively.",
+        "$10.0 billion of commercial paper outstanding, respectively, with maturities generally less than nine months."
+      ],
+      "ground_truth": "5.28%"
+    },
+    {
+      "question": "What was the total term debt principal of the Company as of September 30, 2023?",
+      "contexts": [
+        "The Company has outstanding Notes, which are senior unsecured obligations with interest payable in arrears.",
+        "The following table provides a summary of the Company's term debt as of September 30, 2023 and September 24, 2022:",
+        "Total term debt principal was $106,572 as of September 30, 2023."
+      ],
+      "ground_truth": "$106,572"
+    },
+    {
+      "question": "What financial instruments does the Company use to manage interest rate and foreign exchange rate risks?",
+      "contexts": [
+        "The Company uses interest rate swaps to effectively convert the fixed interest rates to floating interest rates on a portion of its U.S. dollar-denominated fixed-rate notes.",
+        "The Company uses cross-currency swaps to effectively convert its foreign currency-denominated notes to U.S. dollar-denominated notes."
+      ],
+      "ground_truth": "Interest rate swaps and cross-currency swaps"
+    },
+    {
+      "question": "What was the total term debt principal as of September 30, 2023?",
+      "contexts": [
+        "The future principal payments for the Company's Notes as of September 30, 2023, are as follows (in millions): ... Total term debt principal $ 106,572",
+        "As of September 30, 2023, the Company reported its term debt."
+      ],
+      "ground_truth": "$106,572"
+    },
+    {
+      "question": "How much did the Company spend on repurchasing its common stock in 2023, excluding excise tax?",
+      "contexts": [
+        "The Company repurchased 471 million shares of its common stock for $76.6 billion, excluding excise tax due under the Inflation Reduction Act of 2022.",
+        "The Company's share repurchase programs do not obligate the Company to acquire a minimum amount of shares."
+      ],
+      "ground_truth": "$76.6 billion"
+    },
+    {
+      "question": "What was the total number of common stock outstanding at the beginning of 2023?",
+      "contexts": [
+        "Common stock outstanding, beginning balances for 2023 was 15,943,425 thousand shares.",
+        "The table shows the changes in shares of common stock for 2023, 2022 and 2021."
+      ],
+      "ground_truth": "15,943,425 thousand"
+    },
+    {
+      "question": "How do RSUs granted under the 2022 Plan vest and settle?",
+      "contexts": [
+        "RSUs granted under the 2022 Plan generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company's common stock on a one-for-one basis.",
+        "All RSUs granted under the 2022 Plan have dividend equivalent rights, which entitle holders of RSUs to the same dividend value per share as holders of common stock."
+      ],
+      "ground_truth": "Over four years, based on continued employment, and settle in shares of common stock on a one-for-one basis."
+    },
+    {
+      "question": "What was the weighted-average grant date fair value per RSU for awards granted in 2022?",
+      "contexts": [
+        "RSUs granted in 2022 had a weighted-average grant date fair value of $116.33 per RSU.",
+        "The Company granted 89,363 RSUs in 2022.",
+        "The weighted-average grant date fair value per RSU for 2022 grants was $150.70 in 2021 and $116.33 in 2022."
+      ],
+      "ground_truth": "$150.70"
+    },
+    {
+      "question": "What was the balance of RSUs as of September 30, 2023?",
+      "contexts": [
+        "The balance of RSUs as of September 30, 2023, was 180,247 with a value of $135.91.",
+        "RSUs granted, vested, and canceled during the period resulted in a final balance of 180,247 as of September 30, 2023."
+      ],
+      "ground_truth": "180,247"
+    },
+    {
+      "question": "What was the total amount paid to taxing authorities for employees' tax obligations in 2021?",
+      "contexts": [
+        "Total payments to taxing authorities for employees' tax obligations were $5.6 billion, $6.4 billion and $6.8 billion in 2023, 2022 and 2021, respectively.",
+        "The total shares withheld were approximately 37 million, 41 million and 53 million for 2023, 2022 and 2021, respectively."
+      ],
+      "ground_truth": "$6.8 billion"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2023.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "2023"
+    },
+    {
+      "question": "What was the share-based compensation expense for 2023?",
+      "contexts": [
+        "The share-based compensation expense for 2023 was $10,833 million.",
+        "Share-based compensation expense and related income tax benefits are included in the Consolidated Statements of Operations.",
+        "The Company had share-based compensation expenses of $10,833 million, $9,038 million, and $7,906 million for 2023, 2022, and 2021, respectively."
+      ],
+      "ground_truth": "$10,833 million"
+    },
+    {
+      "question": "What is the total amount of future payments under noncancelable unconditional purchase obligations as of September 30, 2023?",
+      "contexts": [
+        "The Company's unconditional purchase obligations primarily consist of supplier arrangements, licensed intellectual property and content, and distribution rights.",
+        "Future payments under noncancelable unconditional purchase obligations with a remaining term in excess of one year as of September 30, 2023, are as follows (in millions): $ 20,736"
+      ],
+      "ground_truth": "$20,736"
+    },
+    {
+      "question": "What factors affect the availability and pricing of components used by the Company?",
+      "contexts": [
+        "Concentrations in the Available Sources of Supply of Materials and Product Although most components essential to the Company's business are generally available from multiple sources, certain components are currently obtained from single or limited sources.",
+        "The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories.",
+        "many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations."
+      ],
+      "ground_truth": "Industry-wide shortages and significant commodity pricing fluctuations, as well as competition with other market participants and reliance on single or limited sources for certain components."
+    },
+    {
+      "question": "Where are the outsourcing partners that manufacture substantially all of the Company's hardware products primarily located?",
+      "contexts": [
+        "Substantially all of the Company's hardware products are manufactured by outsourcing partners that are located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam.",
+        "The Company often utilizes custom components available from only one source for its new products."
+      ],
+      "ground_truth": "China mainland, India, Japan, South Korea, Taiwan and Vietnam"
+    },
+    {
+      "question": "How does the Company manage its business and what are its reportable segments?",
+      "contexts": [
+        "The Company manages its business primarily on a geographic basis.",
+        "The Company's reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific."
+      ],
+      "ground_truth": "On a geographic basis, with segments including the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific."
+    },
+    {
+      "question": "What was the net sales amount for the Americas segment in 2023?",
+      "contexts": [
+        "The Company evaluates the performance of its reportable segments based on net sales and operating income.",
+        "Net sales for geographic segments are generally based on the location of customers and sales through the Company's retail stores located in those geographic locations.",
+        "The following table shows information by reportable segment for 2023, 2022 and 2021 (in millions): | 2023 | 2022 | 2021 | |---|---|---| | Americas:<br>Net sales | $162,560 | $169,658"
+      ],
+      "ground_truth": "$162,560"
+    },
+    {
+      "question": "What was the operating income for the Europe region in the most recent year?",
+      "contexts": [
+        "The Europe region had an operating income of $36,098.",
+        "Operating income for Europe was $35,233 in the previous year and $32,505 in the year before that.",
+        "Net sales for Europe were $94,294, with operating income of $36,098."
+      ],
+      "ground_truth": "$36,098"
+    },
+    {
+      "question": "What was the total operating income of the Company in 2023?",
+      "contexts": [
+        "A reconciliation of the Company's segment operating income to the Consolidated Statements of Operations for 2023, 2022 and 2021 is as follows",
+        "Total operating income was $114,301 in 2023"
+      ],
+      "ground_truth": "$114,301"
+    },
+    {
+      "question": "What were the total net sales for the Company in 2023?",
+      "contexts": [
+        "The U.S. and China were the only countries that accounted for more than 10% of the Company's net sales in 2023, 2022 and 2021.",
+        "Total net sales $383,285 $394,328 $365,817"
+      ],
+      "ground_truth": "$383,285"
+    },
+    {
+      "question": "What is the opinion of the independent registered public accounting firm on the financial statements of Apple Inc.?",
+      "contexts": [
+        "We have audited the accompanying consolidated balance sheets of Apple Inc. as of September 30, 2023 and September 24, 2022, the related consolidated statements of operations, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended September 30, 2023, and the related notes",
+        "In our opinion, the financial statements present fairly, in all material respects, the financial position of Apple Inc. at September 30, 2023 and September 24, 2022, and the results of its operations and its cash flows for each of the"
+      ],
+      "ground_truth": "The financial statements present fairly, in all material respects, the financial position of Apple Inc."
+    },
+    {
+      "question": "What framework was used to audit Apple Inc.'s internal control over financial reporting as of September 30, 2023?",
+      "contexts": [
+        "We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (the 'PCAOB'), Apple Inc.'s internal control over financial reporting as of September 30, 2023, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)",
+        "These financial statements are the responsibility of Apple Inc.'s management."
+      ],
+      "ground_truth": "Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)"
+    },
+    {
+      "question": "What standards did the auditors follow when conducting the audit of Apple Inc.'s financial statements?",
+      "contexts": [
+        "We conducted our audits in accordance with the standards of the PCAOB.",
+        "Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud."
+      ],
+      "ground_truth": "PCAOB standards"
+    },
+    {
+      "question": "What is the purpose of communicating a Critical Audit Matter in the financial statements audit?",
+      "contexts": [
+        "Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.",
+        "The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments."
+      ],
+      "ground_truth": "To communicate matters that are material to the financial statements and involve challenging, subjective, or complex judgments."
+    },
+    {
+      "question": "In which jurisdictions does Apple Inc. file income tax returns?",
+      "contexts": [
+        "Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions.",
+        "As discussed in Note 7 to the financial statements, Apple Inc. has tax obligations in multiple jurisdictions."
+      ],
+      "ground_truth": "U.S. federal, state, and foreign jurisdictions"
+    },
+    {
+      "question": "How much of the $19.5 billion in benefits would impact Apple Inc.'s effective tax rate if recognized?",
+      "contexts": [
+        "benefits was $19.5 billion, of which $9.5 billion, if recognized, would impact Apple Inc.'s effective tax rate.",
+        "Auditing management's evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings."
+      ],
+      "ground_truth": "$9.5 billion"
+    },
+    {
+      "question": "What procedures did the auditors use to evaluate Apple Inc.'s assessment of uncertain tax positions?",
+      "contexts": [
+        "We tested controls relating to the evaluation of uncertain tax positions, including controls over management's assessment as to whether tax positions are more likely than not to be sustained.",
+        "Our audit procedures included reading and evaluating management's assumptions and analysis, and Apple Inc.'s communications with taxing authorities."
+      ],
+      "ground_truth": "Reading and evaluating management's assumptions and analysis, and reviewing communications with taxing authorities."
+    },
+    {
+      "question": "Since what year has Ernst & Young LLP served as Apple Inc.'s auditor?",
+      "contexts": [
+        "We have served as Apple Inc.'s auditor since 2009.",
+        "Ernst & Young LLP has been the auditor for Apple Inc. for multiple years."
+      ],
+      "ground_truth": "2009"
+    },
+    {
+      "question": "Did Apple Inc. maintain effective internal control over financial reporting as of September 30, 2023?",
+      "contexts": [
+        "We have audited Apple Inc.'s internal control over financial reporting as of September 30, 2023, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the “COSO criteria”)",
+        "In our opinion, Apple Inc. maintained, in all material respects, effective internal control over financial reporting as of September 30, 2023, based on the COSO criteria"
+      ],
+      "ground_truth": "Yes"
+    },
+    {
+      "question": "What is the date of the auditor's report for Apple Inc.?",
+      "contexts": [
+        "the related consolidated statements of operations, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended September 30, 2023, and the related notes and our report dated November 2, 2023",
+        "expressed an unqualified opinion thereon"
+      ],
+      "ground_truth": "November 2, 2023"
+    },
+    {
+      "question": "What standards did the auditors follow when conducting the audit of Apple Inc.?",
+      "contexts": [
+        "We conducted our audit in accordance with the standards of the PCAOB.",
+        "Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects."
+      ],
+      "ground_truth": "PCAOB standards"
+    },
+    {
+      "question": "What is the primary purpose of a company's internal control over financial reporting?",
+      "contexts": [
+        "A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.",
+        "A company's internal control over financial reporting includes those policies and procedures that pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;"
+      ],
+      "ground_truth": "To provide reasonable assurance regarding the reliability of financial reporting"
+    },
+    {
+      "question": "What is one of the goals of the audit process in relation to a company's assets?",
+      "contexts": [
+        "The audit aims to provide assurance that transactions are recorded to permit preparation of financial statements in accordance with U.S. generally accepted accounting principles.",
+        "The process also ensures receipts and expenditures are made only with management and directors' authorizations.",
+        "Another goal is to prevent or detect unauthorized acquisition, use, or disposition of the company's assets."
+      ],
+      "ground_truth": "Prevention or timely detection of unauthorized asset acquisition, use, or disposition"
+    },
+    {
+      "question": "What is a limitation of internal control over financial reporting?",
+      "contexts": [
+        "Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.",
+        "projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate."
+      ],
+      "ground_truth": "It may not prevent or detect misstatements."
+    },
+    {
+      "question": "What is the name of the company that filed the 2023 Form 10-K?",
+      "contexts": [
+        "Apple Inc. filed the 2023 Form 10-K."
+      ],
+      "ground_truth": "Apple Inc."
+    },
+    {
+      "question": "What key information is stated in chunk 218 on page 66?",
+      "contexts": [
+        "Item 9B. Other Information Insider Trading Arrangements On August 30, 2023, Deirdre O'Brien, the Company's Senior Vice President, Retail, and Jeff Williams, the Company's Chief Operating Officer, each entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plans provide for the sale of all shares vested during the duration of",
+        "the plans pursuant to certain equity awards granted to Ms. O'Brien and Mr. Williams, respectively, excluding any shares withheld by the Company to satisfy income tax withholding and remittance obligations. Ms. O'Brien's plan will expire on October 15, 2024, and Mr. Williams' plan will expire on December 15, 2024, subject to early termination for certain specified events set forth in the plans. It"
+      ],
+      "ground_truth": "The chunk states: Item 9B. Other Information Insider Trading Arrangements On August 30, 2023, Deirdre O'Brien, the Company's Senior Vice P"
+    },
+    {
+      "question": "Where can the information required by Item 10 be found?",
+      "contexts": [
+        "The information required by this Item will be included in the Company's definitive proxy statement to be filed with the SEC within 120 days after September 30, 2023",
+        "This information is incorporated herein by reference from the 2024 Proxy Statement"
+      ],
+      "ground_truth": "2024 Proxy Statement"
+    },
+    {
+      "question": "Where can the information about Principal Accountant Fees and Services be found?",
+      "contexts": [
+        "The information required by Item 14 will be included in the 2024 Proxy Statement.",
+        "Information for certain items is incorporated herein by reference from the 2024 Proxy Statement."
+      ],
+      "ground_truth": "2024 Proxy Statement"
+    },
+    {
+      "question": "What is the URL of the referenced SEC filing?",
+      "contexts": [
+        "The company's filing can be found at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the date of the Apple Inc. Form 10-K document mentioned?",
+      "contexts": [
+        "The document referenced is from 2023.",
+        "Apple Inc.'s Form 10-K is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "2023"
+    },
+    {
+      "question": "What types of notes were included in the Officer's Certificate of the Registrant dated February 23, 2016?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1,300% Notes due 2018, 1,700% Notes due 2019, 2,250% Notes due 2021, 2,850% Notes due 2023, 3,250% Notes due 2026, 4,500% Notes due 2036 and 4,650% Notes due 2046.",
+        "The certificate was filed as Exhibit 4.10 with the 8-K form on February 23, 2016."
+      ],
+      "ground_truth": "Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1,300% Notes due 2018, 1,700% Notes due 2019, 2,250% Notes due 2021, 2,850% Notes due 2023, 3,250% Notes due 2026, 4,500% Notes due 2036 and 4,650% Notes due 2046"
+    },
+    {
+      "question": "What are the interest rates and maturity years of some of the notes mentioned in the Officer's Certificate of the Registrant?",
+      "contexts": [
+        "Notes due 2021, 2,450% Notes due 2026 and 3,850% Notes due 2046.",
+        "Officer's Certificate of the Registrant includes forms of global notes representing various notes with different interest rates and maturity years, such as 1,550% Notes due 2019 and 4,250% Notes due 2047."
+      ],
+      "ground_truth": "2,450%, 2021; 3,850%, 2046; among others"
+    },
+    {
+      "question": "What types of notes were represented in the Officer's Certificate of the Registrant dated September 12, 2017?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1,500% Notes due 2019, 2,100% Notes due 2022, 2,900% Notes due 2027 and 3,750% Notes due 2047.",
+        "The certificate was filed as 8-K 4.1 on 9/12/17."
+      ],
+      "ground_truth": "1,500% Notes due 2019, 2,100% Notes due 2022, 2,900% Notes due 2027, and 3,750% Notes due 2047"
+    },
+    {
+      "question": "What is the interest rate of the notes due in 2025 mentioned in the Officer's Certificate dated November 15, 2019?",
+      "contexts": [
+        "Officer's Certificate of the Registrant, dated as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031.",
+        "The 2,750% Notes due 2025 were also mentioned among other notes."
+      ],
+      "ground_truth": "0.000%"
+    },
+    {
+      "question": "What are the different types of notes due and their respective interest rates mentioned in the Officer's Certificates?",
+      "contexts": [
+        "The Registrant issued notes with various due dates and interest rates, including 0.750% Notes due 2023, 1.125% Notes due 2025, and others.",
+        "Officer's Certificates dated August 20, 2020, and February 8, 2021, included forms of global notes with different interest rates and due dates.",
+        "The notes have due dates ranging from 2023 to 2061 with varying interest rates."
+      ],
+      "ground_truth": "0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030, 2.650% Notes due 2050, and others with different due dates and interest rates."
+    },
+    {
+      "question": "What are the interest rates and maturity years of the notes mentioned in the indenture dated October 28, 2021?",
+      "contexts": [
+        "The notes represent the 1,400% Notes due 2028, 1,700% Notes due 2031, 2,700% Notes due 2051 and 2,850% Notes due 2061.",
+        "Indenture, dated as of October 28, 2021, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee."
+      ],
+      "ground_truth": "1,400% due 2028, 1,700% due 2031, 2,700% due 2051, 2,850% due 2061"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    },
+    {
+      "question": "What type of exhibit is described as Inline XBRL for the cover page of this Annual Report on Form 10-K?",
+      "contexts": [
+        "Exhibit Number 104** Exhibit Description Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.",
+        "Apple Inc. | 2023 Form 10-K | 57"
+      ],
+      "ground_truth": "Inline XBRL"
+    },
+    {
+      "question": "Who signed the report on behalf of Apple Inc.?",
+      "contexts": [
+        "The report was signed on behalf of Apple Inc. by the undersigned, Luca Maestri, Senior Vice President, Chief Financial Officer.",
+        "Luca Maestri was duly authorized to sign the report."
+      ],
+      "ground_truth": "Luca Maestri"
+    },
+    {
+      "question": "Who are the persons that signed the report on behalf of the Registrant?",
+      "contexts": [
+        "The report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated",
+        "The signatories include Timothy D. Cook, Luca Maestri, and Chris Kondo"
+      ],
+      "ground_truth": "Timothy D. Cook, Luca Maestri, and Chris Kondo"
+    },
+    {
+      "question": "Who are the directors and officers of the company as listed on page 73?",
+      "contexts": [
+        "The company's officers and directors include James A. Bell, Al Gore, Alex Gorsky, Andrea Jung, Arthur D. Levinson, Monica Lozano, Ronald D. Sugar, and Susan L. Wagner.",
+        "These individuals hold various positions such as Chief Executive Officer, Senior Vice President, Chief Financial Officer, Senior Director of Corporate Accounting, and Directors."
+      ],
+      "ground_truth": "James A. Bell, Al Gore, Alex Gorsky, Andrea Jung, Arthur D. Levinson, Monica Lozano, Ronald D. Sugar, and Susan L. Wagner"
+    },
+    {
+      "question": "What is the URL of the Apple Inc. financial report for the period ending September 30, 2023?",
+      "contexts": [
+        "The financial report for Apple Inc. is available at https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+      ],
+      "ground_truth": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+    }
+  ]
+}

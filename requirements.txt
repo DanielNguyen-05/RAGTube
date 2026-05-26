@@ -6,6 +6,8 @@ langchain==0.1.13
 langchain-core==0.1.52 
 langchain-huggingface==0.0.1
 langchain-community==0.0.29
+langchain-openai==0.1.13
+langgraph
 
 # Vector Database & Embeddings
 faiss-cpu==1.8.0
@@ -18,3 +20,8 @@ requests==2.31.0
 # Utilities
 python-dotenv==1.0.1
 pyyaml==6.0.1
+simpleeval==0.9.13
+
+# Testing & Development
+pytest==7.4.3
+pytest-cov==4.1.0
